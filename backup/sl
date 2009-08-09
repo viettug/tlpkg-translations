@@ -1,0 +1,441 @@
+msgid:  Reset changes
+msgstr: Reset changes
+
+msgid:  Architectures
+msgstr: Architectures
+
+msgid:  Link destination for info docs
+msgstr: Link destination for info docs
+
+msgid:  Some package will only be updated after you have terminated the GUI!\nPlease do so and after a short time restart the GUI.
+msgstr: Some package will only be updated after you have terminated the GUI!\nPlease do so and after a short time restart the GUI.
+
+msgid:  Install font/macro doc tree
+msgstr: Namesti dokumentacijo za pisave in makre
+
+msgid:  Select the collections to be installed
+msgstr: Zbirke, ki naj se namestijo
+
+msgid:  Paper settings
+msgstr: Paper settings
+
+msgid:  info to
+msgstr: info strani v
+
+msgid:  Information on the selected item
+msgstr: Information on the selected item
+
+msgid:  TEXDIR (the main TeX directory)
+msgstr: TEXDIR (vrhnji TeX direktorij)
+
+msgid:  collections out of
+msgstr: zbirk od
+
+msgid:  Load
+msgstr: Load
+
+msgid:  Default installation source
+msgstr: Default installation source
+
+msgid:  Updates for the tlmgr are present.\nInstallation and upgrades won't work without being forced.\nPlease go to the update screen and press the "update all" button.\nThe program will terminate after the update.\nThen you can restart the program for further updates.
+msgstr: Updates for the tlmgr are present.\nInstallation and upgrades won't work without being forced.\nPlease go to the update screen and press the "update all" button.\nThe program will terminate after the update.\nThen you can restart the program for further updates.
+
+msgid:  Installation
+msgstr: Namesti TeX Live
+
+msgid:  Press this button to load the database from the specified location.
+msgstr: Press this button to load the database from the specified location.
+
+msgid:  Toggle
+msgstr: Vključi/Izključi
+
+msgid:  This may take some time!\nPlease wait, the output will appear here when ready.\n
+msgstr: This may take some time!\nPlease wait, the output will appear here when ready.\n
+
+msgid:  Change variable value
+msgstr: Nova vrednost spremenljivke
+
+msgid:  Default backup directory
+msgstr: Default backup directory
+
+msgid:  TeX Live 2009 Installation
+msgstr: Namestitev TeX Live 2009
+
+msgid:  All
+msgstr: All
+
+msgid:  Please click on an item on the left for details
+msgstr: Please click on an item on the left for details
+
+msgid:  Default net location
+msgstr: Default net location
+
+msgid:  Further Customization
+msgstr: Napredne nastavitve
+
+msgid:  Select architectures to be added (removal not possible)
+msgstr: Select architectures to be added (removal not possible)
+
+msgid:  Ok
+msgstr: V redu
+
+msgid:  None
+msgstr: None
+
+msgid:  Remove TeX Live 2009
+msgstr: Remove TeX Live 2009
+
+msgid:  Select language-specific documentation
+msgstr: Prevodi dokumentacije
+
+msgid:  Loading local TeX Live Database\nThis may take some time, please wait!
+msgstr: Loading local TeX Live Database\nThis may take some time, please wait!
+
+msgid:  Completed
+msgstr: Completed
+
+msgid:  Update all
+msgstr: Update all
+
+msgid:  Change Location
+msgstr: Change Location
+
+msgid:  Select language support
+msgstr: Jezikovni paketi
+
+msgid:  Default paper for all
+msgstr: Default paper for all
+
+msgid:  Create formats on installation
+msgstr: Create formats on installation
+
+msgid:  Update
+msgstr: Update
+
+msgid:  For collections: install or remove will not install/remove the dependencies
+msgstr: For collections: install or remove will not install/remove the dependencies
+
+msgid:  Remove
+msgstr: Remove
+
+msgid:  Next
+msgstr: Next
+
+msgid:  TEXMFSYSCONFIG (directory for local config)
+msgstr: TEXMFSYSCONFIG (lokalna konfiguracija)
+
+msgid:  Select a scheme
+msgstr: Izberite shemo za namestitev
+
+msgid:  No
+msgstr: Ne
+
+msgid:  (please change TEXDIR first!)
+msgstr: (Spremenite TEXDIR!)
+
+msgid:  ...please change me...
+msgstr: ...please change me...
+
+msgid:  Please wait a bit after the program has terminated so that the update can be completed.
+msgstr: Please wait a bit after the program has terminated so that the update can be completed.
+
+msgid:  Turn on debug mode.
+msgstr: Turn on debug mode.
+
+msgid:  Debug
+msgstr: Debug
+
+msgid:  Deselect All
+msgstr: Briši izbor
+
+msgid:  Select paper format for
+msgstr: Select paper format for
+
+msgid:  The database of the installation source has not been loaded.\n\nPlease use the "Load" (and possibly "Change") button to do so.
+msgstr: The database of the installation source has not been loaded.\n\nPlease use the "Load" (and possibly "Change") button to do so.
+
+msgid:  Installation for all users
+msgstr: Installation for all users
+
+msgid:  Change source from where packages are fetched at installation and update time.
+msgstr: Change source from where packages are fetched at installation and update time.
+
+msgid:  Starting
+msgstr: Starting
+
+msgid:  Removals of binary systems currently not supported!
+msgstr: Removals of binary systems currently not supported!
+
+msgid:  See TEXDIR/index.html for links to documentation.\nThe TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html.
+msgstr: Glej TEXDIR/index.html za povezave do dokumentacije. Na domači strani\n(http://tug.org/texlive/) lahko najdete posodobitve in popravke.\nTeX Live je skupni projekt društev uporabnikov TeX-a širom sveta;\npodprete ga lahko s pristopom k enemu izmed njih. \nSeznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups.html.
+
+msgid:  Status output
+msgstr: Statusna vrstica
+
+msgid:  Install font/macro source tree
+msgstr: Namesti izvorno kodo za pisave in makre
+
+msgid:  Apply changes
+msgstr: Apply changes
+
+msgid:  (no description available)
+msgstr: (no description available)
+
+msgid:  Welcome to the installation of TeX Live 2009\nhttp://tug.org/texlive\n\nThis wizard will guide you through the installation.\n\nFor an advanced, customizable installation, please consult\nthe web pages or installation guide.
+msgstr: Welcome to the installation of TeX Live 2009\nhttp://tug.org/texlive\n\nThis wizard will guide you through the installation.\n\nFor an advanced, customizable installation, please consult\nthe web pages or installation guide.
+
+msgid:  Install macro/font sources
+msgstr: Install macro/font sources
+
+msgid:  binaries to
+msgstr: binarne datoteke v
+
+msgid:  Install for all users
+msgstr: Install for all users
+
+msgid:  TEXMFSYSVAR (directory for autogenerated data)
+msgstr: TEXMFSYSVAR (samodejno generirane datoteke)
+
+msgid:  Finish
+msgstr: Konec
+
+msgid:  Destination folder:
+msgstr: Destination folder:
+
+msgid:  (no language collection selected!)
+msgstr: (Nobena jezikovna zbirka ni izbrana!)
+
+msgid:  Yes
+msgstr: Da
+
+msgid:  Create shortcuts in menu and on desktop
+msgstr: Integracija v sistem
+
+msgid:  Binary system(s)
+msgstr: Izbrane platforme
+
+msgid:  Use letter size instead of A4 by default
+msgstr: Privzeto uporabi format letter namesto A4
+
+msgid:  without depends
+msgstr: without depends
+
+msgid:  Change file associations
+msgstr: Change file associations
+
+msgid:  Update symbolic links
+msgstr: Update symbolic links
+
+msgid:  Use Ctrl or Shift or drag to select more
+msgstr: Use Ctrl or Shift or drag to select more
+
+msgid:  The destination folder will contain the installation.\nIt is strongly recommended to keep the year as the last component.
+msgstr: The destination folder will contain the installation.\nIt is strongly recommended to keep the year as the last component.
+
+msgid:  Change
+msgstr: Spremeni
+
+msgid:  out of
+msgstr: od
+
+msgid:  Select packages
+msgstr: Select packages
+
+msgid:  manpages to
+msgstr: man strani v
+
+msgid:  Add TEXDIR/texmf/doc/man to MANPATH.\nAdd TEXDIR/texmf/doc/info to INFOPATH.\nMost importantly, add TEXDIR/bin/PLATFORM\nto your PATH for current and future sessions.
+msgstr: Dodajte TEXDIR/texmf/doc/man v MANPATH,\n TEXDIR/texmf/doc/info v INFOPATH,\nše zlasti pa ne pozabite dodati TEXDIR/bin/PLATFORM v PATH.
+
+msgid:  create symlinks in standard directories
+msgstr: ustvari simbolne povezave v standardnih imenikih
+
+msgid:  Selected scheme
+msgstr: Izbrana shema
+
+msgid:  Remove symbolic links
+msgstr: Remove symbolic links
+
+msgid:  Everything up-to-date!
+msgstr: Everything up-to-date!
+
+msgid:  Advanced customization
+msgstr: Advanced customization
+
+msgid:  TEXMFLOCAL (directory for site-wide local files)
+msgstr: TEXMFLOCAL (lokalne datoteke)
+
+msgid:  This screen allows you to configure some options
+msgstr: This screen allows you to configure some options
+
+msgid:  TEXMFHOME (directory for user-specific files)
+msgstr: TEXMFHOME (uporabnikove datoteke)
+
+msgid:  Auto backup setting
+msgstr: Auto backup setting
+
+msgid:  Welcome to TeX Live!
+msgstr: Dobrodošli v TeX Live-u!
+
+msgid:  No updates found.\n\nYour installation is set up to look on the disk for updates.\n\nIf you want to install from the Internet for this one time only, click on the "Change" button above and select "Default Net Location" (or any other network location you know to be working).\n\nIf you want to change it permanently, go to the "Configuration" Tab and change the default installation source.
+msgstr: No updates found.\n\nYour installation is set up to look on the disk for updates.\n\nIf you want to install from the Internet for this one time only, click on the "Change" button above and select "Default Net Location" (or any other network location you know to be working).\n\nIf you want to change it permanently, go to the "Configuration" Tab and change the default installation source.
+
+msgid:  Select All
+msgstr: Izberi vse
+
+msgid:  Basic Information
+msgstr: Osnovne nastavitve
+
+msgid:  Actions
+msgstr: Actions
+
+msgid:  Select arch-os
+msgstr: Izbrane platforme
+
+msgid:  Options
+msgstr: Ostale možnosti
+
+msgid:  Please use the "Add/Remove Programs" from the Control Panel!
+msgstr: Please use the "Add/Remove Programs" from the Control Panel!
+
+msgid:  Default paper for
+msgstr: Default paper for
+
+msgid:  Re-create all formats
+msgstr: Re-create all formats
+
+msgid:  Install
+msgstr: Install
+
+msgid:  New location: 
+msgstr: New location: 
+
+msgid:  Update selected
+msgstr: Update selected
+
+msgid:  Default settings
+msgstr: Default settings
+
+msgid:  New default installation source
+msgstr: New default installation source
+
+msgid:  Complete removal completed
+msgstr: Complete removal completed
+
+msgid:  Install TeXworks front end
+msgstr: Install TeXworks front end
+
+msgid:  Install macro/font docs
+msgstr: Install macro/font docs
+
+msgid:  Updating packages
+msgstr: Updating packages
+
+msgid:  Directory setup
+msgstr: Nastavitve imenikov
+
+msgid:  (use ~ for %%%)
+msgstr: (uporabite ~ za %%%)
+
+msgid:  disk space required
+msgstr: potreben prostor na disku
+
+msgid:  Search
+msgstr: Search
+
+msgid:  Loading remote TeX Live Database\nThis may take some time, please wait!
+msgstr: Loading remote TeX Live Database\nThis may take some time, please wait!
+
+msgid:  Adjust PATH setting in registry
+msgstr: Adjust PATH setting in registry
+
+msgid:  Uninstallation
+msgstr: Uninstallation
+
+msgid:  About
+msgstr: About
+
+msgid:  Install selected
+msgstr: Install selected
+
+msgid:  We are ready to install TeX Live 2009.\nThe following settings will be used.\nIf you want to change something please go back,\notherwise press the "Install" button.
+msgstr: We are ready to install TeX Live 2009.\nThe following settings will be used.\nIf you want to change something please go back,\notherwise press the "Install" button.
+
+msgid:  Current installation source:
+msgstr: Current installation source: 
+
+msgid:  Remove selected
+msgstr: Remove selected
+
+msgid:  Could not load the TeX Live Database from $newroot\nIf you want to install or update packages, please try with a different installation source/location!\n\nFor configuration and removal you don't have to do anything.
+msgstr: Could not load the TeX Live Database from $newroot\nIf you want to install or update packages, please try with a different installation source/location!\n\nFor configuration and removal you don't have to do anything.
+
+msgid:  Link destination for programs
+msgstr: Link destination for programs
+
+msgid:  Choose Directory
+msgstr: Choose Directory
+
+msgid:  Cancel
+msgstr: Prekliči
+
+msgid:  Change default installation source
+msgstr: Change default installation source
+
+msgid:  Re-initialize file database
+msgstr: Re-initialize file database
+
+msgid:  Create all format files
+msgstr: Generiraj vse formate
+
+msgid:  Update font map database
+msgstr: Update font map database
+
+msgid:  (default not writable - please change!)
+msgstr: (Spremenite imenik - pisanje v izbrani imenik je zaščiteno!)
+
+msgid:  Removing packages
+msgstr: Removing packages
+
+msgid:  Create symlinks in system directories
+msgstr: Namesti simbolne povezave v sistemske mape
+
+msgid:  Adding packages
+msgstr: Adding packages
+
+msgid:  Standard collections
+msgstr: Standardne zbirke
+
+msgid:  Go to Wizard
+msgstr: Go to Wizard
+
+msgid:  Quit
+msgstr: Izhod
+
+msgid:  Link destination for man pages
+msgstr: Link destination for man pages
+
+msgid:  Really remove the complete TeX Live 2009 installation?\nYour last chance to change your mind!
+msgstr: Really remove the complete TeX Live 2009 installation?\nYour last chance to change your mind!
+
+msgid:  Back
+msgstr: Back
+
+msgid:  Only new
+msgstr: Only new
+
+msgid:  Force
+msgstr: Force
+
+msgid:  Language collections
+msgstr: Podpora jezikom
+
+msgid:  Enter path for
+msgstr: Nastavite pot do
+
+msgid:  Force the removal of a package even if it is referenced in a collection.
+msgstr: Force the removal of a package even if it is referenced in a collection.
+
+msgid:  Configuration
+msgstr: Configuration
+

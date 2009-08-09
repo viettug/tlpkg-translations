@@ -1,0 +1,441 @@
+msgid:  Reset changes
+msgstr: Annulla le modifiche
+
+msgid:  Architectures
+msgstr: Architetture
+
+msgid:  Link destination for info docs
+msgstr: Link destination for info docs
+
+msgid:  Some package will only be updated after you have terminated the GUI!\nPlease do so and after a short time restart the GUI.
+msgstr: Alcuni pacchetti non possono essere aggiornati tramite la GUI!\nEseguire una volta il comando TEXROOT/tlpkg/installer/updater.bat!\nAltrimenti gli aggiornamento non saranno completati!\nNOTA: Bisogna prima CHIUDERE questo programma!
+
+msgid:  Install font/macro doc tree
+msgstr: Installa la documentazione per font e macro
+
+msgid:  Select the collections to be installed
+msgstr: Seleziona le collezioni da installare
+
+msgid:  Paper settings
+msgstr: Impostazioni carta
+
+msgid:  info to
+msgstr: pagine info in
+
+msgid:  Information on the selected item
+msgstr: Informazioni sull'elemento selezionato
+
+msgid:  TEXDIR (the main TeX directory)
+msgstr: TEXDIR (directory principale di TeX)
+
+msgid:  collections out of
+msgstr: collezioni su
+
+msgid:  Load
+msgstr: Carica
+
+msgid:  Default installation source
+msgstr: Origine di installazione predefinita
+
+msgid:  Updates for the tlmgr are present.\nInstallation and upgrades won't work without being forced.\nPlease go to the update screen and press the "update all" button.\nThe program will terminate after the update.\nThen you can restart the program for further updates.
+msgstr: Updates for the tlmgr are present.\nInstallation and upgrades won't work without being forced.\nPlease go to the update screen and press the "update all" button.\nThe program will terminate after the update.\nThen you can restart the program for further updates.
+
+msgid:  Installation
+msgstr: Installazione
+
+msgid:  Press this button to load the database from the specified location.
+msgstr: Premere questo pulsante per caricare il database dall'indirizzo specificato.
+
+msgid:  Toggle
+msgstr: Inverti
+
+msgid:  This may take some time!\nPlease wait, the output will appear here when ready.\n
+msgstr: Questa operazione potrebbe richiedere del tempo!\nAttendere, il risultato apparirà non appena pronto.\n
+
+msgid:  Change variable value
+msgstr: Cambia il valore della variabile
+
+msgid:  Default backup directory
+msgstr: Default backup directory
+
+msgid:  TeX Live 2009 Installation
+msgstr: Installazione di TeX Live 2009
+
+msgid:  All
+msgstr: All
+
+msgid:  Please click on an item on the left for details
+msgstr: Selezionare un elemento dall'elenco a sinistra per vedere i dettagli
+
+msgid:  Default net location
+msgstr: Indirizzo di Rete Predefinito
+
+msgid:  Further Customization
+msgstr: Ulteriore Personalizzazione
+
+msgid:  Select architectures to be added (removal not possible)
+msgstr: Seleziona le architetture da aggiungere (la rimozione non è possibile)
+
+msgid:  Ok
+msgstr: Ok
+
+msgid:  None
+msgstr: None
+
+msgid:  Remove TeX Live 2009
+msgstr: Rimuovi TeX Live 2009
+
+msgid:  Select language-specific documentation
+msgstr: Seleziona la documentazione specifica per una lingua
+
+msgid:  Loading local TeX Live Database\nThis may take some time, please wait!
+msgstr: Lettura del database locale di TeX Live\nQuesta operazione può richiedere del tempo, attendere!
+
+msgid:  Completed
+msgstr: Completato
+
+msgid:  Update all
+msgstr: Aggiorna tutti
+
+msgid:  Change Location
+msgstr: Cambia l'Indirizzo
+
+msgid:  Select language support
+msgstr: Seleziona il supporto per la lingua
+
+msgid:  Default paper for all
+msgstr: Formato pagina predefinito per tutti
+
+msgid:  Create formats on installation
+msgstr: Create formats on installation
+
+msgid:  Update
+msgstr: Aggiornamento
+
+msgid:  For collections: install or remove will not install/remove the dependencies
+msgstr: Per le collezioni: installa o rimuovi non installerà/rimuoverà le dipendenze
+
+msgid:  Remove
+msgstr: Rimozione
+
+msgid:  Next
+msgstr: Successivo
+
+msgid:  TEXMFSYSCONFIG (directory for local config)
+msgstr: TEXMFSYSCONFIG (directory per la configurazione locale)
+
+msgid:  Select a scheme
+msgstr: Seleziona uno Schema
+
+msgid:  No
+msgstr: No
+
+msgid:  (please change TEXDIR first!)
+msgstr: (è prima necessario cambiare TEXDIR!)
+
+msgid:  ...please change me...
+msgstr: ...da cambiare...
+
+msgid:  Please wait a bit after the program has terminated so that the update can be completed.
+msgstr: Please wait a bit after the program has terminated so that the update can be completed.
+
+msgid:  Turn on debug mode.
+msgstr: Attiva la modalità di debug.
+
+msgid:  Debug
+msgstr: debug
+
+msgid:  Deselect All
+msgstr: Deseleziona Tutto
+
+msgid:  Select paper format for
+msgstr: formato pagina selezionato per
+
+msgid:  The database of the installation source has not been loaded.\n\nPlease use the "Load" (and possibly "Change") button to do so.
+msgstr: Il database dell'origine di installazione non è stato caricato.\n\nUsare il pulsante "Carica" (ed eventualmente "Cambia") per procedere.
+
+msgid:  Installation for all users
+msgstr: Installation for all users
+
+msgid:  Change source from where packages are fetched at installation and update time.
+msgstr: Cambia l'origine di installazione
+
+msgid:  Starting
+msgstr: Avvio
+
+msgid:  Removals of binary systems currently not supported!
+msgstr: La rimozione delle architetture non è al momento supportata!
+
+msgid:  See TEXDIR/index.html for links to documentation.\nThe TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html.
+msgstr: Consulta la pagina TEXDIR/index.html per i collegamenti alla documentazione.  Il sito web di TeX Live\n(http://tug.org/texlive/) contiene ogni aggiornamento e correzione.\nTeX Live è un progetto congiunto dei gruppi di utenti TeX nel mondo;\npuoi sostenerlo unendoti al gruppo che più ti si addice. La\nlista dei gruppi è disponibile sul web alla pagina http://tug.org/usergroups.html.
+
+msgid:  Status output
+msgstr: Messaggi di Stato
+
+msgid:  Install font/macro source tree
+msgstr: Installa i sorgenti per font e macro
+
+msgid:  Apply changes
+msgstr: Applica le modifiche
+
+msgid:  (no description available)
+msgstr: (nessuna descrizione disponibile)
+
+msgid:  Welcome to the installation of TeX Live 2009\nhttp://tug.org/texlive\n\nThis wizard will guide you through the installation.\n\nFor an advanced, customizable installation, please consult\nthe web pages or installation guide.
+msgstr: Welcome to the installation of TeX Live 2009\nhttp://tug.org/texlive\n\nThis wizard will guide you through the installation.\n\nFor an advanced, customizable installation, please consult\nthe web pages or installation guide.
+
+msgid:  Install macro/font sources
+msgstr: Install macro/font sources
+
+msgid:  binaries to
+msgstr: eseguibili in
+
+msgid:  Install for all users
+msgstr: Install for all users
+
+msgid:  TEXMFSYSVAR (directory for autogenerated data)
+msgstr: TEXMFSYSVAR (directory per i file generati automaticamente)
+
+msgid:  Finish
+msgstr: Fine
+
+msgid:  Destination folder:
+msgstr: Destination folder:
+
+msgid:  (no language collection selected!)
+msgstr: (non è stata selezionata alcuna collezione di lingue!)
+
+msgid:  Yes
+msgstr: Sì
+
+msgid:  Create shortcuts in menu and on desktop
+msgstr: Integrazione con il Sistema
+
+msgid:  Binary system(s)
+msgstr: Eseguibili Installati
+
+msgid:  Use letter size instead of A4 by default
+msgstr: Usa come predefinito il formato di pagina lettera al posto dell'A4
+
+msgid:  without depends
+msgstr: senza dipendenze
+
+msgid:  Change file associations
+msgstr: Change file associations
+
+msgid:  Update symbolic links
+msgstr: Update symbolic links
+
+msgid:  Use Ctrl or Shift or drag to select more
+msgstr: Usare Ctrl, Maiusc oppure trascinare per selezionare più elementi
+
+msgid:  The destination folder will contain the installation.\nIt is strongly recommended to keep the year as the last component.
+msgstr: The destination folder will contain the installation.\nIt is strongly recommended to keep the year as the last component.
+
+msgid:  Change
+msgstr: Cambia
+
+msgid:  out of
+msgstr: su
+
+msgid:  Select packages
+msgstr: Seleziona i pacchetti
+
+msgid:  manpages to
+msgstr: pagine di manuale in
+
+msgid:  Add TEXDIR/texmf/doc/man to MANPATH.\nAdd TEXDIR/texmf/doc/info to INFOPATH.\nMost importantly, add TEXDIR/bin/PLATFORM\nto your PATH for current and future sessions.
+msgstr: Aggiungere TEXDIR/texmf/doc/man alla variabile MANPATH.\nAggiungere TEXDIR/texmf/doc/info alla variabile INFOPATH.\nMa, cosa più importante, aggiungere TEXDIR/bin/PLATFORM\nalla propria variabile PATH per questa e le future sessioni.
+
+msgid:  create symlinks in standard directories
+msgstr: crea i collegamenti simbolici nelle directory standard
+
+msgid:  Selected scheme
+msgstr: Schemi Selezionati
+
+msgid:  Remove symbolic links
+msgstr: Remove symbolic links
+
+msgid:  Everything up-to-date!
+msgstr: Il sistema è aggionato completamente!
+
+msgid:  Advanced customization
+msgstr: Advanced customization
+
+msgid:  TEXMFLOCAL (directory for site-wide local files)
+msgstr: TEXMFLOCAL (directory per i file locali)
+
+msgid:  This screen allows you to configure some options
+msgstr: This screen allows you to configure some options
+
+msgid:  TEXMFHOME (directory for user-specific files)
+msgstr: TEXMFHOME (directory for user-specific files)
+
+msgid:  Auto backup setting
+msgstr: Auto backup setting
+
+msgid:  Welcome to TeX Live!
+msgstr: Benvenuti a TeX Live!
+
+msgid:  No updates found.\n\nYour installation is set up to look on the disk for updates.\n\nIf you want to install from the Internet for this one time only, click on the "Change" button above and select "Default Net Location" (or any other network location you know to be working).\n\nIf you want to change it permanently, go to the "Configuration" Tab and change the default installation source.
+msgstr: Nessun aggiornamento trovato.\n\nQuesta installazione è configurata per cercare gli aggiornamenti su disco.\n\nSe per quest'unica volta si vuole eseguire un'installazione da Internet, premere il tasto "Cambia" e selezionare "Indirizzo di Rete Predefinito" (o qualsiasi altro indirizzo di rete funzionante).\n\nPer rendere permanente la modifica, cambiare l'origine di installazione predefinita dalla pagina "Configurazione".
+
+msgid:  Select All
+msgstr: Seleziona Tutto
+
+msgid:  Basic Information
+msgstr: Informazioni di Base
+
+msgid:  Actions
+msgstr: Azioni
+
+msgid:  Select arch-os
+msgstr: Seleziona l'architettura/sistema operativo
+
+msgid:  Options
+msgstr: Opzioni
+
+msgid:  Please use the "Add/Remove Programs" from the Control Panel!
+msgstr: Usare "Installazione/Rimozione dei Programmi" dal Pannello di Controllo!
+
+msgid:  Default paper for
+msgstr: Formato pagina predefinito per
+
+msgid:  Re-create all formats
+msgstr: Crea di nuovo tutti i formati
+
+msgid:  Install
+msgstr: Install
+
+msgid:  New location: 
+msgstr: Nuovo indirizzo:
+
+msgid:  Update selected
+msgstr: Aggiorna selezionati
+
+msgid:  Default settings
+msgstr: Impostazioni predefinite
+
+msgid:  New default installation source
+msgstr: Nuova origine di installazione predefinita
+
+msgid:  Complete removal completed
+msgstr: TeX Live 2009 è stata rimossa
+
+msgid:  Install TeXworks front end
+msgstr: Install TeXworks front end
+
+msgid:  Install macro/font docs
+msgstr: Install macro/font docs
+
+msgid:  Updating packages
+msgstr: Aggiornamento dei pacchetti
+
+msgid:  Directory setup
+msgstr: Configurazione delle directory
+
+msgid:  (use ~ for %%%)
+msgstr: (usa ~ per %%%)
+
+msgid:  disk space required
+msgstr: spazio su disco richiesto
+
+msgid:  Search
+msgstr: Cerca
+
+msgid:  Loading remote TeX Live Database\nThis may take some time, please wait!
+msgstr: Lettura del database remoto di TeX Live\nQuesta operazione può richiedere del tempo, attendere!
+
+msgid:  Adjust PATH setting in registry
+msgstr: Adjust PATH setting in registry
+
+msgid:  Uninstallation
+msgstr: Disinstallazione
+
+msgid:  About
+msgstr: Informazioni
+
+msgid:  Install selected
+msgstr: Installa selezionati
+
+msgid:  We are ready to install TeX Live 2009.\nThe following settings will be used.\nIf you want to change something please go back,\notherwise press the "Install" button.
+msgstr: We are ready to install TeX Live 2009.\nThe following settings will be used.\nIf you want to change something please go back,\notherwise press the "Install" button.
+
+msgid:  Current installation source:
+msgstr: Origine di installazione corrente:
+
+msgid:  Remove selected
+msgstr: Rimuovi selezionati
+
+msgid:  Could not load the TeX Live Database from $newroot\nIf you want to install or update packages, please try with a different installation source/location!\n\nFor configuration and removal you don't have to do anything.
+msgstr: Impossibile caricare il database di TeX Live da $newroot\nSe si desidera installare o aggiornare i pacchetti, provare un'altra origine di installazione o un diverso indirizzo!\n\nPer la configurazione e la rimozione non è necessario fare nulla.
+
+msgid:  Link destination for programs
+msgstr: Link destination for programs
+
+msgid:  Choose Directory
+msgstr: Scegli una Directory
+
+msgid:  Cancel
+msgstr: Annulla
+
+msgid:  Change default installation source
+msgstr: Cambia l'origine di installazione predefinita
+
+msgid:  Re-initialize file database
+msgstr: Inizializza di nuovo il database dei file
+
+msgid:  Create all format files
+msgstr: Crea tutti i file di formato
+
+msgid:  Update font map database
+msgstr: Aggiorna il database delle mappe dei font
+
+msgid:  (default not writable - please change!)
+msgstr: (scrittura impossibile - cambiare il percorso!)
+
+msgid:  Removing packages
+msgstr: Rimozione dei pacchetti
+
+msgid:  Create symlinks in system directories
+msgstr: Installa i collegamenti simbolici nelle directory di sistema
+
+msgid:  Adding packages
+msgstr: Aggiunta dei pacchetti
+
+msgid:  Standard collections
+msgstr: Collezioni di Base
+
+msgid:  Go to Wizard
+msgstr: Go to Wizard
+
+msgid:  Quit
+msgstr: Esci
+
+msgid:  Link destination for man pages
+msgstr: Link destination for man pages
+
+msgid:  Really remove the complete TeX Live 2009 installation?\nYour last chance to change your mind!
+msgstr: Si vuole davvero rimuovere l'intera installazione di TeX Live 2009?\nNon saranno chieste ulteriori conferme!
+
+msgid:  Back
+msgstr: Back
+
+msgid:  Only new
+msgstr: Only new
+
+msgid:  Force
+msgstr: forza
+
+msgid:  Language collections
+msgstr: Collezioni di Lingue
+
+msgid:  Enter path for
+msgstr: Inserisci il percorso per
+
+msgid:  Force the removal of a package even if it is referenced in a collection.
+msgstr: Forza la rimozione di un pacchetto anche se compare in una collezione.
+
+msgid:  Configuration
+msgstr: Configurazione
+
