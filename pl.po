@@ -254,6 +254,11 @@ msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
+"Patrz TEXDIR/index.html z odnośnikami do dokumentacji. Na stronie TeX Live \n"
+"(http://tug.org/texlive/) znajdziesz aktualizacje i poprawki.\n"
+"TeX Live jest zbiorowym projektem grup użytkowników TeX-a z całego świata;\n"
+"proszę rozważyć wsparcie poprzez przystąpienie do grupy.\n"
+"Lista grup dostępna jest na stronie http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:370
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -263,6 +268,10 @@ msgid ""
 "Most importantly, add TEXDIR/bin/PLATFORM\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Dodaj TEXDIR/texmf/doc/man do MANPATH.\n"
+"Dodaj TEXDIR/texmf/doc/info do INFOPATH.\n"
+"Najważniejsze, dodaj TEXDIR/bin/PLATFORM\n"
+"do zmiennej PATH dla bieżącej i przyszłych sesji."
 
 #: tlpkg/installer/install-menu-perltk.pl:372
 #: tlpkg/installer/install-menu-wizard.pl:430
@@ -614,13 +623,15 @@ msgstr "Odistalowanie"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:15
 msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
-msgstr ""
+msgstr "Proszę użyć \"Dodaj/Usuń Programy\" w Panelu Sterowania!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:20
 msgid ""
 "Really remove the complete TeX Live 2009 installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
+"Naprawdę usunąć całą instalację TeX Live 2009?\n"
+"Nie będzie więcej zapytań!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:27
 msgid "Remove TeX Live 2009"
@@ -635,6 +646,9 @@ msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"Wczytuję lokalną bazę danych\n"
+"instalacji TeX Live\n"
+"Trochę to potrwa, proszę czekać!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:212
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
@@ -685,6 +699,9 @@ msgid ""
 "\n"
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
+"Baza danych instalacji nie została załadowana.\n"
+"\n"
+"Proszę użyć przycisków \"Zmień\" i \"Wczytaj\"."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
 msgid "Update"
@@ -733,6 +750,8 @@ msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"Wczytuję aktualną bazę danych TeX Live\n"
+"Trochę to potrwa, proszę czekać!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
 msgid ""
@@ -741,6 +760,10 @@ msgid ""
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
+"Nie można wczytać bazy danych TL z $newroot\n"
+"Do zaistalowania lub aktualizacji pakietów proszę spróbować innej lokalizacji źródła instalacji!\n"
+"\n"
+"Dla konfiguracji i/lub usuwania niemusisz nic robić."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:343
 msgid "...please change me..."
@@ -756,6 +779,13 @@ msgid ""
 "\n"
 "If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
 msgstr ""
+"Nie znaleziono aktualizacji.\n"
+"\n"
+"Twoja instalacja jest ustawiona na szukanie aktualizacji na dysku.\n"
+"\n"
+"Jeśli chcesz w tej chwili instalować z internetu, naciśnij przycisk \"Zmień\" powyżej i wybierz \"Domyślna lokalizacja w sieci\" (lub każdą inną lokalizację w sieci, np. lokalnej, która może działać).\n"
+"\n"
+"Jeśli chcesz zmienić to ustawienie na stałe, przejdź do zakładki \"Konfiguracja\" i zmień domyślne źródło instalacji."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
 msgid "Everything up-to-date!"

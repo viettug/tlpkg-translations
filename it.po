@@ -254,6 +254,11 @@ msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
+"Consulta la pagina TEXDIR/index.html per i collegamenti alla documentazione.  Il sito web di TeX Live\n"
+"(http://tug.org/texlive/) contiene ogni aggiornamento e correzione.\n"
+"TeX Live è un progetto congiunto dei gruppi di utenti TeX nel mondo;\n"
+"puoi sostenerlo unendoti al gruppo che più ti si addice. La\n"
+"lista dei gruppi è disponibile sul web alla pagina http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:370
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -263,6 +268,10 @@ msgid ""
 "Most importantly, add TEXDIR/bin/PLATFORM\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Aggiungere TEXDIR/texmf/doc/man alla variabile MANPATH.\n"
+"Aggiungere TEXDIR/texmf/doc/info alla variabile INFOPATH.\n"
+"Ma, cosa più importante, aggiungere TEXDIR/bin/PLATFORM\n"
+"alla propria variabile PATH per questa e le future sessioni."
 
 #: tlpkg/installer/install-menu-perltk.pl:372
 #: tlpkg/installer/install-menu-wizard.pl:430
@@ -614,13 +623,15 @@ msgstr "Disinstallazione"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:15
 msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
-msgstr ""
+msgstr "Usare \"Installazione/Rimozione dei Programmi\" dal Pannello di Controllo!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:20
 msgid ""
 "Really remove the complete TeX Live 2009 installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
+"Si vuole davvero rimuovere l'intera installazione di TeX Live 2009?\n"
+"Non saranno chieste ulteriori conferme!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:27
 msgid "Remove TeX Live 2009"
@@ -635,6 +646,8 @@ msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"Lettura del database locale di TeX Live\n"
+"Questa operazione può richiedere del tempo, attendere!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:212
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
@@ -685,6 +698,9 @@ msgid ""
 "\n"
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
+"Il database dell'origine di installazione non è stato caricato.\n"
+"\n"
+"Usare il pulsante \"Carica\" (ed eventualmente \"Cambia\") per procedere."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
 msgid "Update"
@@ -733,6 +749,8 @@ msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"Lettura del database remoto di TeX Live\n"
+"Questa operazione può richiedere del tempo, attendere!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
 msgid ""
@@ -741,6 +759,10 @@ msgid ""
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
+"Impossibile caricare il database di TeX Live da $newroot\n"
+"Se si desidera installare o aggiornare i pacchetti, provare un'altra origine di installazione o un diverso indirizzo!\n"
+"\n"
+"Per la configurazione e la rimozione non è necessario fare nulla."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:343
 msgid "...please change me..."
@@ -756,6 +778,13 @@ msgid ""
 "\n"
 "If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
 msgstr ""
+"Nessun aggiornamento trovato.\n"
+"\n"
+"Questa installazione è configurata per cercare gli aggiornamenti su disco.\n"
+"\n"
+"Se per quest'unica volta si vuole eseguire un'installazione da Internet, premere il tasto \"Cambia\" e selezionare \"Indirizzo di Rete Predefinito\" (o qualsiasi altro indirizzo di rete funzionante).\n"
+"\n"
+"Per rendere permanente la modifica, cambiare l'origine di installazione predefinita dalla pagina \"Configurazione\"."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
 msgid "Everything up-to-date!"

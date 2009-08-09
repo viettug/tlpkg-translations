@@ -254,6 +254,11 @@ msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
+"請參考 TEXDIR/index.html 來獲得文檔鏈結。TeX Live 官方網站\n"
+"(http://tug.org/texlive/) 包含所有相關的更新和修正。\n"
+"TeX Live 是全世界TeX用戶組的一個合作專案 ；\n"
+"請考慮加入合適的TeX用戶組來支持該項目。從\n"
+"http://tug.org/usergroups.html 可以獲得TeX用戶組的列表。"
 
 #: tlpkg/installer/install-menu-perltk.pl:370
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -263,6 +268,10 @@ msgid ""
 "Most importantly, add TEXDIR/bin/PLATFORM\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"添加 TEXDIR/texmf/doc/man 到 MANPATH.\n"
+"添加 TEXDIR/texmf/doc/info 到 INFOPATH.\n"
+"最為重要的是，請添加 TEXDIR/bin/PLATFORM\n"
+"到你的 PATH 變數。"
 
 #: tlpkg/installer/install-menu-perltk.pl:372
 #: tlpkg/installer/install-menu-wizard.pl:430

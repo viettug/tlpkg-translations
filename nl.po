@@ -254,6 +254,11 @@ msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
+"Zie TEXDIR/index.html voor links naar documentatie.  De TeX Live web site\n"
+"(http://tug.org/texlive/) bevat eventuele updates en correcties.\n"
+"TeX Live is een gezamenlijk projekt van TeX gebruikersgroepen wereldwijd;\n"
+"overweeg ondersteuning door lid te worden van zo'n groep.\n"
+"De lijst van gebruikersgroepen staat op http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:370
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -263,6 +268,10 @@ msgid ""
 "Most importantly, add TEXDIR/bin/PLATFORM\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Voeg TEXDIR/texmf/doc/man toe aan MANPATH.\n"
+"Voeg TEXDIR/texmf/doc/info toe aan INFOPATH.\n"
+"En het belangrijkste: voeg TEXDIR/bin/PLATFORM\n"
+"toe aan PATH voor de huidige en voor toekomstige sessies."
 
 #: tlpkg/installer/install-menu-perltk.pl:372
 #: tlpkg/installer/install-menu-wizard.pl:430
