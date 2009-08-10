@@ -10,6 +10,12 @@
 # if $::lang is unset try to auto-deduce it from LC_MESSAGES/Registry
 # if $::opt_lang is set use that instead
 #
+# this module implements parsing .po files, but no specialities of .po
+# files are supported. Only reading of msgstr and msgid and concatenating
+# multiple lines. Furthermore, strings replacements are done:
+#    \n  -> <newline>
+#   \"   -> "
+#
 
 use strict;
 $^W = 1;
