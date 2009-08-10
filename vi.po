@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-10 23:09+0200\n"
+"POT-Creation-Date: 2009-08-11 01:00+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -314,7 +314,7 @@ msgstr "Nhập đường dẫn cho"
 #: tlpkg/installer/install-menu-perltk.pl:722
 #: tlpkg/installer/install-menu-perltk.pl:751
 #: tlpkg/installer/install-menu-wizard.pl:257
-#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:70
+#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:72
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:357
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:403
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:428
@@ -496,20 +496,21 @@ msgstr "Với các tập hợp: cài đặt/gỡ bỏ sẽ không tác động �
 msgid "Architectures"
 msgstr "Kiến trúc"
 
-#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:27
+#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
 msgid "Select architectures to be added (removal not possible)"
 msgstr "Chọn kiến trúc để thêm vào"
 
-#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:59
+#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
 msgstr "Thực hiện thay đổi"
 
-#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:60
+#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:62
 msgid "Reset changes"
 msgstr "Bỏ qua thay đổi"
 
-#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:69
-msgid "Removals of binary systems currently not supported!"
+#: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:71
+#, fuzzy
+msgid "Removals of the main architecture not possible!"
 msgstr "Việc gỡ bỏ kiến trúc hiện chưa được hỗ trợ!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:10
