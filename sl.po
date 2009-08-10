@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-09 17:24+0200\n"
+"POT-Creation-Date: 2009-08-10 23:09+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -252,13 +252,17 @@ msgstr "Prekliči"
 #: tlpkg/installer/install-menu-wizard.pl:426
 msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Glej TEXDIR/index.html za povezave do dokumentacije. Na domači strani\n"
 "(http://tug.org/texlive/) lahko najdete posodobitve in popravke.\n"
 "TeX Live je skupni projekt društev uporabnikov TeX-a širom sveta;\n"
 "podprete ga lahko s pristopom k enemu izmed njih. \n"
-"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups.html."
+"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups."
+"html."
 
 #: tlpkg/installer/install-menu-perltk.pl:370
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -472,7 +476,8 @@ msgid "Force"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid "Force the removal of a package even if it is referenced in a collection."
+msgid ""
+"Force the removal of a package even if it is referenced in a collection."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
@@ -480,7 +485,8 @@ msgid "without depends"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid "For collections: install or remove will not install/remove the dependencies"
+msgid ""
+"For collections: install or remove will not install/remove the dependencies"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
@@ -662,7 +668,9 @@ msgid "Press this button to load the database from the specified location."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:241
-msgid "Change source from where packages are fetched at installation and update time."
+msgid ""
+"Change source from where packages are fetched at installation and update "
+"time."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
@@ -745,7 +753,8 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
-"If you want to install or update packages, please try with a different installation source/location!\n"
+"If you want to install or update packages, please try with a different "
+"installation source/location!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
@@ -760,9 +769,12 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default Net Location\" (or any other network location you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on "
+"the \"Change\" button above and select \"Default Net Location\" (or any "
+"other network location you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
+"If you want to change it permanently, go to the \"Configuration\" Tab and "
+"change the default installation source."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
@@ -783,8 +795,12 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:513
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Please wait a bit after the program has terminated so that the update can be completed."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:552
 msgid "Change Location"
@@ -797,4 +813,3 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
 msgid "Warning Window"
 msgstr ""
-

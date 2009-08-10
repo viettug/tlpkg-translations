@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-09 17:24+0200\n"
+"POT-Creation-Date: 2009-08-10 23:09+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -252,12 +252,16 @@ msgstr "Zrušit"
 #: tlpkg/installer/install-menu-wizard.pl:426
 msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Viz TEXDIR/index.html pro odkazy na dokumentaci. Stránky TeX Live\n"
 "(http://tug.org/texlive/) obsahují aktualizace a opravy.\n"
 "TeX Live je společným projektem uživatelských sdružení TeXu po celém světě;\n"
-"zvažte laskavě jeho podporu přihlášením se do sdružení, které vám nejlépe vyhovuje.\n"
+"zvažte laskavě jeho podporu přihlášením se do sdružení, které vám nejlépe "
+"vyhovuje.\n"
 "Seznam sdružení je dostupný na http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:370
@@ -473,15 +477,18 @@ msgid "Force"
 msgstr "vynutit"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid "Force the removal of a package even if it is referenced in a collection."
-msgstr "Vynutit odstranění balíčku i pokud na něj existuje reference v kolekci."
+msgid ""
+"Force the removal of a package even if it is referenced in a collection."
+msgstr ""
+"Vynutit odstranění balíčku i pokud na něj existuje reference v kolekci."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
 msgstr "bez závislostí"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid "For collections: install or remove will not install/remove the dependencies"
+msgid ""
+"For collections: install or remove will not install/remove the dependencies"
 msgstr "Pro kolekce: instalace/odstranění nedoinstaluje/neodstraní závislosti"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
@@ -665,7 +672,9 @@ msgid "Press this button to load the database from the specified location."
 msgstr "K nahrání databáze z vybraného umístění stiskněte toto tlačítko."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:241
-msgid "Change source from where packages are fetched at installation and update time."
+msgid ""
+"Change source from where packages are fetched at installation and update "
+"time."
 msgstr "Změnit zdroj instalace"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
@@ -697,7 +706,8 @@ msgid ""
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
 "Databáze zdroje instalace nebyla nahrána.\n"
-"Prosím, nahrajte databázi použitím tlačítka \"Nahrát\" (a případně \"Změnit\")."
+"Prosím, nahrajte databázi použitím tlačítka \"Nahrát\" (a případně \"Změnit"
+"\")."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
 msgid "Update"
@@ -752,7 +762,8 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
-"If you want to install or update packages, please try with a different installation source/location!\n"
+"If you want to install or update packages, please try with a different "
+"installation source/location!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
@@ -767,17 +778,23 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default Net Location\" (or any other network location you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on "
+"the \"Change\" button above and select \"Default Net Location\" (or any "
+"other network location you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
+"If you want to change it permanently, go to the \"Configuration\" Tab and "
+"change the default installation source."
 msgstr ""
 "Nebyly nalezeny žádné aktualizace.\n"
 "\n"
 "Vaše instalace je nastavena tak, že aktualizace vyhledává na disku.\n"
 "\n"
-"Pokud chcete instalovat z internetu jenom v tomto případě, klikněte na tlačítko \"Změnit\" výše a vyberte \"Výchozí síťové umístění\" (nebo jiné funkční síťové umístění).\n"
+"Pokud chcete instalovat z internetu jenom v tomto případě, klikněte na "
+"tlačítko \"Změnit\" výše a vyberte \"Výchozí síťové umístění\" (nebo jiné "
+"funkční síťové umístění).\n"
 "\n"
-"Pokud chcete provést trvalou změnu, jděte na záložku \"Konfigurace\" a změňte výchozí zdroj instalace."
+"Pokud chcete provést trvalou změnu, jděte na záložku \"Konfigurace\" a "
+"změňte výchozí zdroj instalace."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
 msgid "Everything up-to-date!"
@@ -797,8 +814,12 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:513
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Please wait a bit after the program has terminated so that the update can be completed."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:552
 msgid "Change Location"
@@ -811,4 +832,3 @@ msgstr "Nové umístění:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
 msgid "Warning Window"
 msgstr ""
-
