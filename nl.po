@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-14 13:46+0200\n"
+"POT-Creation-Date: 2009-08-16 23:55+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -409,15 +409,16 @@ msgstr "(TEXDIR eerst veranderen!)"
 #: tlpkg/installer/install-menu-wizard.pl:167
 #: tlpkg/installer/install-menu-wizard.pl:229
 #: tlpkg/installer/install-menu-wizard.pl:351
-#: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:139
-msgid "Next"
+#, fuzzy
+msgid "Next >"
 msgstr "Volgende"
 
 #: tlpkg/installer/install-menu-wizard.pl:143
 #: tlpkg/installer/install-menu-wizard.pl:228
 #: tlpkg/installer/install-menu-wizard.pl:350
 #: tlpkg/installer/install-menu-wizard.pl:374
-msgid "Back"
+#, fuzzy
+msgid "< Back"
 msgstr "Terug"
 
 #: tlpkg/installer/install-menu-wizard.pl:164
@@ -486,6 +487,10 @@ msgstr "Selekteer pakketten"
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:129
 msgid "Search"
 msgstr "Zoek"
+
+#: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:139
+msgid "Next"
+msgstr "Volgende"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:159
 msgid "Information on the selected item"
