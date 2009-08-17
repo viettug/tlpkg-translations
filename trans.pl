@@ -15,6 +15,7 @@
 # multiple lines. Furthermore, strings replacements are done:
 #    \n  -> <newline>
 #   \"   -> "
+#   \\   -> \
 #
 
 use strict;
@@ -73,14 +74,18 @@ sub __ ($) {
   return $ss if !defined($::lang);
   my $key = $s;
   $key =~ s/\n/\\n/g;
+  $key =~ s!\\!\\\\!g;
   # if the translation is defined return it
   if (defined($TRANS{$::lang}->{$key})) {
     my $t = $TRANS{$::lang}->{$key};
+    my $tt = $t;
     $t =~ s/\n/\\n/g;
+    $t =~ s/\\\\/\\/g;
     if ($::debug_translation && ($s eq $t)) {
       print STDERR "probably untranslated in $::lang: >>>$key<<<\n";
     }
-    return $TRANS{$::lang}->{$key};
+    $tt =~ s!\\\\!\\!g;
+    return $tt;
   } 
   # if we cannot find it, return $s itself
   if ($::debug_translation && $::lang ne "en") {
