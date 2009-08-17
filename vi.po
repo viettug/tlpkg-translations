@@ -412,9 +412,8 @@ msgstr "(vui lòng đổi thư mục TEXDIR trước!)"
 #: tlpkg/installer/install-menu-wizard.pl:167
 #: tlpkg/installer/install-menu-wizard.pl:229
 #: tlpkg/installer/install-menu-wizard.pl:351
-#, fuzzy
 msgid "Next >"
-msgstr "Tiếp theo"
+msgstr "Tiếp theo >"
 
 #: tlpkg/installer/install-menu-wizard.pl:143
 #: tlpkg/installer/install-menu-wizard.pl:228

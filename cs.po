@@ -410,9 +410,8 @@ msgstr "(prosím, změňte nejdříve TEXDIR!)"
 #: tlpkg/installer/install-menu-wizard.pl:167
 #: tlpkg/installer/install-menu-wizard.pl:229
 #: tlpkg/installer/install-menu-wizard.pl:351
-#, fuzzy
 msgid "Next >"
-msgstr "Další"
+msgstr "Další >"
 
 #: tlpkg/installer/install-menu-wizard.pl:143
 #: tlpkg/installer/install-menu-wizard.pl:228
