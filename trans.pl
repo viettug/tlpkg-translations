@@ -66,32 +66,38 @@ if (defined($::opt_lang)) {
 
 our %TRANS;
 
+#
+# __ takes a string argument and checks that it 
 sub __ ($) {
-  my $s = shift;
+  my $key = shift;
+  my $ret;
   # if no $::lang is set just return without anything
-  my $ss = $s;
-  $ss =~ s/\\n/\n/g;
-  return $ss if !defined($::lang);
-  my $key = $s;
-  $key =~ s/\n/\\n/g;
-  $key =~ s!\\!\\\\!g;
-  # if the translation is defined return it
-  if (defined($TRANS{$::lang}->{$key})) {
-    my $t = $TRANS{$::lang}->{$key};
-    my $tt = $t;
-    $t =~ s/\n/\\n/g;
-    $t =~ s/\\\\/\\/g;
-    if ($::debug_translation && ($s eq $t)) {
-      print STDERR "probably untranslated in $::lang: >>>$key<<<\n";
+  if (!defined($::lang)) {
+    $ret = $key;
+  } else {
+    $ret = $key;
+    $key =~ s/\\/\\\\/g;
+    $key =~ s/\n/\\n/g;
+    $key =~ s/"/\\"/g;
+    # if the translation is defined return it
+    if (defined($TRANS{$::lang}->{$key})) {
+      $ret = $TRANS{$::lang}->{$key};
+      if ($::debug_translation && ($key eq $ret)) {
+        print STDERR "probably untranslated in $::lang: >>>$key<<<\n";
+      }
+    } else {
+      # if we cannot find it, return $s itself
+      if ($::debug_translation && $::lang ne "en") {
+        print STDERR "no translation in $::lang: >>>$key<<<\n";
+      }
+      # $ret is already set initially
     }
-    $tt =~ s!\\\\!\\!g;
-    return $tt;
-  } 
-  # if we cannot find it, return $s itself
-  if ($::debug_translation && $::lang ne "en") {
-    print STDERR "no translation in $::lang: >>>$key<<<\n";
   }
-  return $ss;
+  # translate back $ret:
+  $ret =~ s/\\n/\n/g;
+  $ret =~ s/\\"/"/g;
+  $ret =~ s/\\\\/\\/g;
+  return $ret;
 }
 
 if (($::lang ne "en") && ($::lang ne "C")) {
@@ -123,9 +129,10 @@ if (($::lang ne "en") && ($::lang ne "C")) {
             if (!utf8::decode($msgstr)) {
               warn("decoding string to utf8 didn't work: $msgstr\n");
             }
-            $msgid =~ s/\\"/"/g;
-            $msgstr =~ s/\\n/\n/g;
-            $msgstr =~ s/\\"/"/g;
+            # we decode msgid too to get \\ and not \
+            if (!utf8::decode($msgid)) {
+              warn("decoding string to utf8 didn't work: $msgid\n");
+            }
             $TRANS{$::lang}{$msgid} = $msgstr;
           } else {
             ddebug("untranslated $::lang: ...$msgid...\n");
