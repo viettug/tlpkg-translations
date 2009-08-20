@@ -183,7 +183,7 @@ msgstr "Genereer alle format bestanden"
 
 #: tlpkg/installer/install-menu-perltk.pl:258
 msgid "Allow execution of restricted list of programs via \\write18"
-msgstr ""
+msgstr "Sta uitvoering van een beperkte lijst programmas toe via \\write18"
 
 #: tlpkg/installer/install-menu-perltk.pl:264
 msgid "Install font/macro doc tree"
@@ -260,10 +260,7 @@ msgstr "Afbreken"
 #: tlpkg/installer/install-menu-wizard.pl:426
 msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Zie TEXDIR/index.html voor links naar documentatie.  De TeX Live web site\n"
 "(http://tug.org/texlive/) bevat eventuele updates en correcties.\n"
@@ -500,21 +497,16 @@ msgid "Force"
 msgstr "Dwing af"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid ""
-"Force the removal of a package even if it is referenced in a collection."
-msgstr ""
-"Dwing de verwijdering van een pakket af zelfs als een bundel ernaar verwijst."
+msgid "Force the removal of a package even if it is referenced in a collection."
+msgstr "Dwing de verwijdering van een pakket af zelfs als een bundel ernaar verwijst."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
 msgstr "zonder afhankelijkheden"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid ""
-"For collections: install or remove will not install/remove the dependencies"
-msgstr ""
-"Voor bundels: installeren of verwijderen installeert/verwijdert niet de "
-"afhankelijkheden"
+msgid "For collections: install or remove will not install/remove the dependencies"
+msgstr "Voor bundels: installeren of verwijderen installeert/verwijdert niet de afhankelijkheden"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -530,7 +522,7 @@ msgstr "Voer de wijzigingen uit"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:62
 msgid "Reset changes"
-msgstr "Maak wijziginen ongedaan"
+msgstr "Maak wijzigingen ongedaan"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:71
 msgid "Removals of the main architecture not possible!"
@@ -699,9 +691,7 @@ msgid "Press this button to load the database from the specified location."
 msgstr "Klik deze knop om de database te laden van de aangegeven lokatie."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
-msgid ""
-"Change source from where packages are fetched at installation and update "
-"time."
+msgid "Change source from where packages are fetched at installation and update time."
 msgstr "Kies een andere bron voor installeren en aktualiseren van pakketten"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
@@ -789,14 +779,12 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
-"If you want to install or update packages, please try with a different "
-"installation source/location!\n"
+"If you want to install or update packages, please try with a different installation source/location!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Het laden van de TeX Live Database van $newroot is mislukt\n"
-"Als u pakketten wilt installeren of aktualiseren, probeer dan een andere "
-"installatiebron/-lokatie!\n"
+"Als u pakketten wilt installeren of aktualiseren, probeer dan een andere installatiebron/-lokatie!\n"
 "\n"
 "Voor instellingen en verwijderen hoeft u niets te doen."
 
@@ -810,23 +798,17 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on "
-"the \"Change\" button above and select \"Default Net Location\" (or any "
-"other network location you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default Net Location\" (or any other network location you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and "
-"change the default installation source."
+"If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
 msgstr ""
 "Geen nieuwere versies gevonden.\n"
 "\n"
 "Uw installatie zoekt op schijf voor nieuwe versies.\n"
 "\n"
-"Als u alleen deze keer vanaf het Internet wilt installeren, klik dan op de "
-"\"Wijzig\" knop hierboven en kies \"Standaard Net Lokatie\" (of een andere "
-"netwerklokatie waarvan u weet dat hij werkt).\n"
+"Als u alleen deze keer vanaf het Internet wilt installeren, klik dan op de \"Wijzig\" knop hierboven en kies \"Standaard Net Lokatie\" (of een andere netwerklokatie waarvan u weet dat hij werkt).\n"
 "\n"
-"Als u het permanent wilt veranderen, ga dan naar het \"Instellingen\" "
-"tabblad en wijzig de standaard installatiebron."
+"Als u het permanent wilt veranderen, ga dan naar het \"Instellingen\" tabblad en wijzig de standaard installatiebron."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
 msgid "Everything up-to-date!"
@@ -851,12 +833,8 @@ msgstr ""
 "Daarna kunt u het programma herstarten voor verdere aktualisaties."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan "
-"worden afgemaakt."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan worden afgemaakt."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
 msgid "Change Location"
@@ -869,3 +847,4 @@ msgstr "Nieuwe lokatie:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Warning Window"
 msgstr "Waarschuwingsvenster"
+
