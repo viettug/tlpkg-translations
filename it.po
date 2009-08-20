@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-16 23:55+0200\n"
+"POT-Creation-Date: 2009-08-20 04:15+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: \n"
@@ -103,7 +103,7 @@ msgstr "Architetture selezionate"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:135
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:171
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:253
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:239
 msgid "Change"
 msgstr "Cambia"
 
@@ -232,7 +232,7 @@ msgid "Install TeX Live"
 msgstr "Installa TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:207
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:206
 msgid "Quit"
 msgstr "Esci"
 
@@ -252,6 +252,7 @@ msgstr "Esci"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:390
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:423
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:455
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:578
 msgid "Cancel"
 msgstr "Annulla"
 
@@ -329,11 +330,11 @@ msgstr "Inserisci il percorso per"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:414
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:446
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:30
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:215
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:574
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:573
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Ok"
 msgstr "Ok"
 
@@ -640,12 +641,12 @@ msgid "New default installation source"
 msgstr "Nuovo percorso di installazione predefinito"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:326
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:558
 msgid "Choose Directory"
 msgstr "Scegli una directory"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:334
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:567
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:566
 msgid "Default net location"
 msgstr "Indirizzo di rete predefinito"
 
@@ -678,7 +679,7 @@ msgstr "Rimuovi TeX Live 2009"
 msgid "Complete removal completed"
 msgstr "Rimozione completa terminata"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:176
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
 msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
@@ -686,26 +687,26 @@ msgstr ""
 "Lettura dell'archivio locale di TeX Live\n"
 "Questa operazione può richiedere del tempo, attendere!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:212
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:211
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:213
 msgid "About"
 msgstr "Informazioni"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:232
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
 msgid "Current installation source:"
 msgstr "Archivio di installazione:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:235
 msgid "Load"
 msgstr "Carica"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
 msgid "Press this button to load the database from the specified location."
 msgstr ""
 "Premi questo pulsante per caricare l'archivio di installazione "
 "dall'indirizzo specificato."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:241
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
 msgid ""
 "Change source from where packages are fetched at installation and update "
 "time."
@@ -713,29 +714,29 @@ msgstr ""
 "Cambia il percorso dell'archivio da cui prelevare i pacchetti durante "
 "l'installazione e l'aggiornamento."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
 msgid "Debug"
 msgstr "Debug"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:252
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:251
 msgid "Turn on debug mode."
 msgstr "Attiva la modalità di debug"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:264
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:377
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:263
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:376
 msgid "Installation"
 msgstr "Installazione"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:267
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:266
 msgid "Adding packages"
 msgstr "Aggiunta dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:269
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:268
 msgid "Install selected"
 msgstr "Installa selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:273
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:290
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:272
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:289
 msgid ""
 "The database of the installation source has not been loaded.\n"
 "\n"
@@ -745,49 +746,49 @@ msgstr ""
 "\n"
 "Usa il pulsante \"Carica\" (ed eventualmente \"Cambia\") per procedere."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:274
 msgid "Update"
 msgstr "Aggiornamento"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:279
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:278
 msgid "Updating packages"
 msgstr "Aggiornamento dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:281
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:280
 msgid "Update all"
 msgstr "Aggiorna tutti"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:285
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:284
 msgid "Update selected"
 msgstr "Aggiorna selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:292
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:422
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:291
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:421
 msgid "Remove"
 msgstr "Rimozione"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:295
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:294
 msgid "Removing packages"
 msgstr "Rimozione dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:297
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:296
 msgid "Remove selected"
 msgstr "Rimuovi selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:301
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:300
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:347
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:348
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:349
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:350
 msgid "Please click on an item on the left for details"
 msgstr "Seleziona un elemento dall'elenco a sinistra per vedere i dettagli"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:320
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:336
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:319
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:335
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:609
 msgid "Completed"
 msgstr "Completato"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:334
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:333
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
@@ -795,7 +796,7 @@ msgstr ""
 "Lettura dell'archivio remoto di TeX Live\n"
 "Questa operazione può richiedere del tempo, attendere!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
 "If you want to install or update packages, please try with a different "
@@ -809,11 +810,11 @@ msgstr ""
 "\n"
 "Per la configurazione e la rimozione non è necessario fare nulla."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:343
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
 msgid "...please change me..."
 msgstr "...da cambiare..."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:480
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:479
 msgid ""
 "No updates found.\n"
 "\n"
@@ -837,15 +838,15 @@ msgstr ""
 "Per rendere permanente la modifica, cambia il percorso di installazione "
 "predefinito dalla pagina \"Configurazione\"."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
 msgid "Everything up-to-date!"
 msgstr "Il sistema è aggiornato completamente!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
 msgid "Warning"
 msgstr "Attenzione"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -863,7 +864,7 @@ msgstr ""
 "Successivamente potrai riavviare tlmgr proseguire con ulteriori "
 "aggiornamenti."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:513
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -871,14 +872,14 @@ msgstr ""
 "Attendere qualche istante dopo che il programma sia terminato in modo tale "
 "da completare l'aggiornamento."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:552
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
 msgid "Change Location"
 msgstr "Cambia il percorso"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:555
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:554
 msgid "New location:"
 msgstr "Nuovo indirizzo:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Warning Window"
 msgstr "Finestra di Avviso"

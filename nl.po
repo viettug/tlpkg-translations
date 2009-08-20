@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-16 23:55+0200\n"
+"POT-Creation-Date: 2009-08-20 04:15+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -103,7 +103,7 @@ msgstr "Platform(s)"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:135
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:171
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:253
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:239
 msgid "Change"
 msgstr "Wijzig"
 
@@ -232,7 +232,7 @@ msgid "Install TeX Live"
 msgstr "Installeer TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:207
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:206
 msgid "Quit"
 msgstr "Afbreken"
 
@@ -252,6 +252,7 @@ msgstr "Afbreken"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:390
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:423
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:455
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:578
 msgid "Cancel"
 msgstr "Afbreken"
 
@@ -324,11 +325,11 @@ msgstr "Pad voor"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:414
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:446
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:30
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:215
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:574
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:573
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Ok"
 msgstr "Ok"
 
@@ -635,12 +636,12 @@ msgid "New default installation source"
 msgstr "Nieuwe standaard installatie-bron"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:326
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:558
 msgid "Choose Directory"
 msgstr "Kies folder"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:334
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:567
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:566
 msgid "Default net location"
 msgstr "Standaard net lokatie"
 
@@ -672,7 +673,7 @@ msgstr "Verwijder TeX Live 2009"
 msgid "Complete removal completed"
 msgstr "Volledige verwijdering voltooid"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:176
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
 msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
@@ -680,52 +681,52 @@ msgstr ""
 "De lokale TeX Live Database wordt geladen.\n"
 "Dit kan even duren, geduld aub!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:212
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:211
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:213
 msgid "About"
 msgstr "Info"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:232
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
 msgid "Current installation source:"
 msgstr "Huidige installatie-bron:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:235
 msgid "Load"
 msgstr "Laad"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
 msgid "Press this button to load the database from the specified location."
 msgstr "Klik deze knop om de database te laden van de aangegeven lokatie."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:241
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
 msgid ""
 "Change source from where packages are fetched at installation and update "
 "time."
 msgstr "Kies een andere bron voor installeren en aktualiseren van pakketten"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
 msgid "Debug"
 msgstr "Foutopsporing"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:252
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:251
 msgid "Turn on debug mode."
 msgstr "Zet foutopsporingsmodus aan"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:264
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:377
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:263
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:376
 msgid "Installation"
 msgstr "Installeer TeX Live"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:267
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:266
 msgid "Adding packages"
 msgstr "Pakketten toevoegen"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:269
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:268
 msgid "Install selected"
 msgstr "Installeer keuzes"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:273
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:290
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:272
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:289
 msgid ""
 "The database of the installation source has not been loaded.\n"
 "\n"
@@ -735,49 +736,49 @@ msgstr ""
 "\n"
 "Gebruik hiervoor aub. de \"Laad\" (en mogelijk \"Wijzig\") knop."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:274
 msgid "Update"
 msgstr "Update"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:279
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:278
 msgid "Updating packages"
 msgstr "Pakketten aktualiseren"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:281
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:280
 msgid "Update all"
 msgstr "Alles aktualiseren"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:285
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:284
 msgid "Update selected"
 msgstr "Aktualiseer keuzen"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:292
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:422
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:291
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:421
 msgid "Remove"
 msgstr "Verwijder"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:295
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:294
 msgid "Removing packages"
 msgstr "Pakketten verwijderen"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:297
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:296
 msgid "Remove selected"
 msgstr "Verwijder keuzes"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:301
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:300
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:347
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:348
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:349
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:350
 msgid "Please click on an item on the left for details"
 msgstr "Klik aub. op een item links voor details"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:320
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:336
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:319
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:335
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:609
 msgid "Completed"
 msgstr "Klaar"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:334
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:333
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
@@ -785,7 +786,7 @@ msgstr ""
 "Externe TeX Live Database wordt geladen\n"
 "Dit kan even duren, wacht aub!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
 "If you want to install or update packages, please try with a different "
@@ -799,11 +800,11 @@ msgstr ""
 "\n"
 "Voor instellingen en verwijderen hoeft u niets te doen."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:343
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
 msgid "...please change me..."
 msgstr "...verander mij aub..."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:480
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:479
 msgid ""
 "No updates found.\n"
 "\n"
@@ -827,15 +828,15 @@ msgstr ""
 "Als u het permanent wilt veranderen, ga dan naar het \"Instellingen\" "
 "tabblad en wijzig de standaard installatiebron."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
 msgid "Everything up-to-date!"
 msgstr "Alles is de nieuwste versie!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
 msgid "Warning"
 msgstr "Waarschuwing"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -849,7 +850,7 @@ msgstr ""
 "Het programma zal stoppen na de aktualisatie.\n"
 "Daarna kunt u het programma herstarten voor verdere aktualisaties."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:513
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -857,14 +858,14 @@ msgstr ""
 "Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan "
 "worden afgemaakt."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:552
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
 msgid "Change Location"
 msgstr "Wijzig lokatie"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:555
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:554
 msgid "New location:"
 msgstr "Nieuwe lokatie:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Warning Window"
 msgstr "Waarschuwingsvenster"

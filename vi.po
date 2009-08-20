@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-16 23:55+0200\n"
+"POT-Creation-Date: 2009-08-20 04:15+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -103,7 +103,7 @@ msgstr "Hệ thống nhị phân"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:135
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:171
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:253
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:239
 msgid "Change"
 msgstr "Thay đổi"
 
@@ -232,7 +232,7 @@ msgid "Install TeX Live"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:207
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:206
 msgid "Quit"
 msgstr "Thoát"
 
@@ -252,6 +252,7 @@ msgstr "Thoát"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:390
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:423
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:455
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:578
 msgid "Cancel"
 msgstr "Bỏ qua"
 
@@ -327,11 +328,11 @@ msgstr "Nhập đường dẫn cho"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:414
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:446
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:30
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:215
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:574
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:573
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Ok"
 msgstr "Đồng ý"
 
@@ -623,12 +624,12 @@ msgid "New default installation source"
 msgstr "Nguồn cài đặt mặc định mới"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:326
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:558
 msgid "Choose Directory"
 msgstr "Chọn thư mục"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:334
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:567
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:566
 msgid "Default net location"
 msgstr "Vị trí mạng mặc định"
 
@@ -658,7 +659,7 @@ msgstr "Gỡ TeX Live 2009 khỏi hệ thống"
 msgid "Complete removal completed"
 msgstr "Đã gỡ bỏ xong TeX Live 2009"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:176
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
 msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
@@ -666,52 +667,52 @@ msgstr ""
 "Đang nạp dữ liệu TeX Live cục bộ.\n"
 "Việc này mất chút ít thời gian. Bạn vui lòng đợi!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:212
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:211
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:213
 msgid "About"
 msgstr "Giới thiệu"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:232
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
 msgid "Current installation source:"
 msgstr "Nguồn cài đặt đang dùng:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:235
 msgid "Load"
 msgstr "Nạp"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
 msgid "Press this button to load the database from the specified location."
 msgstr "Nhấn nút này để nạp dữ liệu từ địa chỉ đặc biệt khác"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:241
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
 msgid ""
 "Change source from where packages are fetched at installation and update "
 "time."
 msgstr "Đổi nguồn cài đặt"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
 msgid "Debug"
 msgstr "gỡ lỗi"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:252
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:251
 msgid "Turn on debug mode."
 msgstr "Bật chế độ gỡ lỗi khi thi hành tlmgr"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:264
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:377
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:263
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:376
 msgid "Installation"
 msgstr "Cài đặt"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:267
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:266
 msgid "Adding packages"
 msgstr "Thêm gói"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:269
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:268
 msgid "Install selected"
 msgstr "Cài đặt phần đã chọn"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:273
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:290
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:272
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:289
 msgid ""
 "The database of the installation source has not been loaded.\n"
 "\n"
@@ -721,49 +722,49 @@ msgstr ""
 "\n"
 "Vui lòng dùng các nút \"Nạp\" (và có thể nút \"Thay đổi\") để làm việc này."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:275
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:274
 msgid "Update"
 msgstr "Cập nhật"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:279
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:278
 msgid "Updating packages"
 msgstr "Đang cập nhật gói"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:281
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:280
 msgid "Update all"
 msgstr "Cập nhật tất cả"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:285
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:284
 msgid "Update selected"
 msgstr "Cập nhật phần được chọn"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:292
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:422
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:291
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:421
 msgid "Remove"
 msgstr "Gỡ bỏ"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:295
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:294
 msgid "Removing packages"
 msgstr "Đang gỡ gói"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:297
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:296
 msgid "Remove selected"
 msgstr "Gỡ phần được chọn"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:301
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:300
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:347
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:348
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:349
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:350
 msgid "Please click on an item on the left for details"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:320
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:336
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:319
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:335
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:609
 msgid "Completed"
 msgstr "Hoàn thành"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:334
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:333
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
@@ -771,7 +772,7 @@ msgstr ""
 "Đang nạp dữ liệu TeX Live từ mạng\n"
 "Việc này có thể hơi lâu. Bạn vui lòng đợi!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
 "If you want to install or update packages, please try with a different "
@@ -785,11 +786,11 @@ msgstr ""
 "\n"
 "Để cấu hình hoặc gỡ bỏ TeX Live, bạn không cần làm như vậy!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:343
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
 msgid "...please change me..."
 msgstr "...vui lòng thay đổi..."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:480
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:479
 msgid ""
 "No updates found.\n"
 "\n"
@@ -803,15 +804,15 @@ msgid ""
 "change the default installation source."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:482
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
 msgid "Everything up-to-date!"
 msgstr "Everything up-to-date!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
 msgid "Warning"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -820,7 +821,7 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:513
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -828,14 +829,14 @@ msgstr ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:552
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
 msgid "Change Location"
 msgstr "Đổi vị trí"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:555
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:554
 msgid "New location:"
 msgstr "Địa điểm mới:"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:619
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Warning Window"
 msgstr ""
