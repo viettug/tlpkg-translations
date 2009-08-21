@@ -81,7 +81,7 @@ msgstr "Grundlegende Informationen"
 #: tlpkg/installer/install-menu-perltk.pl:169
 #: tlpkg/installer/install-menu-perltk.pl:739
 msgid "Binary system(s)"
-msgstr ""
+msgstr "Binärsysteme"
 
 #: tlpkg/installer/install-menu-perltk.pl:172
 #: tlpkg/installer/install-menu-perltk.pl:181
@@ -184,7 +184,7 @@ msgstr "Alle Formatdateien erstellen"
 
 #: tlpkg/installer/install-menu-perltk.pl:258
 msgid "Allow execution of restricted list of programs via \\write18"
-msgstr ""
+msgstr "Ausführen einer eingeschränkten Liste von Programmen via \\write18"
 
 #: tlpkg/installer/install-menu-perltk.pl:264
 msgid "Install font/macro doc tree"
@@ -217,12 +217,12 @@ msgstr "Verknüpfungen im Menü und am Desktop erstellen"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:431
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:435
 msgid "Change file associations"
-msgstr ""
+msgstr "Anpassen der Dateiverknüpfungen"
 
 #: tlpkg/installer/install-menu-perltk.pl:300
 #: tlpkg/installer/install-menu-wizard.pl:321
 msgid "Installation for all users"
-msgstr ""
+msgstr "Installation für alle Benutzer"
 
 #: tlpkg/installer/install-menu-perltk.pl:306
 msgid "Install TeXworks front end"
@@ -261,20 +261,15 @@ msgstr "Abbruch"
 #: tlpkg/installer/install-menu-wizard.pl:426
 msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Für Verweise auf Dokumentation sehen Sie bitte TEXDIR/index.html.\n"
 "Die Webseite des TeX Live Projektes (http://tug.org/texlive/)\n"
 "informiert über Updates und Korrekturen.\n"
 "\n"
-"TeX Live ist ein gemeinsames Projekt der TeX Benutzer Gruppen rund um die "
-"Welt;\n"
+"TeX Live ist ein gemeinsames Projekt der TeX Benutzer Gruppen rund um die Welt;\n"
 "bitte überlegen Sie sich der für sie sinnvollsten Gruppe beizutreten. Die\n"
-"Liste der Gruppen können Sie am Web auf http://tug.org/usergroups.html "
-"finden."
+"Liste der Gruppen können Sie am Web auf http://tug.org/usergroups.html finden."
 
 #: tlpkg/installer/install-menu-perltk.pl:376
 #: tlpkg/installer/install-menu-wizard.pl:428
@@ -502,21 +497,16 @@ msgid "Force"
 msgstr "erzwingen"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid ""
-"Force the removal of a package even if it is referenced in a collection."
-msgstr ""
-"Erzwinge das Entfernen einzelner Pakete ohne Rücksicht auf Abhängigkeiten."
+msgid "Force the removal of a package even if it is referenced in a collection."
+msgstr "Erzwinge das Entfernen einzelner Pakete ohne Rücksicht auf Abhängigkeiten."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
 msgstr "Abhängigkeiten ignorieren"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid ""
-"For collections: install or remove will not install/remove the dependencies"
-msgstr ""
-"Bei Paketsammlungen werden Abhängigkeiten automatisch aufgelöst (sowohl bei "
-"der Installation als auch beim Entfernen)"
+msgid "For collections: install or remove will not install/remove the dependencies"
+msgstr "Bei Paketsammlungen werden Abhängigkeiten automatisch aufgelöst (sowohl bei der Installation als auch beim Entfernen)"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -552,15 +542,15 @@ msgstr "Voreingestellte Installationsquelle"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:50
 msgid "Create formats on installation"
-msgstr ""
+msgstr "Formatdateien werden bei der Installation erstellt"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:58
 msgid "Install macro/font sources"
-msgstr ""
+msgstr "Installation der Macro/Font-Quellen"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:66
 msgid "Install macro/font docs"
-msgstr ""
+msgstr "Installation der Macro/Font-Dokumentation"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:74
 msgid "Default backup directory"
@@ -701,9 +691,7 @@ msgid "Press this button to load the database from the specified location."
 msgstr "Pfad zur TeX Live-Datenbank."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
-msgid ""
-"Change source from where packages are fetched at installation and update "
-"time."
+msgid "Change source from where packages are fetched at installation and update time."
 msgstr "Ändern der Installationsquelle"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
@@ -736,8 +724,7 @@ msgid ""
 msgstr ""
 "Die Datenbank der aktuellen Installationsquelle wurde nicht geladen.\n"
 "\n"
-"Bitte durch betätigen der \"Lade\"- (und gegebenenfalls zuvor der \"Ändern"
-"\"-) Schaltfläche nachholen."
+"Bitte durch betätigen der \"Lade\"- (und gegebenenfalls zuvor der \"Ändern\"-) Schaltfläche nachholen."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:274
 msgid "Update"
@@ -773,9 +760,7 @@ msgstr "Entfernen der ausgewählten Pakete"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:348
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:349
 msgid "Please click on an item on the left for details"
-msgstr ""
-"Zur Anzeige der Paketinformationen bitte ein Paket im linken Teil des "
-"Fensters auswählen."
+msgstr "Zur Anzeige der Paketinformationen bitte ein Paket im linken Teil des Fensters auswählen."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:319
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:335
@@ -794,14 +779,12 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
-"If you want to install or update packages, please try with a different "
-"installation source/location!\n"
+"If you want to install or update packages, please try with a different installation source/location!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Die TeX Live Datenbank konnte nicht von $newroot geladen werden.\n"
-"Benutzen Sie eine andere Installationsquelle wenn sie Pakete installieren "
-"oder aktualisieren wollen.\n"
+"Benutzen Sie eine andere Installationsquelle wenn sie Pakete installieren oder aktualisieren wollen.\n"
 "\n"
 "Um TeX Live zu konfigurieren oder zu löschen ist dies nicht nötig."
 
@@ -815,24 +798,19 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on "
-"the \"Change\" button above and select \"Default Net Location\" (or any "
-"other network location you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default Net Location\" (or any other network location you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and "
-"change the default installation source."
+"If you want to change it permanently, go to the \"Configuration\" Tab and change the default installation source."
 msgstr ""
 "Keine aktuelleren Pakete gefunden.\n"
 "\n"
 "Als aktuelle Installationsquelle ist ein lokaler Pfad angegeben.\n"
 "\n"
 "Soll einmalig aus dem Internet aktualisiert werden,\n"
-"betätigen Sie bitte obige Schaltfläche \"Ändern\" und wählen dann die "
-"Schaltfläche \"Voreingestellte Netzwerkquelle\"\n"
+"betätigen Sie bitte obige Schaltfläche \"Ändern\" und wählen dann die Schaltfläche \"Voreingestellte Netzwerkquelle\"\n"
 "oder geben Sie eine andere brauchbare Installationsquelle an.\n"
 "\n"
-"Soll die Installationsquelle dauerhaft geändert werden wählen Sie diese "
-"bitte in der Rubrik \"Konfiguration\"."
+"Soll die Installationsquelle dauerhaft geändert werden wählen Sie diese bitte in der Rubrik \"Konfiguration\"."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
 msgid "Everything up-to-date!"
@@ -851,20 +829,14 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 "Aktualisierungen des TeX Live Managers stehen bereit.\n"
-"Installation und Aktualisierungen anderer Pakete nur mit der \"erzwingen\" "
-"Option möglich.\n"
-"Bitte gehen Sie zur Aktualisierungsseite und drücken Sie \"Aktualisieren "
-"aller Pakete\".\n"
+"Installation und Aktualisierungen anderer Pakete nur mit der \"erzwingen\" Option möglich.\n"
+"Bitte gehen Sie zur Aktualisierungsseite und drücken Sie \"Aktualisieren aller Pakete\".\n"
 "Das Programm beendet sich nach der Aktualisierung.\n"
 "Danach können Sie das Programm neu starten für weitere Aktualisierungen."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Bitte warten Sie etwas nachdem das Programm sich beendet hat damit die "
-"Aktualisierungen durchgeführt werden können."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Bitte warten Sie etwas nachdem das Programm sich beendet hat damit die Aktualisierungen durchgeführt werden können."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
 msgid "Change Location"
@@ -877,3 +849,4 @@ msgstr "Neue Quelle"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
 msgid "Warning Window"
 msgstr "Warnung"
+
