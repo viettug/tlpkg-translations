@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-20 04:15+0200\n"
+"POT-Creation-Date: 2009-08-26 03:27+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -104,7 +104,7 @@ msgstr "Binárny(e) systém(y)"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:135
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:171
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:253
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:239
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:141
 msgid "Change"
 msgstr "Zmeniť"
 
@@ -235,7 +235,7 @@ msgid "Install TeX Live"
 msgstr "Nainštaluj TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:206
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:108
 msgid "Quit"
 msgstr "Ukončiť"
 
@@ -255,7 +255,7 @@ msgstr "Ukončiť"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:390
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:423
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:455
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:578
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:480
 msgid "Cancel"
 msgstr "Zrušiť"
 
@@ -329,11 +329,11 @@ msgstr "Vložte cestu pre"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:414
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:446
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:30
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:214
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:341
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:573
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:116
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:243
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:412
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:475
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Ok"
 msgstr "OK"
 
@@ -547,8 +547,9 @@ msgid "Default settings"
 msgstr "Predvolené nastavenia"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:41
-msgid "Default installation source"
-msgstr "Predvolený zdroj inštalácie"
+#, fuzzy
+msgid "Default package repository"
+msgstr "Predvolený záložný adresár"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:50
 msgid "Create formats on installation"
@@ -630,22 +631,25 @@ msgid "Remove symbolic links"
 msgstr "Odstrániť symbolické spojenia (linky)"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:316
-msgid "Change default installation source"
+#, fuzzy
+msgid "Change default package repository"
 msgstr "Zmeniť predvolený zdroj inštalácie"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:319
-msgid "New default installation source"
-msgstr "Nový predvolený zdroj inštalácie"
+#, fuzzy
+msgid "New default package repository"
+msgstr "Predvolený záložný adresár"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:326
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:558
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:460
 msgid "Choose Directory"
 msgstr "Zvoliť adresár"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:334
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:566
-msgid "Default net location"
-msgstr "Predvolené sieťové umiestnenie"
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
+#, fuzzy
+msgid "Default net package repository"
+msgstr "Predvolený záložný adresár"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
 msgid "Select paper format for"
@@ -677,7 +681,7 @@ msgstr "Odstrániť TeX Live 2009"
 msgid "Complete removal completed"
 msgstr "Úplné odstránenie bolo dokončené"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:77
 msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
@@ -685,55 +689,58 @@ msgstr ""
 "Načítava sa lokálna databáza TeX Live.\n"
 "To môže trvať istý čas, počkajte prosím!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:211
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:213
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:113
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:115
 msgid "About"
 msgstr "O programe"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
-msgid "Current installation source:"
-msgstr "Aktuálny zdroj inštalácie"
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:133
+msgid "Current package repository:"
+msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:235
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:137
 msgid "Load"
 msgstr "Načítať"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:236
-msgid "Press this button to load the database from the specified location."
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:138
+#, fuzzy
+msgid "Press this button to load the database from the package repository."
 msgstr "Stlačte toto tlačidlo na načítanie databázy z určeného miesta."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:240
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:142
+#, fuzzy
 msgid ""
-"Change source from where packages are fetched at installation and update "
-"time."
+"Change package repository from where packages are fetched at installation "
+"and update time."
 msgstr ""
 "Zmeniť zdroj odkiaľ budú preberané balíky počas inštaláciealebo aktualizácie."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:248
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:150
 msgid "Debug"
 msgstr "Ladenie"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:251
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:153
 msgid "Turn on debug mode."
 msgstr "Zapnúť režim ladenia"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:263
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:376
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:165
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:278
 msgid "Installation"
 msgstr "Inštalácia"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:266
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:168
 msgid "Adding packages"
 msgstr "Pridanie balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:268
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:170
 msgid "Install selected"
 msgstr "Nainštalovať zvolené"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:272
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:289
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:174
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:191
+#, fuzzy
 msgid ""
-"The database of the installation source has not been loaded.\n"
+"The database of the package repository has not been loaded.\n"
 "\n"
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
@@ -741,49 +748,49 @@ msgstr ""
 "\n"
 "Použite, prosím, tlačidlo \"Načítať\" (prípadne \"Zmeň\")."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:274
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:176
 msgid "Update"
 msgstr "Aktualizovať"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:278
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:180
 msgid "Updating packages"
 msgstr "Aktualizácia balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:280
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:182
 msgid "Update all"
 msgstr "Aktualizovať všetko"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:284
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
 msgid "Update selected"
 msgstr "Aktualizovať zvolené"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:291
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:421
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:193
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:323
 msgid "Remove"
 msgstr "Odstrániť"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:294
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:196
 msgid "Removing packages"
 msgstr "Odstránenie balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:296
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:198
 msgid "Remove selected"
 msgstr "Odstrániť zvolené"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:300
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:347
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:348
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:349
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:202
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:249
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:250
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:251
 msgid "Please click on an item on the left for details"
 msgstr "Na upresnenie kliknite, prosim, na položku vľavo"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:319
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:335
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:609
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:221
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
 msgid "Completed"
 msgstr "Dokončené"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:333
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:235
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
@@ -791,11 +798,12 @@ msgstr ""
 "Ukladá sa vzdialená databáza TeX Live.\n"
 "Môže to istý čas trvať, počkajte prosím!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:340
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:242
+#, fuzzy
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
 "If you want to install or update packages, please try with a different "
-"installation source/location!\n"
+"package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
@@ -805,11 +813,12 @@ msgstr ""
 "\n"
 "Na vykonanie aktualizácie a odstránenia nemusíte nič urobiť."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:342
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:244
 msgid "...please change me..."
 msgstr "... zmeň ma, prosím ..."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:479
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:381
+#, fuzzy
 msgid ""
 "No updates found.\n"
 "\n"
@@ -817,10 +826,10 @@ msgid ""
 "\n"
 "If you want to install from the Internet for this one time only, click on "
 "the \"Change\" button above and select \"Default Net Location\" (or any "
-"other network location you know to be working).\n"
+"other package repository you know to be working).\n"
 "\n"
 "If you want to change it permanently, go to the \"Configuration\" Tab and "
-"change the default installation source."
+"change the default package repository."
 msgstr ""
 "Žiadne aktualizácie sa nenašli.\n"
 "\n"
@@ -833,15 +842,15 @@ msgstr ""
 "Ak to chcete zmeniť natrvalo, prejdite na záložku \"Konfigurácia\" a zmeňte "
 "predvolený zdroj inštalácie.  "
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:481
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:383
 msgid "Everything up-to-date!"
 msgstr "Všetko je aktuálne!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:510
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:412
 msgid "Warning"
 msgstr "Varovanie"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:413
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -856,7 +865,7 @@ msgstr ""
 "Po aktualizácii ukončí program svoju činnosť.\n"
 "Potom môžete program spustiť znova na vykonanie ďalších aktualizácií."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:512
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:414
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -864,14 +873,29 @@ msgstr ""
 "Počkajte, prosím, chvíľočku po ukončení programu, aby bolo možné dokončiť "
 "aktualizáciu."
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:551
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:453
 msgid "Change Location"
 msgstr "Zmeniť umiestnenie"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:554
-msgid "New location:"
-msgstr "Nové umiestnenie"
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:456
+msgid "New package repository:"
+msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:618
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Warning Window"
 msgstr "Výstražné okno"
+
+#~ msgid "Default installation source"
+#~ msgstr "Predvolený zdroj inštalácie"
+
+#~ msgid "New default installation source"
+#~ msgstr "Nový predvolený zdroj inštalácie"
+
+#~ msgid "Default net location"
+#~ msgstr "Predvolené sieťové umiestnenie"
+
+#~ msgid "Current installation source:"
+#~ msgstr "Aktuálny zdroj inštalácie"
+
+#~ msgid "New location:"
+#~ msgstr "Nové umiestnenie"
