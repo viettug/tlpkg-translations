@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-08-26 03:27+0200\n"
-"PO-Revision-Date: 2009-08-17 20:31+0900\n"
+"PO-Revision-Date: 2009-08-28 13:18+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Русский <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:14
@@ -552,9 +552,8 @@ msgid "Default settings"
 msgstr "Значения по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:41
-#, fuzzy
 msgid "Default package repository"
-msgstr "Директория резервного копирования по умолчанию"
+msgstr "Репозиторий пакетов по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:50
 msgid "Create formats on installation"
@@ -636,14 +635,12 @@ msgid "Remove symbolic links"
 msgstr "Удалить символьные ссылки"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:316
-#, fuzzy
 msgid "Change default package repository"
-msgstr "Изменить источник установки по умолчанию"
+msgstr "Изменить репозиторий пакетов по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:319
-#, fuzzy
 msgid "New default package repository"
-msgstr "Директория резервного копирования по умолчанию"
+msgstr "Новый репозиторий пакетов по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:326
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:460
@@ -652,9 +649,8 @@ msgstr "Выберите директорию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:334
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
-#, fuzzy
 msgid "Default net package repository"
-msgstr "Директория резервного копирования по умолчанию"
+msgstr "Сетевой репозиторий по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
 msgid "Select paper format for"
@@ -700,23 +696,23 @@ msgstr "О программе"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:133
 msgid "Current package repository:"
-msgstr ""
+msgstr "Текущий репозиторий пакетов"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:137
 msgid "Load"
 msgstr "Загрузить"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:138
-#, fuzzy
 msgid "Press this button to load the database from the package repository."
-msgstr "Нажмите эту кнопку, чтобы загрузить базу данных с указанного адреса."
+msgstr "Нажмите эту кнопку, чтобы загрузить базу данных с репозитория пакетов."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:142
-#, fuzzy
 msgid ""
 "Change package repository from where packages are fetched at installation "
 "and update time."
-msgstr "Смените источник, откуда будут получены обновлённые и новые пакеты."
+msgstr ""
+"Измените репозиторий пакетов, откуда будут получены обновлённые и новые "
+"пакеты."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:150
 msgid "Debug"
@@ -741,13 +737,12 @@ msgstr "Установить выбранное"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:174
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:191
-#, fuzzy
 msgid ""
 "The database of the package repository has not been loaded.\n"
 "\n"
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
-"База данных источника установки не была загружена.\n"
+"База данных репозитория пакетов не была загружена.\n"
 "\n"
 "Чтобы это сделать, используйте кнопку \"Загрузить\" (и возможно \"Изменить"
 "\")."
@@ -803,7 +798,6 @@ msgstr ""
 "Пожалуйста подождите, это может занять некоторое время!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:242
-#, fuzzy
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
 "If you want to install or update packages, please try with a different "
@@ -812,8 +806,8 @@ msgid ""
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Не могу загрузить базу данных TeX Live из $newroot\n"
-"Если вы хотите установить или обновить пакеты, попробуйте другой источник/"
-"адрес установки!\n"
+"Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий "
+"пакетов!\n"
 "\n"
 "Для настройки или удаления вам не нужно что-либо делать."
 
@@ -822,7 +816,6 @@ msgid "...please change me..."
 msgstr "...пожалуйста измените меня..."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:381
-#, fuzzy
 msgid ""
 "No updates found.\n"
 "\n"
@@ -841,10 +834,10 @@ msgstr ""
 "\n"
 "Если вы хотите установить из интернета только один раз, нажмите на кнопку "
 "\"Изменить\" вверху и выберите \"Сетевой адрес по умолчанию\" (или любой "
-"другой сетевой адрес, который как вы знаете работает).\n"
+"другой репозиторий пакетов, который как вы знаете работает).\n"
 "\n"
 "Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка\" "
-"и измените источник установки по умолчанию."
+"и измените репозиторий пакетов по умолчанию."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:383
 msgid "Everything up-to-date!"
@@ -883,7 +876,7 @@ msgstr "Изменить адрес"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:456
 msgid "New package repository:"
-msgstr ""
+msgstr "Новый репозиторий пакетов:"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Warning Window"
