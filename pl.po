@@ -427,9 +427,14 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
-"Witamy w programie instalującym TeX Live\n"
+"Witamy w programie instalującym TeX Live 2009\n"
 "http://tug.org/texlive\n"
 "\n"
+"Ten program pozwala na uproszczoną instalację.\n"
+"\n"
+"Aby dokonać zaawansowanej instalacji (z wyborem\n"
+"schematów, kolekcji itp.) opuść program i uruchom go\n"
+"z linii poleceń: install-tl-advanced."
 
 #: tlpkg/installer/install-menu-wizard.pl:178
 #: tlpkg/installer/install-menu-wizard.pl:368
