@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-26 03:27+0200\n"
+"POT-Creation-Date: 2009-08-29 23:55+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Michal Madr <m.madr@seznam.cz>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -522,8 +522,8 @@ msgid "Architectures"
 msgstr "Architektury"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select architectures to be added (removal not possible)"
-msgstr "Vybrat architekturu k přidání (odstranění není možné)"
+msgid "Select set of supported architectures"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -882,6 +882,9 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Warning Window"
 msgstr "Okno s varováním"
+
+#~ msgid "Select architectures to be added (removal not possible)"
+#~ msgstr "Vybrat architekturu k přidání (odstranění není možné)"
 
 #~ msgid "Default installation source"
 #~ msgstr "Výchozí zdroj instalace"

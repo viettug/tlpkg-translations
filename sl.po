@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-26 03:27+0200\n"
+"POT-Creation-Date: 2009-08-29 23:55+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -505,7 +505,7 @@ msgid "Architectures"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select architectures to be added (removal not possible)"
+msgid "Select set of supported architectures"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61

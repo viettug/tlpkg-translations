@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-26 03:27+0200\n"
+"POT-Creation-Date: 2009-08-29 23:55+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: \n"
@@ -526,8 +526,8 @@ msgid "Architectures"
 msgstr "Architetture"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select architectures to be added (removal not possible)"
-msgstr "Seleziona le architetture da aggiungere (la rimozione non è possibile)"
+msgid "Select set of supported architectures"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -892,6 +892,10 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Warning Window"
 msgstr "Finestra di Avviso"
+
+#~ msgid "Select architectures to be added (removal not possible)"
+#~ msgstr ""
+#~ "Seleziona le architetture da aggiungere (la rimozione non è possibile)"
 
 #~ msgid "Default installation source"
 #~ msgstr "Percorso di installazione predefinito"

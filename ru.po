@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-26 03:27+0200\n"
+"POT-Creation-Date: 2009-08-29 23:55+0200\n"
 "PO-Revision-Date: 2009-08-28 13:18+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Русский <tex-live@tug.org>\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:14
@@ -528,8 +528,8 @@ msgid "Architectures"
 msgstr "Архитектуры"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select architectures to be added (removal not possible)"
-msgstr "Выберите добавляемые архитектуры (удаление не возможно)"
+msgid "Select set of supported architectures"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -881,6 +881,9 @@ msgstr "Новый репозиторий пакетов:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:520
 msgid "Warning Window"
 msgstr "Предупреждение"
+
+#~ msgid "Select architectures to be added (removal not possible)"
+#~ msgstr "Выберите добавляемые архитектуры (удаление не возможно)"
 
 #~ msgid "Default installation source"
 #~ msgstr "Источник установки по умолчанию"
