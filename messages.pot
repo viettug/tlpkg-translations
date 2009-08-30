@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-30 22:24+0200\n"
+"POT-Creation-Date: 2009-08-30 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -624,6 +624,14 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
 msgid "Select paper format for"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:404
+msgid "keep arbitrarly many"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:405
+msgid "disable"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:10
