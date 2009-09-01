@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 German Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-31 20:20+0200\n"
+"POT-Creation-Date: 2009-09-01 09:39+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
@@ -658,7 +658,7 @@ msgid "Select paper format for"
 msgstr "Papierformat für"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:424
-msgid "keep arbitrarly many"
+msgid "keep arbitrarily many"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425

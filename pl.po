@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-31 20:20+0200\n"
+"POT-Creation-Date: 2009-09-01 09:39+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -257,7 +257,10 @@ msgstr "Anuluj"
 #: tlpkg/installer/install-menu-wizard.pl:459
 msgid ""
 "See TEXDIR/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Patrz TEXDIR/index.html z odnośnikami do dokumentacji. Na stronie TeX Live \n"
 "(http://tug.org/texlive/) znajdziesz aktualizacje i poprawki.\n"
@@ -504,7 +507,8 @@ msgid "Force"
 msgstr "wymuś"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid "Force the removal of a package even if it is referenced in a collection."
+msgid ""
+"Force the removal of a package even if it is referenced in a collection."
 msgstr "Wymuś usuwanie pakietu, nawet gdy jest składnikiem kolekcji."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
@@ -512,8 +516,11 @@ msgid "without depends"
 msgstr "bez zależności"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid "For collections: install or remove will not install/remove the dependencies"
-msgstr "Dotyczy kolekcji. Instalacja lub usuwanie nie zainstaluje/usunie pakietów zależnych"
+msgid ""
+"For collections: install or remove will not install/remove the dependencies"
+msgstr ""
+"Dotyczy kolekcji. Instalacja lub usuwanie nie zainstaluje/usunie pakietów "
+"zależnych"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -649,7 +656,8 @@ msgid "Select paper format for"
 msgstr "wybór formatu papieru dla"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:424
-msgid "keep arbitrarly many"
+#, fuzzy
+msgid "keep arbitrarily many"
 msgstr "zachowaj dowolnie wiele kopii"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425
@@ -707,7 +715,9 @@ msgid "Press this button to load the database from the package repository."
 msgstr "Naciśnij ten przycisk, aby wczytać bazę danych z danego repozytorium."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:152
-msgid "Change package repository from where packages are fetched at installation and update time."
+msgid ""
+"Change package repository from where packages are fetched at installation "
+"and update time."
 msgstr "Zmień repozytorium pakietów dla instalacji i aktualizacji."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
@@ -792,7 +802,8 @@ msgid ""
 "Most buttons will be disabled."
 msgstr ""
 "Nie masz uprawnień, aby zmienić instalację.\n"
-"Skontaktuj się z administratorem albo uruchom ten program jako administrator.\n"
+"Skontaktuj się z administratorem albo uruchom ten program jako "
+"administrator.\n"
 "\n"
 "Wiekszość opcji zostanie zablokowana."
 
@@ -807,12 +818,14 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257
 msgid ""
 "Could not load the TeX Live Database from $newroot\n"
-"If you want to install or update packages, please try with a different package repository!\n"
+"If you want to install or update packages, please try with a different "
+"package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Nie można wczytać bazy danych TL z $newroot\n"
-"Do zaistalowania lub aktualizacji pakietów proszę spróbować innej lokalizacji repozytoriumi!\n"
+"Do zaistalowania lub aktualizacji pakietów proszę spróbować innej "
+"lokalizacji repozytoriumi!\n"
 "\n"
 "Dla konfiguracji i/lub usuwania nie musisz nic robić."
 
@@ -826,17 +839,23 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default net package repository\" (or any other package repository you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on "
+"the \"Change\" button above and select \"Default net package repository"
+"\" (or any other package repository you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and change the default package repository."
+"If you want to change it permanently, go to the \"Configuration\" Tab and "
+"change the default package repository."
 msgstr ""
 "Nie znaleziono aktualizacji.\n"
 "\n"
 "Twoja instalacja jest ustawiona na szukanie aktualizacji na dysku.\n"
 "\n"
-"Jeśli chcesz w tej chwili instalować z internetu, naciśnij przycisk \"Zmień\" powyżej i wybierz \"Domyślne repozytorium w sieci\" (lub każdą inną lokalizację w sieci, np. lokalnej, która może działać).\n"
+"Jeśli chcesz w tej chwili instalować z internetu, naciśnij przycisk \"Zmień"
+"\" powyżej i wybierz \"Domyślne repozytorium w sieci\" (lub każdą inną "
+"lokalizację w sieci, np. lokalnej, która może działać).\n"
 "\n"
-"Jeśli chcesz zmienić to ustawienie na stałe, przejdź do zakładki \"Konfiguracja\" i zmień domyślne repozytorium instalacji."
+"Jeśli chcesz zmienić to ustawienie na stałe, przejdź do zakładki "
+"\"Konfiguracja\" i zmień domyślne repozytorium instalacji."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:398
 msgid "Everything up-to-date!"
@@ -861,8 +880,12 @@ msgstr ""
 "Uruchom ponownie program, aby dokonać dalszych aktualizacji."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została dokonana. "
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została "
+"dokonana. "
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
 #, fuzzy
@@ -887,14 +910,18 @@ msgstr ""
 
 #~ msgid "Change Location"
 #~ msgstr "Zmień lokalizację repozytorium "
+
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Zaznacz systemy operacyjne do dodania (usuwanie niemożliwe)"
+
 #~ msgid "Default installation source"
 #~ msgstr "Domyślne źródło instalacji"
+
 #~ msgid "New default installation source"
 #~ msgstr "Nowe domyślne źródło instalacji"
+
 #~ msgid "Current installation source:"
 #~ msgstr "Aktualne źródło instalacji:"
+
 #~ msgid "New location:"
 #~ msgstr "Nowa lokalizacja źródła instalacji"
-

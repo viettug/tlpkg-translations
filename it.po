@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-08-31 20:20+0200\n"
+"POT-Creation-Date: 2009-09-01 09:39+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: \n"
@@ -665,7 +665,7 @@ msgid "Select paper format for"
 msgstr "Seleziona formato carta per"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:424
-msgid "keep arbitrarly many"
+msgid "keep arbitrarily many"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425
