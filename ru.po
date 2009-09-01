@@ -6,16 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-01 09:39+0200\n"
-"PO-Revision-Date: 2009-08-28 13:18+0900\n"
+"POT-Creation-Date: 2009-08-31 20:20+0200\n"
+"PO-Revision-Date: 2009-09-01 17:07+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Русский <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:14
@@ -444,11 +444,11 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use install-tl-advanced.bat"
-msgstr ""
+msgstr "Или используйте install-tl-advanced.bat"
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use the argument --gui perltk to install-tl."
-msgstr ""
+msgstr "Или используйте параметр --gui perltk для install-tk."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 #: tlpkg/installer/install-menu-wizard.pl:394
@@ -535,7 +535,7 @@ msgstr "Архитектуры"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
 msgid "Select set of supported architectures"
-msgstr ""
+msgstr "Выберите набор из поддерживаемых архитектур"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -664,11 +664,11 @@ msgstr "Выберите формат бумаги для"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:424
 msgid "keep arbitrarily many"
-msgstr ""
+msgstr "сохранять сколько угодно"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425
 msgid "disable"
-msgstr ""
+msgstr "отключить"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:10
 msgid "Uninstallation"
@@ -810,6 +810,11 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"У вас нет достаточных полномочий, чтобы изменить как-либо установку.\n"
+"Свяжитесь с администратором или запустите эту программу от имени "
+"администратора.\n"
+"\n"
+"Большая часть кнопок будет отключена."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:250
 msgid ""
@@ -838,7 +843,6 @@ msgid "...please change me..."
 msgstr "...пожалуйста измените меня..."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:396
-#, fuzzy
 msgid ""
 "No updates found.\n"
 "\n"
@@ -856,7 +860,8 @@ msgstr ""
 "Ваша система настроена на просмотр диска на предмет обновлений.\n"
 "\n"
 "Если вы хотите установить из интернета только один раз, нажмите на кнопку "
-"\"Изменить\" вверху и выберите \"Сетевой адрес по умолчанию\" (или любой "
+"\"Изменить\" вверху и выберите \"Сетевой репозиторий по умолчанию\" (или "
+"любой "
 "другой репозиторий пакетов, который как вы знаете работает).\n"
 "\n"
 "Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка\" "
@@ -894,9 +899,8 @@ msgstr ""
 "обновление могло быть закончено."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
-#, fuzzy
 msgid "Change package repository"
-msgstr "Изменить репозиторий пакетов по умолчанию"
+msgstr "Изменить репозиторий пакетов"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
@@ -911,6 +915,8 @@ msgid ""
 ": failed.\n"
 "Please consult the log window for details."
 msgstr ""
+": неудача.\n"
+"Посмотрите окно журнала за подробностями."
 
 #~ msgid "Change Location"
 #~ msgstr "Изменить адрес"
