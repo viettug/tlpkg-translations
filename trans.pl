@@ -68,7 +68,7 @@ our %TRANS;
 
 #
 # __ takes a string argument and checks that it 
-sub __ ($) {
+sub __ ($@) {
   my $key = shift;
   my $ret;
   # if no $::lang is set just return without anything
@@ -97,7 +97,7 @@ sub __ ($) {
   $ret =~ s/\\n/\n/g;
   $ret =~ s/\\"/"/g;
   $ret =~ s/\\\\/\\/g;
-  return $ret;
+  return sprintf($ret, @_);
 }
 
 if (($::lang ne "en") && ($::lang ne "C")) {
