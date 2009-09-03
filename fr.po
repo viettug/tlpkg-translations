@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-09-03 12:28+0200\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2009-09-03 12:30+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -384,9 +384,9 @@ msgid "%s out of %s"
 msgstr "%s parmi %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, fuzzy, perl-format
+#, perl-format
 msgid "%s collections out of %s "
-msgstr "collections parmi"
+msgstr "%s collections parmi %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #: tlpkg/installer/install-menu-wizard.pl:242

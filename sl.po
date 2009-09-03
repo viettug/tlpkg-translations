@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-09-03 12:28+0200\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2009-09-03 12:33+0200\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -303,7 +303,7 @@ msgstr "Nova vrednost spremenljivke"
 #: tlpkg/installer/install-menu-perltk.pl:469
 #, fuzzy, perl-format
 msgid "Enter path for %s (use ~ for %s)"
-msgstr "Nastavite pot do"
+msgstr "Nastavite pot do %s (uporabite ~ za %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:442
 #: tlpkg/installer/install-menu-perltk.pl:473
@@ -374,14 +374,14 @@ msgid "Select arch-os"
 msgstr "Izbrane platforme"
 
 #: tlpkg/installer/install-menu-perltk.pl:773
-#, fuzzy, perl-format
+#, perl-format
 msgid "%s out of %s"
-msgstr "od"
+msgstr "%s od %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, fuzzy, perl-format
+#, perl-format
 msgid "%s collections out of %s "
-msgstr "zbirk od"
+msgstr "%s zbirk od %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #: tlpkg/installer/install-menu-wizard.pl:242
