@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-02 02:37+0200\n"
+"POT-Creation-Date: 2009-09-03 03:23+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Anh K. Huỳnh <xkyanh@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -530,8 +530,9 @@ msgid "Architectures"
 msgstr "Kiến trúc (hệ thống)"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select set of supported architectures"
-msgstr ""
+#, fuzzy
+msgid "Select architectures to support"
+msgstr "Chọn ngôn ngữ hỗ trợ"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"

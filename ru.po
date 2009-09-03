@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-02 02:37+0200\n"
+"POT-Creation-Date: 2009-09-03 03:23+0200\n"
 "PO-Revision-Date: 2009-09-01 17:07+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Русский <tex-live@tug.org>\n"
@@ -534,8 +534,9 @@ msgid "Architectures"
 msgstr "Архитектуры"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-msgid "Select set of supported architectures"
-msgstr "Выберите набор из поддерживаемых архитектур"
+#, fuzzy
+msgid "Select architectures to support"
+msgstr "Выберите языковую поддержку"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -922,6 +923,9 @@ msgid ""
 msgstr ""
 ": неудача.\n"
 "Посмотрите окно журнала за подробностями."
+
+#~ msgid "Select set of supported architectures"
+#~ msgstr "Выберите набор из поддерживаемых архитектур"
 
 #~ msgid "Change Location"
 #~ msgstr "Изменить адрес"
