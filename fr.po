@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-03 09:39+0200\n"
+"POT-Creation-Date: 2009-09-03 12:28+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -259,13 +259,21 @@ msgstr "Annuler"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
-"Voir %s/index.html pour des liens vers la documentation. Le site web de TeX Live\n"
-"(http://tug.org/texlive/) propose toutes les mises à jour et les correctifs.\n"
-"TeX Live est un projet commun des groupes d'utilisateurs de TeX à travers le monde;\n"
-"pourquoi ne pas le supporter en rejoignant le groupe qui vous convient le mieux ?\n"
-"La liste des groupes est disponible sur le web à l'adresse http://tug.org/usergroups.html."
+"Voir %s/index.html pour des liens vers la documentation. Le site web de TeX "
+"Live\n"
+"(http://tug.org/texlive/) propose toutes les mises à jour et les "
+"correctifs.\n"
+"TeX Live est un projet commun des groupes d'utilisateurs de TeX à travers le "
+"monde;\n"
+"pourquoi ne pas le supporter en rejoignant le groupe qui vous convient le "
+"mieux ?\n"
+"La liste des groupes est disponible sur le web à l'adresse http://tug.org/"
+"usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:376
 #: tlpkg/installer/install-menu-wizard.pl:461
@@ -276,7 +284,8 @@ msgid ""
 "Most importantly, add %s/bin/%s\n"
 "to your PATH for current and future sessions."
 msgstr ""
-"Veuillez ajouter %s/texmf/doc/man (resp. %s/texmf/doc/info) à votre MANPATH (resp. INFOPATH).\n"
+"Veuillez ajouter %s/texmf/doc/man (resp. %s/texmf/doc/info) à votre MANPATH "
+"(resp. INFOPATH).\n"
 "Mais surtout, ajoutez %s/bin/%s\n"
 " à votre PATH pour cette session et les prochaines."
 
@@ -375,9 +384,14 @@ msgid "%s out of %s"
 msgstr "%s parmi %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, perl-format
-msgid "%s collections out of %s (disk space required: %s MB)"
-msgstr "%s collections parmi %s (espace disque nécessaire: %s MB)"
+#, fuzzy, perl-format
+msgid "%s collections out of %s "
+msgstr "collections parmi"
+
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "espace disque nécessaire"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -440,10 +454,6 @@ msgid ""
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "espace disque nécessaire"
-
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
 msgstr "Entrer le chemin"
@@ -494,16 +504,21 @@ msgid "Force"
 msgstr "Forcer"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid "Force the removal of a package even if it is referenced in a collection."
-msgstr "Forcer la suppression d'un paquet même s'il est listé dans une collection."
+msgid ""
+"Force the removal of a package even if it is referenced in a collection."
+msgstr ""
+"Forcer la suppression d'un paquet même s'il est listé dans une collection."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
 msgstr "Sans les dépendances"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid "For collections: install or remove will not install/remove the dependencies"
-msgstr "Pour les collections : l'installation ou la suppression n'installe ni ne supprime les paquets inclus."
+msgid ""
+"For collections: install or remove will not install/remove the dependencies"
+msgstr ""
+"Pour les collections : l'installation ou la suppression n'installe ni ne "
+"supprime les paquets inclus."
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -657,7 +672,9 @@ msgstr "Désinstallation"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:15
 msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
-msgstr "Veuillez utiliser \"Ajout/Suppression de programmes\" depuis le panneau de configuration !"
+msgstr ""
+"Veuillez utiliser \"Ajout/Suppression de programmes\" depuis le panneau de "
+"configuration !"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:20
 #, perl-format
@@ -701,11 +718,15 @@ msgstr "Charger"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:148
 #, fuzzy
 msgid "Press this button to load the database from the package repository."
-msgstr "Appuyez sur ce bouton pour charger la base de données depuis l'emplacement sélectionné."
+msgstr ""
+"Appuyez sur ce bouton pour charger la base de données depuis l'emplacement "
+"sélectionné."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:152
 #, fuzzy
-msgid "Change package repository from where packages are fetched at installation and update time."
+msgid ""
+"Change package repository from where packages are fetched at installation "
+"and update time."
 msgstr "Modifier la source d'installation"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
@@ -739,7 +760,8 @@ msgid ""
 msgstr ""
 "La base de données de la source d'installation n'a pas été chargée.\n"
 "\n"
-"Veuillez utiliser le bouton \"Charger\" (et éventuellement \"Modifier\") pour le faire."
+"Veuillez utiliser le bouton \"Charger\" (et éventuellement \"Modifier\") "
+"pour le faire."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
 msgid "Update"
@@ -805,13 +827,16 @@ msgstr ""
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different package repository!\n"
+"If you want to install or update packages, please try with a different "
+"package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Impossible de charger la base de données TeX Live depuis %s.\n"
-" Veuillez sélectionner un autre emplacement si vous voulez ajouter ou mettre à jour des paquets.\n"
-"Si vous voulez juste changer la configuration ou retirer des paquets, inutile de changer quoi que ce soit."
+" Veuillez sélectionner un autre emplacement si vous voulez ajouter ou mettre "
+"à jour des paquets.\n"
+"Si vous voulez juste changer la configuration ou retirer des paquets, "
+"inutile de changer quoi que ce soit."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:259
 msgid "...please change me..."
@@ -824,17 +849,24 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default net package repository\" (or any other package repository you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on "
+"the \"Change\" button above and select \"Default net package repository"
+"\" (or any other package repository you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and change the default package repository."
+"If you want to change it permanently, go to the \"Configuration\" Tab and "
+"change the default package repository."
 msgstr ""
 "Aucune mise à jour trouvée.\n"
 "\n"
-"Votre installation est réglée pour rechercher les mises à jour sur le disque.\n"
+"Votre installation est réglée pour rechercher les mises à jour sur le "
+"disque.\n"
 "\n"
-" Si vous voulez mettre à jour depuis internet pour cette fois, cliquez sur le bouton \"Modifier\" ci-dessus et sélectionner \"Emplacement réseau par défaut\" (ou tout autre emplacement réseau que vous savez correct).\n"
+" Si vous voulez mettre à jour depuis internet pour cette fois, cliquez sur "
+"le bouton \"Modifier\" ci-dessus et sélectionner \"Emplacement réseau par "
+"défaut\" (ou tout autre emplacement réseau que vous savez correct).\n"
 "\n"
-"Si vous voulez faire ceci de façon permanente, allez à l'onglet \"Configuration\" et modifiez la source d'installation par défaut."
+"Si vous voulez faire ceci de façon permanente, allez à l'onglet "
+"\"Configuration\" et modifiez la source d'installation par défaut."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:398
 msgid "Everything up-to-date!"
@@ -854,8 +886,12 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Please wait a bit after the program has terminated so that the update can be completed."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
 #, fuzzy
@@ -877,20 +913,26 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 
+#~ msgid "%s collections out of %s (disk space required: %s MB)"
+#~ msgstr "%s collections parmi %s (espace disque nécessaire: %s MB)"
+
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(utilisez ~ pour %%%)"
-#~ msgid "collections out of"
-#~ msgstr "collections parmi"
+
 #~ msgid "Change Location"
 #~ msgstr "Modifier l'emplacement"
+
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Sélectionner des architectures à ajouter (suppression impossible)."
+
 #~ msgid "Default installation source"
 #~ msgstr "Source d'installation par défaut"
+
 #~ msgid "New default installation source"
 #~ msgstr "Nouvelle source d'installation par défaut"
+
 #~ msgid "Current installation source:"
 #~ msgstr "Source d'installation actuelle :"
+
 #~ msgid "New location:"
 #~ msgstr "Nouvel emplacement :"
-

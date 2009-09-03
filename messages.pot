@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-03 09:39+0200\n"
+"POT-Creation-Date: 2009-09-03 12:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -376,7 +376,12 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #, perl-format
-msgid "%s collections out of %s (disk space required: %s MB)"
+msgid "%s collections out of %s "
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:787
@@ -438,10 +443,6 @@ msgstr ""
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
-msgstr ""
-
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:271

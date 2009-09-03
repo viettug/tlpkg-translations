@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-03 09:39+0200\n"
+"POT-Creation-Date: 2009-09-03 12:28+0200\n"
 "PO-Revision-Date: 2009-09-03 10:06+0100\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: Русский <tex-live@tug.org>\n"
@@ -14,7 +14,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:14
@@ -264,10 +265,16 @@ msgstr "Отмена"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "В %s/index.html можно найти ссылки на документацию.\n"
-"Последние обновления и исправления доступны на странице TeX Live (http://tug.org/texlive/) . TeX Live это совместный проект групп пользователей TeX'а по всему миру; поддержите пожалуйста проект, присоединившись к подходящей вам группе. Список групп доступен на странице http://tug.org/usergroups.html."
+"Последние обновления и исправления доступны на странице TeX Live (http://tug."
+"org/texlive/) . TeX Live это совместный проект групп пользователей TeX'а по "
+"всему миру; поддержите пожалуйста проект, присоединившись к подходящей вам "
+"группе. Список групп доступен на странице http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:376
 #: tlpkg/installer/install-menu-wizard.pl:461
@@ -378,9 +385,14 @@ msgid "%s out of %s"
 msgstr "%s из %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, perl-format
-msgid "%s collections out of %s (disk space required: %s MB)"
-msgstr "%s коллекций из %s (требуется место на диске: %s MB)"
+#, fuzzy, perl-format
+msgid "%s collections out of %s "
+msgstr "коллекций из"
+
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "требуется место на диске"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -452,10 +464,6 @@ msgstr ""
 "Папка назначения будет содержать установленные файлы.\n"
 "Настоятельно рекомендуется сохранить год как окончание."
 
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "требуется место на диске"
-
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
 msgstr "Введите путь для"
@@ -487,7 +495,9 @@ msgstr "(нет описания)"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:113
 msgid "Use Ctrl or Shift or drag to select more"
-msgstr "Чтобы выбрать более одного элемента, используйте Ctrl, Shift или перетаскивание"
+msgstr ""
+"Чтобы выбрать более одного элемента, используйте Ctrl, Shift или "
+"перетаскивание"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:120
 msgid "Select packages"
@@ -510,7 +520,8 @@ msgid "Force"
 msgstr "Принудительно"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid "Force the removal of a package even if it is referenced in a collection."
+msgid ""
+"Force the removal of a package even if it is referenced in a collection."
 msgstr "Удалить пакет, даже если на него ссылаются в коллекции."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
@@ -518,8 +529,11 @@ msgid "without depends"
 msgstr "без зависимостей"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid "For collections: install or remove will not install/remove the dependencies"
-msgstr "Для коллекций: установить или удалить не будет означать установку/удаление зависимостей"
+msgid ""
+"For collections: install or remove will not install/remove the dependencies"
+msgstr ""
+"Для коллекций: установить или удалить не будет означать установку/удаление "
+"зависимостей"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -669,7 +683,8 @@ msgstr "Удалить TeX Live"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:15
 msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
-msgstr "Используйте пункт \"Установка и удаление программ\" в панели управления!"
+msgstr ""
+"Используйте пункт \"Установка и удаление программ\" в панели управления!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:20
 #, perl-format
@@ -715,8 +730,12 @@ msgid "Press this button to load the database from the package repository."
 msgstr "Нажмите эту кнопку, чтобы загрузить базу данных с репозитория пакетов."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:152
-msgid "Change package repository from where packages are fetched at installation and update time."
-msgstr "Измените репозиторий пакетов, откуда будут получены обновлённые и новые пакеты."
+msgid ""
+"Change package repository from where packages are fetched at installation "
+"and update time."
+msgstr ""
+"Измените репозиторий пакетов, откуда будут получены обновлённые и новые "
+"пакеты."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
 msgid "Debug"
@@ -748,7 +767,8 @@ msgid ""
 msgstr ""
 "База данных репозитория пакетов не была загружена.\n"
 "\n"
-"Чтобы это сделать, используйте кнопку \"Загрузить\" (и возможно \"Изменить\")."
+"Чтобы это сделать, используйте кнопку \"Загрузить\" (и возможно \"Изменить"
+"\")."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
 msgid "Update"
@@ -802,7 +822,8 @@ msgid ""
 "Most buttons will be disabled."
 msgstr ""
 "У вас нет достаточных полномочий, чтобы изменить как-либо установку.\n"
-"Свяжитесь с администратором или запустите эту программу от имени администратора.\n"
+"Свяжитесь с администратором или запустите эту программу от имени "
+"администратора.\n"
 "\n"
 "Большая часть кнопок будет отключена."
 
@@ -818,12 +839,14 @@ msgstr ""
 #, fuzzy, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different package repository!\n"
+"If you want to install or update packages, please try with a different "
+"package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Не могу загрузить базу данных TeX Live из $newroot\n"
-"Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий пакетов!\n"
+"Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий "
+"пакетов!\n"
 "\n"
 "Для настройки или удаления вам не нужно что-либо делать."
 
@@ -837,17 +860,23 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default net package repository\" (or any other package repository you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on "
+"the \"Change\" button above and select \"Default net package repository"
+"\" (or any other package repository you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and change the default package repository."
+"If you want to change it permanently, go to the \"Configuration\" Tab and "
+"change the default package repository."
 msgstr ""
 "Обновления не найдены.\n"
 "\n"
 "Ваша система настроена на просмотр диска на предмет обновлений.\n"
 "\n"
-"Если вы хотите установить из интернета только один раз, нажмите на кнопку \"Изменить\" вверху и выберите \"Сетевой репозиторий по умолчанию\" (или любой другой репозиторий пакетов, который как вы знаете работает).\n"
+"Если вы хотите установить из интернета только один раз, нажмите на кнопку "
+"\"Изменить\" вверху и выберите \"Сетевой репозиторий по умолчанию\" (или "
+"любой другой репозиторий пакетов, который как вы знаете работает).\n"
 "\n"
-"Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка\" и измените репозиторий пакетов по умолчанию."
+"Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка\" "
+"и измените репозиторий пакетов по умолчанию."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:398
 msgid "Everything up-to-date!"
@@ -866,14 +895,19 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 "Появились обновления для tlmgr.\n"
-"Процедуры установки и обновления не будут работать если не обновиться tlmgr.\n"
+"Процедуры установки и обновления не будут работать если не обновиться "
+"tlmgr.\n"
 "Пожалуйста перейдите к окну обновлений и нажмите кнопку \"обновить все\".\n"
 "Программа будет закрыта после обновления.\n"
 "Затем вы можете запустить программу снова для дальнейших обновлений."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Пожалуйста подождите немного после завершения программы, так чтобы обновление могло быть закончено."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Пожалуйста подождите немного после завершения программы, так чтобы "
+"обновление могло быть закончено."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
 msgid "Change package repository"
@@ -896,24 +930,32 @@ msgstr ""
 "%s: неудача.\n"
 "Посмотрите окно журнала за подробностями."
 
+#~ msgid "%s collections out of %s (disk space required: %s MB)"
+#~ msgstr "%s коллекций из %s (требуется место на диске: %s MB)"
+
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(используйте ~ для %%%)"
-#~ msgid "collections out of"
-#~ msgstr "коллекций из"
+
 #~ msgid "Select set of supported architectures"
 #~ msgstr "Выберите набор из поддерживаемых архитектур"
+
 #~ msgid "Change Location"
 #~ msgstr "Изменить адрес"
+
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Выберите добавляемые архитектуры (удаление не возможно)"
+
 #~ msgid "Default installation source"
 #~ msgstr "Источник установки по умолчанию"
+
 #~ msgid "New default installation source"
 #~ msgstr "Новый источник установки по умолчанию"
+
 #~ msgid "Default net location"
 #~ msgstr "Сетевой адрес по умолчанию"
+
 #~ msgid "Current installation source:"
 #~ msgstr "Текущий источник установки:"
+
 #~ msgid "New location:"
 #~ msgstr "Новый адрес:"
-
