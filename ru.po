@@ -6,16 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-04 10:15+0200\n"
-"PO-Revision-Date: 2009-09-03 12:31+0200\n"
-"Last-Translator: Norbert Preining <preining@logic.at>\n"
-"Language-Team: Русский <tex-live@tug.org>\n"
+"POT-Creation-Date: 2009-09-03 12:28+0200\n"
+"PO-Revision-Date: 2009-09-04 23:31+0900\n"
+"Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
+"Language-Team: Russian <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:14
@@ -540,9 +540,8 @@ msgid "Architectures"
 msgstr "Архитектуры"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
-#, fuzzy
 msgid "Select architectures to support"
-msgstr "Выберите языковую поддержку"
+msgstr "Выберите архитектуры, которые вам необходимы"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
@@ -812,8 +811,7 @@ msgstr "Чтобы получить подробную информацию, н�
 msgid "Completed"
 msgstr "Завершено"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
-#, fuzzy, perl-format
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237, perl-format
 msgid ""
 "You don't have permissions to change the installation in any way,\n"
 "specifically, the directory %s is not writable.\n"
@@ -821,9 +819,11 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"У вас нет достаточных полномочий, чтобы изменить как-либо установку.\n"
-"Свяжитесь с администратором или запустите эту программу от имени "
-"администратора.\n"
+"У вас нет достаточных полномочий, чтобы изменить как-либо установку,\n"
+"в частности, нет прав на запись для директории %s.\n"
+"Запустите эту программу от имени администратора или свяжитесь с вашим "
+"администратором. "
+"\n"
 "\n"
 "Большая часть кнопок будет отключена."
 
@@ -835,8 +835,7 @@ msgstr ""
 "Загружаем удалённую базу данных TeX Live\n"
 "Пожалуйста подождите, это может занять некоторое время!"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257
-#, fuzzy, perl-format
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
 "If you want to install or update packages, please try with a different "
@@ -844,11 +843,11 @@ msgid ""
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
-"Не могу загрузить базу данных TeX Live из $newroot\n"
+"Не могу загрузить базу данных TeX Live из %s\n"
 "Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий "
 "пакетов!\n"
 "\n"
-"Для настройки или удаления вам не нужно что-либо делать."
+"Для настройки или удаления вам это не нужно."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:259
 msgid "...please change me..."
@@ -921,14 +920,13 @@ msgstr "Новый репозиторий пакетов:"
 msgid "Warning Window"
 msgstr "Предупреждение"
 
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
-#, fuzzy, perl-format
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536, perl-format
 msgid ""
 "Running %s failed.\n"
 "Please consult the log window for details."
 msgstr ""
-"%s: неудача.\n"
-"Посмотрите окно журнала за подробностями."
+"В работе %s произошли ошибки.\n"
+"Пожайлуста ознакомтесь с побробностями в окне журнала."
 
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s коллекций из %s (требуется место на диске: %s MB)"
