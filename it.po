@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-04 03:24+0200\n"
+"POT-Creation-Date: 2009-09-04 10:15+0200\n"
 "PO-Revision-Date: 2009-09-03 12:31+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team:  <>\n"
@@ -385,8 +385,13 @@ msgstr "%s su %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #, perl-format
-msgid "%s collections out of %s (disk space required: %s MB)"
-msgstr "%s collezioni su %s (spazio necessario sul disco: %s MB)"
+msgid "%s collections out of %s "
+msgstr "%s collezioni su %s"
+
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "spazio necessario sul disco"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -458,10 +463,6 @@ msgstr ""
 "La cartella di destinazione conterrà l'installazione.\n"
 "È caldamente raccomandato di usare l'anno della distribuzione TeX Live\n"
 "come ultima componente del percorso."
-
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "spazio necessario sul disco"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
@@ -931,8 +932,8 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 
-#~ msgid "%s collections out of %s "
-#~ msgstr "%s collezioni su %s"
+#~ msgid "%s collections out of %s (disk space required: %s MB)"
+#~ msgstr "%s collezioni su %s (spazio necessario sul disco: %s MB)"
 
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(usa ~ per %%%)"

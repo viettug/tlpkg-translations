@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-04 03:24+0200\n"
+"POT-Creation-Date: 2009-09-04 10:15+0200\n"
 "PO-Revision-Date: 2009-09-03 12:31+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -379,9 +379,14 @@ msgid "%s out of %s"
 msgstr "%s van %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, fuzzy, perl-format
-msgid "%s collections out of %s (disk space required: %s MB)"
-msgstr "%s collecties van %s (disk space required: %s MB)"
+#, perl-format
+msgid "%s collections out of %s "
+msgstr "%s collecties van %s"
+
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "benodigde schijfruimte"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -452,10 +457,6 @@ msgid ""
 msgstr ""
 "De installatie zal geplaatst worden in de installatie-folder.\n"
 "Het wordt sterk aangeraden het jaar aan te houden als laatste component."
-
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "benodigde schijfruimte"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
@@ -912,8 +913,9 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 
-#~ msgid "%s collections out of %s "
-#~ msgstr "%s collecties van %s"
+#, fuzzy
+#~ msgid "%s collections out of %s (disk space required: %s MB)"
+#~ msgstr "%s collecties van %s (disk space required: %s MB)"
 
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(gebruik ~ voor %%%)"
