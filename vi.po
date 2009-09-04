@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-03 12:28+0200\n"
+"POT-Creation-Date: 2009-09-04 03:24+0200\n"
 "PO-Revision-Date: 2009-09-03 12:33+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -386,13 +386,8 @@ msgstr "%s trên %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #, perl-format
-msgid "%s collections out of %s "
-msgstr "%s tập hợp trong tổng số %s"
-
-#: tlpkg/installer/install-menu-perltk.pl:778
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "dung lượng đĩa cần thiết"
+msgid "%s collections out of %s (disk space required: %s MB)"
+msgstr "%s tập hợp trong tổng số %s (dung lượng đĩa cần thiết: %s MB)"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -463,6 +458,10 @@ msgid ""
 msgstr ""
 "Thư mục đích sẽ chứa bộ cài đặt.\n"
 "Khuyến cáo: bạn nên để năm (2009, 2008) vào cuối đường dẫn"
+
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "dung lượng đĩa cần thiết"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
@@ -921,8 +920,8 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 
-#~ msgid "%s collections out of %s (disk space required: %s MB)"
-#~ msgstr "%s tập hợp trong tổng số %s (dung lượng đĩa cần thiết: %s MB)"
+#~ msgid "%s collections out of %s "
+#~ msgstr "%s tập hợp trong tổng số %s"
 
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(dùng ký tự ~ để chỉ %%%)"

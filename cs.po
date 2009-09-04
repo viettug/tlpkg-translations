@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-03 12:28+0200\n"
+"POT-Creation-Date: 2009-09-04 03:24+0200\n"
 "PO-Revision-Date: 2009-09-03 12:30+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -380,14 +380,9 @@ msgid "%s out of %s"
 msgstr "%s z %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:778
-#, perl-format
-msgid "%s collections out of %s "
-msgstr "%s kolekce z %s"
-
-#: tlpkg/installer/install-menu-perltk.pl:778
-#: tlpkg/installer/install-menu-wizard.pl:242
-msgid "disk space required"
-msgstr "vyžadované místo na disku"
+#, fuzzy, perl-format
+msgid "%s collections out of %s (disk space required: %s MB)"
+msgstr "%s kolekce z %s (vyžadované místo na disku: %s MB)"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -459,6 +454,10 @@ msgid ""
 msgstr ""
 "Cílová složka bude obsahovat vlastní instalaci.\n"
 "Je důrazně doporučeno, aby jméno poslední složky označovalo rok."
+
+#: tlpkg/installer/install-menu-wizard.pl:242
+msgid "disk space required"
+msgstr "vyžadované místo na disku"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
@@ -923,9 +922,8 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 
-#, fuzzy
-#~ msgid "%s collections out of %s (disk space required: %s MB)"
-#~ msgstr "%s kolekce z %s (vyžadované místo na disku: %s MB)"
+#~ msgid "%s collections out of %s "
+#~ msgstr "%s kolekce z %s"
 
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(pro %%% použijte ~)"
