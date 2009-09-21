@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-09-04 10:15+0200\n"
-"PO-Revision-Date: 2009-09-17 17:11+0200\n"
+"PO-Revision-Date: 2009-09-21 19:17+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -123,7 +123,7 @@ msgstr "Personnalisation avancée"
 #: tlpkg/installer/install-menu-perltk.pl:190
 #: tlpkg/installer/install-menu-perltk.pl:565
 msgid "Standard collections"
-msgstr "Collections standard"
+msgstr "Collections standards"
 
 #: tlpkg/installer/install-menu-perltk.pl:195
 #: tlpkg/installer/install-menu-perltk.pl:604
@@ -365,11 +365,11 @@ msgstr "Emplacement des binaires"
 
 #: tlpkg/installer/install-menu-perltk.pl:716
 msgid "manpages to"
-msgstr "Emplacement des pages de manuel"
+msgstr "Emplacement des pages de man"
 
 #: tlpkg/installer/install-menu-perltk.pl:718
 msgid "info to"
-msgstr "Emplacements des pages info"
+msgstr "Emplacement des pages info"
 
 #: tlpkg/installer/install-menu-perltk.pl:742
 msgid "Select arch-os"
@@ -442,11 +442,11 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use install-tl-advanced.bat"
-msgstr "ou utiliser install-tl-advanced.bat."
+msgstr "Ou utiliser install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use the argument --gui perltk to install-tl."
-msgstr "ou utiliser l'option « --gui perl-tk »de install-tl."
+msgstr "Ou utiliser l'option « --gui perl-tk »de install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 #: tlpkg/installer/install-menu-wizard.pl:394
@@ -591,7 +591,7 @@ msgstr "Destination des liens pour les programmes"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:122
 msgid "Link destination for info docs"
-msgstr "Destination des liens pour les pages d'info"
+msgstr "Destination des liens pour les pages info"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:139
 msgid "Link destination for man pages"
@@ -648,7 +648,7 @@ msgstr "Modifier le dépôt de paquets utilisé par défaut"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:339
 msgid "New default package repository"
-msgstr "Nouveau dépôt de paquets à utiliser par défautl"
+msgstr "Nouveau dépôt de paquets à utiliser par défaut"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:346
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:475
@@ -658,7 +658,7 @@ msgstr "Choisir le répertoire"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:354
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
-msgstr "Dépôt de paquet en ligne par défaut"
+msgstr "Dépôt de paquets en ligne par défaut"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:399
 msgid "Select paper format for"
@@ -733,7 +733,7 @@ msgid ""
 "and update time."
 msgstr ""
 "Choisir le dépôt depuis lequel les paquets seront récupérés pour "
-"installation et mise à jour."
+"installation et mise-à-jour."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
 msgid "Debug"
@@ -773,7 +773,7 @@ msgstr "Mettre à jour"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:190
 msgid "Updating packages"
-msgstr "Mise à jour de paquets"
+msgstr "Mise-à-jour de paquets"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:192
 msgid "Update all"
@@ -864,7 +864,7 @@ msgid ""
 "If you want to change it permanently, go to the \"Configuration\" Tab and "
 "change the default package repository."
 msgstr ""
-"Aucune mise à jour trouvée.\n"
+"Aucune mise-à-jour trouvée.\n"
 "\n"
 "Votre installation est réglée pour rechercher les mises à jour sur le "
 "disque.\n"
@@ -892,7 +892,7 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
-"Une mise à jour de tlmgr est disponible.\n"
+"Une mise-à-jour de tlmgr est disponible.\n"
 "Les installations et mises à jour d'autres paquets ne seront pas effectuées "
 "à moins d'être forcées.\n"
 "Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
@@ -905,8 +905,8 @@ msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
+"Veuillez attendre un peu après la sortie du programme pour que la mise-à-"
+"jour puisse se terminer."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
 msgid "Change package repository"
