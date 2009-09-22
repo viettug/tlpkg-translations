@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-09-04 10:15+0200\n"
-"PO-Revision-Date: 2009-09-22 10:09+0800\n"
+"PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -152,7 +152,7 @@ msgstr "TEXMFSYSCONFIG (存放本地配置)"
 
 #: tlpkg/installer/install-menu-perltk.pl:238
 msgid "TEXMFHOME (directory for user-specific files)"
-msgstr ""
+msgstr "TEXMFHOME (用户专有文件的目录)"
 
 #: tlpkg/installer/install-menu-perltk.pl:244
 msgid "Options"
@@ -266,9 +266,9 @@ msgid ""
 msgstr ""
 "请参考 %s/index.html 来获得文档链接。TeX Live 官方网站\n"
 "(http://tug.org/texlive/) 包含所有相关的更新和修正。\n"
-"TeX Live 是全世界TeX用户组的一个合作项目 ；\n"
-"请考虑加入合适的TeX用户组来支持该项目。从\n"
-"http://tug.org/usergroups.html 可以获得TeX用户组的列表。"
+"TeX Live 是全世界 TeX 用户组的一个合作项目；\n"
+"请考虑加入合适的 TeX 用户组来支持该项目。从\n"
+"http://tug.org/usergroups.html 可以获得 TeX 用户组的列表。"
 
 #: tlpkg/installer/install-menu-perltk.pl:376
 #: tlpkg/installer/install-menu-wizard.pl:461
@@ -429,6 +429,12 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
+"欢迎使用 TeX Live %s 的安装程序\n"
+"http://tug.org/texlive\n"
+"\n"
+"这个向导将引导你完成整个安装。\n"
+"\n"
+"要使用更强大、可定制的安装，请参考网页或安装指南。"
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use install-tl-advanced.bat"
@@ -448,6 +454,8 @@ msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
+"将包含整个安装的目的文件夹。\n"
+"强烈建议以年份作为最后的目录项。"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 msgid "Enter path for"
@@ -465,6 +473,9 @@ msgid ""
 "If you want to change something please go back,\n"
 "otherwise press the \"Install\" button."
 msgstr ""
+"我们可以开始安装 TeX Live %s 了。\n"
+"将使用下列选项。\n"
+"如果你还想修改什么请后退，否则点击“安装”按钮。"
 
 #: tlpkg/installer/install-menu-wizard.pl:405
 msgid "Install"
@@ -502,15 +513,17 @@ msgstr "强制"
 msgid ""
 "Force the removal of a package even if it is referenced in a collection."
 msgstr ""
+"强制删除一个软件包，即使它是某个集合所包含的。"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
-msgstr ""
+msgstr "没有依赖"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
 msgid ""
 "For collections: install or remove will not install/remove the dependencies"
 msgstr ""
+"关于集合：添加删除并不会影响依赖其依赖的"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -598,7 +611,7 @@ msgstr "所有程序的缺省纸张"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:403
 msgid "Default paper for"
-msgstr ""
+msgstr "缺省的纸张给"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:277
 msgid "Actions"
@@ -648,7 +661,7 @@ msgstr "选择纸张格式给"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:424
 msgid "keep arbitrarily many"
-msgstr ""
+msgstr "保持任意多的"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425
 msgid "disable"
@@ -668,6 +681,8 @@ msgid ""
 "Really remove the complete TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
+"确定要删除整个 TeX Live %s 的安装吗？\n"
+"这是你最后一次改变主意的机会！"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:27
 #, perl-format
@@ -683,6 +698,8 @@ msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"正在载入本地 TeX Live 数据库\n"
+"可能会花费一点时间，请稍等！"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:123
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:125
@@ -706,6 +723,7 @@ msgid ""
 "Change package repository from where packages are fetched at installation "
 "and update time."
 msgstr ""
+"修改安装和更新时作为下载来源的软件包仓库。"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
 msgid "Debug"
@@ -735,6 +753,9 @@ msgid ""
 "\n"
 "Please use the \"Load\" (and possibly \"Change\") button to do so."
 msgstr ""
+"软件包仓库的数据库并未载入。\n"
+"\n"
+"请使用 \"载入\" (或者 \"修改\") 按钮来载入。"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
 msgid "Update"
@@ -787,12 +808,19 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"你没有修改安装的权限，\n"
+"具体说来，%s 目录不可写。\n"
+"请以管理员身份执行本程序，或者联系本地管理员。\n"
+"\n"
+"大部分按钮都被禁用了。"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:250
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
+"载入远程 TeX Live 数据库\n"
+"这可能会花费一点时间，请稍等！"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257
 #, perl-format
@@ -821,6 +849,16 @@ msgid ""
 "If you want to change it permanently, go to the \"Configuration\" Tab and "
 "change the default package repository."
 msgstr ""
+"没找到更新。\n"
+"\n"
+"你的安装被配置为查询硬盘以获取更新。\n"
+"\n"
+"如果这次你希望从互联网获取安装，点击上面的 "
+"“修改”按钮并选择“缺省的网络软件包仓库”"
+"(或者任何其他你确认工作的软件包仓库)。\n"
+"\n"
+"如果你希望永久地修改这个选项，到“配置”选项卡去"
+"修改缺省的软件包仓库。"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:398
 msgid "Everything up-to-date!"
@@ -838,6 +876,11 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"有 tlmgr 的更新。\n"
+"除非强制运行，否则安装和更新都无法继续。\n"
+"请到更新界面并点击 \"全部更新\" 按钮。\n"
+"这个程序将会在更新后关闭。\n"
+"然后你可以重新启动此程序做后续更新。"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
 msgid ""
