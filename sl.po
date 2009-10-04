@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-09-04 10:15+0200\n"
+"POT-Creation-Date: 2009-10-04 03:25+0200\n"
 "PO-Revision-Date: 2009-09-03 12:33+0200\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -42,8 +42,9 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:827
 #: tlpkg/installer/install-menu-perltk.pl:828
 #: tlpkg/installer/install-menu-perltk.pl:829
-#: tlpkg/installer/install-menu-perltk.pl:899
+#: tlpkg/installer/install-menu-perltk.pl:840
 #: tlpkg/installer/install-menu-perltk.pl:901
+#: tlpkg/installer/install-menu-perltk.pl:903
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
@@ -63,7 +64,8 @@ msgstr "Da"
 #: tlpkg/installer/install-menu-perltk.pl:827
 #: tlpkg/installer/install-menu-perltk.pl:828
 #: tlpkg/installer/install-menu-perltk.pl:829
-#: tlpkg/installer/install-menu-perltk.pl:899
+#: tlpkg/installer/install-menu-perltk.pl:840
+#: tlpkg/installer/install-menu-perltk.pl:901
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
