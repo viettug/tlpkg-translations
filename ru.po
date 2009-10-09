@@ -7,13 +7,12 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2009-10-04 03:25+0200\n"
-"PO-Revision-Date: 2009-09-04 20:56-0500\n"
-"Last-Translator: Boris Veytsman <borisv@lk.net>\n"
+"PO-Revision-Date: 2009-10-09 11:00+0800\n"
+"Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -274,8 +273,8 @@ msgid ""
 msgstr ""
 "В %s/index.html можно найти ссылки на документацию.\n"
 "Последние обновления и исправления доступны на странице TeX Live (http://tug."
-"org/texlive/) . TeX Live это совместный проект групп пользователей TeX'а по "
-"всему миру; поддержите пожалуйста проект, присоединившись к подходящей вам "
+"org/texlive/). TeX Live это совместный проект групп пользователей TeX'а по "
+"всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам "
 "группе. Список групп доступен на странице http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-perltk.pl:376
@@ -295,7 +294,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:378
 #: tlpkg/installer/install-menu-wizard.pl:463
 msgid "Welcome to TeX Live!"
-msgstr "Добро пожаловать в TeX Live"
+msgstr "Добро пожаловать в TeX Live!"
 
 #: tlpkg/installer/install-menu-perltk.pl:388
 #: tlpkg/installer/install-menu-wizard.pl:472
@@ -389,12 +388,12 @@ msgstr "%s из %s"
 #: tlpkg/installer/install-menu-perltk.pl:778
 #, perl-format
 msgid "%s collections out of %s "
-msgstr "%s коллекций из %s"
+msgstr "%s коллекций из %s "
 
 #: tlpkg/installer/install-menu-perltk.pl:778
 #: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
-msgstr "требуется место на диске"
+msgstr "требуется места на диске"
 
 #: tlpkg/installer/install-menu-perltk.pl:787
 msgid "(no language collection selected!)"
@@ -442,8 +441,8 @@ msgstr ""
 "\n"
 "Этот Помощник проведёт вас через процедуру установки.\n"
 "\n"
-"Для тонкой, настраиваемой установки просмотрите пожалуйста\n"
-"web страницы или руководство по установке."
+"Для тонкой, настраиваемой установки просмотрите, пожалуйста,\n"
+"web-страницы или руководство по установке."
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use install-tl-advanced.bat"
@@ -484,7 +483,7 @@ msgid ""
 msgstr ""
 "Мы готовы установить TeX Live %s.\n"
 "Будут использованы следующие настройки.\n"
-"Если вы хотите изменить что-нибудь нажмите кнопку \"Назад\",\n"
+"Если вы хотите изменить что-нибудь, нажмите кнопку \"Назад\",\n"
 "если нет, нажмите кнопку \"Установить\"."
 
 #: tlpkg/installer/install-menu-wizard.pl:405
@@ -638,7 +637,7 @@ msgstr "Создать заново все форматы"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:298
 msgid "Update font map database"
-msgstr "Обновить базу данных  шрифтов"
+msgstr "Обновить базу данных шрифтов"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
 msgid "Update symbolic links"
@@ -685,7 +684,7 @@ msgstr "Удалить TeX Live"
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:15
 msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
 msgstr ""
-"Используйте пункт \"Установка и удаление программ\" в панели управления!"
+"Используйте пункт \"Установка и удаление программ\" в Панели управления!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:20
 #, perl-format
@@ -693,7 +692,7 @@ msgid ""
 "Really remove the complete TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
-"Действительно удалить полную установку TeX Live %s?\n"
+"Действительно удалить всю установку TeX Live %s?\n"
 "Это ваш последний шанс изменить своё решение!"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:27
@@ -711,7 +710,7 @@ msgid ""
 "This may take some time, please wait!"
 msgstr ""
 "Загружаем локальную базу данных TeX Live\n"
-"Пожалуйста подождите, это может занять некоторое время!"
+"Пожалуйста, подождите, это может занять некоторое время!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:123
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:125
@@ -728,7 +727,7 @@ msgstr "Загрузить"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:148
 msgid "Press this button to load the database from the package repository."
-msgstr "Нажмите эту кнопку, чтобы загрузить базу данных с репозитория пакетов."
+msgstr "Нажмите эту кнопку, чтобы загрузить базу данных из репозитория пакетов."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:152
 msgid ""
@@ -744,7 +743,7 @@ msgstr "Отладка"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:163
 msgid "Turn on debug mode."
-msgstr "Включить отладку"
+msgstr "Включить отладку."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:293
@@ -825,7 +824,7 @@ msgstr ""
 "У вас нет достаточных полномочий, чтобы изменить как-либо установку,\n"
 "в частности, нет прав на запись для директории %s.\n"
 "Запустите эту программу от имени администратора или свяжитесь с вашим "
-"администратором. \n"
+"администратором.\n"
 "\n"
 "Большая часть кнопок будет отключена."
 
@@ -835,7 +834,7 @@ msgid ""
 "This may take some time, please wait!"
 msgstr ""
 "Загружаем удалённую базу данных TeX Live\n"
-"Пожалуйста подождите, это может занять некоторое время!"
+"Пожалуйста, подождите, это может занять некоторое время!"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257
 #, perl-format
@@ -873,9 +872,9 @@ msgstr ""
 "\n"
 "Ваша система настроена на просмотр диска на предмет обновлений.\n"
 "\n"
-"Если вы хотите установить из интернета только для этого раза, нажмите на "
+"Если вы хотите установить из интернета только в этот раз, нажмите на "
 "кнопку \"Изменить\" вверху и выберите \"Сетевой репозиторий по умолчанию"
-"\" (или любой другой действующий репозиторий пакетов,).\n"
+"\" (или любой другой действующий репозиторий пакетов).\n"
 "\n"
 "Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка\" "
 "и измените репозиторий пакетов по умолчанию."
@@ -897,8 +896,8 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 "Появились обновления для tlmgr.\n"
-"Процедуры установки и обновления не будут работать если не обновится tlmgr.\n"
-"Пожалуйста перейдите к окну обновлений и нажмите кнопку \"обновить все\".\n"
+"Процедуры установки и обновления не будут работать, если не обновится tlmgr.\n"
+"Пожалуйста, перейдите к окну обновлений и нажмите кнопку \"обновить все\".\n"
 "Программа будет закрыта после обновления.\n"
 "Затем вы можете запустить программу снова для дальнейших обновлений."
 
@@ -907,7 +906,7 @@ msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
-"Пожалуйста подождите немного после завершения программы, чтобы обновление "
+"Пожалуйста, подождите немного после завершения программы, чтобы обновление "
 "завершилось."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:468
@@ -929,7 +928,7 @@ msgid ""
 "Please consult the log window for details."
 msgstr ""
 "В работе %s произошли ошибки.\n"
-"Пожалуйста ознакомьтесь с подробностями в окне журнала."
+"Пожалуйста, ознакомьтесь с подробностями в окне журнала."
 
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s коллекций из %s (требуется место на диске: %s MB)"
