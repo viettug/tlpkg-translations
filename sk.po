@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2009-10-04 03:25+0200\n"
+"POT-Creation-Date: 2009-10-12 03:24+0200\n"
 "PO-Revision-Date: 2009-09-05 13:22+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -39,13 +39,14 @@ msgstr "Všetky"
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:826
-#: tlpkg/installer/install-menu-perltk.pl:827
-#: tlpkg/installer/install-menu-perltk.pl:828
-#: tlpkg/installer/install-menu-perltk.pl:829
+#: tlpkg/installer/install-menu-perltk.pl:831
+#: tlpkg/installer/install-menu-perltk.pl:832
+#: tlpkg/installer/install-menu-perltk.pl:833
+#: tlpkg/installer/install-menu-perltk.pl:834
 #: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:901
-#: tlpkg/installer/install-menu-perltk.pl:903
+#: tlpkg/installer/install-menu-perltk.pl:846
+#: tlpkg/installer/install-menu-perltk.pl:907
+#: tlpkg/installer/install-menu-perltk.pl:909
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
@@ -61,12 +62,13 @@ msgstr "Áno"
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:826
-#: tlpkg/installer/install-menu-perltk.pl:827
-#: tlpkg/installer/install-menu-perltk.pl:828
-#: tlpkg/installer/install-menu-perltk.pl:829
+#: tlpkg/installer/install-menu-perltk.pl:831
+#: tlpkg/installer/install-menu-perltk.pl:832
+#: tlpkg/installer/install-menu-perltk.pl:833
+#: tlpkg/installer/install-menu-perltk.pl:834
 #: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:901
+#: tlpkg/installer/install-menu-perltk.pl:846
+#: tlpkg/installer/install-menu-perltk.pl:907
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:379
@@ -84,7 +86,7 @@ msgid "Basic Information"
 msgstr "Základné informácie"
 
 #: tlpkg/installer/install-menu-perltk.pl:169
-#: tlpkg/installer/install-menu-perltk.pl:733
+#: tlpkg/installer/install-menu-perltk.pl:738
 msgid "Binary system(s)"
 msgstr "Binárny(e) systém(y)"
 
@@ -114,8 +116,8 @@ msgid "Change"
 msgstr "Zmeniť"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:521
-#: tlpkg/installer/install-menu-perltk.pl:534
+#: tlpkg/installer/install-menu-perltk.pl:522
+#: tlpkg/installer/install-menu-perltk.pl:535
 msgid "Selected scheme"
 msgstr "Zvolená schéma"
 
@@ -124,12 +126,12 @@ msgid "Further Customization"
 msgstr "Ďalšie prispôsobenie"
 
 #: tlpkg/installer/install-menu-perltk.pl:190
-#: tlpkg/installer/install-menu-perltk.pl:565
+#: tlpkg/installer/install-menu-perltk.pl:570
 msgid "Standard collections"
 msgstr "Štandardné zbierky"
 
 #: tlpkg/installer/install-menu-perltk.pl:195
-#: tlpkg/installer/install-menu-perltk.pl:604
+#: tlpkg/installer/install-menu-perltk.pl:609
 msgid "Language collections"
 msgstr "Jazykové zbierky"
 
@@ -205,7 +207,7 @@ msgid "Adjust PATH setting in registry"
 msgstr "Upraviť nastavenie PATH v registroch"
 
 #: tlpkg/installer/install-menu-perltk.pl:278
-#: tlpkg/installer/install-menu-perltk.pl:705
+#: tlpkg/installer/install-menu-perltk.pl:710
 msgid "Create symlinks in system directories"
 msgstr "Vytvoriť symbolické odkazy v systémových adresároch"
 
@@ -214,8 +216,8 @@ msgid "Add shortcuts to menu and desktop"
 msgstr "Pridať odkazy do menu a na pracovnú plochu"
 
 #: tlpkg/installer/install-menu-perltk.pl:294
-#: tlpkg/installer/install-menu-perltk.pl:484
-#: tlpkg/installer/install-menu-perltk.pl:489
+#: tlpkg/installer/install-menu-perltk.pl:485
+#: tlpkg/installer/install-menu-perltk.pl:490
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:451
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:455
@@ -240,14 +242,14 @@ msgid "Quit"
 msgstr "Ukončiť"
 
 #: tlpkg/installer/install-menu-perltk.pl:367
-#: tlpkg/installer/install-menu-perltk.pl:443
-#: tlpkg/installer/install-menu-perltk.pl:475
-#: tlpkg/installer/install-menu-perltk.pl:513
-#: tlpkg/installer/install-menu-perltk.pl:557
-#: tlpkg/installer/install-menu-perltk.pl:597
-#: tlpkg/installer/install-menu-perltk.pl:660
-#: tlpkg/installer/install-menu-perltk.pl:724
-#: tlpkg/installer/install-menu-perltk.pl:753
+#: tlpkg/installer/install-menu-perltk.pl:444
+#: tlpkg/installer/install-menu-perltk.pl:476
+#: tlpkg/installer/install-menu-perltk.pl:514
+#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-perltk.pl:602
+#: tlpkg/installer/install-menu-perltk.pl:665
+#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:758
 #: tlpkg/installer/install-menu-wizard.pl:158
 #: tlpkg/installer/install-menu-wizard.pl:278
 #: tlpkg/installer/install-menu-wizard.pl:453
@@ -259,7 +261,7 @@ msgstr "Ukončiť"
 msgid "Cancel"
 msgstr "Zrušiť"
 
-#: tlpkg/installer/install-menu-perltk.pl:374
+#: tlpkg/installer/install-menu-perltk.pl:375
 #: tlpkg/installer/install-menu-wizard.pl:459
 #, perl-format
 msgid ""
@@ -276,7 +278,7 @@ msgstr ""
 "ktorá je Vám najbližšia. Zoznam skupín je k dispozícii na webe na stránke "
 "http://tug.org/usergroups.html."
 
-#: tlpkg/installer/install-menu-perltk.pl:376
+#: tlpkg/installer/install-menu-perltk.pl:377
 #: tlpkg/installer/install-menu-wizard.pl:461
 #, perl-format
 msgid ""
@@ -290,35 +292,35 @@ msgstr ""
 "A čo je najdôležitejšie, pridajte %s/bin/%s\n"
 "do vašej cesty  PATH pre aktuálnu a nasledujúce relácie (spustenia)."
 
-#: tlpkg/installer/install-menu-perltk.pl:378
+#: tlpkg/installer/install-menu-perltk.pl:379
 #: tlpkg/installer/install-menu-wizard.pl:463
 msgid "Welcome to TeX Live!"
 msgstr "Vitajte vo svete TeX Live!"
 
-#: tlpkg/installer/install-menu-perltk.pl:388
+#: tlpkg/installer/install-menu-perltk.pl:389
 #: tlpkg/installer/install-menu-wizard.pl:472
 msgid "Finish"
 msgstr "Dokončiť"
 
-#: tlpkg/installer/install-menu-perltk.pl:428
-#: tlpkg/installer/install-menu-perltk.pl:459
+#: tlpkg/installer/install-menu-perltk.pl:429
+#: tlpkg/installer/install-menu-perltk.pl:460
 msgid "Change variable value"
 msgstr "Zmeniť hodnotu premennej"
 
-#: tlpkg/installer/install-menu-perltk.pl:431
-#: tlpkg/installer/install-menu-perltk.pl:469
+#: tlpkg/installer/install-menu-perltk.pl:432
+#: tlpkg/installer/install-menu-perltk.pl:470
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Vložte cestu pre %s (namiesto %s použite ~ )"
 
-#: tlpkg/installer/install-menu-perltk.pl:442
-#: tlpkg/installer/install-menu-perltk.pl:473
-#: tlpkg/installer/install-menu-perltk.pl:498
-#: tlpkg/installer/install-menu-perltk.pl:555
-#: tlpkg/installer/install-menu-perltk.pl:595
-#: tlpkg/installer/install-menu-perltk.pl:658
-#: tlpkg/installer/install-menu-perltk.pl:722
-#: tlpkg/installer/install-menu-perltk.pl:751
+#: tlpkg/installer/install-menu-perltk.pl:443
+#: tlpkg/installer/install-menu-perltk.pl:474
+#: tlpkg/installer/install-menu-perltk.pl:499
+#: tlpkg/installer/install-menu-perltk.pl:560
+#: tlpkg/installer/install-menu-perltk.pl:600
+#: tlpkg/installer/install-menu-perltk.pl:663
+#: tlpkg/installer/install-menu-perltk.pl:727
+#: tlpkg/installer/install-menu-perltk.pl:756
 #: tlpkg/installer/install-menu-wizard.pl:275
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:76
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:363
@@ -335,94 +337,94 @@ msgstr "Vložte cestu pre %s (namiesto %s použite ~ )"
 msgid "Ok"
 msgstr "OK"
 
-#: tlpkg/installer/install-menu-perltk.pl:574
+#: tlpkg/installer/install-menu-perltk.pl:579
 msgid "Select the collections to be installed"
 msgstr "Zvoliť kolekcie, ktore majú byť nainštalované."
 
-#: tlpkg/installer/install-menu-perltk.pl:590
-#: tlpkg/installer/install-menu-perltk.pl:631
-#: tlpkg/installer/install-menu-perltk.pl:653
+#: tlpkg/installer/install-menu-perltk.pl:595
+#: tlpkg/installer/install-menu-perltk.pl:636
+#: tlpkg/installer/install-menu-perltk.pl:658
 msgid "Select All"
 msgstr "Zvoliť všetky"
 
-#: tlpkg/installer/install-menu-perltk.pl:592
-#: tlpkg/installer/install-menu-perltk.pl:633
-#: tlpkg/installer/install-menu-perltk.pl:655
+#: tlpkg/installer/install-menu-perltk.pl:597
+#: tlpkg/installer/install-menu-perltk.pl:638
+#: tlpkg/installer/install-menu-perltk.pl:660
 msgid "Deselect All"
 msgstr "Zrušiť všetky voľby"
 
-#: tlpkg/installer/install-menu-perltk.pl:609
+#: tlpkg/installer/install-menu-perltk.pl:614
 msgid "Select language support"
 msgstr "Zvoliť podporu jazyka"
 
-#: tlpkg/installer/install-menu-perltk.pl:610
+#: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language-specific documentation"
 msgstr "Zvoliť dokumentáciu pre jednotlivé jazyky"
 
-#: tlpkg/installer/install-menu-perltk.pl:709
+#: tlpkg/installer/install-menu-perltk.pl:714
 msgid "create symlinks in standard directories"
 msgstr "vytvoriť symbolické linky v štandardných adresároch"
 
-#: tlpkg/installer/install-menu-perltk.pl:714
+#: tlpkg/installer/install-menu-perltk.pl:719
 msgid "binaries to"
 msgstr "binárky do"
 
-#: tlpkg/installer/install-menu-perltk.pl:716
+#: tlpkg/installer/install-menu-perltk.pl:721
 msgid "manpages to"
 msgstr "dokumentáciu manpages do"
 
-#: tlpkg/installer/install-menu-perltk.pl:718
+#: tlpkg/installer/install-menu-perltk.pl:723
 msgid "info to"
 msgstr "informáciu do"
 
-#: tlpkg/installer/install-menu-perltk.pl:742
+#: tlpkg/installer/install-menu-perltk.pl:747
 msgid "Select arch-os"
 msgstr "Zvoliť architektúru resp. operačný systém"
 
-#: tlpkg/installer/install-menu-perltk.pl:773
+#: tlpkg/installer/install-menu-perltk.pl:778
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s z %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-perltk.pl:783
 #, perl-format
 msgid "%s collections out of %s "
 msgstr "%s kolekcií z %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-perltk.pl:783
 #: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
 msgstr "požadovaný diskový priestor"
 
-#: tlpkg/installer/install-menu-perltk.pl:787
+#: tlpkg/installer/install-menu-perltk.pl:792
 msgid "(no language collection selected!)"
 msgstr "(nebola zvolená jazyková kolekcia!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:792
-#: tlpkg/installer/install-menu-perltk.pl:804
-#: tlpkg/installer/install-menu-perltk.pl:815
+#: tlpkg/installer/install-menu-perltk.pl:797
+#: tlpkg/installer/install-menu-perltk.pl:809
+#: tlpkg/installer/install-menu-perltk.pl:820
 #: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
 msgstr "(predvolené miesto neumožňuje zápis - zmeňte, prosím!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:801
-#: tlpkg/installer/install-menu-perltk.pl:812
+#: tlpkg/installer/install-menu-perltk.pl:806
+#: tlpkg/installer/install-menu-perltk.pl:817
 msgid "(please change TEXDIR first!)"
 msgstr "(zmeňte najprv TEXDIR, prosím!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:160
-#: tlpkg/installer/install-menu-wizard.pl:185
-#: tlpkg/installer/install-menu-wizard.pl:247
-#: tlpkg/installer/install-menu-wizard.pl:369
-msgid "Next >"
-msgstr "Ďalej >"
-
-#: tlpkg/installer/install-menu-wizard.pl:161
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-wizard.pl:368
 #: tlpkg/installer/install-menu-wizard.pl:407
 msgid "< Back"
 msgstr "< Späť"
+
+#: tlpkg/installer/install-menu-wizard.pl:161
+#: tlpkg/installer/install-menu-wizard.pl:185
+#: tlpkg/installer/install-menu-wizard.pl:247
+#: tlpkg/installer/install-menu-wizard.pl:369
+msgid "Next >"
+msgstr "Ďalej >"
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 #, perl-format
