@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-09 03:25+0100\n"
+"POT-Creation-Date: 2010-01-09 12:34+0900\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -546,11 +546,12 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
+#: texmf/scripts/texlive/tlmgrgui.pl:1776
 msgid "Loaded repository:"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
-msgid " none"
+msgid "none"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:238

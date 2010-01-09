@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-09 03:25+0100\n"
+"POT-Creation-Date: 2010-01-09 12:34+0900\n"
 "PO-Revision-Date: 2009-09-08 11:35+0100\n"
 "Last-Translator: Michal Madr <m.madr@seznam.cz>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -569,13 +569,14 @@ msgstr ""
 "Většina tlačítek bude zakázána."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
+#: texmf/scripts/texlive/tlmgrgui.pl:1776
 #, fuzzy
 msgid "Loaded repository:"
 msgstr "Nový zdroj balíků:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
 #, fuzzy
-msgid " none"
+msgid "none"
 msgstr "Žádné"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:238

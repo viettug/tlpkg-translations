@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-09 03:25+0100\n"
+"POT-Creation-Date: 2010-01-09 12:34+0900\n"
 "PO-Revision-Date: 2009-09-21 08:47+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -573,13 +573,14 @@ msgstr ""
 "La maggior parte dei pulsanti sarà disabilitata."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
+#: texmf/scripts/texlive/tlmgrgui.pl:1776
 #, fuzzy
 msgid "Loaded repository:"
 msgstr "Nuovo percorso di installazione:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
 #, fuzzy
-msgid " none"
+msgid "none"
 msgstr "Nessuno"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:238

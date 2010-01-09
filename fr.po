@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-09 03:25+0100\n"
+"POT-Creation-Date: 2010-01-09 12:34+0900\n"
 "PO-Revision-Date: 2009-10-08 13:36+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -570,13 +570,14 @@ msgstr ""
 "La plupart des boutons seront désactivés."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
+#: texmf/scripts/texlive/tlmgrgui.pl:1776
 #, fuzzy
 msgid "Loaded repository:"
 msgstr "Nouveau dépôt de paquets :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:228
 #, fuzzy
-msgid " none"
+msgid "none"
 msgstr "Aucun"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:238
