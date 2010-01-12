@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-11 03:23+0100\n"
+"POT-Creation-Date: 2010-01-12 03:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -531,6 +531,14 @@ msgstr ""
 msgid "Completed"
 msgstr ""
 
+#: texmf/scripts/texlive/tlmgrgui.pl:182 texmf/scripts/texlive/tlmgrgui.pl:867
+#: texmf/scripts/texlive/tlmgrgui.pl:1347
+#: texmf/scripts/texlive/tlmgrgui.pl:1624
+#: texmf/scripts/texlive/tlmgrgui.pl:1807
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
+msgid "Warning"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:183
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
 #, perl-format
@@ -922,6 +930,14 @@ msgstr ""
 msgid "Default paper for all"
 msgstr ""
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1135
+msgid "a4"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1137
+msgid "letter"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:1148
 #: texmf/scripts/texlive/tlmgrgui.pl:1252
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
@@ -989,11 +1005,6 @@ msgstr ""
 msgid "Installation"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1624
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
-msgid "Warning"
-msgstr ""
-
 #: texmf/scripts/texlive/tlmgrgui.pl:1625
 msgid ""
 "Updates for the tlmgr are present.\n"
@@ -1032,11 +1043,6 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:354
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
-msgstr ""
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1807
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
-msgid "Warning Window"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1808
@@ -1234,4 +1240,8 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
+msgid "Warning Window"
 msgstr ""

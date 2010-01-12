@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 German Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-11 03:23+0100\n"
+"POT-Creation-Date: 2010-01-12 03:25+0100\n"
 "PO-Revision-Date: 2010-01-09 12:37+0900\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
@@ -553,6 +553,14 @@ msgstr ""
 msgid "Completed"
 msgstr "Fertig"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:182 texmf/scripts/texlive/tlmgrgui.pl:867
+#: texmf/scripts/texlive/tlmgrgui.pl:1347
+#: texmf/scripts/texlive/tlmgrgui.pl:1624
+#: texmf/scripts/texlive/tlmgrgui.pl:1807
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
+msgid "Warning"
+msgstr "Warnung"
+
 #: texmf/scripts/texlive/tlmgrgui.pl:183
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
 #, perl-format
@@ -953,6 +961,14 @@ msgstr "Papierformat-Einstellungen"
 msgid "Default paper for all"
 msgstr "Voreingestelltes Papierformat für alle Programme"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1135
+msgid "a4"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1137
+msgid "letter"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:1148
 #: texmf/scripts/texlive/tlmgrgui.pl:1252
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
@@ -1027,11 +1043,6 @@ msgstr ""
 msgid "Installation"
 msgstr "Installation"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1624
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
-msgid "Warning"
-msgstr "Warnung"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:1625
 #, fuzzy
 msgid ""
@@ -1080,11 +1091,6 @@ msgstr "Installationsquelle:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr "Voreingestellter Netzwerkinstallationsquelle"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1807
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
-msgid "Warning Window"
-msgstr "Warnung"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1808
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
@@ -1314,6 +1320,10 @@ msgstr "Ändern der voreingestellten Installationsquelle"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
 msgstr "Neue Installationsquelle:"
+
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
+msgid "Warning Window"
+msgstr "Warnung"
 
 #~ msgid "Allow execution of restricted list of programs via \\write18"
 #~ msgstr "Ausführen einer eingeschränkten Liste von Programmen via \\write18"

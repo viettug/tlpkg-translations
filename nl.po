@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-11 03:23+0100\n"
+"POT-Creation-Date: 2010-01-12 03:25+0100\n"
 "PO-Revision-Date: 2009-10-11 16:57+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -551,6 +551,14 @@ msgstr ""
 msgid "Completed"
 msgstr "Klaar"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:182 texmf/scripts/texlive/tlmgrgui.pl:867
+#: texmf/scripts/texlive/tlmgrgui.pl:1347
+#: texmf/scripts/texlive/tlmgrgui.pl:1624
+#: texmf/scripts/texlive/tlmgrgui.pl:1807
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
+msgid "Warning"
+msgstr "Waarschuwing"
+
 #: texmf/scripts/texlive/tlmgrgui.pl:183
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
 #, perl-format
@@ -979,6 +987,14 @@ msgstr "Papier instellingen"
 msgid "Default paper for all"
 msgstr "Standaard papier-formaat voor alle"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1135
+msgid "a4"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1137
+msgid "letter"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:1148
 #: texmf/scripts/texlive/tlmgrgui.pl:1252
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
@@ -1054,11 +1070,6 @@ msgstr ""
 msgid "Installation"
 msgstr "Installeer TeX Live"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1624
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
-msgid "Warning"
-msgstr "Waarschuwing"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:1625
 #, fuzzy
 msgid ""
@@ -1108,11 +1119,6 @@ msgstr "Nieuwe installatie-bron"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr "Nieuwe standaard online installatie-bron"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1807
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
-msgid "Warning Window"
-msgstr "Waarschuwingsvenster"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1808
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
@@ -1335,6 +1341,10 @@ msgstr "Wijzig installatie-bron"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
 msgstr "Nieuwe installatie-bron"
+
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
+msgid "Warning Window"
+msgstr "Waarschuwingsvenster"
 
 #~ msgid "Allow execution of restricted list of programs via \\write18"
 #~ msgstr "Sta uitvoering van een beperkte lijst programmas toe via \\write18"

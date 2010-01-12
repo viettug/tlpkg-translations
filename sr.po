@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live 2009 Serbian Translation 20100110\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-11 03:23+0100\n"
+"POT-Creation-Date: 2010-01-12 03:25+0100\n"
 "PO-Revision-Date: 2010-01-10 20:38+0000\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -555,6 +555,14 @@ msgstr ""
 msgid "Completed"
 msgstr "Готово"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:182 texmf/scripts/texlive/tlmgrgui.pl:867
+#: texmf/scripts/texlive/tlmgrgui.pl:1347
+#: texmf/scripts/texlive/tlmgrgui.pl:1624
+#: texmf/scripts/texlive/tlmgrgui.pl:1807
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
+msgid "Warning"
+msgstr "Упозорење"
+
 #: texmf/scripts/texlive/tlmgrgui.pl:183
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
 #, perl-format
@@ -958,6 +966,14 @@ msgstr "Подешавања папира"
 msgid "Default paper for all"
 msgstr "Подразумевана величина папира за све"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1135
+msgid "a4"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1137
+msgid "letter"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:1148
 #: texmf/scripts/texlive/tlmgrgui.pl:1252
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
@@ -1033,11 +1049,6 @@ msgstr ""
 msgid "Installation"
 msgstr "Инсталација"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1624
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
-msgid "Warning"
-msgstr "Упозорење"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:1625
 #, fuzzy
 msgid ""
@@ -1084,11 +1095,6 @@ msgstr "Репозиторијум пакета:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr "Подразумевани репозиторијум пакета на Интернету"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1807
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
-msgid "Warning Window"
-msgstr "Прозор са упозорењем"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1808
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
@@ -1313,3 +1319,7 @@ msgstr "Промени репозиторијум пакета"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
 msgstr "Нови репозиторијум пакета"
+
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
+msgid "Warning Window"
+msgstr "Прозор са упозорењем"

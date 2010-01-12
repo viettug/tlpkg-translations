@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-01-11 03:23+0100\n"
+"POT-Creation-Date: 2010-01-12 03:25+0100\n"
 "PO-Revision-Date: 2009-09-21 08:47+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -556,6 +556,14 @@ msgstr ""
 msgid "Completed"
 msgstr "Completato"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:182 texmf/scripts/texlive/tlmgrgui.pl:867
+#: texmf/scripts/texlive/tlmgrgui.pl:1347
+#: texmf/scripts/texlive/tlmgrgui.pl:1624
+#: texmf/scripts/texlive/tlmgrgui.pl:1807
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
+msgid "Warning"
+msgstr "Attenzione"
+
 #: texmf/scripts/texlive/tlmgrgui.pl:183
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:237
 #, perl-format
@@ -984,6 +992,14 @@ msgstr "Impostazioni carta"
 msgid "Default paper for all"
 msgstr "Formato pagina predefinito per tutti"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1135
+msgid "a4"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1137
+msgid "letter"
+msgstr ""
+
 #: texmf/scripts/texlive/tlmgrgui.pl:1148
 #: texmf/scripts/texlive/tlmgrgui.pl:1252
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
@@ -1059,11 +1075,6 @@ msgstr ""
 msgid "Installation"
 msgstr "Installazione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1624
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
-msgid "Warning"
-msgstr "Attenzione"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:1625
 #, fuzzy
 msgid ""
@@ -1117,11 +1128,6 @@ msgstr "Nuovo percorso di installazione:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr "Indirizzo di rete predefinito"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1807
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
-msgid "Warning Window"
-msgstr "Finestra di Avviso"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1808
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
@@ -1353,6 +1359,10 @@ msgstr "Cambia il percorso di installazione"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:471
 msgid "New package repository:"
 msgstr "Nuovo percorso di installazione:"
+
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
+msgid "Warning Window"
+msgstr "Finestra di Avviso"
 
 #~ msgid "Allow execution of restricted list of programs via \\write18"
 #~ msgstr ""
