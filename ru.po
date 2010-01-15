@@ -1,13 +1,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Vladimir <lomov.vl@gmail.com>, 2009.
+# Vladimir <lomov.vl@gmail.com>, 2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-01-15 03:23+0100\n"
-"PO-Revision-Date: 2010-01-11 16:29+0800\n"
+"PO-Revision-Date: 2010-01-15 15:19+0800\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -967,11 +967,11 @@ msgstr "Формат по умолчанию для всех"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1149
 msgid "a4"
-msgstr ""
+msgstr "A4"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1151
 msgid "letter"
-msgstr ""
+msgstr "Letter"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1162
 #: texmf/scripts/texlive/tlmgrgui.pl:1266
@@ -1048,7 +1048,6 @@ msgid "Installation"
 msgstr "Установить пакеты"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1639
-#, fuzzy
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -1059,7 +1058,8 @@ msgstr ""
 "Появились обновления для tlmgr.\n"
 "Процедуры установки и обновления не будут работать, если не обновится "
 "tlmgr.\n"
-"Пожалуйста, нажмите кнопку \"обновить все\" расположенную внизу.\n"
+"Пожалуйста, нажмите кнопку \"Обновить все установленные\" расположенную "
+"внизу.\n"
 "Программа будет закрыта после обновления.\n"
 "Затем вы можете запустить программу снова для дальнейших обновлений."
 
