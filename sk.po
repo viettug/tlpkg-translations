@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-02-25 03:23+0100\n"
+"POT-Creation-Date: 2010-03-13 04:24+0100\n"
 "PO-Revision-Date: 2010-01-16 08:59+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -117,9 +117,9 @@ msgstr "Binárny(e) systém(y)"
 #: texmf/scripts/texlive/tlmgrgui.pl:1030
 #: texmf/scripts/texlive/tlmgrgui.pl:1058
 #: texmf/scripts/texlive/tlmgrgui.pl:1164
-#: texmf/scripts/texlive/tlmgrgui.pl:1705
-#: texmf/scripts/texlive/tlmgrgui.pl:1710
-#: texmf/scripts/texlive/tlmgrgui.pl:1715
+#: texmf/scripts/texlive/tlmgrgui.pl:1721
+#: texmf/scripts/texlive/tlmgrgui.pl:1726
+#: texmf/scripts/texlive/tlmgrgui.pl:1731
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:45
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:82
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:99
@@ -280,8 +280,8 @@ msgstr "Ukončiť"
 #: texmf/scripts/texlive/tlmgrgui.pl:1273
 #: texmf/scripts/texlive/tlmgrgui.pl:1306
 #: texmf/scripts/texlive/tlmgrgui.pl:1339
-#: texmf/scripts/texlive/tlmgrgui.pl:1741
-#: texmf/scripts/texlive/tlmgrgui.pl:1787
+#: texmf/scripts/texlive/tlmgrgui.pl:1757
+#: texmf/scripts/texlive/tlmgrgui.pl:1803
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
@@ -360,10 +360,10 @@ msgstr "Vložte cestu pre %s (namiesto %s použite ~ )"
 #: texmf/scripts/texlive/tlmgrgui.pl:1298
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1363
-#: texmf/scripts/texlive/tlmgrgui.pl:1644
-#: texmf/scripts/texlive/tlmgrgui.pl:1738
-#: texmf/scripts/texlive/tlmgrgui.pl:1781
-#: texmf/scripts/texlive/tlmgrgui.pl:1827
+#: texmf/scripts/texlive/tlmgrgui.pl:1657
+#: texmf/scripts/texlive/tlmgrgui.pl:1754
+#: texmf/scripts/texlive/tlmgrgui.pl:1797
+#: texmf/scripts/texlive/tlmgrgui.pl:1843
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:76
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:363
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:410
@@ -545,7 +545,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:189
 #: texmf/scripts/texlive/tlmgrgui.pl:1357
-#: texmf/scripts/texlive/tlmgrgui.pl:1821
+#: texmf/scripts/texlive/tlmgrgui.pl:1837
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:252
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:526
@@ -554,8 +554,8 @@ msgstr "Dokončené"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:194 texmf/scripts/texlive/tlmgrgui.pl:881
 #: texmf/scripts/texlive/tlmgrgui.pl:1361
-#: texmf/scripts/texlive/tlmgrgui.pl:1644
-#: texmf/scripts/texlive/tlmgrgui.pl:1827
+#: texmf/scripts/texlive/tlmgrgui.pl:1657
+#: texmf/scripts/texlive/tlmgrgui.pl:1843
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
 msgid "Warning"
 msgstr "Varovanie"
@@ -578,7 +578,7 @@ msgstr ""
 "Väčšina tlačidiel bude zablokovaná."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:240
-#: texmf/scripts/texlive/tlmgrgui.pl:1797
+#: texmf/scripts/texlive/tlmgrgui.pl:1813
 msgid "Loaded repository:"
 msgstr "Načítaná schránka:"
 
@@ -751,7 +751,7 @@ msgid "Update font map database"
 msgstr "Aktualizovať databázu fontových zobrazení (font map)"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:510
-#: texmf/scripts/texlive/tlmgrgui.pl:1696
+#: texmf/scripts/texlive/tlmgrgui.pl:1712
 msgid "Handle symlinks in system dirs"
 msgstr "Spracovať symbolické odkazy v systémových adresároch"
 
@@ -919,19 +919,19 @@ msgid "Auto backup setting"
 msgstr "Nastavenie samostatného zálohovania"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1010
-#: texmf/scripts/texlive/tlmgrgui.pl:1703
+#: texmf/scripts/texlive/tlmgrgui.pl:1719
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:105
 msgid "Link destination for programs"
 msgstr "Cieľ linky pre programy"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1018
-#: texmf/scripts/texlive/tlmgrgui.pl:1708
+#: texmf/scripts/texlive/tlmgrgui.pl:1724
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:122
 msgid "Link destination for info docs"
 msgstr "Cieľ linky pre informačnú dokumentáciu"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1026
-#: texmf/scripts/texlive/tlmgrgui.pl:1713
+#: texmf/scripts/texlive/tlmgrgui.pl:1729
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:139
 msgid "Link destination for man pages"
 msgstr "Cieľ linky pre stránky manuálov (man pages)"
@@ -982,7 +982,7 @@ msgid "New default package repository"
 msgstr "Nová predvolená schránka balíkov"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1197
-#: texmf/scripts/texlive/tlmgrgui.pl:1766
+#: texmf/scripts/texlive/tlmgrgui.pl:1782
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:346
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:475
 msgid "Choose Directory"
@@ -1038,7 +1038,7 @@ msgstr ""
 msgid "Installation"
 msgstr "Inštalácia"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1645
+#: texmf/scripts/texlive/tlmgrgui.pl:1658
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -1052,7 +1052,12 @@ msgstr ""
 "Po aktualizácii ukončí program svoju činnosť.\n"
 "Potom môžete program spustiť znova na vykonanie ďalších aktualizácií."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1646
+#: texmf/scripts/texlive/tlmgrgui.pl:1660
+#, perl-format
+msgid "At least %s further updates are available after tlmgr has been updated."
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1662
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
@@ -1061,31 +1066,31 @@ msgstr ""
 "Počkajte, prosím, chvíľočku po ukončení programu, aby bolo možné dokončiť "
 "aktualizáciu."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1721
+#: texmf/scripts/texlive/tlmgrgui.pl:1737
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
 msgid "Update symbolic links"
 msgstr "Aktualizovať symbolické odkazy (linky)"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1728
+#: texmf/scripts/texlive/tlmgrgui.pl:1744
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:319
 msgid "Remove symbolic links"
 msgstr "Odstrániť symbolické odkazy (linky)"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1759
+#: texmf/scripts/texlive/tlmgrgui.pl:1775
 msgid "Load package repository"
 msgstr "Načítať schránku balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1762
+#: texmf/scripts/texlive/tlmgrgui.pl:1778
 msgid "Package repository:"
 msgstr "Schránka balíkov:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1774
+#: texmf/scripts/texlive/tlmgrgui.pl:1790
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:354
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr "Predvolená sieťová schránka balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1828
+#: texmf/scripts/texlive/tlmgrgui.pl:1844
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
 #, perl-format
 msgid ""
