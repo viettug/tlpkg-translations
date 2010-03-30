@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-03-13 04:24+0100\n"
+"POT-Creation-Date: 2010-03-30 03:53+0200\n"
 "PO-Revision-Date: 2010-02-14 02:45+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -258,6 +258,12 @@ msgstr "Zainstaluj TeX Live"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
 msgid "Quit"
 msgstr "Zakończ"
+
+#: tlpkg/installer/install-menu-perltk.pl:355
+#: tlpkg/installer/install-menu-perltk.pl:359
+#, fuzzy
+msgid "Installation process"
+msgstr "Instalacja"
 
 #: tlpkg/installer/install-menu-perltk.pl:368
 #: tlpkg/installer/install-menu-perltk.pl:445

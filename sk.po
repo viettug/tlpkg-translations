@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-03-13 04:24+0100\n"
+"POT-Creation-Date: 2010-03-30 03:53+0200\n"
 "PO-Revision-Date: 2010-01-16 08:59+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -259,6 +259,12 @@ msgstr "Nainštalovať TeX Live"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
 msgid "Quit"
 msgstr "Ukončiť"
+
+#: tlpkg/installer/install-menu-perltk.pl:355
+#: tlpkg/installer/install-menu-perltk.pl:359
+#, fuzzy
+msgid "Installation process"
+msgstr "Inštalácia"
 
 #: tlpkg/installer/install-menu-perltk.pl:368
 #: tlpkg/installer/install-menu-perltk.pl:445
