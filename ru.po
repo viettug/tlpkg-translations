@@ -1,13 +1,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
 # Vladimir <lomov.vl@gmail.com>, 2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-04-14 03:55+0200\n"
-"PO-Revision-Date: 2010-01-15 15:19+0800\n"
+"PO-Revision-Date: 2010-04-19 12:31+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -268,9 +267,8 @@ msgstr "Выход"
 
 #: tlpkg/installer/install-menu-perltk.pl:355
 #: tlpkg/installer/install-menu-perltk.pl:359
-#, fuzzy
 msgid "Installation process"
-msgstr "Установить пакеты"
+msgstr "Процесс установки"
 
 #: tlpkg/installer/install-menu-perltk.pl:368
 #: tlpkg/installer/install-menu-perltk.pl:445
@@ -697,9 +695,8 @@ msgid "Update all installed"
 msgstr "Обновить все установленные"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:372
-#, fuzzy
 msgid "Reinstall previously removed packages"
-msgstr "Выберите пакеты"
+msgstr "Установить заново ранее удалённые пакеты"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:385
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
@@ -758,21 +755,20 @@ msgstr "Архитектуры ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:486
 #: texmf/scripts/texlive/tlmgrgui.pl:1219
-#, fuzzy
 msgid "Expert options"
-msgstr "Настройки формата страницы"
+msgstr "Дополнительные опции"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:490
 msgid "Enable debugging output"
-msgstr ""
+msgstr "Включить детальный вывод"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:494
 msgid "Disable auto-install of new packages"
-msgstr ""
+msgstr "Выключить автоматическую установку новых пакетов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:497
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
+msgstr "Выключить автоматическое удаление пакетов, удалённых с сервера"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:504
 msgid "Update filename database"
@@ -790,7 +786,7 @@ msgstr "Обновить базу данных шрифтов"
 #: texmf/scripts/texlive/tlmgrgui.pl:536
 #: texmf/scripts/texlive/tlmgrgui.pl:1788
 msgid "Restore packages from backup"
-msgstr ""
+msgstr "Восстановить пакеты из резервного архива"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:542
 #: texmf/scripts/texlive/tlmgrgui.pl:1870
@@ -824,7 +820,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:572
 msgid "Manual"
-msgstr ""
+msgstr "Руководство"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:573 texmf/scripts/texlive/tlmgrgui.pl:575
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:123
@@ -1021,7 +1017,7 @@ msgstr "Формат по умолчанию для"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1218
 msgid "Changes will take effect after restart"
-msgstr ""
+msgstr "Изменения вступят в силу после перезапуска программы"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1234
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:336
@@ -1109,7 +1105,7 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:1721
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr ""
+msgstr "После обновления tlmgr будут доступны ещё %s обновлений."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1723
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
@@ -1122,34 +1118,31 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1803
 msgid "Restore done"
-msgstr ""
+msgstr "Восстановление сделано"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1805
-#, fuzzy
 msgid "Restore completed"
-msgstr "Полное удаление завершено"
+msgstr "Восстановление завершено"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1810
 msgid "Select the package to restore, or restore all packages"
-msgstr ""
+msgstr "Выберите пакет для восстановления или восстановить все пакеты"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1826
-#, fuzzy
 msgid "Revision:"
-msgstr "Локальная ревизия:"
+msgstr "Ревизия:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1831
-#, fuzzy
 msgid "Restore selected package"
-msgstr "Выберите пакеты"
+msgstr "Восстановить выбранные пакеты"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1847
 msgid "Restore all package to latest version"
-msgstr ""
+msgstr "Восстановить все пакеты до последней версии"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1863
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1895
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
