@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-04-14 03:55+0200\n"
-"PO-Revision-Date: 2010-04-27 00:33+0100\n"
+"PO-Revision-Date: 2010-05-02 18:08+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -309,8 +309,7 @@ msgid ""
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Patrz %s/index.html z odnośnikami do dokumentacji.\n"
-"Na stronie TeX Live (http://tug.org/texlive/)\n"
-"znajdziesz aktualizacje i poprawki.\n"
+"Na stronie TeX Live (http://tug.org/texlive/) znajdziesz aktualizacje i poprawki.\n"
 "TeX Live jest zbiorowym projektem grup użytkowników TeX-a z całego świata;\n"
 "proszę rozważyć wsparcie poprzez przystąpienie do grupy.\n"
 "Lista grup dostępna jest na stronie http://tug.org/usergroups.html."
@@ -428,11 +427,11 @@ msgstr "Programy według"
 
 #: tlpkg/installer/install-menu-perltk.pl:722
 msgid "manpages to"
-msgstr "Strony pomocy według"
+msgstr "Strony man według"
 
 #: tlpkg/installer/install-menu-perltk.pl:724
 msgid "info to"
-msgstr "Strony informacyjne według"
+msgstr "Dokumentacje info według"
 
 #: tlpkg/installer/install-menu-perltk.pl:748
 msgid "Select arch-os"
@@ -462,7 +461,7 @@ msgstr "(nie zaznaczono żadnej kolekcji językowej!)"
 #: tlpkg/installer/install-menu-perltk.pl:821
 #: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
-msgstr "(domyślnie nie do zapisu - proszę zmienić!)"
+msgstr "(domyślnie nie masz prawa do zapisu - proszę zmienić!)"
 
 #: tlpkg/installer/install-menu-perltk.pl:807
 #: tlpkg/installer/install-menu-perltk.pl:818
@@ -647,7 +646,7 @@ msgstr "schematy"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:292
 msgid "Match"
-msgstr "Dopasuj"
+msgstr "Znajdź"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:294
 msgid "pattern:"
@@ -771,7 +770,7 @@ msgstr "Wyłącz automatyczne instalowanie nowszych pakietów"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:497
 msgid "Disable auto-removal of server-deleted packages"
-msgstr "Wyłącz automatyczne usuwanie pakietów, ktore zostały usunięte z repozytorium"
+msgstr "Wyłącz automatyczne usuwanie pakietów, które zostały usunięte z repozytorium"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:504
 msgid "Update filename database"
@@ -819,7 +818,7 @@ msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
-"Naprawdę usunąć całą instalację TeX Live %s?\n"
+"Czy naprawdę usunąć całą instalację TeX Live %s?\n"
 "Ostatni moment na zmianę decyzji!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:572
@@ -864,7 +863,7 @@ msgstr "Lokalny nr wydania:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:629
 msgid "Local Catalogue Version:"
-msgstr "Lokalna wersja wg Catalogue"
+msgstr "Lokalna wersja wg TeX Catalogue"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:633
 msgid "Remote Revision:"
@@ -872,7 +871,7 @@ msgstr "Dostępny nr wydania:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:637
 msgid "Remote Catalogue Version:"
-msgstr "Dostępna wersja wg Catalogue:"
+msgstr "Dostępna wersja wg TeX Catalogue:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:648
 msgid "Collection:"
@@ -880,7 +879,7 @@ msgstr "Kolekcja:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:652
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr "Uwaga:  nr wersji wg Catalogue może być nie na czasie lub wręcz błędny."
+msgstr "Uwaga:  nr wersji wg TeX Catalogue może być nie całkiem aktualny lub wręcz błędny."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:690
 msgid "Depends:"
@@ -1101,7 +1100,7 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
-"Dostępne są aktualizacje programu tlmgr.\n"
+"Dostępna jest aktualizacja programu tlmgr.\n"
 "Instalacja i aktualizacje nie będą działać bez trybu wymuszonego.\n"
 "Naciśnij przycisk \"aktualizuj wszystko\" poniżej.\n"
 "Program zakończy działanie po zaktualizowaniu tlmgr.\n"
@@ -1110,7 +1109,7 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:1721
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr "Po aktualizacji tlmgr dostępnych jest dalszych %s aktualizacji "
+msgstr "Po aktualizacji tlmgr dostępnych jest dalszych %s aktualizacji."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1723
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
@@ -1182,7 +1181,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:97
 msgid "(no description available)"
-msgstr "(opis niedostępny)"
+msgstr "(brak opisu)"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:113
 msgid "Use Ctrl or Shift or drag to select more"
@@ -1210,7 +1209,7 @@ msgstr "Wymuś"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
 msgid "Force the removal of a package even if it is referenced in a collection."
-msgstr "Wymuś usuwanie pakietu, nawet gdy jest składnikiem kolekcji."
+msgstr "Wymuś usuwanie pakietu, nawet jeśli należy do kolekcji."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
@@ -1287,7 +1286,7 @@ msgstr "debug"
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:163
 msgid "Turn on debug mode."
-msgstr "Przełącz tryb debug."
+msgstr "Włącz tryb debug."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:178
 msgid "Adding packages"
@@ -1353,7 +1352,7 @@ msgstr ""
 "\n"
 "Twoja instalacja jest ustawiona na szukanie aktualizacji na dysku.\n"
 "\n"
-"Jeśli chcesz w tej chwili instalować z internetu, naciśnij przycisk \"Zmień\" powyżej i wybierz \"Domyślne repozytorium w sieci\" (lub każdą inną lokalizację w sieci, np. lokalnej, która może działać).\n"
+"Jeśli chcesz w tej chwili instalować z internetu, naciśnij przycisk \"Zmień\" powyżej i wybierz \"Domyślne repozytorium w sieci\" (lub jakąś inną lokalizację w sieci, np. lokalnej, która może działać).\n"
 "\n"
 "Jeśli chcesz zmienić to ustawienie na stałe, przejdź do zakładki \"Konfiguracja\" i zmień domyślne repozytorium instalacji."
 
