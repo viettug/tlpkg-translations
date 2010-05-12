@@ -808,7 +808,7 @@ msgstr "TeX Live %s entfernen"
 #: texmf/scripts/texlive/tlmgrgui.pl:557
 #: texmf/scripts/texlive/tlmgrgui/gui-uninstall.pl:31
 msgid "Complete removal completed"
-msgstr "TeX Live 2009 wurde vollständig entfernt"
+msgstr "TeX Live 2010 wurde vollständig entfernt"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:562
 #, perl-format
