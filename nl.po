@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-05-26 04:00+0200\n"
-"PO-Revision-Date: 2010-01-15 12:30+0100\n"
+"POT-Creation-Date: 2010-05-14 03:55+0200\n"
+"PO-Revision-Date: 2010-05-29 11:44+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -41,16 +41,17 @@ msgstr "Alle"
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:831
 #: tlpkg/installer/install-menu-perltk.pl:832
 #: tlpkg/installer/install-menu-perltk.pl:833
 #: tlpkg/installer/install-menu-perltk.pl:834
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:846
-#: tlpkg/installer/install-menu-perltk.pl:907
-#: tlpkg/installer/install-menu-perltk.pl:909
+#: tlpkg/installer/install-menu-perltk.pl:835
+#: tlpkg/installer/install-menu-perltk.pl:841
+#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:908
+#: tlpkg/installer/install-menu-perltk.pl:910
 #: tlpkg/installer/install-menu-wizard.pl:399
-#: texmf/scripts/texlive/tlmgrgui.pl:637 texmf/scripts/texlive/tlmgrgui.pl:974
+#: texmf/scripts/texlive/tlmgrgui.pl:637
+#: texmf/scripts/texlive/tlmgrgui.pl:974
 #: texmf/scripts/texlive/tlmgrgui.pl:1293
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:380
@@ -66,15 +67,16 @@ msgstr "Ja"
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:831
 #: tlpkg/installer/install-menu-perltk.pl:832
 #: tlpkg/installer/install-menu-perltk.pl:833
 #: tlpkg/installer/install-menu-perltk.pl:834
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:846
-#: tlpkg/installer/install-menu-perltk.pl:907
+#: tlpkg/installer/install-menu-perltk.pl:835
+#: tlpkg/installer/install-menu-perltk.pl:841
+#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:908
 #: tlpkg/installer/install-menu-wizard.pl:399
-#: texmf/scripts/texlive/tlmgrgui.pl:637 texmf/scripts/texlive/tlmgrgui.pl:974
+#: texmf/scripts/texlive/tlmgrgui.pl:637
+#: texmf/scripts/texlive/tlmgrgui.pl:974
 #: texmf/scripts/texlive/tlmgrgui.pl:1293
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:380
@@ -92,7 +94,7 @@ msgid "Basic Information"
 msgstr "Basisinformatie"
 
 #: tlpkg/installer/install-menu-perltk.pl:169
-#: tlpkg/installer/install-menu-perltk.pl:738
+#: tlpkg/installer/install-menu-perltk.pl:739
 msgid "Binary system(s)"
 msgstr "Platform(s)"
 
@@ -106,8 +108,8 @@ msgstr "Platform(s)"
 #: tlpkg/installer/install-menu-perltk.pl:228
 #: tlpkg/installer/install-menu-perltk.pl:234
 #: tlpkg/installer/install-menu-perltk.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:282
-#: tlpkg/installer/install-menu-perltk.pl:296
+#: tlpkg/installer/install-menu-perltk.pl:283
+#: tlpkg/installer/install-menu-perltk.pl:297
 #: tlpkg/installer/install-menu-wizard.pl:198
 #: texmf/scripts/texlive/tlmgrgui.pl:1004
 #: texmf/scripts/texlive/tlmgrgui.pl:1038
@@ -133,8 +135,8 @@ msgid "Change"
 msgstr "Wijzig"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:522
-#: tlpkg/installer/install-menu-perltk.pl:535
+#: tlpkg/installer/install-menu-perltk.pl:523
+#: tlpkg/installer/install-menu-perltk.pl:536
 msgid "Selected scheme"
 msgstr "Gekozen schema"
 
@@ -143,12 +145,12 @@ msgid "Further Customization"
 msgstr "Verder verfijning"
 
 #: tlpkg/installer/install-menu-perltk.pl:190
-#: tlpkg/installer/install-menu-perltk.pl:570
+#: tlpkg/installer/install-menu-perltk.pl:571
 msgid "Standard collections"
 msgstr "Standaard-collecties"
 
 #: tlpkg/installer/install-menu-perltk.pl:195
-#: tlpkg/installer/install-menu-perltk.pl:609
+#: tlpkg/installer/install-menu-perltk.pl:610
 msgid "Language collections"
 msgstr "Taal-collecties"
 
@@ -187,13 +189,13 @@ msgstr "Gebruik standaard letter inplaats van A4"
 
 #: tlpkg/installer/install-menu-perltk.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:255
-#: tlpkg/installer/install-menu-perltk.pl:260
-#: tlpkg/installer/install-menu-perltk.pl:266
-#: tlpkg/installer/install-menu-perltk.pl:273
-#: tlpkg/installer/install-menu-perltk.pl:284
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:302
-#: tlpkg/installer/install-menu-perltk.pl:308
+#: tlpkg/installer/install-menu-perltk.pl:261
+#: tlpkg/installer/install-menu-perltk.pl:267
+#: tlpkg/installer/install-menu-perltk.pl:274
+#: tlpkg/installer/install-menu-perltk.pl:285
+#: tlpkg/installer/install-menu-perltk.pl:292
+#: tlpkg/installer/install-menu-perltk.pl:303
+#: tlpkg/installer/install-menu-perltk.pl:309
 #: texmf/scripts/texlive/tlmgrgui.pl:1014
 #: texmf/scripts/texlive/tlmgrgui.pl:1022
 #: texmf/scripts/texlive/tlmgrgui.pl:1030
@@ -208,37 +210,37 @@ msgid "Toggle"
 msgstr "Wijzig"
 
 #: tlpkg/installer/install-menu-perltk.pl:253
-msgid "Allow execution of restricted list of programs via \\write18"
-msgstr "Sta uitvoering van een beperkte lijst programmas toe via \\write18"
-
-#: tlpkg/installer/install-menu-perltk.pl:258
 msgid "Create all format files"
 msgstr "Genereer alle format bestanden"
 
-#: tlpkg/installer/install-menu-perltk.pl:264
+#: tlpkg/installer/install-menu-perltk.pl:259
+msgid "Allow execution of restricted list of programs via \\write18"
+msgstr "Sta uitvoering van een beperkte lijst programmas toe via \\write18"
+
+#: tlpkg/installer/install-menu-perltk.pl:265
 msgid "Install font/macro doc tree"
 msgstr "Installeer font/macro doc folder"
 
-#: tlpkg/installer/install-menu-perltk.pl:271
+#: tlpkg/installer/install-menu-perltk.pl:272
 msgid "Install font/macro source tree"
 msgstr "Installeer font/macro bron folder"
 
-#: tlpkg/installer/install-menu-perltk.pl:277
+#: tlpkg/installer/install-menu-perltk.pl:278
 msgid "Adjust PATH setting in registry"
 msgstr "PATH aanpassen in registry"
 
-#: tlpkg/installer/install-menu-perltk.pl:278
-#: tlpkg/installer/install-menu-perltk.pl:710
+#: tlpkg/installer/install-menu-perltk.pl:279
+#: tlpkg/installer/install-menu-perltk.pl:711
 msgid "Create symlinks in system directories"
 msgstr "Maak symlinks naar standaard-folders"
 
-#: tlpkg/installer/install-menu-perltk.pl:289
+#: tlpkg/installer/install-menu-perltk.pl:290
 msgid "Add shortcuts to menu and desktop"
 msgstr "Snelkoppelingen menu en bureaublad maken"
 
-#: tlpkg/installer/install-menu-perltk.pl:294
-#: tlpkg/installer/install-menu-perltk.pl:485
-#: tlpkg/installer/install-menu-perltk.pl:490
+#: tlpkg/installer/install-menu-perltk.pl:295
+#: tlpkg/installer/install-menu-perltk.pl:486
+#: tlpkg/installer/install-menu-perltk.pl:491
 #: texmf/scripts/texlive/tlmgrgui.pl:1102
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
 #: texmf/scripts/texlive/tlmgrgui.pl:1380
@@ -248,43 +250,44 @@ msgstr "Snelkoppelingen menu en bureaublad maken"
 msgid "Change file associations"
 msgstr "Wijzig bestandstypen"
 
-#: tlpkg/installer/install-menu-perltk.pl:300
+#: tlpkg/installer/install-menu-perltk.pl:301
 msgid "Installation for all users"
 msgstr "Installeer voor alle gebruikers"
 
-#: tlpkg/installer/install-menu-perltk.pl:306
+#: tlpkg/installer/install-menu-perltk.pl:307
 msgid "Install TeXworks front end"
 msgstr "Installeer TeXworks front-end"
 
-#: tlpkg/installer/install-menu-perltk.pl:314
+#: tlpkg/installer/install-menu-perltk.pl:315
 msgid "Install TeX Live"
 msgstr "Installeer TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:318
+#: tlpkg/installer/install-menu-perltk.pl:319
 #: texmf/scripts/texlive/tlmgrgui.pl:470
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
 msgid "Quit"
 msgstr "Stoppen"
 
-#: tlpkg/installer/install-menu-perltk.pl:354
-#: tlpkg/installer/install-menu-perltk.pl:358
+#: tlpkg/installer/install-menu-perltk.pl:355
+#: tlpkg/installer/install-menu-perltk.pl:359
 #, fuzzy
 msgid "Installation process"
 msgstr "Installatie"
 
-#: tlpkg/installer/install-menu-perltk.pl:367
-#: tlpkg/installer/install-menu-perltk.pl:444
-#: tlpkg/installer/install-menu-perltk.pl:476
-#: tlpkg/installer/install-menu-perltk.pl:514
-#: tlpkg/installer/install-menu-perltk.pl:562
-#: tlpkg/installer/install-menu-perltk.pl:602
-#: tlpkg/installer/install-menu-perltk.pl:665
-#: tlpkg/installer/install-menu-perltk.pl:729
-#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-perltk.pl:368
+#: tlpkg/installer/install-menu-perltk.pl:445
+#: tlpkg/installer/install-menu-perltk.pl:477
+#: tlpkg/installer/install-menu-perltk.pl:515
+#: tlpkg/installer/install-menu-perltk.pl:563
+#: tlpkg/installer/install-menu-perltk.pl:603
+#: tlpkg/installer/install-menu-perltk.pl:666
+#: tlpkg/installer/install-menu-perltk.pl:730
+#: tlpkg/installer/install-menu-perltk.pl:759
 #: tlpkg/installer/install-menu-wizard.pl:158
 #: tlpkg/installer/install-menu-wizard.pl:278
 #: tlpkg/installer/install-menu-wizard.pl:453
-#: texmf/scripts/texlive/tlmgrgui.pl:566 texmf/scripts/texlive/tlmgrgui.pl:567
+#: texmf/scripts/texlive/tlmgrgui.pl:566
+#: texmf/scripts/texlive/tlmgrgui.pl:567
 #: texmf/scripts/texlive/tlmgrgui.pl:918
 #: texmf/scripts/texlive/tlmgrgui.pl:1121
 #: texmf/scripts/texlive/tlmgrgui.pl:1227
@@ -303,15 +306,12 @@ msgstr "Installatie"
 msgid "Cancel"
 msgstr "Afbreken"
 
-#: tlpkg/installer/install-menu-perltk.pl:375
+#: tlpkg/installer/install-menu-perltk.pl:376
 #: tlpkg/installer/install-menu-wizard.pl:459
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Zie %s/index.html voor links naar documentatie.\n"
 "De TeX Live web site (http://tug.org/texlive/) bevat\n"
@@ -320,7 +320,7 @@ msgstr ""
 "overweeg ondersteuning door lid te worden van zo'n groep.\n"
 "De lijst van gebruikersgroepen staat op http://tug.org/usergroups.html."
 
-#: tlpkg/installer/install-menu-perltk.pl:377
+#: tlpkg/installer/install-menu-perltk.pl:378
 #: tlpkg/installer/install-menu-wizard.pl:461
 #, perl-format
 msgid ""
@@ -334,39 +334,42 @@ msgstr ""
 "En het belangrijkste: voeg %s/bin/%s\n"
 "toe aan PATH voor de huidige en voor toekomstige sessies."
 
-#: tlpkg/installer/install-menu-perltk.pl:379
+#: tlpkg/installer/install-menu-perltk.pl:380
 #: tlpkg/installer/install-menu-wizard.pl:463
 msgid "Welcome to TeX Live!"
 msgstr "Welkom bij TeX Live!"
 
-#: tlpkg/installer/install-menu-perltk.pl:389
+#: tlpkg/installer/install-menu-perltk.pl:390
 #: tlpkg/installer/install-menu-wizard.pl:472
 msgid "Finish"
 msgstr "Sluit af"
 
-#: tlpkg/installer/install-menu-perltk.pl:429
-#: tlpkg/installer/install-menu-perltk.pl:460
+#: tlpkg/installer/install-menu-perltk.pl:430
+#: tlpkg/installer/install-menu-perltk.pl:461
 msgid "Change variable value"
 msgstr "Nieuwe waarde"
 
-#: tlpkg/installer/install-menu-perltk.pl:432
-#: tlpkg/installer/install-menu-perltk.pl:470
+#: tlpkg/installer/install-menu-perltk.pl:433
+#: tlpkg/installer/install-menu-perltk.pl:471
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Pad voor %s (gebruik ~ voor %s)"
 
-#: tlpkg/installer/install-menu-perltk.pl:443
-#: tlpkg/installer/install-menu-perltk.pl:474
-#: tlpkg/installer/install-menu-perltk.pl:499
-#: tlpkg/installer/install-menu-perltk.pl:560
-#: tlpkg/installer/install-menu-perltk.pl:600
-#: tlpkg/installer/install-menu-perltk.pl:663
-#: tlpkg/installer/install-menu-perltk.pl:727
-#: tlpkg/installer/install-menu-perltk.pl:756
+#: tlpkg/installer/install-menu-perltk.pl:444
+#: tlpkg/installer/install-menu-perltk.pl:475
+#: tlpkg/installer/install-menu-perltk.pl:500
+#: tlpkg/installer/install-menu-perltk.pl:561
+#: tlpkg/installer/install-menu-perltk.pl:601
+#: tlpkg/installer/install-menu-perltk.pl:664
+#: tlpkg/installer/install-menu-perltk.pl:728
+#: tlpkg/installer/install-menu-perltk.pl:757
 #: tlpkg/installer/install-menu-wizard.pl:275
-#: texmf/scripts/texlive/tlmgrgui.pl:213 texmf/scripts/texlive/tlmgrgui.pl:566
-#: texmf/scripts/texlive/tlmgrgui.pl:570 texmf/scripts/texlive/tlmgrgui.pl:572
-#: texmf/scripts/texlive/tlmgrgui.pl:590 texmf/scripts/texlive/tlmgrgui.pl:750
+#: texmf/scripts/texlive/tlmgrgui.pl:213
+#: texmf/scripts/texlive/tlmgrgui.pl:566
+#: texmf/scripts/texlive/tlmgrgui.pl:570
+#: texmf/scripts/texlive/tlmgrgui.pl:572
+#: texmf/scripts/texlive/tlmgrgui.pl:590
+#: texmf/scripts/texlive/tlmgrgui.pl:750
 #: texmf/scripts/texlive/tlmgrgui.pl:930
 #: texmf/scripts/texlive/tlmgrgui.pl:1235
 #: texmf/scripts/texlive/tlmgrgui.pl:1236
@@ -396,78 +399,78 @@ msgstr "Pad voor %s (gebruik ~ voor %s)"
 msgid "Ok"
 msgstr "Ok"
 
-#: tlpkg/installer/install-menu-perltk.pl:579
+#: tlpkg/installer/install-menu-perltk.pl:580
 msgid "Select the collections to be installed"
 msgstr "Kies te installeren collecties"
 
-#: tlpkg/installer/install-menu-perltk.pl:595
-#: tlpkg/installer/install-menu-perltk.pl:636
-#: tlpkg/installer/install-menu-perltk.pl:658
+#: tlpkg/installer/install-menu-perltk.pl:596
+#: tlpkg/installer/install-menu-perltk.pl:637
+#: tlpkg/installer/install-menu-perltk.pl:659
 msgid "Select All"
 msgstr "Kies alles"
 
-#: tlpkg/installer/install-menu-perltk.pl:597
-#: tlpkg/installer/install-menu-perltk.pl:638
-#: tlpkg/installer/install-menu-perltk.pl:660
+#: tlpkg/installer/install-menu-perltk.pl:598
+#: tlpkg/installer/install-menu-perltk.pl:639
+#: tlpkg/installer/install-menu-perltk.pl:661
 msgid "Deselect All"
 msgstr "Kies niets"
 
-#: tlpkg/installer/install-menu-perltk.pl:614
+#: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language support"
 msgstr "Keuze van talen"
 
-#: tlpkg/installer/install-menu-perltk.pl:615
+#: tlpkg/installer/install-menu-perltk.pl:616
 msgid "Select language-specific documentation"
 msgstr "Talen voor documentatie"
 
-#: tlpkg/installer/install-menu-perltk.pl:714
+#: tlpkg/installer/install-menu-perltk.pl:715
 msgid "create symlinks in standard directories"
 msgstr "Maak symlinks naar standaard-folders"
 
-#: tlpkg/installer/install-menu-perltk.pl:719
+#: tlpkg/installer/install-menu-perltk.pl:720
 msgid "binaries to"
 msgstr "programma's naar"
 
-#: tlpkg/installer/install-menu-perltk.pl:721
+#: tlpkg/installer/install-menu-perltk.pl:722
 msgid "manpages to"
 msgstr "manpages naar"
 
-#: tlpkg/installer/install-menu-perltk.pl:723
+#: tlpkg/installer/install-menu-perltk.pl:724
 msgid "info to"
 msgstr "info naar"
 
-#: tlpkg/installer/install-menu-perltk.pl:747
+#: tlpkg/installer/install-menu-perltk.pl:748
 msgid "Select arch-os"
 msgstr "Kies platform(s)"
 
-#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-perltk.pl:779
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s van %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:783
+#: tlpkg/installer/install-menu-perltk.pl:784
 #, perl-format
 msgid "%s collections out of %s "
 msgstr "%s collecties van %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:783
+#: tlpkg/installer/install-menu-perltk.pl:784
 #: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
 msgstr "benodigde schijfruimte"
 
-#: tlpkg/installer/install-menu-perltk.pl:792
+#: tlpkg/installer/install-menu-perltk.pl:793
 msgid "(no language collection selected!)"
 msgstr "(geen taal-collectie geselecteerd!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:797
-#: tlpkg/installer/install-menu-perltk.pl:809
-#: tlpkg/installer/install-menu-perltk.pl:820
+#: tlpkg/installer/install-menu-perltk.pl:798
+#: tlpkg/installer/install-menu-perltk.pl:810
+#: tlpkg/installer/install-menu-perltk.pl:821
 #: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
 msgstr "(geen schrijf-toegang - wijzig!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:806
-#: tlpkg/installer/install-menu-perltk.pl:817
+#: tlpkg/installer/install-menu-perltk.pl:807
+#: tlpkg/installer/install-menu-perltk.pl:818
 msgid "(please change TEXDIR first!)"
 msgstr "(TEXDIR eerst veranderen!)"
 
@@ -569,7 +572,8 @@ msgstr ""
 msgid "Completed"
 msgstr "Klaar"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:211 texmf/scripts/texlive/tlmgrgui.pl:928
+#: texmf/scripts/texlive/tlmgrgui.pl:211
+#: texmf/scripts/texlive/tlmgrgui.pl:928
 #: texmf/scripts/texlive/tlmgrgui.pl:1429
 #: texmf/scripts/texlive/tlmgrgui.pl:1732
 #: texmf/scripts/texlive/tlmgrgui.pl:1792
@@ -590,8 +594,7 @@ msgid ""
 msgstr ""
 "U heeft geen permissie om ook maar iets aan de installatie te wijzigen,\n"
 "in het bijzonder, u heeft geen schrijfrechten voor de folder %s.\n"
-"Draai dit programma als Administrator, of neem contact op met uw lokale "
-"systeembeheerder.\n"
+"Draai dit programma als Administrator, of neem contact op met uw lokale systeembeheerder.\n"
 "\n"
 "De meeste knoppen zijn gedeactiveerd."
 
@@ -612,7 +615,8 @@ msgstr "Laat instellingen zien"
 msgid "Status"
 msgstr "Status"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:273 texmf/scripts/texlive/tlmgrgui.pl:311
+#: texmf/scripts/texlive/tlmgrgui.pl:273
+#: texmf/scripts/texlive/tlmgrgui.pl:311
 msgid "all"
 msgstr "alle"
 
@@ -697,9 +701,8 @@ msgid "Update all installed"
 msgstr "Alles aktualiseren"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:371
-#, fuzzy
 msgid "Reinstall previously removed packages"
-msgstr "Selekteer pakketten"
+msgstr "Herinstalleer eerder verwijderde pakketten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:384
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
@@ -758,21 +761,20 @@ msgstr "Architekturen ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:485
 #: texmf/scripts/texlive/tlmgrgui.pl:1233
-#, fuzzy
 msgid "Expert options"
-msgstr "Papier instellingen"
+msgstr "Geavanceerde instellingen"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:489
 msgid "Enable debugging output"
-msgstr ""
+msgstr "Aktiveer debug uitvoer"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:493
 msgid "Disable auto-install of new packages"
-msgstr ""
+msgstr "Deaktiveer automatische installatie van nieuwe pakketten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:496
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
+msgstr "Deaktiveer automatische verwijdering van pakketten die op de server zijn verwijderd"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:503
 msgid "Update filename database"
@@ -788,14 +790,13 @@ msgid "Update font map database"
 msgstr "Aktualiseer font map database"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:535
-#, fuzzy
 msgid "Update LuaTeX font database"
-msgstr "Aktualiseer font map database"
+msgstr "Aktualiseer LuaTeX font database"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:550
 #: texmf/scripts/texlive/tlmgrgui.pl:1802
 msgid "Restore packages from backup"
-msgstr ""
+msgstr "Herinstalleer pakketten vanaf reserve-kopie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:556
 #: texmf/scripts/texlive/tlmgrgui.pl:1884
@@ -829,9 +830,10 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:586
 msgid "Manual"
-msgstr ""
+msgstr "Handleiding"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:587 texmf/scripts/texlive/tlmgrgui.pl:589
+#: texmf/scripts/texlive/tlmgrgui.pl:587
+#: texmf/scripts/texlive/tlmgrgui.pl:589
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:123
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:125
 msgid "About"
@@ -914,7 +916,8 @@ msgstr "Bin bestanden:"
 msgid "Further information"
 msgstr "Nadere informatie"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:899 texmf/scripts/texlive/tlmgrgui.pl:904
+#: texmf/scripts/texlive/tlmgrgui.pl:899
+#: texmf/scripts/texlive/tlmgrgui.pl:904
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:28
 msgid "Select architectures to support"
 msgstr "Keuze van te ondersteunen architecturen"
@@ -931,7 +934,8 @@ msgstr "Voer de wijzigingen uit"
 msgid "Removals of the main architecture not possible!"
 msgstr "Verwijdering van de hoofd-architektuur niet mogelijk!"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:986 texmf/scripts/texlive/tlmgrgui.pl:995
+#: texmf/scripts/texlive/tlmgrgui.pl:986
+#: texmf/scripts/texlive/tlmgrgui.pl:995
 msgid "General options"
 msgstr "Algemene opties:"
 
@@ -1024,7 +1028,7 @@ msgstr "Standaard papier-formaat voor"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1232
 msgid "Changes will take effect after restart"
-msgstr ""
+msgstr "Wijzigingen treden in werking na herstart"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1248
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:336
@@ -1076,14 +1080,12 @@ msgstr ""
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different "
-"package repository!\n"
+"If you want to install or update packages, please try with a different package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Het laden van de TeX Live Database vanaf %s is mislukt\n"
-"Als u pakketten wilt installeren of aktualiseren, probeer dan een andere "
-"installatie-bron!\n"
+"Als u pakketten wilt installeren of aktualiseren, probeer dan een andere installatie-bron!\n"
 "\n"
 "Voor instellingen en voor verwijderen hoeft u niets te doen."
 
@@ -1110,47 +1112,40 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:1735
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr ""
+msgstr "Nog minstens %s verdere updates komen beschikbaar na aktualisatie van tlmgr"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1737
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan "
-"worden voltooid."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan worden voltooid."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1817
 msgid "Restore done"
-msgstr ""
+msgstr "Klaar met herstel"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1819
-#, fuzzy
 msgid "Restore completed"
-msgstr "Volledige verwijdering voltooid"
+msgstr "Volledig herstel voltooid"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1824
 msgid "Select the package to restore, or restore all packages"
-msgstr ""
+msgstr "Kies te herstellen pakket, of herstel alle pakketten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1840
-#, fuzzy
 msgid "Revision:"
-msgstr "Lokale revisie:"
+msgstr "Revisie:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1845
-#, fuzzy
 msgid "Restore selected package"
-msgstr "Selekteer pakketten"
+msgstr "Herstel gekozen pakket"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1861
 msgid "Restore all package to latest version"
-msgstr ""
+msgstr "Herstel alle pakketten tot hun nieuwste versie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1877
 msgid "Close"
-msgstr ""
+msgstr "Afsluiten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1909
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
@@ -1215,22 +1210,16 @@ msgid "Force"
 msgstr "Dwing af"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:184
-msgid ""
-"Force the removal of a package even if it is referenced in a collection."
-msgstr ""
-"Dwing de verwijdering van een pakket af zelfs als een collectie ernaar "
-"verwijst."
+msgid "Force the removal of a package even if it is referenced in a collection."
+msgstr "Dwing de verwijdering van een pakket af zelfs als een collectie ernaar verwijst."
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:187
 msgid "without depends"
 msgstr "zonder afhankelijkheden"
 
 #: texmf/scripts/texlive/tlmgrgui/do_listframe.pl:190
-msgid ""
-"For collections: install or remove will not install/remove the dependencies"
-msgstr ""
-"Voor collecties: installeren of verwijderen installeert/verwijdert niet de "
-"afhankelijkheden"
+msgid "For collections: install or remove will not install/remove the dependencies"
+msgstr "Voor collecties: installeren of verwijderen installeert/verwijdert niet de afhankelijkheden"
 
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:11
 msgid "Architectures"
@@ -1290,9 +1279,7 @@ msgid "Press this button to load the database from the package repository."
 msgstr "Klik deze knop om de database te laden van de installatie-bron."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:152
-msgid ""
-"Change package repository from where packages are fetched at installation "
-"and update time."
+msgid "Change package repository from where packages are fetched at installation and update time."
 msgstr "Kies een andere bron voor installeren en aktualiseren van pakketten."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:160
@@ -1359,23 +1346,17 @@ msgid ""
 "\n"
 "Your installation is set up to look on the disk for updates.\n"
 "\n"
-"If you want to install from the Internet for this one time only, click on "
-"the \"Change\" button above and select \"Default net package repository"
-"\" (or any other package repository you know to be working).\n"
+"If you want to install from the Internet for this one time only, click on the \"Change\" button above and select \"Default net package repository\" (or any other package repository you know to be working).\n"
 "\n"
-"If you want to change it permanently, go to the \"Configuration\" Tab and "
-"change the default package repository."
+"If you want to change it permanently, go to the \"Configuration\" Tab and change the default package repository."
 msgstr ""
 "Geen nieuwere versies gevonden.\n"
 "\n"
 "Uw installatie zoekt op schijf naar nieuwe versies.\n"
 "\n"
-"Als u alleen deze keer vanaf het Internet wilt installeren, klik dan op de "
-"\"Wijzig\" knop hierboven en kies \"Standaard Net installatie-bron\" (of een "
-"andere netwerk installatie-bron waarvan u weet dat hij werkt).\n"
+"Als u alleen deze keer vanaf het Internet wilt installeren, klik dan op de \"Wijzig\" knop hierboven en kies \"Standaard Net installatie-bron\" (of een andere netwerk installatie-bron waarvan u weet dat hij werkt).\n"
 "\n"
-"Als u het permanent wilt veranderen, ga dan naar het \"Instellingen\" "
-"tabblad en wijzig de standaard installatie-bron."
+"Als u het permanent wilt veranderen, ga dan naar het \"Instellingen\" tabblad en wijzig de standaard installatie-bron."
 
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:398
 msgid "Everything up-to-date!"
@@ -1413,24 +1394,18 @@ msgstr "Waarschuwingsvenster"
 #, fuzzy
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s collecties van %s (disk space required: %s MB)"
-
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(gebruik ~ voor %%%)"
-
 #~ msgid "Change Location"
 #~ msgstr "Wijzig lokatie"
-
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Kies toe te voegen architekturen (verwijderen is niet mogelijk)"
-
 #~ msgid "Default installation source"
 #~ msgstr "Standaard bron installatie"
-
 #~ msgid "New default installation source"
 #~ msgstr "Nieuwe standaard installatie-bron"
-
 #~ msgid "Default net location"
 #~ msgstr "Standaard net lokatie"
-
 #~ msgid "Current installation source:"
 #~ msgstr "Huidige installatie-bron:"
+
