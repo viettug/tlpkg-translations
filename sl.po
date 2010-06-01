@@ -658,12 +658,12 @@ msgstr "sheme"
 #: texmf/scripts/texlive/tlmgrgui.pl:291
 #, fuzzy
 msgid "Match"
-msgstr "Ujemanje po imenu"
+msgstr "Iskanje"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:293
 #, fuzzy
 msgid "pattern:"
-msgstr "reg. izraz:"
+msgstr "vklopi"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "Selection"
