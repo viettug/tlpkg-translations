@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-06-05 03:54+0200\n"
+"POT-Creation-Date: 2010-06-08 03:55+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -106,9 +107,6 @@ msgstr "二进制系统"
 #: tlpkg/installer/install-menu-perltk.pl:228
 #: tlpkg/installer/install-menu-perltk.pl:234
 #: tlpkg/installer/install-menu-perltk.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:282
-#: tlpkg/installer/install-menu-perltk.pl:296
-#: tlpkg/installer/install-menu-wizard.pl:198
 #: texmf/scripts/texlive/tlmgrgui.pl:996
 #: texmf/scripts/texlive/tlmgrgui.pl:1030
 #: texmf/scripts/texlive/tlmgrgui.pl:1045
@@ -133,7 +131,6 @@ msgid "Change"
 msgstr "修改"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:522
 #: tlpkg/installer/install-menu-perltk.pl:535
 msgid "Selected scheme"
 msgstr "选择安装方案"
@@ -190,10 +187,6 @@ msgstr "默认使用 letter 而不是 A4"
 #: tlpkg/installer/install-menu-perltk.pl:260
 #: tlpkg/installer/install-menu-perltk.pl:266
 #: tlpkg/installer/install-menu-perltk.pl:273
-#: tlpkg/installer/install-menu-perltk.pl:284
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:302
-#: tlpkg/installer/install-menu-perltk.pl:308
 #: texmf/scripts/texlive/tlmgrgui.pl:1006
 #: texmf/scripts/texlive/tlmgrgui.pl:1014
 #: texmf/scripts/texlive/tlmgrgui.pl:1022
@@ -223,146 +216,11 @@ msgstr "安装字体/宏包文档目录树"
 msgid "Install font/macro source tree"
 msgstr "安装字体/宏包源码目录树"
 
-#: tlpkg/installer/install-menu-perltk.pl:277
-msgid "Adjust PATH setting in registry"
-msgstr "修改注册表中的 PATH 设置"
-
-#: tlpkg/installer/install-menu-perltk.pl:278
-#: tlpkg/installer/install-menu-perltk.pl:710
-msgid "Create symlinks in system directories"
-msgstr "创建指向系统目录的符号链接"
-
-#: tlpkg/installer/install-menu-perltk.pl:289
-msgid "Add shortcuts to menu and desktop"
-msgstr "在桌面和菜单栏添加快捷方式"
-
-#: tlpkg/installer/install-menu-perltk.pl:294
-#: tlpkg/installer/install-menu-perltk.pl:485
-#: tlpkg/installer/install-menu-perltk.pl:490
-#: texmf/scripts/texlive/tlmgrgui.pl:1094
-#: texmf/scripts/texlive/tlmgrgui.pl:1368
-#: texmf/scripts/texlive/tlmgrgui.pl:1372
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
-msgid "Change file associations"
-msgstr "修改文件关联"
-
-#: tlpkg/installer/install-menu-perltk.pl:300
-msgid "Installation for all users"
-msgstr "为所有用户安装"
-
-#: tlpkg/installer/install-menu-perltk.pl:306
-msgid "Install TeXworks front end"
-msgstr "安装 TeXworks 前端"
-
-#: tlpkg/installer/install-menu-perltk.pl:314
-msgid "Install TeX Live"
-msgstr "安装 TeX Live"
-
-#: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui.pl:477
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
-msgid "Quit"
-msgstr "退出"
-
-#: tlpkg/installer/install-menu-perltk.pl:354
-#: tlpkg/installer/install-menu-perltk.pl:358
-#, fuzzy
-msgid "Installation process"
-msgstr "安装 TeX Live"
-
-#: tlpkg/installer/install-menu-perltk.pl:367
-#: tlpkg/installer/install-menu-perltk.pl:444
-#: tlpkg/installer/install-menu-perltk.pl:476
-#: tlpkg/installer/install-menu-perltk.pl:514
-#: tlpkg/installer/install-menu-perltk.pl:562
-#: tlpkg/installer/install-menu-perltk.pl:602
-#: tlpkg/installer/install-menu-perltk.pl:665
-#: tlpkg/installer/install-menu-perltk.pl:729
-#: tlpkg/installer/install-menu-perltk.pl:758
-#: tlpkg/installer/install-menu-wizard.pl:158
-#: tlpkg/installer/install-menu-wizard.pl:278
-#: tlpkg/installer/install-menu-wizard.pl:453
-#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
-#: texmf/scripts/texlive/tlmgrgui.pl:910
-#: texmf/scripts/texlive/tlmgrgui.pl:1113
-#: texmf/scripts/texlive/tlmgrgui.pl:1219
-#: texmf/scripts/texlive/tlmgrgui.pl:1227
-#: texmf/scripts/texlive/tlmgrgui.pl:1274
-#: texmf/scripts/texlive/tlmgrgui.pl:1326
-#: texmf/scripts/texlive/tlmgrgui.pl:1359
-#: texmf/scripts/texlive/tlmgrgui.pl:1392
-#: texmf/scripts/texlive/tlmgrgui.pl:1927
-#: texmf/scripts/texlive/tlmgrgui.pl:1972
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
-msgid "Cancel"
-msgstr "取消"
-
-#: tlpkg/installer/install-menu-perltk.pl:375
-#: tlpkg/installer/install-menu-wizard.pl:459
-#, perl-format
-msgid ""
-"See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
-msgstr ""
-"请参考 %s/index.html 来获得文档链接。TeX Live 官方网站\n"
-"(http://tug.org/texlive/) 包含所有相关的更新和修正。\n"
-"TeX Live 是全世界 TeX 用户组的一个合作项目；\n"
-"请考虑加入合适的 TeX 用户组来支持该项目。从\n"
-"http://tug.org/usergroups.html 可以获得 TeX 用户组的列表。"
-
-#: tlpkg/installer/install-menu-perltk.pl:377
-#: tlpkg/installer/install-menu-wizard.pl:461
-#, perl-format
-msgid ""
-"Add %s/texmf/doc/man to MANPATH.\n"
-"Add %s/texmf/doc/info to INFOPATH.\n"
-"Most importantly, add %s/bin/%s\n"
-"to your PATH for current and future sessions."
-msgstr ""
-"添加 %s/texmf/doc/man 到 MANPATH.\n"
-"添加 %s/texmf/doc/info 到 INFOPATH.\n"
-"最为重要的是，请添加 %s/bin/%s\n"
-"到你的 PATH 变量。"
-
-#: tlpkg/installer/install-menu-perltk.pl:379
-#: tlpkg/installer/install-menu-wizard.pl:463
-msgid "Welcome to TeX Live!"
-msgstr "欢迎进入 TeX Live 的世界！"
-
-#: tlpkg/installer/install-menu-perltk.pl:389
-#: tlpkg/installer/install-menu-wizard.pl:472
-msgid "Finish"
-msgstr "完成"
-
-#: tlpkg/installer/install-menu-perltk.pl:429
-#: tlpkg/installer/install-menu-perltk.pl:460
-msgid "Change variable value"
-msgstr "更改变量的值"
-
-#: tlpkg/installer/install-menu-perltk.pl:432
-#: tlpkg/installer/install-menu-perltk.pl:470
-#, perl-format
-msgid "Enter path for %s (use ~ for %s)"
-msgstr "输入 %s 对应的路径 (使用 ~ 作为 %s)"
-
-#: tlpkg/installer/install-menu-perltk.pl:443
-#: tlpkg/installer/install-menu-perltk.pl:474
-#: tlpkg/installer/install-menu-perltk.pl:499
 #: tlpkg/installer/install-menu-perltk.pl:560
 #: tlpkg/installer/install-menu-perltk.pl:600
 #: tlpkg/installer/install-menu-perltk.pl:663
 #: tlpkg/installer/install-menu-perltk.pl:727
 #: tlpkg/installer/install-menu-perltk.pl:756
-#: tlpkg/installer/install-menu-wizard.pl:275
 #: texmf/scripts/texlive/tlmgrgui.pl:213 texmf/scripts/texlive/tlmgrgui.pl:558
 #: texmf/scripts/texlive/tlmgrgui.pl:562 texmf/scripts/texlive/tlmgrgui.pl:564
 #: texmf/scripts/texlive/tlmgrgui.pl:582 texmf/scripts/texlive/tlmgrgui.pl:742
@@ -395,6 +253,32 @@ msgstr "输入 %s 对应的路径 (使用 ~ 作为 %s)"
 msgid "Ok"
 msgstr "确定"
 
+#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-perltk.pl:602
+#: tlpkg/installer/install-menu-perltk.pl:665
+#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-wizard.pl:158
+#: tlpkg/installer/install-menu-wizard.pl:453
+#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui.pl:910
+#: texmf/scripts/texlive/tlmgrgui.pl:1113
+#: texmf/scripts/texlive/tlmgrgui.pl:1219
+#: texmf/scripts/texlive/tlmgrgui.pl:1227
+#: texmf/scripts/texlive/tlmgrgui.pl:1274
+#: texmf/scripts/texlive/tlmgrgui.pl:1326
+#: texmf/scripts/texlive/tlmgrgui.pl:1359
+#: texmf/scripts/texlive/tlmgrgui.pl:1392
+#: texmf/scripts/texlive/tlmgrgui.pl:1927
+#: texmf/scripts/texlive/tlmgrgui.pl:1972
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
+msgid "Cancel"
+msgstr "取消"
+
 #: tlpkg/installer/install-menu-perltk.pl:579
 msgid "Select the collections to be installed"
 msgstr "选择要安装的组件"
@@ -418,6 +302,10 @@ msgstr "选择语言支持"
 #: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language-specific documentation"
 msgstr "选择相关语言的文档"
+
+#: tlpkg/installer/install-menu-perltk.pl:710
+msgid "Create symlinks in system directories"
+msgstr "创建指向系统目录的符号链接"
 
 #: tlpkg/installer/install-menu-perltk.pl:714
 msgid "create symlinks in standard directories"
@@ -450,7 +338,6 @@ msgid "%s collections out of %s "
 msgstr "%s 集合来自 %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:783
-#: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
 msgstr "需要的磁盘空间"
 
@@ -461,7 +348,6 @@ msgstr "(没有选择语言集合！)"
 #: tlpkg/installer/install-menu-perltk.pl:797
 #: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:820
-#: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
 msgstr "(默认位置不可写 - 请做相应更改！)"
 
@@ -471,16 +357,11 @@ msgid "(please change TEXDIR first!)"
 msgstr "(请首先改变 TEXDIR ！)"
 
 #: tlpkg/installer/install-menu-wizard.pl:160
-#: tlpkg/installer/install-menu-wizard.pl:246
-#: tlpkg/installer/install-menu-wizard.pl:368
 #: tlpkg/installer/install-menu-wizard.pl:407
 msgid "< Back"
 msgstr "< 上一步"
 
 #: tlpkg/installer/install-menu-wizard.pl:161
-#: tlpkg/installer/install-menu-wizard.pl:185
-#: tlpkg/installer/install-menu-wizard.pl:247
-#: tlpkg/installer/install-menu-wizard.pl:369
 msgid "Next >"
 msgstr "下一步 >"
 
@@ -502,51 +383,46 @@ msgstr ""
 "\n"
 "要使用更强大、可定制的安装，请参考网页或安装指南。"
 
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use install-tl-advanced.bat"
-msgstr "或者使用 install-tl-advanced.bat"
-
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use the argument --gui perltk to install-tl."
-msgstr "或者使用 install-tl 的 --gui perltk 参数。"
-
-#: tlpkg/installer/install-menu-wizard.pl:196
-#: tlpkg/installer/install-menu-wizard.pl:394
-msgid "Destination folder:"
-msgstr "目的文件夹:"
-
-#: tlpkg/installer/install-menu-wizard.pl:220
-msgid ""
-"The destination folder will contain the installation.\n"
-"It is strongly recommended to keep the year as the last component."
-msgstr ""
-"将包含整个安装的目的文件夹。\n"
-"强烈建议以年份作为最后的目录项。"
-
-#: tlpkg/installer/install-menu-wizard.pl:271
-msgid "Enter path for"
-msgstr "输入路径变量"
-
-#: tlpkg/installer/install-menu-wizard.pl:332
-msgid "This screen allows you to configure some options"
-msgstr "这个界面允许你配置某些选项"
-
-#: tlpkg/installer/install-menu-wizard.pl:386
-#, perl-format
-msgid ""
-"We are ready to install TeX Live %s.\n"
-"The following settings will be used.\n"
-"If you want to change something please go back,\n"
-"otherwise press the \"Install\" button."
-msgstr ""
-"我们可以开始安装 TeX Live %s 了。\n"
-"将使用下列选项。\n"
-"如果你还想修改什么请后退，否则点击“安装”按钮。"
-
 #: tlpkg/installer/install-menu-wizard.pl:405
 #: texmf/scripts/texlive/tlmgrgui.pl:396
 msgid "Install"
 msgstr "安装"
+
+#: tlpkg/installer/install-menu-wizard.pl:459
+#, perl-format
+msgid ""
+"See %s/index.html for links to documentation.\n"
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
+msgstr ""
+"请参考 %s/index.html 来获得文档链接。TeX Live 官方网站\n"
+"(http://tug.org/texlive/) 包含所有相关的更新和修正。\n"
+"TeX Live 是全世界 TeX 用户组的一个合作项目；\n"
+"请考虑加入合适的 TeX 用户组来支持该项目。从\n"
+"http://tug.org/usergroups.html 可以获得 TeX 用户组的列表。"
+
+#: tlpkg/installer/install-menu-wizard.pl:461
+#, perl-format
+msgid ""
+"Add %s/texmf/doc/man to MANPATH.\n"
+"Add %s/texmf/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
+"添加 %s/texmf/doc/man 到 MANPATH.\n"
+"添加 %s/texmf/doc/info 到 INFOPATH.\n"
+"最为重要的是，请添加 %s/bin/%s\n"
+"到你的 PATH 变量。"
+
+#: tlpkg/installer/install-menu-wizard.pl:463
+msgid "Welcome to TeX Live!"
+msgstr "欢迎进入 TeX Live 的世界！"
+
+#: tlpkg/installer/install-menu-wizard.pl:472
+msgid "Finish"
+msgstr "完成"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:153
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:77
@@ -765,6 +641,11 @@ msgstr "新的缺省软件包仓库"
 #: texmf/scripts/texlive/tlmgrgui.pl:473
 msgid "Load other repository ..."
 msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:477
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
+msgid "Quit"
+msgstr "退出"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:483
 msgid "General ..."
@@ -1020,6 +901,15 @@ msgstr "系统集成"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:168
 msgid "Install for all users"
 msgstr "给所有用户安装"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1094
+#: texmf/scripts/texlive/tlmgrgui.pl:1368
+#: texmf/scripts/texlive/tlmgrgui.pl:1372
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
+msgid "Change file associations"
+msgstr "修改文件关联"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1176
 #: texmf/scripts/texlive/tlmgrgui.pl:1185
@@ -1425,6 +1315,63 @@ msgstr "新的软件包仓库"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
 msgid "Warning Window"
 msgstr "警告窗口"
+
+#~ msgid "Adjust PATH setting in registry"
+#~ msgstr "修改注册表中的 PATH 设置"
+
+#~ msgid "Add shortcuts to menu and desktop"
+#~ msgstr "在桌面和菜单栏添加快捷方式"
+
+#~ msgid "Installation for all users"
+#~ msgstr "为所有用户安装"
+
+#~ msgid "Install TeXworks front end"
+#~ msgstr "安装 TeXworks 前端"
+
+#~ msgid "Install TeX Live"
+#~ msgstr "安装 TeX Live"
+
+#, fuzzy
+#~ msgid "Installation process"
+#~ msgstr "安装 TeX Live"
+
+#~ msgid "Change variable value"
+#~ msgstr "更改变量的值"
+
+#~ msgid "Enter path for %s (use ~ for %s)"
+#~ msgstr "输入 %s 对应的路径 (使用 ~ 作为 %s)"
+
+#~ msgid "Or use install-tl-advanced.bat"
+#~ msgstr "或者使用 install-tl-advanced.bat"
+
+#~ msgid "Or use the argument --gui perltk to install-tl."
+#~ msgstr "或者使用 install-tl 的 --gui perltk 参数。"
+
+#~ msgid "Destination folder:"
+#~ msgstr "目的文件夹:"
+
+#~ msgid ""
+#~ "The destination folder will contain the installation.\n"
+#~ "It is strongly recommended to keep the year as the last component."
+#~ msgstr ""
+#~ "将包含整个安装的目的文件夹。\n"
+#~ "强烈建议以年份作为最后的目录项。"
+
+#~ msgid "Enter path for"
+#~ msgstr "输入路径变量"
+
+#~ msgid "This screen allows you to configure some options"
+#~ msgstr "这个界面允许你配置某些选项"
+
+#~ msgid ""
+#~ "We are ready to install TeX Live %s.\n"
+#~ "The following settings will be used.\n"
+#~ "If you want to change something please go back,\n"
+#~ "otherwise press the \"Install\" button."
+#~ msgstr ""
+#~ "我们可以开始安装 TeX Live %s 了。\n"
+#~ "将使用下列选项。\n"
+#~ "如果你还想修改什么请后退，否则点击“安装”按钮。"
 
 #, fuzzy
 #~ msgid "Update LuaTeX font database"

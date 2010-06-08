@@ -5,15 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-06-05 03:54+0200\n"
+"POT-Creation-Date: 2010-06-08 03:55+0200\n"
 "PO-Revision-Date: 2010-04-19 12:31+0900\n"
 "Last-Translator: Vladimir <lomov.vl@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
 #: texmf/scripts/texlive/tlmgrgui.pl:127
@@ -110,9 +111,6 @@ msgstr "Программы для систем"
 #: tlpkg/installer/install-menu-perltk.pl:228
 #: tlpkg/installer/install-menu-perltk.pl:234
 #: tlpkg/installer/install-menu-perltk.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:282
-#: tlpkg/installer/install-menu-perltk.pl:296
-#: tlpkg/installer/install-menu-wizard.pl:198
 #: texmf/scripts/texlive/tlmgrgui.pl:996
 #: texmf/scripts/texlive/tlmgrgui.pl:1030
 #: texmf/scripts/texlive/tlmgrgui.pl:1045
@@ -137,7 +135,6 @@ msgid "Change"
 msgstr "Изменить"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:522
 #: tlpkg/installer/install-menu-perltk.pl:535
 msgid "Selected scheme"
 msgstr "Выбранная схема"
@@ -194,10 +191,6 @@ msgstr "Использовать формат letter вместо A4 по умо
 #: tlpkg/installer/install-menu-perltk.pl:260
 #: tlpkg/installer/install-menu-perltk.pl:266
 #: tlpkg/installer/install-menu-perltk.pl:273
-#: tlpkg/installer/install-menu-perltk.pl:284
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:302
-#: tlpkg/installer/install-menu-perltk.pl:308
 #: texmf/scripts/texlive/tlmgrgui.pl:1006
 #: texmf/scripts/texlive/tlmgrgui.pl:1014
 #: texmf/scripts/texlive/tlmgrgui.pl:1022
@@ -227,145 +220,11 @@ msgstr "Установить дерево с документацией font/mac
 msgid "Install font/macro source tree"
 msgstr "Установить дерево исходных файлов font/macro"
 
-#: tlpkg/installer/install-menu-perltk.pl:277
-msgid "Adjust PATH setting in registry"
-msgstr "Добавить в переменную PATH"
-
-#: tlpkg/installer/install-menu-perltk.pl:278
-#: tlpkg/installer/install-menu-perltk.pl:710
-msgid "Create symlinks in system directories"
-msgstr "Создать ссылки в системных директориях"
-
-#: tlpkg/installer/install-menu-perltk.pl:289
-msgid "Add shortcuts to menu and desktop"
-msgstr "Добавить ярлыки в меню и на рабочий стол"
-
-#: tlpkg/installer/install-menu-perltk.pl:294
-#: tlpkg/installer/install-menu-perltk.pl:485
-#: tlpkg/installer/install-menu-perltk.pl:490
-#: texmf/scripts/texlive/tlmgrgui.pl:1094
-#: texmf/scripts/texlive/tlmgrgui.pl:1368
-#: texmf/scripts/texlive/tlmgrgui.pl:1372
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
-msgid "Change file associations"
-msgstr "Изменить привязку файлов"
-
-#: tlpkg/installer/install-menu-perltk.pl:300
-msgid "Installation for all users"
-msgstr "Установка для всех пользователей"
-
-#: tlpkg/installer/install-menu-perltk.pl:306
-msgid "Install TeXworks front end"
-msgstr "Установить редактор TeXworks"
-
-#: tlpkg/installer/install-menu-perltk.pl:314
-msgid "Install TeX Live"
-msgstr "Установить TeX Live"
-
-#: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui.pl:477
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
-msgid "Quit"
-msgstr "Выход"
-
-#: tlpkg/installer/install-menu-perltk.pl:354
-#: tlpkg/installer/install-menu-perltk.pl:358
-msgid "Installation process"
-msgstr "Процесс установки"
-
-#: tlpkg/installer/install-menu-perltk.pl:367
-#: tlpkg/installer/install-menu-perltk.pl:444
-#: tlpkg/installer/install-menu-perltk.pl:476
-#: tlpkg/installer/install-menu-perltk.pl:514
-#: tlpkg/installer/install-menu-perltk.pl:562
-#: tlpkg/installer/install-menu-perltk.pl:602
-#: tlpkg/installer/install-menu-perltk.pl:665
-#: tlpkg/installer/install-menu-perltk.pl:729
-#: tlpkg/installer/install-menu-perltk.pl:758
-#: tlpkg/installer/install-menu-wizard.pl:158
-#: tlpkg/installer/install-menu-wizard.pl:278
-#: tlpkg/installer/install-menu-wizard.pl:453
-#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
-#: texmf/scripts/texlive/tlmgrgui.pl:910
-#: texmf/scripts/texlive/tlmgrgui.pl:1113
-#: texmf/scripts/texlive/tlmgrgui.pl:1219
-#: texmf/scripts/texlive/tlmgrgui.pl:1227
-#: texmf/scripts/texlive/tlmgrgui.pl:1274
-#: texmf/scripts/texlive/tlmgrgui.pl:1326
-#: texmf/scripts/texlive/tlmgrgui.pl:1359
-#: texmf/scripts/texlive/tlmgrgui.pl:1392
-#: texmf/scripts/texlive/tlmgrgui.pl:1927
-#: texmf/scripts/texlive/tlmgrgui.pl:1972
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
-msgid "Cancel"
-msgstr "Отмена"
-
-#: tlpkg/installer/install-menu-perltk.pl:375
-#: tlpkg/installer/install-menu-wizard.pl:459
-#, perl-format
-msgid ""
-"See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
-msgstr ""
-"В %s/index.html можно найти ссылки на документацию.\n"
-"Последние обновления и исправления доступны на странице TeX Live (http://tug."
-"org/texlive/). TeX Live это совместный проект групп пользователей TeX'а по "
-"всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам "
-"группе. Список групп доступен на странице http://tug.org/usergroups.html."
-
-#: tlpkg/installer/install-menu-perltk.pl:377
-#: tlpkg/installer/install-menu-wizard.pl:461
-#, perl-format
-msgid ""
-"Add %s/texmf/doc/man to MANPATH.\n"
-"Add %s/texmf/doc/info to INFOPATH.\n"
-"Most importantly, add %s/bin/%s\n"
-"to your PATH for current and future sessions."
-msgstr ""
-"Добавьте %s/texmf/doc/man в MANPATH.\n"
-"Добавьте %s/texmf/doc/info в INFOPATH.\n"
-"Самое главное, добавьте %s/bin/%s\n"
-"к вашему PATH для текущей и будущих сессий."
-
-#: tlpkg/installer/install-menu-perltk.pl:379
-#: tlpkg/installer/install-menu-wizard.pl:463
-msgid "Welcome to TeX Live!"
-msgstr "Добро пожаловать в TeX Live!"
-
-#: tlpkg/installer/install-menu-perltk.pl:389
-#: tlpkg/installer/install-menu-wizard.pl:472
-msgid "Finish"
-msgstr "Конец"
-
-#: tlpkg/installer/install-menu-perltk.pl:429
-#: tlpkg/installer/install-menu-perltk.pl:460
-msgid "Change variable value"
-msgstr "Изменить значение переменной"
-
-#: tlpkg/installer/install-menu-perltk.pl:432
-#: tlpkg/installer/install-menu-perltk.pl:470
-#, perl-format
-msgid "Enter path for %s (use ~ for %s)"
-msgstr "Введите путь для %s (используйте ~ для %s)"
-
-#: tlpkg/installer/install-menu-perltk.pl:443
-#: tlpkg/installer/install-menu-perltk.pl:474
-#: tlpkg/installer/install-menu-perltk.pl:499
 #: tlpkg/installer/install-menu-perltk.pl:560
 #: tlpkg/installer/install-menu-perltk.pl:600
 #: tlpkg/installer/install-menu-perltk.pl:663
 #: tlpkg/installer/install-menu-perltk.pl:727
 #: tlpkg/installer/install-menu-perltk.pl:756
-#: tlpkg/installer/install-menu-wizard.pl:275
 #: texmf/scripts/texlive/tlmgrgui.pl:213 texmf/scripts/texlive/tlmgrgui.pl:558
 #: texmf/scripts/texlive/tlmgrgui.pl:562 texmf/scripts/texlive/tlmgrgui.pl:564
 #: texmf/scripts/texlive/tlmgrgui.pl:582 texmf/scripts/texlive/tlmgrgui.pl:742
@@ -398,6 +257,32 @@ msgstr "Введите путь для %s (используйте ~ для %s)"
 msgid "Ok"
 msgstr "Ок"
 
+#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-perltk.pl:602
+#: tlpkg/installer/install-menu-perltk.pl:665
+#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-wizard.pl:158
+#: tlpkg/installer/install-menu-wizard.pl:453
+#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui.pl:910
+#: texmf/scripts/texlive/tlmgrgui.pl:1113
+#: texmf/scripts/texlive/tlmgrgui.pl:1219
+#: texmf/scripts/texlive/tlmgrgui.pl:1227
+#: texmf/scripts/texlive/tlmgrgui.pl:1274
+#: texmf/scripts/texlive/tlmgrgui.pl:1326
+#: texmf/scripts/texlive/tlmgrgui.pl:1359
+#: texmf/scripts/texlive/tlmgrgui.pl:1392
+#: texmf/scripts/texlive/tlmgrgui.pl:1927
+#: texmf/scripts/texlive/tlmgrgui.pl:1972
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
+msgid "Cancel"
+msgstr "Отмена"
+
 #: tlpkg/installer/install-menu-perltk.pl:579
 msgid "Select the collections to be installed"
 msgstr "Выберите устанавливаемые коллекции"
@@ -421,6 +306,10 @@ msgstr "Выберите языковую поддержку"
 #: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language-specific documentation"
 msgstr "Выберите документацию на определённом языке"
+
+#: tlpkg/installer/install-menu-perltk.pl:710
+msgid "Create symlinks in system directories"
+msgstr "Создать ссылки в системных директориях"
 
 #: tlpkg/installer/install-menu-perltk.pl:714
 msgid "create symlinks in standard directories"
@@ -453,7 +342,6 @@ msgid "%s collections out of %s "
 msgstr "%s коллекций из %s "
 
 #: tlpkg/installer/install-menu-perltk.pl:783
-#: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
 msgstr "требуется места на диске"
 
@@ -464,7 +352,6 @@ msgstr "(не выбрана коллекция языков!)"
 #: tlpkg/installer/install-menu-perltk.pl:797
 #: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:820
-#: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
 msgstr "(по умолчанию: нет прав на запись - пожалуйста измените!)"
 
@@ -474,16 +361,11 @@ msgid "(please change TEXDIR first!)"
 msgstr "(пожалуйста, сначала измените TEXDIR!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:160
-#: tlpkg/installer/install-menu-wizard.pl:246
-#: tlpkg/installer/install-menu-wizard.pl:368
 #: tlpkg/installer/install-menu-wizard.pl:407
 msgid "< Back"
 msgstr "< Назад"
 
 #: tlpkg/installer/install-menu-wizard.pl:161
-#: tlpkg/installer/install-menu-wizard.pl:185
-#: tlpkg/installer/install-menu-wizard.pl:247
-#: tlpkg/installer/install-menu-wizard.pl:369
 msgid "Next >"
 msgstr "Далее >"
 
@@ -506,52 +388,46 @@ msgstr ""
 "Для тонкой, настраиваемой установки просмотрите, пожалуйста,\n"
 "web-страницы или руководство по установке."
 
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use install-tl-advanced.bat"
-msgstr "Или используйте install-tl-advanced.bat"
-
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use the argument --gui perltk to install-tl."
-msgstr "Или используйте параметр --gui perltk для install-tk."
-
-#: tlpkg/installer/install-menu-wizard.pl:196
-#: tlpkg/installer/install-menu-wizard.pl:394
-msgid "Destination folder:"
-msgstr "Папка назначения:"
-
-#: tlpkg/installer/install-menu-wizard.pl:220
-msgid ""
-"The destination folder will contain the installation.\n"
-"It is strongly recommended to keep the year as the last component."
-msgstr ""
-"Папка назначения будет содержать установленные файлы.\n"
-"Настоятельно рекомендуем сохранить год выпуска дистрибутива в её названии."
-
-#: tlpkg/installer/install-menu-wizard.pl:271
-msgid "Enter path for"
-msgstr "Введите путь для"
-
-#: tlpkg/installer/install-menu-wizard.pl:332
-msgid "This screen allows you to configure some options"
-msgstr "Это окно позволяет вам настроить некоторые параметры"
-
-#: tlpkg/installer/install-menu-wizard.pl:386
-#, perl-format
-msgid ""
-"We are ready to install TeX Live %s.\n"
-"The following settings will be used.\n"
-"If you want to change something please go back,\n"
-"otherwise press the \"Install\" button."
-msgstr ""
-"Мы готовы установить TeX Live %s.\n"
-"Будут использованы следующие настройки.\n"
-"Если вы хотите изменить что-нибудь, нажмите кнопку \"Назад\",\n"
-"если нет, нажмите кнопку \"Установить\"."
-
 #: tlpkg/installer/install-menu-wizard.pl:405
 #: texmf/scripts/texlive/tlmgrgui.pl:396
 msgid "Install"
 msgstr "Установить"
+
+#: tlpkg/installer/install-menu-wizard.pl:459
+#, perl-format
+msgid ""
+"See %s/index.html for links to documentation.\n"
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
+msgstr ""
+"В %s/index.html можно найти ссылки на документацию.\n"
+"Последние обновления и исправления доступны на странице TeX Live (http://tug."
+"org/texlive/). TeX Live это совместный проект групп пользователей TeX'а по "
+"всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам "
+"группе. Список групп доступен на странице http://tug.org/usergroups.html."
+
+#: tlpkg/installer/install-menu-wizard.pl:461
+#, perl-format
+msgid ""
+"Add %s/texmf/doc/man to MANPATH.\n"
+"Add %s/texmf/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
+"Добавьте %s/texmf/doc/man в MANPATH.\n"
+"Добавьте %s/texmf/doc/info в INFOPATH.\n"
+"Самое главное, добавьте %s/bin/%s\n"
+"к вашему PATH для текущей и будущих сессий."
+
+#: tlpkg/installer/install-menu-wizard.pl:463
+msgid "Welcome to TeX Live!"
+msgstr "Добро пожаловать в TeX Live!"
+
+#: tlpkg/installer/install-menu-wizard.pl:472
+msgid "Finish"
+msgstr "Конец"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:153
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:77
@@ -750,6 +626,11 @@ msgstr "Загрузить сетевой репозиторий пакетов 
 #: texmf/scripts/texlive/tlmgrgui.pl:473
 msgid "Load other repository ..."
 msgstr "Загрузить другой репозиторий ..."
+
+#: texmf/scripts/texlive/tlmgrgui.pl:477
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
+msgid "Quit"
+msgstr "Выход"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:483
 msgid "General ..."
@@ -999,6 +880,15 @@ msgstr "Создать ярлыки в меню и на рабочем стол�
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:168
 msgid "Install for all users"
 msgstr "Установить для всех пользователей"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1094
+#: texmf/scripts/texlive/tlmgrgui.pl:1368
+#: texmf/scripts/texlive/tlmgrgui.pl:1372
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
+msgid "Change file associations"
+msgstr "Изменить привязку файлов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1176
 #: texmf/scripts/texlive/tlmgrgui.pl:1185
@@ -1414,6 +1304,63 @@ msgstr "Новый репозиторий пакетов:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
 msgid "Warning Window"
 msgstr "Предупреждение"
+
+#~ msgid "Adjust PATH setting in registry"
+#~ msgstr "Добавить в переменную PATH"
+
+#~ msgid "Add shortcuts to menu and desktop"
+#~ msgstr "Добавить ярлыки в меню и на рабочий стол"
+
+#~ msgid "Installation for all users"
+#~ msgstr "Установка для всех пользователей"
+
+#~ msgid "Install TeXworks front end"
+#~ msgstr "Установить редактор TeXworks"
+
+#~ msgid "Install TeX Live"
+#~ msgstr "Установить TeX Live"
+
+#~ msgid "Installation process"
+#~ msgstr "Процесс установки"
+
+#~ msgid "Change variable value"
+#~ msgstr "Изменить значение переменной"
+
+#~ msgid "Enter path for %s (use ~ for %s)"
+#~ msgstr "Введите путь для %s (используйте ~ для %s)"
+
+#~ msgid "Or use install-tl-advanced.bat"
+#~ msgstr "Или используйте install-tl-advanced.bat"
+
+#~ msgid "Or use the argument --gui perltk to install-tl."
+#~ msgstr "Или используйте параметр --gui perltk для install-tk."
+
+#~ msgid "Destination folder:"
+#~ msgstr "Папка назначения:"
+
+#~ msgid ""
+#~ "The destination folder will contain the installation.\n"
+#~ "It is strongly recommended to keep the year as the last component."
+#~ msgstr ""
+#~ "Папка назначения будет содержать установленные файлы.\n"
+#~ "Настоятельно рекомендуем сохранить год выпуска дистрибутива в её названии."
+
+#~ msgid "Enter path for"
+#~ msgstr "Введите путь для"
+
+#~ msgid "This screen allows you to configure some options"
+#~ msgstr "Это окно позволяет вам настроить некоторые параметры"
+
+#~ msgid ""
+#~ "We are ready to install TeX Live %s.\n"
+#~ "The following settings will be used.\n"
+#~ "If you want to change something please go back,\n"
+#~ "otherwise press the \"Install\" button."
+#~ msgstr ""
+#~ "Мы готовы установить TeX Live %s.\n"
+#~ "Будут использованы следующие настройки.\n"
+#~ "Если вы хотите изменить что-нибудь, нажмите кнопку \"Назад\",\n"
+#~ "если нет, нажмите кнопку \"Установить\"."
 
 #, fuzzy
 #~ msgid "Update LuaTeX font database"

@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-06-05 03:54+0200\n"
+"POT-Creation-Date: 2010-06-08 03:55+0200\n"
 "PO-Revision-Date: 2009-09-07 09:15+0700\n"
 "Last-Translator: Anh K. Huỳnh <xkyanh@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -106,9 +107,6 @@ msgstr "Hệ thống nhị phân"
 #: tlpkg/installer/install-menu-perltk.pl:228
 #: tlpkg/installer/install-menu-perltk.pl:234
 #: tlpkg/installer/install-menu-perltk.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:282
-#: tlpkg/installer/install-menu-perltk.pl:296
-#: tlpkg/installer/install-menu-wizard.pl:198
 #: texmf/scripts/texlive/tlmgrgui.pl:996
 #: texmf/scripts/texlive/tlmgrgui.pl:1030
 #: texmf/scripts/texlive/tlmgrgui.pl:1045
@@ -133,7 +131,6 @@ msgid "Change"
 msgstr "Thay đổi"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:522
 #: tlpkg/installer/install-menu-perltk.pl:535
 msgid "Selected scheme"
 msgstr "Kiểu (scheme) đã chọn"
@@ -194,10 +191,6 @@ msgstr "Mặc định dùng kiểu Letter thay vì A4"
 #: tlpkg/installer/install-menu-perltk.pl:260
 #: tlpkg/installer/install-menu-perltk.pl:266
 #: tlpkg/installer/install-menu-perltk.pl:273
-#: tlpkg/installer/install-menu-perltk.pl:284
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:302
-#: tlpkg/installer/install-menu-perltk.pl:308
 #: texmf/scripts/texlive/tlmgrgui.pl:1006
 #: texmf/scripts/texlive/tlmgrgui.pl:1014
 #: texmf/scripts/texlive/tlmgrgui.pl:1022
@@ -228,147 +221,11 @@ msgstr "Cài đặt tài liệu cho font/macro "
 msgid "Install font/macro source tree"
 msgstr "Cài đặt  mã nguồn cho font/macro"
 
-#: tlpkg/installer/install-menu-perltk.pl:277
-msgid "Adjust PATH setting in registry"
-msgstr "Adjust PATH setting in registry"
-
-#: tlpkg/installer/install-menu-perltk.pl:278
-#: tlpkg/installer/install-menu-perltk.pl:710
-msgid "Create symlinks in system directories"
-msgstr "Cài đặt liên kết vào các thư mục hệ thống"
-
-#: tlpkg/installer/install-menu-perltk.pl:289
-msgid "Add shortcuts to menu and desktop"
-msgstr "Thêm liên kết nóng vào menu và màn hình"
-
-#: tlpkg/installer/install-menu-perltk.pl:294
-#: tlpkg/installer/install-menu-perltk.pl:485
-#: tlpkg/installer/install-menu-perltk.pl:490
-#: texmf/scripts/texlive/tlmgrgui.pl:1094
-#: texmf/scripts/texlive/tlmgrgui.pl:1368
-#: texmf/scripts/texlive/tlmgrgui.pl:1372
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
-msgid "Change file associations"
-msgstr "Đổi tương ứng tập tin - chương trình"
-
-#: tlpkg/installer/install-menu-perltk.pl:300
-msgid "Installation for all users"
-msgstr "Cài đặt cho mọi người dùng"
-
-#: tlpkg/installer/install-menu-perltk.pl:306
-msgid "Install TeXworks front end"
-msgstr "Cài đặt trình soạn thảo TeXworks"
-
-#: tlpkg/installer/install-menu-perltk.pl:314
-msgid "Install TeX Live"
-msgstr "Cài đặt TeX Live"
-
-#: tlpkg/installer/install-menu-perltk.pl:318
-#: texmf/scripts/texlive/tlmgrgui.pl:477
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
-msgid "Quit"
-msgstr "Thoát"
-
-#: tlpkg/installer/install-menu-perltk.pl:354
-#: tlpkg/installer/install-menu-perltk.pl:358
-#, fuzzy
-msgid "Installation process"
-msgstr "Cài đặt"
-
-#: tlpkg/installer/install-menu-perltk.pl:367
-#: tlpkg/installer/install-menu-perltk.pl:444
-#: tlpkg/installer/install-menu-perltk.pl:476
-#: tlpkg/installer/install-menu-perltk.pl:514
-#: tlpkg/installer/install-menu-perltk.pl:562
-#: tlpkg/installer/install-menu-perltk.pl:602
-#: tlpkg/installer/install-menu-perltk.pl:665
-#: tlpkg/installer/install-menu-perltk.pl:729
-#: tlpkg/installer/install-menu-perltk.pl:758
-#: tlpkg/installer/install-menu-wizard.pl:158
-#: tlpkg/installer/install-menu-wizard.pl:278
-#: tlpkg/installer/install-menu-wizard.pl:453
-#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
-#: texmf/scripts/texlive/tlmgrgui.pl:910
-#: texmf/scripts/texlive/tlmgrgui.pl:1113
-#: texmf/scripts/texlive/tlmgrgui.pl:1219
-#: texmf/scripts/texlive/tlmgrgui.pl:1227
-#: texmf/scripts/texlive/tlmgrgui.pl:1274
-#: texmf/scripts/texlive/tlmgrgui.pl:1326
-#: texmf/scripts/texlive/tlmgrgui.pl:1359
-#: texmf/scripts/texlive/tlmgrgui.pl:1392
-#: texmf/scripts/texlive/tlmgrgui.pl:1927
-#: texmf/scripts/texlive/tlmgrgui.pl:1972
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
-#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
-#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
-msgid "Cancel"
-msgstr "Bỏ qua"
-
-#: tlpkg/installer/install-menu-perltk.pl:375
-#: tlpkg/installer/install-menu-wizard.pl:459
-#, perl-format
-msgid ""
-"See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
-msgstr ""
-"Xem %s/index.html để biết liên kết đến tài liệu.\n"
-"Tại trang web của TeX Live (http://tug.org/texlive/) có các thông tin cập "
-"nhật và sửa lỗi. Dự án TeX Live là có sự tham gia của nhiều nhóm người dùng "
-"TeX trên khắp thế giới; vui lòng hỗ trợ dự án bằng cách tham gia vào nhóm "
-"thích hợp nhất với bạn. Danh sách các nhóm người dùng có thể tìm thấy tại "
-"http://tug.org/usergroups.html."
-
-#: tlpkg/installer/install-menu-perltk.pl:377
-#: tlpkg/installer/install-menu-wizard.pl:461
-#, perl-format
-msgid ""
-"Add %s/texmf/doc/man to MANPATH.\n"
-"Add %s/texmf/doc/info to INFOPATH.\n"
-"Most importantly, add %s/bin/%s\n"
-"to your PATH for current and future sessions."
-msgstr ""
-"Thêm %s/texmf/doc/man vào MATHPATH\n"
-"Thêm %s/texmf/doc/info vào INFOPATH.\n"
-"Quan trọng nhất, thêm %s/bin/%s\n"
-"vào đường dẫn đến tập tin thi hành (PATH) trên hệ thống của bạn."
-
-#: tlpkg/installer/install-menu-perltk.pl:379
-#: tlpkg/installer/install-menu-wizard.pl:463
-msgid "Welcome to TeX Live!"
-msgstr "Chào mừng đến với TeX Live 2010"
-
-#: tlpkg/installer/install-menu-perltk.pl:389
-#: tlpkg/installer/install-menu-wizard.pl:472
-msgid "Finish"
-msgstr "Kết thúc"
-
-#: tlpkg/installer/install-menu-perltk.pl:429
-#: tlpkg/installer/install-menu-perltk.pl:460
-msgid "Change variable value"
-msgstr "Đổi giá trị biến"
-
-#: tlpkg/installer/install-menu-perltk.pl:432
-#: tlpkg/installer/install-menu-perltk.pl:470
-#, perl-format
-msgid "Enter path for %s (use ~ for %s)"
-msgstr "Nhập đường dẫn cho %s (dùng ký tự ~ để chỉ %s)"
-
-#: tlpkg/installer/install-menu-perltk.pl:443
-#: tlpkg/installer/install-menu-perltk.pl:474
-#: tlpkg/installer/install-menu-perltk.pl:499
 #: tlpkg/installer/install-menu-perltk.pl:560
 #: tlpkg/installer/install-menu-perltk.pl:600
 #: tlpkg/installer/install-menu-perltk.pl:663
 #: tlpkg/installer/install-menu-perltk.pl:727
 #: tlpkg/installer/install-menu-perltk.pl:756
-#: tlpkg/installer/install-menu-wizard.pl:275
 #: texmf/scripts/texlive/tlmgrgui.pl:213 texmf/scripts/texlive/tlmgrgui.pl:558
 #: texmf/scripts/texlive/tlmgrgui.pl:562 texmf/scripts/texlive/tlmgrgui.pl:564
 #: texmf/scripts/texlive/tlmgrgui.pl:582 texmf/scripts/texlive/tlmgrgui.pl:742
@@ -401,6 +258,32 @@ msgstr "Nhập đường dẫn cho %s (dùng ký tự ~ để chỉ %s)"
 msgid "Ok"
 msgstr "Đồng ý"
 
+#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-perltk.pl:602
+#: tlpkg/installer/install-menu-perltk.pl:665
+#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-wizard.pl:158
+#: tlpkg/installer/install-menu-wizard.pl:453
+#: texmf/scripts/texlive/tlmgrgui.pl:558 texmf/scripts/texlive/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui.pl:910
+#: texmf/scripts/texlive/tlmgrgui.pl:1113
+#: texmf/scripts/texlive/tlmgrgui.pl:1219
+#: texmf/scripts/texlive/tlmgrgui.pl:1227
+#: texmf/scripts/texlive/tlmgrgui.pl:1274
+#: texmf/scripts/texlive/tlmgrgui.pl:1326
+#: texmf/scripts/texlive/tlmgrgui.pl:1359
+#: texmf/scripts/texlive/tlmgrgui.pl:1392
+#: texmf/scripts/texlive/tlmgrgui.pl:1927
+#: texmf/scripts/texlive/tlmgrgui.pl:1972
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:476
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:495
+msgid "Cancel"
+msgstr "Bỏ qua"
+
 #: tlpkg/installer/install-menu-perltk.pl:579
 msgid "Select the collections to be installed"
 msgstr "Chọn nhóm sẽ được cài đặt"
@@ -424,6 +307,10 @@ msgstr "Chọn ngôn ngữ hỗ trợ"
 #: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language-specific documentation"
 msgstr "Chọn tài liệu ứng với ngôn ngữ"
+
+#: tlpkg/installer/install-menu-perltk.pl:710
+msgid "Create symlinks in system directories"
+msgstr "Cài đặt liên kết vào các thư mục hệ thống"
 
 #: tlpkg/installer/install-menu-perltk.pl:714
 msgid "create symlinks in standard directories"
@@ -456,7 +343,6 @@ msgid "%s collections out of %s "
 msgstr "%s tập hợp trong tổng số %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:783
-#: tlpkg/installer/install-menu-wizard.pl:242
 msgid "disk space required"
 msgstr "dung lượng đĩa cần thiết"
 
@@ -467,7 +353,6 @@ msgstr "(chưa chọn ngôn ngữ nào!)"
 #: tlpkg/installer/install-menu-perltk.pl:797
 #: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:820
-#: tlpkg/installer/install-menu-wizard.pl:261
 msgid "(default not writable - please change!)"
 msgstr "(mặc định không ghi được - vui lòng đổi!)"
 
@@ -477,16 +362,11 @@ msgid "(please change TEXDIR first!)"
 msgstr "(vui lòng đổi thư mục TEXDIR trước!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:160
-#: tlpkg/installer/install-menu-wizard.pl:246
-#: tlpkg/installer/install-menu-wizard.pl:368
 #: tlpkg/installer/install-menu-wizard.pl:407
 msgid "< Back"
 msgstr "< Quay lại"
 
 #: tlpkg/installer/install-menu-wizard.pl:161
-#: tlpkg/installer/install-menu-wizard.pl:185
-#: tlpkg/installer/install-menu-wizard.pl:247
-#: tlpkg/installer/install-menu-wizard.pl:369
 msgid "Next >"
 msgstr "Tiếp theo >"
 
@@ -509,53 +389,47 @@ msgstr ""
 "Với người dùng cap cấp, việc thay đổi trình cài đặt có thể được thực hiện "
 "theo trang web hoặc hướng dẫn cài đặt."
 
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use install-tl-advanced.bat"
-msgstr ""
-"Hoặc sử dụng install-tl-advanced.bat (cài đặt với các tùy chỉnh nâng cao)"
-
-#: tlpkg/installer/install-menu-wizard.pl:182
-msgid "Or use the argument --gui perltk to install-tl."
-msgstr "Hoặc dùng tham số --gui perltk để cài đặt TeXLive với chế độ đồ họa."
-
-#: tlpkg/installer/install-menu-wizard.pl:196
-#: tlpkg/installer/install-menu-wizard.pl:394
-msgid "Destination folder:"
-msgstr "Destination folder:"
-
-#: tlpkg/installer/install-menu-wizard.pl:220
-msgid ""
-"The destination folder will contain the installation.\n"
-"It is strongly recommended to keep the year as the last component."
-msgstr ""
-"Thư mục đích sẽ chứa bộ cài đặt.\n"
-"Khuyến cáo: bạn nên để năm (2009, 2008) vào cuối đường dẫn"
-
-#: tlpkg/installer/install-menu-wizard.pl:271
-msgid "Enter path for"
-msgstr "Nhập đường dẫn cho"
-
-#: tlpkg/installer/install-menu-wizard.pl:332
-msgid "This screen allows you to configure some options"
-msgstr "Cửa sổ này cho phép bạn thay đổi vài tùy chọn"
-
-#: tlpkg/installer/install-menu-wizard.pl:386
-#, perl-format
-msgid ""
-"We are ready to install TeX Live %s.\n"
-"The following settings will be used.\n"
-"If you want to change something please go back,\n"
-"otherwise press the \"Install\" button."
-msgstr ""
-"Đã sẵn sàng cài đặt TeX Live %s.\n"
-"Các thiết lập sau đây sẽ được.\n"
-"Nếu bạn muốn thay đổi, hãy quay lại,\n"
-"còn không, hãy chọn \"Cài đặt\" để bắt đầu."
-
 #: tlpkg/installer/install-menu-wizard.pl:405
 #: texmf/scripts/texlive/tlmgrgui.pl:396
 msgid "Install"
 msgstr "Cài đặt"
+
+#: tlpkg/installer/install-menu-wizard.pl:459
+#, perl-format
+msgid ""
+"See %s/index.html for links to documentation.\n"
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
+msgstr ""
+"Xem %s/index.html để biết liên kết đến tài liệu.\n"
+"Tại trang web của TeX Live (http://tug.org/texlive/) có các thông tin cập "
+"nhật và sửa lỗi. Dự án TeX Live là có sự tham gia của nhiều nhóm người dùng "
+"TeX trên khắp thế giới; vui lòng hỗ trợ dự án bằng cách tham gia vào nhóm "
+"thích hợp nhất với bạn. Danh sách các nhóm người dùng có thể tìm thấy tại "
+"http://tug.org/usergroups.html."
+
+#: tlpkg/installer/install-menu-wizard.pl:461
+#, perl-format
+msgid ""
+"Add %s/texmf/doc/man to MANPATH.\n"
+"Add %s/texmf/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
+"Thêm %s/texmf/doc/man vào MATHPATH\n"
+"Thêm %s/texmf/doc/info vào INFOPATH.\n"
+"Quan trọng nhất, thêm %s/bin/%s\n"
+"vào đường dẫn đến tập tin thi hành (PATH) trên hệ thống của bạn."
+
+#: tlpkg/installer/install-menu-wizard.pl:463
+msgid "Welcome to TeX Live!"
+msgstr "Chào mừng đến với TeX Live 2010"
+
+#: tlpkg/installer/install-menu-wizard.pl:472
+msgid "Finish"
+msgstr "Kết thúc"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:153
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:77
@@ -775,6 +649,11 @@ msgstr "Nguồn cài đặt mới"
 #: texmf/scripts/texlive/tlmgrgui.pl:473
 msgid "Load other repository ..."
 msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:477
+#: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
+msgid "Quit"
+msgstr "Thoát"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:483
 msgid "General ..."
@@ -1030,6 +909,15 @@ msgstr "Tạo liên kết nóng trong menu và màn hình"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:168
 msgid "Install for all users"
 msgstr "Cài đặt cho mọi người dùng"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1094
+#: texmf/scripts/texlive/tlmgrgui.pl:1368
+#: texmf/scripts/texlive/tlmgrgui.pl:1372
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
+#: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
+msgid "Change file associations"
+msgstr "Đổi tương ứng tập tin - chương trình"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1176
 #: texmf/scripts/texlive/tlmgrgui.pl:1185
@@ -1441,6 +1329,66 @@ msgstr "Nguồi cài đặt mới:"
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
 msgid "Warning Window"
 msgstr "Cửa sổ cảnh báo"
+
+#~ msgid "Adjust PATH setting in registry"
+#~ msgstr "Adjust PATH setting in registry"
+
+#~ msgid "Add shortcuts to menu and desktop"
+#~ msgstr "Thêm liên kết nóng vào menu và màn hình"
+
+#~ msgid "Installation for all users"
+#~ msgstr "Cài đặt cho mọi người dùng"
+
+#~ msgid "Install TeXworks front end"
+#~ msgstr "Cài đặt trình soạn thảo TeXworks"
+
+#~ msgid "Install TeX Live"
+#~ msgstr "Cài đặt TeX Live"
+
+#, fuzzy
+#~ msgid "Installation process"
+#~ msgstr "Cài đặt"
+
+#~ msgid "Change variable value"
+#~ msgstr "Đổi giá trị biến"
+
+#~ msgid "Enter path for %s (use ~ for %s)"
+#~ msgstr "Nhập đường dẫn cho %s (dùng ký tự ~ để chỉ %s)"
+
+#~ msgid "Or use install-tl-advanced.bat"
+#~ msgstr ""
+#~ "Hoặc sử dụng install-tl-advanced.bat (cài đặt với các tùy chỉnh nâng cao)"
+
+#~ msgid "Or use the argument --gui perltk to install-tl."
+#~ msgstr ""
+#~ "Hoặc dùng tham số --gui perltk để cài đặt TeXLive với chế độ đồ họa."
+
+#~ msgid "Destination folder:"
+#~ msgstr "Destination folder:"
+
+#~ msgid ""
+#~ "The destination folder will contain the installation.\n"
+#~ "It is strongly recommended to keep the year as the last component."
+#~ msgstr ""
+#~ "Thư mục đích sẽ chứa bộ cài đặt.\n"
+#~ "Khuyến cáo: bạn nên để năm (2009, 2008) vào cuối đường dẫn"
+
+#~ msgid "Enter path for"
+#~ msgstr "Nhập đường dẫn cho"
+
+#~ msgid "This screen allows you to configure some options"
+#~ msgstr "Cửa sổ này cho phép bạn thay đổi vài tùy chọn"
+
+#~ msgid ""
+#~ "We are ready to install TeX Live %s.\n"
+#~ "The following settings will be used.\n"
+#~ "If you want to change something please go back,\n"
+#~ "otherwise press the \"Install\" button."
+#~ msgstr ""
+#~ "Đã sẵn sàng cài đặt TeX Live %s.\n"
+#~ "Các thiết lập sau đây sẽ được.\n"
+#~ "Nếu bạn muốn thay đổi, hãy quay lại,\n"
+#~ "còn không, hãy chọn \"Cài đặt\" để bắt đầu."
 
 #, fuzzy
 #~ msgid "Update LuaTeX font database"
