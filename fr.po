@@ -1,9 +1,12 @@
+#
+# Manuel Pégourié-Gonnard <mpg@tug.org>, 2010.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-06-14 01:09+0200\n"
-"PO-Revision-Date: 2010-01-10 14:49+0100\n"
+"PO-Revision-Date: 2010-07-05 19:09+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "MIME-Version: 1.0\n"
@@ -477,9 +480,8 @@ msgstr "Quitter"
 
 #: tlpkg/installer/install-menu-perltk.pl:354
 #: tlpkg/installer/install-menu-perltk.pl:358
-#, fuzzy
 msgid "Installation process"
-msgstr "Installer"
+msgstr "Processus d'installation"
 
 #: tlpkg/installer/install-menu-perltk.pl:429
 #: tlpkg/installer/install-menu-perltk.pl:460
@@ -599,7 +601,6 @@ msgstr ""
 "La plupart des boutons seront désactivés."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:259
-#, fuzzy
 msgid "Load default"
 msgstr "Charger le dépôt par défaut :"
 
@@ -705,9 +706,8 @@ msgid "Update all installed"
 msgstr "Mettre à jours tous les paquets installés"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:378
-#, fuzzy
 msgid "Reinstall previously removed packages"
-msgstr "Sélectionner les paquets"
+msgstr "Réinstaller les paquets précédemment supprimés"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:391
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:186
@@ -766,21 +766,20 @@ msgstr "Architectures..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:492
 #: texmf/scripts/texlive/tlmgrgui.pl:1225
-#, fuzzy
 msgid "Expert options"
-msgstr "Réglages du papier"
+msgstr "Mode expert"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:496
 msgid "Enable debugging output"
-msgstr ""
+msgstr "Activer les information de déboguage"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:500
 msgid "Disable auto-install of new packages"
-msgstr ""
+msgstr "Désactiver l'instalaltion automatique des nouveaux paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:503
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
+msgstr "Désactiver la suppression automatique des paquet supprimés du dépôt"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:510
 msgid "Update filename database"
@@ -798,7 +797,7 @@ msgstr "Mettre à jour la base d'alias de fontes"
 #: texmf/scripts/texlive/tlmgrgui.pl:542
 #: texmf/scripts/texlive/tlmgrgui.pl:1800
 msgid "Restore packages from backup"
-msgstr ""
+msgstr "Restaure une version sauvegardée des paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:548
 #: texmf/scripts/texlive/tlmgrgui.pl:1882
@@ -832,7 +831,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:578
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:579 texmf/scripts/texlive/tlmgrgui.pl:581
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:123
@@ -1014,11 +1013,11 @@ msgstr "Papier par défaut pour tous"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1190
 msgid "a4"
-msgstr ""
+msgstr "a4"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1192
 msgid "letter"
-msgstr ""
+msgstr "letter"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1204
 #: texmf/scripts/texlive/tlmgrgui.pl:1319
@@ -1029,7 +1028,7 @@ msgstr "Papier par défaut pour"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1224
 msgid "Changes will take effect after restart"
-msgstr ""
+msgstr "Les modification ne seront actives qu'après redémarrage"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1240
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:336
@@ -1099,7 +1098,6 @@ msgid "Installation"
 msgstr "Installer"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1731
-#, fuzzy
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -1112,13 +1110,15 @@ msgstr ""
 "à moins d'être forcées.\n"
 "Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
 "jour » :\n"
-"le programme s'arrêtera après s'être mis à jour, et vous pourrez alors le "
-"relancer pour procéder au reste des mises à jour."
+"le programme s'arrêtera après s'être mis à jour.\n"
+"Vous pourrez alors le relancer pour procéder au reste des mises à jour."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1733
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr ""
+"Après mise à jour de tlmgr, au moins %s mises à jour supplémentaires sont "
+"disponible."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1735
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
@@ -1130,36 +1130,32 @@ msgstr ""
 "jour puisse se terminer."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1815
-#, fuzzy
 msgid "Restore done"
-msgstr "TeX Live a été désinstallée."
+msgstr "Restauration effectuée."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1817
-#, fuzzy
 msgid "Restore completed"
-msgstr "TeX Live a été désinstallée."
+msgstr "Restauration effectuée."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1822
 msgid "Select the package to restore, or restore all packages"
-msgstr ""
+msgstr "Sélectionner le paquet à restaurer, ou restaurer tous les paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1838
-#, fuzzy
 msgid "Revision:"
-msgstr "Version locale :"
+msgstr "Version :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1843
-#, fuzzy
 msgid "Restore selected package"
-msgstr "Sélectionner les paquets"
+msgstr "Restaurer les paquets sélectionnés"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1859
 msgid "Restore all package to latest version"
-msgstr ""
+msgstr "Restaurer tous les paquets à la version la plus récente"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1875
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1907
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
