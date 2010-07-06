@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-07-05 03:57+0200\n"
+"POT-Creation-Date: 2010-07-06 04:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: tlpkg/installer/install-menu-wizard.pl:141
+#: tlpkg/installer/install-menu-wizard.pl:143
 #: tlpkg/installer/install-menu-perltk.pl:160
 #, perl-format
 msgid "TeX Live %s Installation"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:156
-#: tlpkg/installer/install-menu-wizard.pl:282
-#: tlpkg/installer/install-menu-wizard.pl:457
+#: tlpkg/installer/install-menu-wizard.pl:158
+#: tlpkg/installer/install-menu-wizard.pl:284
+#: tlpkg/installer/install-menu-wizard.pl:460
 #: tlpkg/installer/install-menu-perltk.pl:367
 #: tlpkg/installer/install-menu-perltk.pl:444
 #: tlpkg/installer/install-menu-perltk.pl:476
@@ -54,21 +54,21 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:158
-#: tlpkg/installer/install-menu-wizard.pl:250
-#: tlpkg/installer/install-menu-wizard.pl:372
-#: tlpkg/installer/install-menu-wizard.pl:411
+#: tlpkg/installer/install-menu-wizard.pl:160
+#: tlpkg/installer/install-menu-wizard.pl:252
+#: tlpkg/installer/install-menu-wizard.pl:375
+#: tlpkg/installer/install-menu-wizard.pl:414
 msgid "< Back"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:159
-#: tlpkg/installer/install-menu-wizard.pl:189
-#: tlpkg/installer/install-menu-wizard.pl:251
-#: tlpkg/installer/install-menu-wizard.pl:373
+#: tlpkg/installer/install-menu-wizard.pl:161
+#: tlpkg/installer/install-menu-wizard.pl:191
+#: tlpkg/installer/install-menu-wizard.pl:253
+#: tlpkg/installer/install-menu-wizard.pl:376
 msgid "Next >"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:181
+#: tlpkg/installer/install-menu-wizard.pl:183
 #, perl-format
 msgid ""
 "Welcome to the installation of TeX Live %s\n"
@@ -80,20 +80,20 @@ msgid ""
 "the web pages or installation guide."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:184
+#: tlpkg/installer/install-menu-wizard.pl:186
 msgid "Or use install-tl-advanced.bat"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:185
+#: tlpkg/installer/install-menu-wizard.pl:187
 msgid "Or use the argument --gui perltk to install-tl."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:200
-#: tlpkg/installer/install-menu-wizard.pl:398
+#: tlpkg/installer/install-menu-wizard.pl:202
+#: tlpkg/installer/install-menu-wizard.pl:401
 msgid "Destination folder:"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:202
+#: tlpkg/installer/install-menu-wizard.pl:204
 #: tlpkg/installer/install-menu-perltk.pl:172
 #: tlpkg/installer/install-menu-perltk.pl:181
 #: tlpkg/installer/install-menu-perltk.pl:191
@@ -129,29 +129,29 @@ msgstr ""
 msgid "Change"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:224
+#: tlpkg/installer/install-menu-wizard.pl:226
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:246
+#: tlpkg/installer/install-menu-wizard.pl:248
 #: tlpkg/installer/install-menu-perltk.pl:783
 msgid "disk space required"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:265
+#: tlpkg/installer/install-menu-wizard.pl:267
 #: tlpkg/installer/install-menu-perltk.pl:797
 #: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:820
 msgid "(default not writable - please change!)"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:275
+#: tlpkg/installer/install-menu-wizard.pl:277
 msgid "Enter path for"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:279
+#: tlpkg/installer/install-menu-wizard.pl:281
 #: tlpkg/installer/install-menu-perltk.pl:443
 #: tlpkg/installer/install-menu-perltk.pl:474
 #: tlpkg/installer/install-menu-perltk.pl:499
@@ -192,11 +192,11 @@ msgstr ""
 msgid "Ok"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:336
+#: tlpkg/installer/install-menu-wizard.pl:339
 msgid "This screen allows you to configure some options"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:390
+#: tlpkg/installer/install-menu-wizard.pl:393
 #, perl-format
 msgid ""
 "We are ready to install TeX Live %s.\n"
@@ -205,7 +205,7 @@ msgid ""
 "otherwise press the \"Install\" button."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:403
+#: tlpkg/installer/install-menu-wizard.pl:406
 #: tlpkg/installer/install-menu-perltk.pl:74
 #: tlpkg/installer/install-menu-perltk.pl:75
 #: tlpkg/installer/install-menu-perltk.pl:76
@@ -231,7 +231,7 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:403
+#: tlpkg/installer/install-menu-wizard.pl:406
 #: tlpkg/installer/install-menu-perltk.pl:74
 #: tlpkg/installer/install-menu-perltk.pl:75
 #: tlpkg/installer/install-menu-perltk.pl:76
@@ -256,12 +256,12 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:409
+#: tlpkg/installer/install-menu-wizard.pl:412
 #: texmf/scripts/texlive/tlmgrgui.pl:403
 msgid "Install"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:463
+#: tlpkg/installer/install-menu-wizard.pl:466
 #: tlpkg/installer/install-menu-perltk.pl:375
 #, perl-format
 msgid ""
@@ -272,7 +272,7 @@ msgid ""
 "list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:465
+#: tlpkg/installer/install-menu-wizard.pl:468
 #: tlpkg/installer/install-menu-perltk.pl:377
 #, perl-format
 msgid ""
@@ -282,12 +282,12 @@ msgid ""
 "to your PATH for current and future sessions."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:467
+#: tlpkg/installer/install-menu-wizard.pl:470
 #: tlpkg/installer/install-menu-perltk.pl:379
 msgid "Welcome to TeX Live!"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:476
+#: tlpkg/installer/install-menu-wizard.pl:479
 #: tlpkg/installer/install-menu-perltk.pl:389
 msgid "Finish"
 msgstr ""
