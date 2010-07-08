@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-07-08 04:01+0200\n"
+"POT-Creation-Date: 2010-07-08 23:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -136,14 +136,14 @@ msgid ""
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:248
-#: tlpkg/installer/install-menu-perltk.pl:783
-msgid "disk space required"
+#: tlpkg/installer/install-menu-perltk.pl:785
+msgid "disk space required:"
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:267
-#: tlpkg/installer/install-menu-perltk.pl:797
-#: tlpkg/installer/install-menu-perltk.pl:809
-#: tlpkg/installer/install-menu-perltk.pl:820
+#: tlpkg/installer/install-menu-perltk.pl:799
+#: tlpkg/installer/install-menu-perltk.pl:811
+#: tlpkg/installer/install-menu-perltk.pl:822
 msgid "(default not writable - please change!)"
 msgstr ""
 
@@ -215,14 +215,14 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:831
-#: tlpkg/installer/install-menu-perltk.pl:832
 #: tlpkg/installer/install-menu-perltk.pl:833
 #: tlpkg/installer/install-menu-perltk.pl:834
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:846
-#: tlpkg/installer/install-menu-perltk.pl:907
+#: tlpkg/installer/install-menu-perltk.pl:835
+#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:842
+#: tlpkg/installer/install-menu-perltk.pl:848
 #: tlpkg/installer/install-menu-perltk.pl:909
+#: tlpkg/installer/install-menu-perltk.pl:911
 #: texmf/scripts/texlive/tlmgrgui.pl:636
 #: texmf/scripts/texlive/tlmgrgui.pl:1002
 #: texmf/scripts/texlive/tlmgrgui.pl:1321
@@ -241,13 +241,13 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:81
 #: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:831
-#: tlpkg/installer/install-menu-perltk.pl:832
 #: tlpkg/installer/install-menu-perltk.pl:833
 #: tlpkg/installer/install-menu-perltk.pl:834
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:846
-#: tlpkg/installer/install-menu-perltk.pl:907
+#: tlpkg/installer/install-menu-perltk.pl:835
+#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:842
+#: tlpkg/installer/install-menu-perltk.pl:848
+#: tlpkg/installer/install-menu-perltk.pl:909
 #: texmf/scripts/texlive/tlmgrgui.pl:636
 #: texmf/scripts/texlive/tlmgrgui.pl:1002
 #: texmf/scripts/texlive/tlmgrgui.pl:1321
@@ -523,15 +523,15 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:783
 #, perl-format
-msgid "%s collections out of %s "
+msgid "%s collections out of %s"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:792
+#: tlpkg/installer/install-menu-perltk.pl:794
 msgid "(no language collection selected!)"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:806
-#: tlpkg/installer/install-menu-perltk.pl:817
+#: tlpkg/installer/install-menu-perltk.pl:808
+#: tlpkg/installer/install-menu-perltk.pl:819
 msgid "(please change TEXDIR first!)"
 msgstr ""
 
