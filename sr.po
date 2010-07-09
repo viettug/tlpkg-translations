@@ -7,14 +7,13 @@ msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-07-08 23:06+0200\n"
-"PO-Revision-Date: 2010-05-25 22:10+0200\n"
+"PO-Revision-Date: 2010-07-09 11:26+0000\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:143
 #: tlpkg/installer/install-menu-perltk.pl:160
@@ -88,7 +87,7 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:186
 msgid "Or use install-tl-advanced.bat"
-msgstr "Или, употребите install-tl-advanced.bat"
+msgstr "Можете да употребите и install-tl-advanced.bat"
 
 #: tlpkg/installer/install-menu-wizard.pl:187
 msgid "Or use the argument --gui perltk to install-tl."
@@ -145,9 +144,8 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:248
 #: tlpkg/installer/install-menu-perltk.pl:785
-#, fuzzy
 msgid "disk space required:"
-msgstr "потребан простор на диску"
+msgstr "потребан простор на диску:"
 
 #: tlpkg/installer/install-menu-wizard.pl:267
 #: tlpkg/installer/install-menu-perltk.pl:799
@@ -213,7 +211,7 @@ msgid ""
 "If you want to change something please go back,\n"
 "otherwise press the \"Install\" button."
 msgstr ""
-"Све је спремно за инсталацију TeX Live %s.\n"
+"Све је спремно за инсталацију TeX Live-а %s.\n"
 "Параметри који ће бити употребљени наведени су доле.\n"
 "Ако желите да нешто промените, вратите се назад,\n"
 "иначе притисните дугме „Инсталирај“."
@@ -343,7 +341,7 @@ msgstr "Основни подаци"
 #: tlpkg/installer/install-menu-perltk.pl:169
 #: tlpkg/installer/install-menu-perltk.pl:738
 msgid "Binary system(s)"
-msgstr "Оперативни систем(и) за програме"
+msgstr "Платформе (тј. архитектуре и оперативни системи) за програме"
 
 #: tlpkg/installer/install-menu-perltk.pl:178
 #: tlpkg/installer/install-menu-perltk.pl:522
@@ -493,7 +491,7 @@ msgstr "Промена вредности променљиве"
 #: tlpkg/installer/install-menu-perltk.pl:470
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
-msgstr "Унесите путању за %s (употребите ~ за %s)"
+msgstr "Унесите путању за %s (употребите ~ уместо %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:579
 msgid "Select the collections to be installed"
@@ -517,7 +515,7 @@ msgstr "Изаберите језичку подршку"
 
 #: tlpkg/installer/install-menu-perltk.pl:615
 msgid "Select language-specific documentation"
-msgstr "Изаберите документацију специфичну за језик"
+msgstr "Изаберите превод документације"
 
 #: tlpkg/installer/install-menu-perltk.pl:714
 msgid "create symlinks in standard directories"
@@ -547,9 +545,9 @@ msgid "%s out of %s"
 msgstr "%s од укупно %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:783
-#, fuzzy, perl-format
+#, perl-format
 msgid "%s collections out of %s"
-msgstr "%s колекција од укупно %s "
+msgstr "%s колекција од укупно %s"
 
 #: tlpkg/installer/install-menu-perltk.pl:794
 msgid "(no language collection selected!)"
@@ -605,9 +603,8 @@ msgstr ""
 "Највећи део дугмића биће неупотребљив."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:260
-#, fuzzy
 msgid "Load default"
-msgstr "Учитај локални репозиторијум:"
+msgstr "Учитај локални репозиторијум"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:266
 #: texmf/scripts/texlive/tlmgrgui.pl:2018
@@ -663,13 +660,12 @@ msgid "Match"
 msgstr "Поклапање"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:301
-#, fuzzy
 msgid "descriptions"
-msgstr "Кратак опис"
+msgstr "описи"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:304
 msgid "filenames"
-msgstr ""
+msgstr "имена фајлова"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:322
 msgid "Selection"
@@ -693,7 +689,7 @@ msgstr "Не изабери ништа"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:343
 msgid "Reset filters"
-msgstr "Ресетуј филтере"
+msgstr "Ресетуј приказ"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:364
 msgid "Package name"
@@ -771,9 +767,8 @@ msgid "Paper ..."
 msgstr "Папир ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:495
-#, fuzzy
 msgid "Platforms ..."
-msgstr "Папир ..."
+msgstr "Платформе (архитектура / оперативни систем) ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:499
 #: texmf/scripts/texlive/tlmgrgui.pl:1261
@@ -870,11 +865,11 @@ msgstr "Кратак опис:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:632
 msgid "Long description:"
-msgstr "Дугачак опис:"
+msgstr "Дужи опис:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:635
 msgid "Installed:"
-msgstr "Инсталирано:"
+msgstr "Инсталиран:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:638
 msgid "Local Revision:"
@@ -904,15 +899,15 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:703
 msgid "Depends:"
-msgstr "Међузависности:"
+msgstr "Повезан са:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:707
 msgid "Binaries' dependencies:"
-msgstr "Оно што зависи од програма:"
+msgstr "Програми су повезани са:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:710
 msgid "Runfiles:"
-msgstr "Извршни фајлови:"
+msgstr "Радни фајлови:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:711
 msgid "Docfiles:"
@@ -924,14 +919,13 @@ msgstr "Фајлови са изворним кодом:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:724
 msgid "Binfiles:"
-msgstr "Бинарни фајлови:"
+msgstr "Бинарни фајлови (програми):"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:729
 msgid "Further information"
-msgstr "Даље информације"
+msgstr "Још података"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:927 texmf/scripts/texlive/tlmgrgui.pl:932
-#, fuzzy
 msgid "Select platforms to support"
 msgstr "Изаберите оперативне системе за програме"
 
@@ -943,9 +937,8 @@ msgid "Apply changes"
 msgstr "Примени промене"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:957
-#, fuzzy
 msgid "Removals of the main platform not possible!"
-msgstr "Уклањање главне архитектуре није могуће!"
+msgstr "Уклањање главне платформе није могуће!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1014
 #: texmf/scripts/texlive/tlmgrgui.pl:1023
@@ -984,7 +977,7 @@ msgstr "Подразумевани директоријум за бекапе"
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:418
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:422
 msgid "Auto backup setting"
-msgstr "Подешавања за аутоматски бекап"
+msgstr "Режим рада аутоматског бекаповања"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1086
 #: texmf/scripts/texlive/tlmgrgui.pl:1925
@@ -1022,7 +1015,7 @@ msgstr "Подешавања папира"
 #: texmf/scripts/texlive/tlmgrgui.pl:1225
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:201
 msgid "Default paper for all"
-msgstr "Подразумевана величина папира за све"
+msgstr "Подразумевана величина папира за све програме"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1226
 msgid "a4"
