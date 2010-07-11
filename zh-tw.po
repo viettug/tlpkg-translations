@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-07-10 04:00+0200\n"
+"POT-Creation-Date: 2010-07-11 04:00+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -12,35 +12,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: tlpkg/installer/install-menu-wizard.pl:149
-#: tlpkg/installer/install-menu-perltk.pl:166
+#: tlpkg/installer/install-menu-wizard.pl:148
+#: tlpkg/installer/install-menu-perltk.pl:168
 #, perl-format
 msgid "TeX Live %s Installation"
 msgstr "TeX Live %s 安裝"
 
-#: tlpkg/installer/install-menu-wizard.pl:164
-#: tlpkg/installer/install-menu-wizard.pl:290
-#: tlpkg/installer/install-menu-wizard.pl:492
-#: tlpkg/installer/install-menu-perltk.pl:373
-#: tlpkg/installer/install-menu-perltk.pl:450
-#: tlpkg/installer/install-menu-perltk.pl:482
-#: tlpkg/installer/install-menu-perltk.pl:520
-#: tlpkg/installer/install-menu-perltk.pl:568
-#: tlpkg/installer/install-menu-perltk.pl:608
-#: tlpkg/installer/install-menu-perltk.pl:671
-#: tlpkg/installer/install-menu-perltk.pl:735
-#: tlpkg/installer/install-menu-perltk.pl:764
+#: tlpkg/installer/install-menu-wizard.pl:163
+#: tlpkg/installer/install-menu-wizard.pl:289
+#: tlpkg/installer/install-menu-wizard.pl:491
+#: tlpkg/installer/install-menu-perltk.pl:375
+#: tlpkg/installer/install-menu-perltk.pl:458
+#: tlpkg/installer/install-menu-perltk.pl:490
+#: tlpkg/installer/install-menu-perltk.pl:528
+#: tlpkg/installer/install-menu-perltk.pl:576
+#: tlpkg/installer/install-menu-perltk.pl:616
+#: tlpkg/installer/install-menu-perltk.pl:679
+#: tlpkg/installer/install-menu-perltk.pl:743
+#: tlpkg/installer/install-menu-perltk.pl:772
 #: texmf/scripts/texlive/tlmgrgui.pl:565 texmf/scripts/texlive/tlmgrgui.pl:566
-#: texmf/scripts/texlive/tlmgrgui.pl:946
-#: texmf/scripts/texlive/tlmgrgui.pl:1149
-#: texmf/scripts/texlive/tlmgrgui.pl:1255
-#: texmf/scripts/texlive/tlmgrgui.pl:1263
-#: texmf/scripts/texlive/tlmgrgui.pl:1310
-#: texmf/scripts/texlive/tlmgrgui.pl:1362
-#: texmf/scripts/texlive/tlmgrgui.pl:1395
-#: texmf/scripts/texlive/tlmgrgui.pl:1428
-#: texmf/scripts/texlive/tlmgrgui.pl:1963
-#: texmf/scripts/texlive/tlmgrgui.pl:2008
+#: texmf/scripts/texlive/tlmgrgui.pl:945
+#: texmf/scripts/texlive/tlmgrgui.pl:1148
+#: texmf/scripts/texlive/tlmgrgui.pl:1254
+#: texmf/scripts/texlive/tlmgrgui.pl:1262
+#: texmf/scripts/texlive/tlmgrgui.pl:1309
+#: texmf/scripts/texlive/tlmgrgui.pl:1361
+#: texmf/scripts/texlive/tlmgrgui.pl:1394
+#: texmf/scripts/texlive/tlmgrgui.pl:1427
+#: texmf/scripts/texlive/tlmgrgui.pl:1962
+#: texmf/scripts/texlive/tlmgrgui.pl:2007
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:369
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:411
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:444
@@ -49,21 +49,21 @@ msgstr "TeX Live %s 安裝"
 msgid "Cancel"
 msgstr "取消"
 
-#: tlpkg/installer/install-menu-wizard.pl:166
-#: tlpkg/installer/install-menu-wizard.pl:258
-#: tlpkg/installer/install-menu-wizard.pl:401
-#: tlpkg/installer/install-menu-wizard.pl:446
+#: tlpkg/installer/install-menu-wizard.pl:165
+#: tlpkg/installer/install-menu-wizard.pl:257
+#: tlpkg/installer/install-menu-wizard.pl:400
+#: tlpkg/installer/install-menu-wizard.pl:445
 msgid "< Back"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:167
-#: tlpkg/installer/install-menu-wizard.pl:197
-#: tlpkg/installer/install-menu-wizard.pl:259
-#: tlpkg/installer/install-menu-wizard.pl:402
+#: tlpkg/installer/install-menu-wizard.pl:166
+#: tlpkg/installer/install-menu-wizard.pl:196
+#: tlpkg/installer/install-menu-wizard.pl:258
+#: tlpkg/installer/install-menu-wizard.pl:401
 msgid "Next >"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:189
+#: tlpkg/installer/install-menu-wizard.pl:188
 #, perl-format
 msgid ""
 "Welcome to the installation of TeX Live %s\n"
@@ -75,43 +75,43 @@ msgid ""
 "the web pages or installation guide."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:192
+#: tlpkg/installer/install-menu-wizard.pl:191
 msgid "Or use install-tl-advanced.bat"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:193
+#: tlpkg/installer/install-menu-wizard.pl:192
 msgid "Or use the argument --gui perltk to install-tl."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:208
-#: tlpkg/installer/install-menu-wizard.pl:427
+#: tlpkg/installer/install-menu-wizard.pl:207
+#: tlpkg/installer/install-menu-wizard.pl:426
 msgid "Destination folder:"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:210
-#: tlpkg/installer/install-menu-perltk.pl:178
-#: tlpkg/installer/install-menu-perltk.pl:187
-#: tlpkg/installer/install-menu-perltk.pl:197
-#: tlpkg/installer/install-menu-perltk.pl:203
-#: tlpkg/installer/install-menu-perltk.pl:218
+#: tlpkg/installer/install-menu-wizard.pl:209
+#: tlpkg/installer/install-menu-perltk.pl:180
+#: tlpkg/installer/install-menu-perltk.pl:189
+#: tlpkg/installer/install-menu-perltk.pl:199
+#: tlpkg/installer/install-menu-perltk.pl:205
 #: tlpkg/installer/install-menu-perltk.pl:220
-#: tlpkg/installer/install-menu-perltk.pl:228
-#: tlpkg/installer/install-menu-perltk.pl:234
-#: tlpkg/installer/install-menu-perltk.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:246
-#: tlpkg/installer/install-menu-perltk.pl:288
-#: tlpkg/installer/install-menu-perltk.pl:302
-#: texmf/scripts/texlive/tlmgrgui.pl:1032
-#: texmf/scripts/texlive/tlmgrgui.pl:1066
-#: texmf/scripts/texlive/tlmgrgui.pl:1081
-#: texmf/scripts/texlive/tlmgrgui.pl:1090
-#: texmf/scripts/texlive/tlmgrgui.pl:1098
-#: texmf/scripts/texlive/tlmgrgui.pl:1106
-#: texmf/scripts/texlive/tlmgrgui.pl:1134
-#: texmf/scripts/texlive/tlmgrgui.pl:1242
-#: texmf/scripts/texlive/tlmgrgui.pl:1927
-#: texmf/scripts/texlive/tlmgrgui.pl:1932
-#: texmf/scripts/texlive/tlmgrgui.pl:1937
+#: tlpkg/installer/install-menu-perltk.pl:222
+#: tlpkg/installer/install-menu-perltk.pl:230
+#: tlpkg/installer/install-menu-perltk.pl:236
+#: tlpkg/installer/install-menu-perltk.pl:242
+#: tlpkg/installer/install-menu-perltk.pl:248
+#: tlpkg/installer/install-menu-perltk.pl:290
+#: tlpkg/installer/install-menu-perltk.pl:304
+#: texmf/scripts/texlive/tlmgrgui.pl:1031
+#: texmf/scripts/texlive/tlmgrgui.pl:1065
+#: texmf/scripts/texlive/tlmgrgui.pl:1080
+#: texmf/scripts/texlive/tlmgrgui.pl:1089
+#: texmf/scripts/texlive/tlmgrgui.pl:1097
+#: texmf/scripts/texlive/tlmgrgui.pl:1105
+#: texmf/scripts/texlive/tlmgrgui.pl:1133
+#: texmf/scripts/texlive/tlmgrgui.pl:1241
+#: texmf/scripts/texlive/tlmgrgui.pl:1926
+#: texmf/scripts/texlive/tlmgrgui.pl:1931
+#: texmf/scripts/texlive/tlmgrgui.pl:1936
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:45
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:82
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:99
@@ -124,55 +124,55 @@ msgstr ""
 msgid "Change"
 msgstr "改變"
 
-#: tlpkg/installer/install-menu-wizard.pl:232
+#: tlpkg/installer/install-menu-wizard.pl:231
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:254
-#: tlpkg/installer/install-menu-perltk.pl:791
+#: tlpkg/installer/install-menu-wizard.pl:253
+#: tlpkg/installer/install-menu-perltk.pl:799
 #, fuzzy
 msgid "disk space required:"
 msgstr "需要的磁碟空間"
 
-#: tlpkg/installer/install-menu-wizard.pl:273
-#: tlpkg/installer/install-menu-perltk.pl:805
-#: tlpkg/installer/install-menu-perltk.pl:817
-#: tlpkg/installer/install-menu-perltk.pl:828
+#: tlpkg/installer/install-menu-wizard.pl:272
+#: tlpkg/installer/install-menu-perltk.pl:813
+#: tlpkg/installer/install-menu-perltk.pl:825
+#: tlpkg/installer/install-menu-perltk.pl:836
 msgid "(default not writable - please change!)"
 msgstr "(默認位置不可寫 - 請做相應更改！)"
 
-#: tlpkg/installer/install-menu-wizard.pl:283
+#: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
 msgstr "輸入路徑變數"
 
-#: tlpkg/installer/install-menu-wizard.pl:287
-#: tlpkg/installer/install-menu-perltk.pl:449
-#: tlpkg/installer/install-menu-perltk.pl:480
-#: tlpkg/installer/install-menu-perltk.pl:505
-#: tlpkg/installer/install-menu-perltk.pl:566
-#: tlpkg/installer/install-menu-perltk.pl:606
-#: tlpkg/installer/install-menu-perltk.pl:669
-#: tlpkg/installer/install-menu-perltk.pl:733
-#: tlpkg/installer/install-menu-perltk.pl:762
+#: tlpkg/installer/install-menu-wizard.pl:286
+#: tlpkg/installer/install-menu-perltk.pl:457
+#: tlpkg/installer/install-menu-perltk.pl:488
+#: tlpkg/installer/install-menu-perltk.pl:513
+#: tlpkg/installer/install-menu-perltk.pl:574
+#: tlpkg/installer/install-menu-perltk.pl:614
+#: tlpkg/installer/install-menu-perltk.pl:677
+#: tlpkg/installer/install-menu-perltk.pl:741
+#: tlpkg/installer/install-menu-perltk.pl:770
 #: texmf/scripts/texlive/tlmgrgui.pl:214 texmf/scripts/texlive/tlmgrgui.pl:565
 #: texmf/scripts/texlive/tlmgrgui.pl:569 texmf/scripts/texlive/tlmgrgui.pl:571
-#: texmf/scripts/texlive/tlmgrgui.pl:589 texmf/scripts/texlive/tlmgrgui.pl:749
-#: texmf/scripts/texlive/tlmgrgui.pl:958
+#: texmf/scripts/texlive/tlmgrgui.pl:589 texmf/scripts/texlive/tlmgrgui.pl:748
+#: texmf/scripts/texlive/tlmgrgui.pl:957
+#: texmf/scripts/texlive/tlmgrgui.pl:1262
 #: texmf/scripts/texlive/tlmgrgui.pl:1263
-#: texmf/scripts/texlive/tlmgrgui.pl:1264
-#: texmf/scripts/texlive/tlmgrgui.pl:1303
-#: texmf/scripts/texlive/tlmgrgui.pl:1361
-#: texmf/scripts/texlive/tlmgrgui.pl:1387
-#: texmf/scripts/texlive/tlmgrgui.pl:1419
-#: texmf/scripts/texlive/tlmgrgui.pl:1459
-#: texmf/scripts/texlive/tlmgrgui.pl:1766
-#: texmf/scripts/texlive/tlmgrgui.pl:1826
-#: texmf/scripts/texlive/tlmgrgui.pl:1852
-#: texmf/scripts/texlive/tlmgrgui.pl:1960
-#: texmf/scripts/texlive/tlmgrgui.pl:2003
-#: texmf/scripts/texlive/tlmgrgui.pl:2048
+#: texmf/scripts/texlive/tlmgrgui.pl:1302
+#: texmf/scripts/texlive/tlmgrgui.pl:1360
+#: texmf/scripts/texlive/tlmgrgui.pl:1386
+#: texmf/scripts/texlive/tlmgrgui.pl:1418
+#: texmf/scripts/texlive/tlmgrgui.pl:1458
+#: texmf/scripts/texlive/tlmgrgui.pl:1765
+#: texmf/scripts/texlive/tlmgrgui.pl:1825
+#: texmf/scripts/texlive/tlmgrgui.pl:1851
+#: texmf/scripts/texlive/tlmgrgui.pl:1959
+#: texmf/scripts/texlive/tlmgrgui.pl:2002
+#: texmf/scripts/texlive/tlmgrgui.pl:2047
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:76
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:363
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:410
@@ -188,11 +188,11 @@ msgstr "輸入路徑變數"
 msgid "Ok"
 msgstr "確定"
 
-#: tlpkg/installer/install-menu-wizard.pl:351
+#: tlpkg/installer/install-menu-wizard.pl:350
 msgid "This screen allows you to configure some options"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:419
+#: tlpkg/installer/install-menu-wizard.pl:418
 #, perl-format
 msgid ""
 "We are ready to install TeX Live %s.\n"
@@ -201,65 +201,60 @@ msgid ""
 "otherwise press the \"Install\" button."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:435
-#: tlpkg/installer/install-menu-perltk.pl:74
-#: tlpkg/installer/install-menu-perltk.pl:75
-#: tlpkg/installer/install-menu-perltk.pl:76
-#: tlpkg/installer/install-menu-perltk.pl:77
+#: tlpkg/installer/install-menu-wizard.pl:434
 #: tlpkg/installer/install-menu-perltk.pl:78
+#: tlpkg/installer/install-menu-perltk.pl:79
 #: tlpkg/installer/install-menu-perltk.pl:80
 #: tlpkg/installer/install-menu-perltk.pl:81
-#: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:839
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:841
-#: tlpkg/installer/install-menu-perltk.pl:842
+#: tlpkg/installer/install-menu-perltk.pl:84
+#: tlpkg/installer/install-menu-perltk.pl:85
+#: tlpkg/installer/install-menu-perltk.pl:86
 #: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:854
-#: tlpkg/installer/install-menu-perltk.pl:915
-#: tlpkg/installer/install-menu-perltk.pl:917
+#: tlpkg/installer/install-menu-perltk.pl:849
+#: tlpkg/installer/install-menu-perltk.pl:850
+#: tlpkg/installer/install-menu-perltk.pl:856
+#: tlpkg/installer/install-menu-perltk.pl:862
+#: tlpkg/installer/install-menu-perltk.pl:923
 #: texmf/scripts/texlive/tlmgrgui.pl:636
-#: texmf/scripts/texlive/tlmgrgui.pl:1002
-#: texmf/scripts/texlive/tlmgrgui.pl:1321
+#: texmf/scripts/texlive/tlmgrgui.pl:1001
+#: texmf/scripts/texlive/tlmgrgui.pl:1320
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:380
 msgid "Yes"
 msgstr "是"
 
-#: tlpkg/installer/install-menu-wizard.pl:435
-#: tlpkg/installer/install-menu-perltk.pl:74
-#: tlpkg/installer/install-menu-perltk.pl:75
-#: tlpkg/installer/install-menu-perltk.pl:76
-#: tlpkg/installer/install-menu-perltk.pl:77
+#: tlpkg/installer/install-menu-wizard.pl:434
 #: tlpkg/installer/install-menu-perltk.pl:78
+#: tlpkg/installer/install-menu-perltk.pl:79
 #: tlpkg/installer/install-menu-perltk.pl:80
 #: tlpkg/installer/install-menu-perltk.pl:81
-#: tlpkg/installer/install-menu-perltk.pl:82
 #: tlpkg/installer/install-menu-perltk.pl:83
-#: tlpkg/installer/install-menu-perltk.pl:839
-#: tlpkg/installer/install-menu-perltk.pl:840
-#: tlpkg/installer/install-menu-perltk.pl:841
-#: tlpkg/installer/install-menu-perltk.pl:842
+#: tlpkg/installer/install-menu-perltk.pl:84
+#: tlpkg/installer/install-menu-perltk.pl:85
+#: tlpkg/installer/install-menu-perltk.pl:86
 #: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:854
-#: tlpkg/installer/install-menu-perltk.pl:915
+#: tlpkg/installer/install-menu-perltk.pl:849
+#: tlpkg/installer/install-menu-perltk.pl:850
+#: tlpkg/installer/install-menu-perltk.pl:856
+#: tlpkg/installer/install-menu-perltk.pl:862
+#: tlpkg/installer/install-menu-perltk.pl:923
 #: texmf/scripts/texlive/tlmgrgui.pl:636
-#: texmf/scripts/texlive/tlmgrgui.pl:1002
-#: texmf/scripts/texlive/tlmgrgui.pl:1321
+#: texmf/scripts/texlive/tlmgrgui.pl:1001
+#: texmf/scripts/texlive/tlmgrgui.pl:1320
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:21
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:380
 msgid "No"
 msgstr "否"
 
-#: tlpkg/installer/install-menu-wizard.pl:444
+#: tlpkg/installer/install-menu-wizard.pl:443
 #: texmf/scripts/texlive/tlmgrgui.pl:403
 #, fuzzy
 msgid "Install"
 msgstr "安裝 TeX Live"
 
-#: tlpkg/installer/install-menu-wizard.pl:498
-#: tlpkg/installer/install-menu-perltk.pl:381
+#: tlpkg/installer/install-menu-wizard.pl:497
+#: tlpkg/installer/install-menu-perltk.pl:383
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
@@ -274,8 +269,8 @@ msgstr ""
 "請考慮加入合適的TeX用戶組來支持該項目。從\n"
 "http://tug.org/usergroups.html 可以獲得TeX用戶組的列表。"
 
-#: tlpkg/installer/install-menu-wizard.pl:500
-#: tlpkg/installer/install-menu-perltk.pl:383
+#: tlpkg/installer/install-menu-wizard.pl:499
+#: tlpkg/installer/install-menu-perltk.pl:385
 #, perl-format
 msgid ""
 "Add %s/texmf/doc/man to MANPATH.\n"
@@ -289,12 +284,19 @@ msgstr ""
 "到你的 PATH 變數。"
 
 #: tlpkg/installer/install-menu-wizard.pl:502
-#: tlpkg/installer/install-menu-perltk.pl:385
+#: tlpkg/installer/install-menu-perltk.pl:388
+msgid ""
+"There were some warnings during the installation process.\n"
+"Here is a summary of warning messages:"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:506
+#: tlpkg/installer/install-menu-perltk.pl:393
 msgid "Welcome to TeX Live!"
 msgstr "歡迎進入 TeX Live 的世界！"
 
-#: tlpkg/installer/install-menu-wizard.pl:511
-#: tlpkg/installer/install-menu-perltk.pl:395
+#: tlpkg/installer/install-menu-wizard.pl:515
+#: tlpkg/installer/install-menu-perltk.pl:403
 msgid "Finish"
 msgstr "完成"
 
@@ -320,83 +322,92 @@ msgstr ""
 msgid "All"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:169
+#: tlpkg/installer/install-menu-perltk.pl:58
+msgid "A4"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:59
+#: texmf/scripts/texlive/tlmgrgui.pl:1227
+msgid "letter"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:171
 msgid "Basic Information"
 msgstr "基本資訊"
 
-#: tlpkg/installer/install-menu-perltk.pl:175
-#: tlpkg/installer/install-menu-perltk.pl:744
+#: tlpkg/installer/install-menu-perltk.pl:177
+#: tlpkg/installer/install-menu-perltk.pl:752
 msgid "Binary system(s)"
 msgstr "二進位系統"
 
-#: tlpkg/installer/install-menu-perltk.pl:184
-#: tlpkg/installer/install-menu-perltk.pl:528
-#: tlpkg/installer/install-menu-perltk.pl:541
+#: tlpkg/installer/install-menu-perltk.pl:186
+#: tlpkg/installer/install-menu-perltk.pl:536
+#: tlpkg/installer/install-menu-perltk.pl:549
 msgid "Selected scheme"
 msgstr "選擇安裝方案"
 
-#: tlpkg/installer/install-menu-perltk.pl:192
+#: tlpkg/installer/install-menu-perltk.pl:194
 msgid "Further Customization"
 msgstr "進一步定制"
 
-#: tlpkg/installer/install-menu-perltk.pl:196
-#: tlpkg/installer/install-menu-perltk.pl:576
+#: tlpkg/installer/install-menu-perltk.pl:198
+#: tlpkg/installer/install-menu-perltk.pl:584
 msgid "Standard collections"
 msgstr "標準安裝"
 
-#: tlpkg/installer/install-menu-perltk.pl:201
-#: tlpkg/installer/install-menu-perltk.pl:615
+#: tlpkg/installer/install-menu-perltk.pl:203
+#: tlpkg/installer/install-menu-perltk.pl:623
 msgid "Language collections"
 msgstr "語言集合"
 
-#: tlpkg/installer/install-menu-perltk.pl:211
+#: tlpkg/installer/install-menu-perltk.pl:213
 msgid "Directory setup"
 msgstr "目錄設置"
 
-#: tlpkg/installer/install-menu-perltk.pl:215
+#: tlpkg/installer/install-menu-perltk.pl:217
 msgid "TEXDIR (the main TeX directory)"
 msgstr "TEXDIR (主 TeX 目錄)"
 
-#: tlpkg/installer/install-menu-perltk.pl:226
+#: tlpkg/installer/install-menu-perltk.pl:228
 msgid "TEXMFLOCAL (directory for site-wide local files)"
 msgstr "TEXMFLOCAL (存放本地格式檔等)"
 
-#: tlpkg/installer/install-menu-perltk.pl:232
+#: tlpkg/installer/install-menu-perltk.pl:234
 msgid "TEXMFSYSVAR (directory for autogenerated data)"
 msgstr "TEXMFSYSVAR (存放本地配置)"
 
-#: tlpkg/installer/install-menu-perltk.pl:238
+#: tlpkg/installer/install-menu-perltk.pl:240
 msgid "TEXMFSYSCONFIG (directory for local config)"
 msgstr "TEXMFSYSCONFIG (存放本地配置)"
 
-#: tlpkg/installer/install-menu-perltk.pl:244
+#: tlpkg/installer/install-menu-perltk.pl:246
 #, fuzzy
 msgid "TEXMFHOME (directory for user-specific files)"
 msgstr "TEXMFLOCAL (存放本地格式檔等)"
 
-#: tlpkg/installer/install-menu-perltk.pl:250
+#: tlpkg/installer/install-menu-perltk.pl:252
 #: texmf/scripts/texlive/tlmgrgui.pl:459
 msgid "Options"
 msgstr "選項"
 
-#: tlpkg/installer/install-menu-perltk.pl:254
-msgid "Use letter size instead of A4 by default"
-msgstr "默認使用 letter 而不是 A4"
-
 #: tlpkg/installer/install-menu-perltk.pl:256
-#: tlpkg/installer/install-menu-perltk.pl:261
-#: tlpkg/installer/install-menu-perltk.pl:266
-#: tlpkg/installer/install-menu-perltk.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:279
-#: tlpkg/installer/install-menu-perltk.pl:290
-#: tlpkg/installer/install-menu-perltk.pl:297
-#: tlpkg/installer/install-menu-perltk.pl:308
-#: tlpkg/installer/install-menu-perltk.pl:314
-#: texmf/scripts/texlive/tlmgrgui.pl:1042
-#: texmf/scripts/texlive/tlmgrgui.pl:1050
-#: texmf/scripts/texlive/tlmgrgui.pl:1058
-#: texmf/scripts/texlive/tlmgrgui.pl:1116
-#: texmf/scripts/texlive/tlmgrgui.pl:1125
+msgid "Default paper size"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:258
+#: tlpkg/installer/install-menu-perltk.pl:263
+#: tlpkg/installer/install-menu-perltk.pl:268
+#: tlpkg/installer/install-menu-perltk.pl:274
+#: tlpkg/installer/install-menu-perltk.pl:281
+#: tlpkg/installer/install-menu-perltk.pl:292
+#: tlpkg/installer/install-menu-perltk.pl:299
+#: tlpkg/installer/install-menu-perltk.pl:310
+#: tlpkg/installer/install-menu-perltk.pl:316
+#: texmf/scripts/texlive/tlmgrgui.pl:1041
+#: texmf/scripts/texlive/tlmgrgui.pl:1049
+#: texmf/scripts/texlive/tlmgrgui.pl:1057
+#: texmf/scripts/texlive/tlmgrgui.pl:1115
+#: texmf/scripts/texlive/tlmgrgui.pl:1124
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:55
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:64
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:73
@@ -405,146 +416,146 @@ msgstr "默認使用 letter 而不是 A4"
 msgid "Toggle"
 msgstr "切換"
 
-#: tlpkg/installer/install-menu-perltk.pl:259
+#: tlpkg/installer/install-menu-perltk.pl:261
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:264
+#: tlpkg/installer/install-menu-perltk.pl:266
 msgid "Create all format files"
 msgstr "創建所有格式檔"
 
-#: tlpkg/installer/install-menu-perltk.pl:270
+#: tlpkg/installer/install-menu-perltk.pl:272
 msgid "Install font/macro doc tree"
 msgstr "安裝字體/巨集包文檔目錄樹"
 
-#: tlpkg/installer/install-menu-perltk.pl:277
+#: tlpkg/installer/install-menu-perltk.pl:279
 msgid "Install font/macro source tree"
 msgstr "安裝字體/巨集包源碼目錄樹"
 
-#: tlpkg/installer/install-menu-perltk.pl:283
+#: tlpkg/installer/install-menu-perltk.pl:285
 msgid "Adjust PATH setting in registry"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-#: tlpkg/installer/install-menu-perltk.pl:716
+#: tlpkg/installer/install-menu-perltk.pl:286
+#: tlpkg/installer/install-menu-perltk.pl:718
 msgid "Create symlinks in system directories"
 msgstr "創建指向系統目錄的符號鏈結"
 
-#: tlpkg/installer/install-menu-perltk.pl:295
+#: tlpkg/installer/install-menu-perltk.pl:297
 #, fuzzy
 msgid "Add shortcuts to menu and desktop"
 msgstr "系統集成"
 
-#: tlpkg/installer/install-menu-perltk.pl:300
-#: tlpkg/installer/install-menu-perltk.pl:491
-#: tlpkg/installer/install-menu-perltk.pl:496
-#: texmf/scripts/texlive/tlmgrgui.pl:1130
-#: texmf/scripts/texlive/tlmgrgui.pl:1404
-#: texmf/scripts/texlive/tlmgrgui.pl:1408
+#: tlpkg/installer/install-menu-perltk.pl:302
+#: tlpkg/installer/install-menu-perltk.pl:499
+#: tlpkg/installer/install-menu-perltk.pl:504
+#: texmf/scripts/texlive/tlmgrgui.pl:1129
+#: texmf/scripts/texlive/tlmgrgui.pl:1403
+#: texmf/scripts/texlive/tlmgrgui.pl:1407
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:178
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:452
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:456
 msgid "Change file associations"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:306
+#: tlpkg/installer/install-menu-perltk.pl:308
 #, fuzzy
 msgid "Installation for all users"
 msgstr "安裝 TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:312
+#: tlpkg/installer/install-menu-perltk.pl:314
 #, fuzzy
 msgid "Install TeXworks front end"
 msgstr "安裝字體/巨集包文檔目錄樹"
 
-#: tlpkg/installer/install-menu-perltk.pl:320
+#: tlpkg/installer/install-menu-perltk.pl:322
 #, fuzzy
 msgid "Install TeX Live"
 msgstr "安裝 TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:324
+#: tlpkg/installer/install-menu-perltk.pl:326
 #: texmf/scripts/texlive/tlmgrgui.pl:484
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:118
 msgid "Quit"
 msgstr "退出"
 
-#: tlpkg/installer/install-menu-perltk.pl:360
-#: tlpkg/installer/install-menu-perltk.pl:364
+#: tlpkg/installer/install-menu-perltk.pl:362
+#: tlpkg/installer/install-menu-perltk.pl:366
 #, fuzzy
 msgid "Installation process"
 msgstr "安裝 TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:435
-#: tlpkg/installer/install-menu-perltk.pl:466
+#: tlpkg/installer/install-menu-perltk.pl:443
+#: tlpkg/installer/install-menu-perltk.pl:474
 msgid "Change variable value"
 msgstr "更改變數的值"
 
-#: tlpkg/installer/install-menu-perltk.pl:438
-#: tlpkg/installer/install-menu-perltk.pl:476
+#: tlpkg/installer/install-menu-perltk.pl:446
+#: tlpkg/installer/install-menu-perltk.pl:484
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "輸入路徑變數 %s (使用 ~ 作為 %s)"
 
-#: tlpkg/installer/install-menu-perltk.pl:585
+#: tlpkg/installer/install-menu-perltk.pl:593
 msgid "Select the collections to be installed"
 msgstr "選擇要安裝的組件"
 
-#: tlpkg/installer/install-menu-perltk.pl:601
-#: tlpkg/installer/install-menu-perltk.pl:642
-#: tlpkg/installer/install-menu-perltk.pl:664
+#: tlpkg/installer/install-menu-perltk.pl:609
+#: tlpkg/installer/install-menu-perltk.pl:650
+#: tlpkg/installer/install-menu-perltk.pl:672
 msgid "Select All"
 msgstr "全部選擇"
 
-#: tlpkg/installer/install-menu-perltk.pl:603
-#: tlpkg/installer/install-menu-perltk.pl:644
-#: tlpkg/installer/install-menu-perltk.pl:666
+#: tlpkg/installer/install-menu-perltk.pl:611
+#: tlpkg/installer/install-menu-perltk.pl:652
+#: tlpkg/installer/install-menu-perltk.pl:674
 msgid "Deselect All"
 msgstr "取消全部選擇"
 
-#: tlpkg/installer/install-menu-perltk.pl:620
+#: tlpkg/installer/install-menu-perltk.pl:628
 msgid "Select language support"
 msgstr "選擇語言支援"
 
-#: tlpkg/installer/install-menu-perltk.pl:621
+#: tlpkg/installer/install-menu-perltk.pl:629
 msgid "Select language-specific documentation"
 msgstr "選擇相關語言的文檔"
 
-#: tlpkg/installer/install-menu-perltk.pl:720
+#: tlpkg/installer/install-menu-perltk.pl:722
 msgid "create symlinks in standard directories"
 msgstr "在標準位置創建符號鏈結"
 
-#: tlpkg/installer/install-menu-perltk.pl:725
+#: tlpkg/installer/install-menu-perltk.pl:727
 msgid "binaries to"
 msgstr "程式檔安裝位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:727
+#: tlpkg/installer/install-menu-perltk.pl:729
 msgid "manpages to"
 msgstr "手冊文檔(*.man)安裝位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:731
 msgid "info to"
 msgstr "超文本文檔(*.info)安裝位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:753
+#: tlpkg/installer/install-menu-perltk.pl:761
 msgid "Select arch-os"
 msgstr "選擇系統架構"
 
-#: tlpkg/installer/install-menu-perltk.pl:784
+#: tlpkg/installer/install-menu-perltk.pl:792
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s 來自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:789
+#: tlpkg/installer/install-menu-perltk.pl:797
 #, fuzzy, perl-format
 msgid "%s collections out of %s"
 msgstr "%s 集合來自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:800
+#: tlpkg/installer/install-menu-perltk.pl:808
 msgid "(no language collection selected!)"
 msgstr "(沒有選擇語言集合！)"
 
-#: tlpkg/installer/install-menu-perltk.pl:814
-#: tlpkg/installer/install-menu-perltk.pl:825
+#: tlpkg/installer/install-menu-perltk.pl:822
+#: tlpkg/installer/install-menu-perltk.pl:833
 msgid "(please change TEXDIR first!)"
 msgstr "(請首先改變 TEXDIR ！)"
 
@@ -556,19 +567,19 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:207
-#: texmf/scripts/texlive/tlmgrgui.pl:1453
-#: texmf/scripts/texlive/tlmgrgui.pl:2042
+#: texmf/scripts/texlive/tlmgrgui.pl:1452
+#: texmf/scripts/texlive/tlmgrgui.pl:2041
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:231
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:252
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:526
 msgid "Completed"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:212 texmf/scripts/texlive/tlmgrgui.pl:956
-#: texmf/scripts/texlive/tlmgrgui.pl:1457
-#: texmf/scripts/texlive/tlmgrgui.pl:1766
-#: texmf/scripts/texlive/tlmgrgui.pl:1826
-#: texmf/scripts/texlive/tlmgrgui.pl:2048
+#: texmf/scripts/texlive/tlmgrgui.pl:212 texmf/scripts/texlive/tlmgrgui.pl:955
+#: texmf/scripts/texlive/tlmgrgui.pl:1456
+#: texmf/scripts/texlive/tlmgrgui.pl:1765
+#: texmf/scripts/texlive/tlmgrgui.pl:1825
+#: texmf/scripts/texlive/tlmgrgui.pl:2047
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:427
 msgid "Warning"
 msgstr ""
@@ -589,7 +600,7 @@ msgid "Load default"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:266
-#: texmf/scripts/texlive/tlmgrgui.pl:2018
+#: texmf/scripts/texlive/tlmgrgui.pl:2017
 msgid "Loaded repository:"
 msgstr ""
 
@@ -715,7 +726,7 @@ msgid "Update"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:407
-#: texmf/scripts/texlive/tlmgrgui.pl:1580
+#: texmf/scripts/texlive/tlmgrgui.pl:1579
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:203
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:338
 msgid "Remove"
@@ -732,12 +743,12 @@ msgid "Actions"
 msgstr "選項"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:465
-#: texmf/scripts/texlive/tlmgrgui.pl:2073
+#: texmf/scripts/texlive/tlmgrgui.pl:2072
 msgid "Help"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:471
-#: texmf/scripts/texlive/tlmgrgui.pl:1162
+#: texmf/scripts/texlive/tlmgrgui.pl:1161
 msgid "Load default repository:"
 msgstr ""
 
@@ -767,7 +778,7 @@ msgid "Platforms ..."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:499
-#: texmf/scripts/texlive/tlmgrgui.pl:1261
+#: texmf/scripts/texlive/tlmgrgui.pl:1260
 #, fuzzy
 msgid "Expert options"
 msgstr "選項"
@@ -799,12 +810,12 @@ msgid "Update font map database"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:549
-#: texmf/scripts/texlive/tlmgrgui.pl:1836
+#: texmf/scripts/texlive/tlmgrgui.pl:1835
 msgid "Restore packages from backup"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:555
-#: texmf/scripts/texlive/tlmgrgui.pl:1918
+#: texmf/scripts/texlive/tlmgrgui.pl:1917
 #, fuzzy
 msgid "Handle symlinks in system dirs"
 msgstr "創建指向系統目錄的符號鏈結"
@@ -847,7 +858,7 @@ msgid "Details on:"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:620
-#: texmf/scripts/texlive/tlmgrgui.pl:1860
+#: texmf/scripts/texlive/tlmgrgui.pl:1859
 msgid "Package:"
 msgstr ""
 
@@ -901,80 +912,80 @@ msgstr ""
 msgid "Binaries' dependencies:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:710
+#: texmf/scripts/texlive/tlmgrgui.pl:709
 msgid "Runfiles:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:711
+#: texmf/scripts/texlive/tlmgrgui.pl:710
 msgid "Docfiles:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:712
+#: texmf/scripts/texlive/tlmgrgui.pl:711
 msgid "Srcfiles:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:724
+#: texmf/scripts/texlive/tlmgrgui.pl:723
 msgid "Binfiles:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:729
+#: texmf/scripts/texlive/tlmgrgui.pl:728
 #, fuzzy
 msgid "Further information"
 msgstr "進一步定制"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:927 texmf/scripts/texlive/tlmgrgui.pl:932
+#: texmf/scripts/texlive/tlmgrgui.pl:926 texmf/scripts/texlive/tlmgrgui.pl:931
 #, fuzzy
 msgid "Select platforms to support"
 msgstr "選擇語言支援"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:943
-#: texmf/scripts/texlive/tlmgrgui.pl:1146
-#: texmf/scripts/texlive/tlmgrgui.pl:1252
+#: texmf/scripts/texlive/tlmgrgui.pl:942
+#: texmf/scripts/texlive/tlmgrgui.pl:1145
+#: texmf/scripts/texlive/tlmgrgui.pl:1251
 #: texmf/scripts/texlive/tlmgrgui/gui-arch.pl:61
 msgid "Apply changes"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:957
+#: texmf/scripts/texlive/tlmgrgui.pl:956
 msgid "Removals of the main platform not possible!"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1014
-#: texmf/scripts/texlive/tlmgrgui.pl:1023
+#: texmf/scripts/texlive/tlmgrgui.pl:1013
+#: texmf/scripts/texlive/tlmgrgui.pl:1022
 #, fuzzy
 msgid "General options"
 msgstr "選項"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1028
+#: texmf/scripts/texlive/tlmgrgui.pl:1027
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:41
 msgid "Default package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1038
+#: texmf/scripts/texlive/tlmgrgui.pl:1037
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:51
 #, fuzzy
 msgid "Create formats on installation"
 msgstr "創建所有格式檔"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1046
+#: texmf/scripts/texlive/tlmgrgui.pl:1045
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:60
 #, fuzzy
 msgid "Install macro/font sources"
 msgstr "安裝字體/巨集包源碼目錄樹"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1054
+#: texmf/scripts/texlive/tlmgrgui.pl:1053
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:69
 #, fuzzy
 msgid "Install macro/font docs"
 msgstr "安裝字體/巨集包文檔目錄樹"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1062
+#: texmf/scripts/texlive/tlmgrgui.pl:1061
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:78
 msgid "Default backup directory"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1077
-#: texmf/scripts/texlive/tlmgrgui.pl:1370
-#: texmf/scripts/texlive/tlmgrgui.pl:1374
+#: texmf/scripts/texlive/tlmgrgui.pl:1076
+#: texmf/scripts/texlive/tlmgrgui.pl:1369
+#: texmf/scripts/texlive/tlmgrgui.pl:1373
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:95
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:418
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:422
@@ -982,109 +993,105 @@ msgstr ""
 msgid "Auto backup setting"
 msgstr "選項"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1086
-#: texmf/scripts/texlive/tlmgrgui.pl:1925
+#: texmf/scripts/texlive/tlmgrgui.pl:1085
+#: texmf/scripts/texlive/tlmgrgui.pl:1924
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:105
 msgid "Link destination for programs"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1094
-#: texmf/scripts/texlive/tlmgrgui.pl:1930
+#: texmf/scripts/texlive/tlmgrgui.pl:1093
+#: texmf/scripts/texlive/tlmgrgui.pl:1929
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:122
 msgid "Link destination for info docs"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1102
-#: texmf/scripts/texlive/tlmgrgui.pl:1935
+#: texmf/scripts/texlive/tlmgrgui.pl:1101
+#: texmf/scripts/texlive/tlmgrgui.pl:1934
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:139
 msgid "Link destination for man pages"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1112
+#: texmf/scripts/texlive/tlmgrgui.pl:1111
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:158
 msgid "Create shortcuts in menu and on desktop"
 msgstr "系統集成"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1121
+#: texmf/scripts/texlive/tlmgrgui.pl:1120
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:168
 msgid "Install for all users"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1212
-#: texmf/scripts/texlive/tlmgrgui.pl:1221
+#: texmf/scripts/texlive/tlmgrgui.pl:1211
+#: texmf/scripts/texlive/tlmgrgui.pl:1220
 #, fuzzy
 msgid "Paper options"
 msgstr "選項"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1225
+#: texmf/scripts/texlive/tlmgrgui.pl:1224
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:201
 msgid "Default paper for all"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1226
+#: texmf/scripts/texlive/tlmgrgui.pl:1225
 msgid "a4"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1228
-msgid "letter"
-msgstr ""
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1240
-#: texmf/scripts/texlive/tlmgrgui.pl:1355
+#: texmf/scripts/texlive/tlmgrgui.pl:1239
+#: texmf/scripts/texlive/tlmgrgui.pl:1354
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:265
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:404
 msgid "Default paper for"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1260
+#: texmf/scripts/texlive/tlmgrgui.pl:1259
 msgid "Changes will take effect after restart"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1276
+#: texmf/scripts/texlive/tlmgrgui.pl:1275
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:336
 msgid "Change default package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1279
+#: texmf/scripts/texlive/tlmgrgui.pl:1278
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:339
 msgid "New default package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1286
-#: texmf/scripts/texlive/tlmgrgui.pl:1988
+#: texmf/scripts/texlive/tlmgrgui.pl:1285
+#: texmf/scripts/texlive/tlmgrgui.pl:1987
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:346
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:475
 msgid "Choose Directory"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1294
+#: texmf/scripts/texlive/tlmgrgui.pl:1293
 msgid "Default remote repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1351
+#: texmf/scripts/texlive/tlmgrgui.pl:1350
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:400
 msgid "Select paper format for"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1377
+#: texmf/scripts/texlive/tlmgrgui.pl:1376
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:425
 msgid "keep arbitrarily many"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1378
+#: texmf/scripts/texlive/tlmgrgui.pl:1377
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:426
 #, fuzzy
 msgid "disable"
 msgstr "安裝 TeX Live"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1451
+#: texmf/scripts/texlive/tlmgrgui.pl:1450
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:250
 msgid ""
 "Loading remote TeX Live Database\n"
 "This may take some time, please wait!"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1458
+#: texmf/scripts/texlive/tlmgrgui.pl:1457
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:257
 #, perl-format
 msgid ""
@@ -1095,13 +1102,13 @@ msgid ""
 "For configuration and removal you don't have to do anything."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1499
+#: texmf/scripts/texlive/tlmgrgui.pl:1498
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:175
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:293
 msgid "Installation"
 msgstr "安裝 TeX Live"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1767
+#: texmf/scripts/texlive/tlmgrgui.pl:1766
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -1110,73 +1117,73 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1769
+#: texmf/scripts/texlive/tlmgrgui.pl:1768
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1771
+#: texmf/scripts/texlive/tlmgrgui.pl:1770
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:429
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1851
+#: texmf/scripts/texlive/tlmgrgui.pl:1850
 msgid "Restore done"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1853
+#: texmf/scripts/texlive/tlmgrgui.pl:1852
 #, fuzzy
 msgid "Restore completed"
 msgstr "選擇安裝方案"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1858
+#: texmf/scripts/texlive/tlmgrgui.pl:1857
 msgid "Select the package to restore, or restore all packages"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1874
+#: texmf/scripts/texlive/tlmgrgui.pl:1873
 msgid "Revision:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1879
+#: texmf/scripts/texlive/tlmgrgui.pl:1878
 #, fuzzy
 msgid "Restore selected package"
 msgstr "選擇安裝方案"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1895
+#: texmf/scripts/texlive/tlmgrgui.pl:1894
 msgid "Restore all package to latest version"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1911
+#: texmf/scripts/texlive/tlmgrgui.pl:1910
 msgid "Close"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1943
+#: texmf/scripts/texlive/tlmgrgui.pl:1942
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:309
 msgid "Update symbolic links"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1950
+#: texmf/scripts/texlive/tlmgrgui.pl:1949
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:319
 msgid "Remove symbolic links"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1981
+#: texmf/scripts/texlive/tlmgrgui.pl:1980
 msgid "Load package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1984
+#: texmf/scripts/texlive/tlmgrgui.pl:1983
 msgid "Package repository:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1996
+#: texmf/scripts/texlive/tlmgrgui.pl:1995
 #: texmf/scripts/texlive/tlmgrgui/gui-config.pl:354
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:483
 msgid "Default net package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2049
+#: texmf/scripts/texlive/tlmgrgui.pl:2048
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:536
 #, perl-format
 msgid ""
@@ -1403,6 +1410,9 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui/tlmgrgui.pl:535
 msgid "Warning Window"
 msgstr ""
+
+#~ msgid "Use letter size instead of A4 by default"
+#~ msgstr "默認使用 letter 而不是 A4"
 
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s 集合來自 %s (需要的磁碟空間 %s MB)"
