@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-07-12 04:00+0200\n"
-"PO-Revision-Date: 2010-07-10 17:07+0200\n"
+"PO-Revision-Date: 2010-07-13 14:00+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -305,6 +305,8 @@ msgid ""
 "There were some warnings during the installation process.\n"
 "Here is a summary of warning messages:"
 msgstr ""
+"Des avertissements ont été émis durant l'installation.\n"
+"Voici une liste de ces messages :"
 
 #: tlpkg/installer/install-menu-wizard.pl:506
 #: tlpkg/installer/install-menu-perltk.pl:393
@@ -885,7 +887,7 @@ msgstr "Version locale :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:642
 msgid "Local Catalogue Version:"
-msgstr "Version locale d'après la catalogue :"
+msgstr "Version locale d'après le catalogue :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:646
 msgid "Remote Revision:"
