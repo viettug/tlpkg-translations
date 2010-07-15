@@ -7,14 +7,14 @@ msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-07-15 04:00+0200\n"
-"PO-Revision-Date: 2010-07-14 08:53+0000\n"
+"PO-Revision-Date: 2010-07-15 09:02+0000\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
 #: tlpkg/installer/install-menu-perltk.pl:168
@@ -73,7 +73,7 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
-"Добродошли у инсталацију TeX Live %s\n"
+"TeX Live %s: Добродошли у инсталацију\n"
 "http://tug.org/texlive\n"
 "\n"
 "Овај програм ће Вас провести кроз процес инсталације.\n"
@@ -247,11 +247,11 @@ msgid ""
 "list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Линкови за документацију налазе се у %s/index.html.\n"
-"На TeX Live веб-сајту (http://tug.org/texlive/) налазе се расположиве "
+"На Интернет-страници TeX Live-а (http://tug.org/texlive/) налазе се расположиве "
 "надоградње и исправке. TeX Live је заједнички пројекат група корисника TeX-а "
 "из свих делова света; молимо Вас да размотрите могућност подршке путем "
-"прикључивања групи која Вам највише одговара. Списак група налази се на веб-"
-"сајту на адреси http://tug.org/usergroups.html."
+"прикључивања групи која Вам највише одговара. Списак група налази се на "
+"Интернет-страници http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:499
 #: tlpkg/installer/install-menu-perltk.pl:385
@@ -357,7 +357,7 @@ msgstr "TEXMFSYSVAR (директоријум за аутоматски напр
 
 #: tlpkg/installer/install-menu-perltk.pl:240
 msgid "TEXMFSYSCONFIG (directory for local config)"
-msgstr "TEXMFSYSCONFIG (директоријум за локалне параметре)"
+msgstr "TEXMFSYSCONFIG (директоријум за локална подешавања)"
 
 #: tlpkg/installer/install-menu-perltk.pl:246
 msgid "TEXMFHOME (directory for user-specific files)"
@@ -447,7 +447,7 @@ msgstr "Напусти програм"
 #: tlpkg/installer/install-menu-perltk.pl:362
 #: tlpkg/installer/install-menu-perltk.pl:366
 msgid "Installation process"
-msgstr "Инсталација"
+msgstr "Процес инсталације"
 
 #: tlpkg/installer/install-menu-perltk.pl:443
 #: tlpkg/installer/install-menu-perltk.pl:474
@@ -458,7 +458,7 @@ msgstr "Промена вредности променљиве"
 #: tlpkg/installer/install-menu-perltk.pl:484
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
-msgstr "Унесите путању за %s (употребите ~ уместо %s)"
+msgstr "Унесите путању за %s (употребите ~ као замену за %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:593
 msgid "Select the collections to be installed"
@@ -557,7 +557,7 @@ msgid ""
 "Most buttons will be disabled."
 msgstr ""
 "Немате овлашћења да промените инсталацију на било који начин,\n"
-"прецизније речено, директоријум %s није уписив.\n"
+"прецизније речено, у директоријум %s се не може уписивати.\n"
 "Покрените овај програм као администратор или се обратите надлежном "
 "администратору.\n"
 "\n"
@@ -565,7 +565,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:260
 msgid "Load default"
-msgstr "Учитај локални репозиторијум"
+msgstr "Учитај подразумевани репозиторијум"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:266
 #: texmf/scripts/texlive/tlmgrgui.pl:2035
@@ -701,11 +701,11 @@ msgstr "Помоћ"
 #: texmf/scripts/texlive/tlmgrgui.pl:471
 #: texmf/scripts/texlive/tlmgrgui.pl:1151
 msgid "Load default repository:"
-msgstr "Учитај локални репозиторијум:"
+msgstr "Учитај подразумевани репозиторијум:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:474
 msgid "Load cmd line repository:"
-msgstr "Локални репозиторијум са командне линије:"
+msgstr "Учитај репозиторијум задат на командној линији:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:477
 msgid "Load default net repository:"
@@ -764,7 +764,7 @@ msgstr "Поврати пакете из бекапа"
 #: texmf/scripts/texlive/tlmgrgui.pl:555
 #: texmf/scripts/texlive/tlmgrgui.pl:1935
 msgid "Handle symlinks in system dirs"
-msgstr "Направи симболичке линкове у системским директоријумима"
+msgstr "Подешавања симболичких линкова у системским директоријумима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:561
 #, perl-format
@@ -787,7 +787,7 @@ msgid ""
 "Your last chance to change your mind!"
 msgstr ""
 "Да ли заиста желите да уклоните (деинсталирате) КОМПЛЕТНУ\n"
-"инсталацију TeX Live %s?\n"
+"инсталацију TeX Live-а %s?\n"
 "Ово је последња прилика да се предомислите!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:585
@@ -1035,7 +1035,7 @@ msgstr ""
 "Доступна је надоградња за tlmgr.\n"
 "Инсталација и надоградње се неће обављати осим ако није изричито захтевано.\n"
 "Притисните дугме „Надогради све“.\n"
-"Програм ће се искључити када надоградња буде готова.\n"
+"Програм ће се искључити када његова сопствена надоградња буде готова.\n"
 "Тада можете да поново покренете програм ради даљих надоградњи."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1786
@@ -1104,7 +1104,7 @@ msgid ""
 "Running %s failed.\n"
 "Please consult the log window for details."
 msgstr ""
-"Покретање програма %s није успело.\n"
+"Покретање команде %s није успело.\n"
 "Прозор са порукама (log window) садржи више детаља."
 
 #~ msgid "(no description available)"
