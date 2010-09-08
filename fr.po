@@ -3,10 +3,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: TeX Live 2009 Translation\n"
+"Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2010-07-17 03:59+0200\n"
-"PO-Revision-Date: 2010-07-16 17:02+0200\n"
+"PO-Revision-Date: 2010-08-13 14:19+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -88,7 +88,7 @@ msgstr "Ou utiliser install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:192
 msgid "Or use the argument --gui expert to install-tl."
-msgstr "Ou utiliser l'option « --gui exprt » de install-tl."
+msgstr "Ou utiliser l'option « --gui expert » de install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:207
 #: tlpkg/installer/install-menu-wizard.pl:426
@@ -669,7 +669,7 @@ msgstr "Description courte"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:381
 msgid "Update all installed"
-msgstr "Mettre à jours tous les paquets installés"
+msgstr "Mettre à jour tous les paquets installés"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:385
 msgid "Reinstall previously removed packages"
@@ -1030,12 +1030,11 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 "Une mise à jour de tlmgr est disponible.\n"
-"Les installations et mises à jour d'autres paquets ne seront pas effectuées "
-"à moins d'être forcées.\n"
-"Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
-"jour » :\n"
+"Les installations et mises à jour d'autres paquets\n"
+"ne seront pas effectuées à moins d'être forcées.\n"
+"Veuillez sélectionner « tout mettre à jour » ci-dessous :\n"
 "le programme s'arrêtera après s'être mis à jour.\n"
-"Vous pourrez alors le relancer pour procéder au reste des mises à jour."
+"Vous pourrez alors le relancer et continuer normalement."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1786
 #, perl-format
