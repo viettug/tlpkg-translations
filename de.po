@@ -82,7 +82,7 @@ msgstr "Oder benutzen Sie install-tl-advanced.bat"
 
 #: tlpkg/installer/install-menu-wizard.pl:192
 msgid "Or use the argument --gui expert to install-tl."
-msgstr "Oder benutzen Sie den Kommandozeilenschalter --gui perltk für install-tl."
+msgstr "Oder benutzen Sie den Kommandozeilenschalter --gui expert für install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:207
 #: tlpkg/installer/install-menu-wizard.pl:426
