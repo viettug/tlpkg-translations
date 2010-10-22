@@ -728,9 +728,8 @@ msgid "Paper ..."
 msgstr "用紙..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:496
-#, fuzzy
 msgid "Platforms ..."
-msgstr "用紙..."
+msgstr "アーキテクチャ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:500
 #: texmf/scripts/texlive/tlmgrgui.pl:1262
