@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-10-30 04:09+0200\n"
+"POT-Creation-Date: 2010-11-01 04:07+0100\n"
 "PO-Revision-Date: 2010-05-28 01:29+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <tex-live@tug.org>\n"
@@ -30,11 +30,11 @@ msgstr "TeX Live %s の導入"
 #: tlpkg/installer/install-menu-perltk.pl:458
 #: tlpkg/installer/install-menu-perltk.pl:490
 #: tlpkg/installer/install-menu-perltk.pl:528
-#: tlpkg/installer/install-menu-perltk.pl:576
-#: tlpkg/installer/install-menu-perltk.pl:616
-#: tlpkg/installer/install-menu-perltk.pl:679
-#: tlpkg/installer/install-menu-perltk.pl:743
-#: tlpkg/installer/install-menu-perltk.pl:772
+#: tlpkg/installer/install-menu-perltk.pl:583
+#: tlpkg/installer/install-menu-perltk.pl:637
+#: tlpkg/installer/install-menu-perltk.pl:714
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-perltk.pl:807
 #: texmf/scripts/texlive/tlmgrgui.pl:583 texmf/scripts/texlive/tlmgrgui.pl:584
 #: texmf/scripts/texlive/tlmgrgui.pl:994
 #: texmf/scripts/texlive/tlmgrgui.pl:1197
@@ -132,15 +132,15 @@ msgstr ""
 "最後尾に年を入れたままにしておくことを強くお勧めします。"
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:799
+#: tlpkg/installer/install-menu-perltk.pl:834
 #, fuzzy
 msgid "disk space required:"
 msgstr "必要ディスク領域"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:813
-#: tlpkg/installer/install-menu-perltk.pl:825
-#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:848
+#: tlpkg/installer/install-menu-perltk.pl:860
+#: tlpkg/installer/install-menu-perltk.pl:871
 msgid "(default not writable - please change!)"
 msgstr "（既定値では書き込みできません。変更してください！）"
 
@@ -152,11 +152,11 @@ msgstr "右の変数のパスを入力→"
 #: tlpkg/installer/install-menu-perltk.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:488
 #: tlpkg/installer/install-menu-perltk.pl:513
-#: tlpkg/installer/install-menu-perltk.pl:574
-#: tlpkg/installer/install-menu-perltk.pl:614
-#: tlpkg/installer/install-menu-perltk.pl:677
-#: tlpkg/installer/install-menu-perltk.pl:741
-#: tlpkg/installer/install-menu-perltk.pl:770
+#: tlpkg/installer/install-menu-perltk.pl:581
+#: tlpkg/installer/install-menu-perltk.pl:621
+#: tlpkg/installer/install-menu-perltk.pl:698
+#: tlpkg/installer/install-menu-perltk.pl:776
+#: tlpkg/installer/install-menu-perltk.pl:805
 #: texmf/scripts/texlive/tlmgrgui.pl:220 texmf/scripts/texlive/tlmgrgui.pl:583
 #: texmf/scripts/texlive/tlmgrgui.pl:587 texmf/scripts/texlive/tlmgrgui.pl:589
 #: texmf/scripts/texlive/tlmgrgui.pl:607 texmf/scripts/texlive/tlmgrgui.pl:786
@@ -203,12 +203,12 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:84
 #: tlpkg/installer/install-menu-perltk.pl:85
 #: tlpkg/installer/install-menu-perltk.pl:86
-#: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:849
-#: tlpkg/installer/install-menu-perltk.pl:850
-#: tlpkg/installer/install-menu-perltk.pl:856
-#: tlpkg/installer/install-menu-perltk.pl:862
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:885
+#: tlpkg/installer/install-menu-perltk.pl:891
+#: tlpkg/installer/install-menu-perltk.pl:897
+#: tlpkg/installer/install-menu-perltk.pl:959
 #: texmf/scripts/texlive/tlmgrgui.pl:654
 #: texmf/scripts/texlive/tlmgrgui.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:1369
@@ -224,12 +224,12 @@ msgstr "はい"
 #: tlpkg/installer/install-menu-perltk.pl:84
 #: tlpkg/installer/install-menu-perltk.pl:85
 #: tlpkg/installer/install-menu-perltk.pl:86
-#: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:849
-#: tlpkg/installer/install-menu-perltk.pl:850
-#: tlpkg/installer/install-menu-perltk.pl:856
-#: tlpkg/installer/install-menu-perltk.pl:862
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:885
+#: tlpkg/installer/install-menu-perltk.pl:891
+#: tlpkg/installer/install-menu-perltk.pl:897
+#: tlpkg/installer/install-menu-perltk.pl:959
 #: texmf/scripts/texlive/tlmgrgui.pl:654
 #: texmf/scripts/texlive/tlmgrgui.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:1369
@@ -318,13 +318,13 @@ msgid "Basic Information"
 msgstr "基本情報"
 
 #: tlpkg/installer/install-menu-perltk.pl:177
-#: tlpkg/installer/install-menu-perltk.pl:752
+#: tlpkg/installer/install-menu-perltk.pl:787
 msgid "Binary system(s)"
 msgstr "バイナリシステム"
 
 #: tlpkg/installer/install-menu-perltk.pl:186
 #: tlpkg/installer/install-menu-perltk.pl:536
-#: tlpkg/installer/install-menu-perltk.pl:549
+#: tlpkg/installer/install-menu-perltk.pl:550
 msgid "Selected scheme"
 msgstr "選択したスキーム"
 
@@ -333,12 +333,12 @@ msgid "Further Customization"
 msgstr "追加設定"
 
 #: tlpkg/installer/install-menu-perltk.pl:198
-#: tlpkg/installer/install-menu-perltk.pl:584
+#: tlpkg/installer/install-menu-perltk.pl:591
 msgid "Standard collections"
 msgstr "標準コレクション"
 
 #: tlpkg/installer/install-menu-perltk.pl:203
-#: tlpkg/installer/install-menu-perltk.pl:623
+#: tlpkg/installer/install-menu-perltk.pl:644
 msgid "Language collections"
 msgstr "言語コレクション"
 
@@ -414,7 +414,7 @@ msgid "Adjust PATH setting in registry"
 msgstr "レジストリの PATH 設定を調整する"
 
 #: tlpkg/installer/install-menu-perltk.pl:286
-#: tlpkg/installer/install-menu-perltk.pl:718
+#: tlpkg/installer/install-menu-perltk.pl:753
 msgid "Create symlinks in system directories"
 msgstr "システムディレクトリに symlink を作成する"
 
@@ -464,66 +464,66 @@ msgstr "変数の値を変更"
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "%s のパスを入力してください（%s を表すには ~ を使用してください）"
 
-#: tlpkg/installer/install-menu-perltk.pl:593
+#: tlpkg/installer/install-menu-perltk.pl:600
 msgid "Select the collections to be installed"
 msgstr "導入するコレクションを選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:609
-#: tlpkg/installer/install-menu-perltk.pl:650
-#: tlpkg/installer/install-menu-perltk.pl:672
+#: tlpkg/installer/install-menu-perltk.pl:616
+#: tlpkg/installer/install-menu-perltk.pl:671
+#: tlpkg/installer/install-menu-perltk.pl:693
 msgid "Select All"
 msgstr "すべてを選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:611
-#: tlpkg/installer/install-menu-perltk.pl:652
-#: tlpkg/installer/install-menu-perltk.pl:674
+#: tlpkg/installer/install-menu-perltk.pl:618
+#: tlpkg/installer/install-menu-perltk.pl:673
+#: tlpkg/installer/install-menu-perltk.pl:695
 msgid "Deselect All"
 msgstr "すべてを非選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:628
+#: tlpkg/installer/install-menu-perltk.pl:649
 msgid "Select language support"
 msgstr "言語サポートを選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:629
+#: tlpkg/installer/install-menu-perltk.pl:650
 msgid "Select language-specific documentation"
 msgstr "言語固有の説明書を選択してください"
 
-#: tlpkg/installer/install-menu-perltk.pl:722
+#: tlpkg/installer/install-menu-perltk.pl:757
 msgid "create symlinks in standard directories"
 msgstr "symlink を標準ディレクトリに作成する"
 
-#: tlpkg/installer/install-menu-perltk.pl:727
+#: tlpkg/installer/install-menu-perltk.pl:762
 msgid "binaries to"
 msgstr "バイナリ先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:764
 msgid "manpages to"
 msgstr "man ページ先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:731
+#: tlpkg/installer/install-menu-perltk.pl:766
 msgid "info to"
 msgstr "info 先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:761
+#: tlpkg/installer/install-menu-perltk.pl:796
 msgid "Select arch-os"
 msgstr "arch-os を選択してください"
 
-#: tlpkg/installer/install-menu-perltk.pl:792
+#: tlpkg/installer/install-menu-perltk.pl:827
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s（全 %s 中）"
 
-#: tlpkg/installer/install-menu-perltk.pl:797
+#: tlpkg/installer/install-menu-perltk.pl:832
 #, fuzzy, perl-format
 msgid "%s collections out of %s"
 msgstr "%s コレクション（全 %s 中）"
 
-#: tlpkg/installer/install-menu-perltk.pl:808
+#: tlpkg/installer/install-menu-perltk.pl:843
 msgid "(no language collection selected!)"
 msgstr "（言語コレクションが選択されていません！）"
 
-#: tlpkg/installer/install-menu-perltk.pl:822
-#: tlpkg/installer/install-menu-perltk.pl:833
+#: tlpkg/installer/install-menu-perltk.pl:857
+#: tlpkg/installer/install-menu-perltk.pl:868
 msgid "(please change TEXDIR first!)"
 msgstr "（先に TEXDIR を変更してください！）"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-10-30 04:09+0200\n"
+"POT-Creation-Date: 2010-11-01 04:07+0100\n"
 "PO-Revision-Date: 2009-09-07 09:15+0700\n"
 "Last-Translator: Anh K. Huỳnh <xkyanh@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -25,11 +25,11 @@ msgstr "Cài đặt TeX Live %s"
 #: tlpkg/installer/install-menu-perltk.pl:458
 #: tlpkg/installer/install-menu-perltk.pl:490
 #: tlpkg/installer/install-menu-perltk.pl:528
-#: tlpkg/installer/install-menu-perltk.pl:576
-#: tlpkg/installer/install-menu-perltk.pl:616
-#: tlpkg/installer/install-menu-perltk.pl:679
-#: tlpkg/installer/install-menu-perltk.pl:743
-#: tlpkg/installer/install-menu-perltk.pl:772
+#: tlpkg/installer/install-menu-perltk.pl:583
+#: tlpkg/installer/install-menu-perltk.pl:637
+#: tlpkg/installer/install-menu-perltk.pl:714
+#: tlpkg/installer/install-menu-perltk.pl:778
+#: tlpkg/installer/install-menu-perltk.pl:807
 #: texmf/scripts/texlive/tlmgrgui.pl:583 texmf/scripts/texlive/tlmgrgui.pl:584
 #: texmf/scripts/texlive/tlmgrgui.pl:994
 #: texmf/scripts/texlive/tlmgrgui.pl:1197
@@ -128,15 +128,15 @@ msgstr ""
 "Khuyến cáo: bạn nên để năm (2009, 2008) vào cuối đường dẫn"
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:799
+#: tlpkg/installer/install-menu-perltk.pl:834
 #, fuzzy
 msgid "disk space required:"
 msgstr "dung lượng đĩa cần thiết"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:813
-#: tlpkg/installer/install-menu-perltk.pl:825
-#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:848
+#: tlpkg/installer/install-menu-perltk.pl:860
+#: tlpkg/installer/install-menu-perltk.pl:871
 msgid "(default not writable - please change!)"
 msgstr "(mặc định không ghi được - vui lòng đổi!)"
 
@@ -148,11 +148,11 @@ msgstr "Nhập đường dẫn cho"
 #: tlpkg/installer/install-menu-perltk.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:488
 #: tlpkg/installer/install-menu-perltk.pl:513
-#: tlpkg/installer/install-menu-perltk.pl:574
-#: tlpkg/installer/install-menu-perltk.pl:614
-#: tlpkg/installer/install-menu-perltk.pl:677
-#: tlpkg/installer/install-menu-perltk.pl:741
-#: tlpkg/installer/install-menu-perltk.pl:770
+#: tlpkg/installer/install-menu-perltk.pl:581
+#: tlpkg/installer/install-menu-perltk.pl:621
+#: tlpkg/installer/install-menu-perltk.pl:698
+#: tlpkg/installer/install-menu-perltk.pl:776
+#: tlpkg/installer/install-menu-perltk.pl:805
 #: texmf/scripts/texlive/tlmgrgui.pl:220 texmf/scripts/texlive/tlmgrgui.pl:583
 #: texmf/scripts/texlive/tlmgrgui.pl:587 texmf/scripts/texlive/tlmgrgui.pl:589
 #: texmf/scripts/texlive/tlmgrgui.pl:607 texmf/scripts/texlive/tlmgrgui.pl:786
@@ -199,12 +199,12 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:84
 #: tlpkg/installer/install-menu-perltk.pl:85
 #: tlpkg/installer/install-menu-perltk.pl:86
-#: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:849
-#: tlpkg/installer/install-menu-perltk.pl:850
-#: tlpkg/installer/install-menu-perltk.pl:856
-#: tlpkg/installer/install-menu-perltk.pl:862
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:885
+#: tlpkg/installer/install-menu-perltk.pl:891
+#: tlpkg/installer/install-menu-perltk.pl:897
+#: tlpkg/installer/install-menu-perltk.pl:959
 #: texmf/scripts/texlive/tlmgrgui.pl:654
 #: texmf/scripts/texlive/tlmgrgui.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:1369
@@ -220,12 +220,12 @@ msgstr "Đồng ý"
 #: tlpkg/installer/install-menu-perltk.pl:84
 #: tlpkg/installer/install-menu-perltk.pl:85
 #: tlpkg/installer/install-menu-perltk.pl:86
-#: tlpkg/installer/install-menu-perltk.pl:848
-#: tlpkg/installer/install-menu-perltk.pl:849
-#: tlpkg/installer/install-menu-perltk.pl:850
-#: tlpkg/installer/install-menu-perltk.pl:856
-#: tlpkg/installer/install-menu-perltk.pl:862
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:885
+#: tlpkg/installer/install-menu-perltk.pl:891
+#: tlpkg/installer/install-menu-perltk.pl:897
+#: tlpkg/installer/install-menu-perltk.pl:959
 #: texmf/scripts/texlive/tlmgrgui.pl:654
 #: texmf/scripts/texlive/tlmgrgui.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:1369
@@ -314,13 +314,13 @@ msgid "Basic Information"
 msgstr "Thông tin cơ bản"
 
 #: tlpkg/installer/install-menu-perltk.pl:177
-#: tlpkg/installer/install-menu-perltk.pl:752
+#: tlpkg/installer/install-menu-perltk.pl:787
 msgid "Binary system(s)"
 msgstr "Hệ thống nhị phân"
 
 #: tlpkg/installer/install-menu-perltk.pl:186
 #: tlpkg/installer/install-menu-perltk.pl:536
-#: tlpkg/installer/install-menu-perltk.pl:549
+#: tlpkg/installer/install-menu-perltk.pl:550
 msgid "Selected scheme"
 msgstr "Kiểu (scheme) đã chọn"
 
@@ -329,12 +329,12 @@ msgid "Further Customization"
 msgstr "Tùy chỉnh khác"
 
 #: tlpkg/installer/install-menu-perltk.pl:198
-#: tlpkg/installer/install-menu-perltk.pl:584
+#: tlpkg/installer/install-menu-perltk.pl:591
 msgid "Standard collections"
 msgstr "Các tập hợp chuẩn"
 
 #: tlpkg/installer/install-menu-perltk.pl:203
-#: tlpkg/installer/install-menu-perltk.pl:623
+#: tlpkg/installer/install-menu-perltk.pl:644
 msgid "Language collections"
 msgstr "Các bộ ngôn ngữ"
 
@@ -415,7 +415,7 @@ msgid "Adjust PATH setting in registry"
 msgstr "Adjust PATH setting in registry"
 
 #: tlpkg/installer/install-menu-perltk.pl:286
-#: tlpkg/installer/install-menu-perltk.pl:718
+#: tlpkg/installer/install-menu-perltk.pl:753
 msgid "Create symlinks in system directories"
 msgstr "Cài đặt liên kết vào các thư mục hệ thống"
 
@@ -466,66 +466,66 @@ msgstr "Đổi giá trị biến"
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Nhập đường dẫn cho %s (dùng ký tự ~ để chỉ %s)"
 
-#: tlpkg/installer/install-menu-perltk.pl:593
+#: tlpkg/installer/install-menu-perltk.pl:600
 msgid "Select the collections to be installed"
 msgstr "Chọn nhóm sẽ được cài đặt"
 
-#: tlpkg/installer/install-menu-perltk.pl:609
-#: tlpkg/installer/install-menu-perltk.pl:650
-#: tlpkg/installer/install-menu-perltk.pl:672
+#: tlpkg/installer/install-menu-perltk.pl:616
+#: tlpkg/installer/install-menu-perltk.pl:671
+#: tlpkg/installer/install-menu-perltk.pl:693
 msgid "Select All"
 msgstr "Chọn tất cả"
 
-#: tlpkg/installer/install-menu-perltk.pl:611
-#: tlpkg/installer/install-menu-perltk.pl:652
-#: tlpkg/installer/install-menu-perltk.pl:674
+#: tlpkg/installer/install-menu-perltk.pl:618
+#: tlpkg/installer/install-menu-perltk.pl:673
+#: tlpkg/installer/install-menu-perltk.pl:695
 msgid "Deselect All"
 msgstr "Không chọn tất cả"
 
-#: tlpkg/installer/install-menu-perltk.pl:628
+#: tlpkg/installer/install-menu-perltk.pl:649
 msgid "Select language support"
 msgstr "Chọn ngôn ngữ hỗ trợ"
 
-#: tlpkg/installer/install-menu-perltk.pl:629
+#: tlpkg/installer/install-menu-perltk.pl:650
 msgid "Select language-specific documentation"
 msgstr "Chọn tài liệu ứng với ngôn ngữ"
 
-#: tlpkg/installer/install-menu-perltk.pl:722
+#: tlpkg/installer/install-menu-perltk.pl:757
 msgid "create symlinks in standard directories"
 msgstr "tạo liên kết trong thư mục chuẩn"
 
-#: tlpkg/installer/install-menu-perltk.pl:727
+#: tlpkg/installer/install-menu-perltk.pl:762
 msgid "binaries to"
 msgstr "tập tin thi hành vào"
 
-#: tlpkg/installer/install-menu-perltk.pl:729
+#: tlpkg/installer/install-menu-perltk.pl:764
 msgid "manpages to"
 msgstr "tập tin hướng dẫn (man) vào"
 
-#: tlpkg/installer/install-menu-perltk.pl:731
+#: tlpkg/installer/install-menu-perltk.pl:766
 msgid "info to"
 msgstr "tập tin hướng dẫn (info) vào"
 
-#: tlpkg/installer/install-menu-perltk.pl:761
+#: tlpkg/installer/install-menu-perltk.pl:796
 msgid "Select arch-os"
 msgstr "Chọn kiến trúc hệ thống"
 
-#: tlpkg/installer/install-menu-perltk.pl:792
+#: tlpkg/installer/install-menu-perltk.pl:827
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s trên %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:797
+#: tlpkg/installer/install-menu-perltk.pl:832
 #, fuzzy, perl-format
 msgid "%s collections out of %s"
 msgstr "%s tập hợp trong tổng số %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:808
+#: tlpkg/installer/install-menu-perltk.pl:843
 msgid "(no language collection selected!)"
 msgstr "(chưa chọn ngôn ngữ nào!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:822
-#: tlpkg/installer/install-menu-perltk.pl:833
+#: tlpkg/installer/install-menu-perltk.pl:857
+#: tlpkg/installer/install-menu-perltk.pl:868
 msgid "(please change TEXDIR first!)"
 msgstr "(vui lòng đổi thư mục TEXDIR trước!)"
 
