@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2010-11-01 04:07+0100\n"
+"POT-Creation-Date: 2010-11-15 04:10+0100\n"
 "PO-Revision-Date: 2009-09-08 11:35+0100\n"
 "Last-Translator: Michal Madr <m.madr@seznam.cz>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -39,8 +39,8 @@ msgstr "Instalace TeX Live %s"
 #: texmf/scripts/texlive/tlmgrgui.pl:1410
 #: texmf/scripts/texlive/tlmgrgui.pl:1443
 #: texmf/scripts/texlive/tlmgrgui.pl:1476
-#: texmf/scripts/texlive/tlmgrgui.pl:2079
-#: texmf/scripts/texlive/tlmgrgui.pl:2124
+#: texmf/scripts/texlive/tlmgrgui.pl:2087
+#: texmf/scripts/texlive/tlmgrgui.pl:2132
 msgid "Cancel"
 msgstr "Zrušit"
 
@@ -113,9 +113,9 @@ msgstr "Cílová složka:"
 #: texmf/scripts/texlive/tlmgrgui.pl:1154
 #: texmf/scripts/texlive/tlmgrgui.pl:1182
 #: texmf/scripts/texlive/tlmgrgui.pl:1290
-#: texmf/scripts/texlive/tlmgrgui.pl:2043
-#: texmf/scripts/texlive/tlmgrgui.pl:2048
-#: texmf/scripts/texlive/tlmgrgui.pl:2053
+#: texmf/scripts/texlive/tlmgrgui.pl:2051
+#: texmf/scripts/texlive/tlmgrgui.pl:2056
+#: texmf/scripts/texlive/tlmgrgui.pl:2061
 msgid "Change"
 msgstr "Změnit"
 
@@ -164,12 +164,14 @@ msgstr "Zadat cestu pro"
 #: texmf/scripts/texlive/tlmgrgui.pl:1435
 #: texmf/scripts/texlive/tlmgrgui.pl:1467
 #: texmf/scripts/texlive/tlmgrgui.pl:1507
-#: texmf/scripts/texlive/tlmgrgui.pl:1882
-#: texmf/scripts/texlive/tlmgrgui.pl:1942
-#: texmf/scripts/texlive/tlmgrgui.pl:1968
-#: texmf/scripts/texlive/tlmgrgui.pl:2076
-#: texmf/scripts/texlive/tlmgrgui.pl:2119
-#: texmf/scripts/texlive/tlmgrgui.pl:2164
+#: texmf/scripts/texlive/tlmgrgui.pl:1581
+#: texmf/scripts/texlive/tlmgrgui.pl:1612
+#: texmf/scripts/texlive/tlmgrgui.pl:1890
+#: texmf/scripts/texlive/tlmgrgui.pl:1950
+#: texmf/scripts/texlive/tlmgrgui.pl:1976
+#: texmf/scripts/texlive/tlmgrgui.pl:2084
+#: texmf/scripts/texlive/tlmgrgui.pl:2127
+#: texmf/scripts/texlive/tlmgrgui.pl:2172
 msgid "Ok"
 msgstr "OK"
 
@@ -538,16 +540,18 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:213
 #: texmf/scripts/texlive/tlmgrgui.pl:1501
-#: texmf/scripts/texlive/tlmgrgui.pl:2158
+#: texmf/scripts/texlive/tlmgrgui.pl:2166
 msgid "Completed"
 msgstr "Dokončeno"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:218
 #: texmf/scripts/texlive/tlmgrgui.pl:1004
 #: texmf/scripts/texlive/tlmgrgui.pl:1505
-#: texmf/scripts/texlive/tlmgrgui.pl:1882
-#: texmf/scripts/texlive/tlmgrgui.pl:1942
-#: texmf/scripts/texlive/tlmgrgui.pl:2164
+#: texmf/scripts/texlive/tlmgrgui.pl:1579
+#: texmf/scripts/texlive/tlmgrgui.pl:1610
+#: texmf/scripts/texlive/tlmgrgui.pl:1890
+#: texmf/scripts/texlive/tlmgrgui.pl:1950
+#: texmf/scripts/texlive/tlmgrgui.pl:2172
 msgid "Warning"
 msgstr "Varování"
 
@@ -573,7 +577,7 @@ msgid "Load default"
 msgstr "Nový výchozí zdroj balíků"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:272
-#: texmf/scripts/texlive/tlmgrgui.pl:2134
+#: texmf/scripts/texlive/tlmgrgui.pl:2142
 #, fuzzy
 msgid "Loaded repository:"
 msgstr "Nový zdroj balíků:"
@@ -710,7 +714,7 @@ msgid "Update"
 msgstr "Aktualizovat"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:424
-#: texmf/scripts/texlive/tlmgrgui.pl:1628
+#: texmf/scripts/texlive/tlmgrgui.pl:1636
 msgid "Remove"
 msgstr "Odstranit"
 
@@ -724,7 +728,7 @@ msgid "Actions"
 msgstr "Akce"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:483
-#: texmf/scripts/texlive/tlmgrgui.pl:2189
+#: texmf/scripts/texlive/tlmgrgui.pl:2197
 msgid "Help"
 msgstr ""
 
@@ -795,12 +799,12 @@ msgid "Update font map database"
 msgstr "Aktualizovat databázi map fontů (font map)"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:567
-#: texmf/scripts/texlive/tlmgrgui.pl:1952
+#: texmf/scripts/texlive/tlmgrgui.pl:1960
 msgid "Restore packages from backup"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:573
-#: texmf/scripts/texlive/tlmgrgui.pl:2034
+#: texmf/scripts/texlive/tlmgrgui.pl:2042
 #, fuzzy
 msgid "Handle symlinks in system dirs"
 msgstr "Vytvořit symbolické linky v systémových adresářích"
@@ -841,7 +845,7 @@ msgid "Details on:"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:638
-#: texmf/scripts/texlive/tlmgrgui.pl:1976
+#: texmf/scripts/texlive/tlmgrgui.pl:1984
 #, fuzzy
 msgid "Package:"
 msgstr "Vybrat balíky"
@@ -984,17 +988,17 @@ msgid "Auto backup setting"
 msgstr "Nastavení automatického zálohování"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1134
-#: texmf/scripts/texlive/tlmgrgui.pl:2041
+#: texmf/scripts/texlive/tlmgrgui.pl:2049
 msgid "Link destination for programs"
 msgstr "Cíl linku pro programy"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1142
-#: texmf/scripts/texlive/tlmgrgui.pl:2046
+#: texmf/scripts/texlive/tlmgrgui.pl:2054
 msgid "Link destination for info docs"
 msgstr "Cíl linku pro dokumentaci"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1150
-#: texmf/scripts/texlive/tlmgrgui.pl:2051
+#: texmf/scripts/texlive/tlmgrgui.pl:2059
 msgid "Link destination for man pages"
 msgstr "Cíl linku pro \"manové\" stránky"
 
@@ -1038,7 +1042,7 @@ msgid "New default package repository"
 msgstr "Nový výchozí zdroj balíků"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
-#: texmf/scripts/texlive/tlmgrgui.pl:2104
+#: texmf/scripts/texlive/tlmgrgui.pl:2112
 msgid "Choose Directory"
 msgstr "Vybrat adresář"
 
@@ -1086,27 +1090,31 @@ msgstr ""
 msgid "Installation"
 msgstr "Instalace"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1883
-#, fuzzy
+#: texmf/scripts/texlive/tlmgrgui.pl:1580
+#: texmf/scripts/texlive/tlmgrgui.pl:1611
+msgid ""
+"Critical updates have been installed.\n"
+"Program will terminate now.\n"
+"Please restart if necessary."
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:1891
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button below.\n"
+"Please select \"Update all installed\" button after dismissing this "
+"dialogue.\n"
+"\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
-"Aktualizace pro tlmgr jsou k dispozici.\n"
-"Instalace a upgrady nebudou fungovat, nebudou-li vynuceny.\n"
-"Přejděte, prosím, na aktualizační obrazovku a stiskněte tlačítko \"update all"
-"\".\n"
-"Potom bude možno ukončit a znovu spustit program pro další updaty"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1885
+#: texmf/scripts/texlive/tlmgrgui.pl:1893
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1887
+#: texmf/scripts/texlive/tlmgrgui.pl:1895
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -1114,60 +1122,60 @@ msgstr ""
 "Až program skončí, chvíli prosím počkejte, aby aktualizace mohla být "
 "dokončena."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1967
+#: texmf/scripts/texlive/tlmgrgui.pl:1975
 #, fuzzy
 msgid "Restore done"
 msgstr "Instalace kompletně odstraněna"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1969
+#: texmf/scripts/texlive/tlmgrgui.pl:1977
 #, fuzzy
 msgid "Restore completed"
 msgstr "Instalace kompletně odstraněna"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1974
+#: texmf/scripts/texlive/tlmgrgui.pl:1982
 msgid "Select the package to restore, or restore all packages"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1990
+#: texmf/scripts/texlive/tlmgrgui.pl:1998
 msgid "Revision:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1995
+#: texmf/scripts/texlive/tlmgrgui.pl:2003
 #, fuzzy
 msgid "Restore selected package"
 msgstr "Vybrat balíky"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2011
+#: texmf/scripts/texlive/tlmgrgui.pl:2019
 msgid "Restore all package to latest version"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2027
+#: texmf/scripts/texlive/tlmgrgui.pl:2035
 msgid "Close"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2059
+#: texmf/scripts/texlive/tlmgrgui.pl:2067
 msgid "Update symbolic links"
 msgstr "Aktualizuj symbolické linky"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2066
+#: texmf/scripts/texlive/tlmgrgui.pl:2074
 msgid "Remove symbolic links"
 msgstr "Smaž symbolické linky"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2097
+#: texmf/scripts/texlive/tlmgrgui.pl:2105
 #, fuzzy
 msgid "Load package repository"
 msgstr "Změnit zdroj balíků"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2100
+#: texmf/scripts/texlive/tlmgrgui.pl:2108
 #, fuzzy
 msgid "Package repository:"
 msgstr "Nový zdroj balíků:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2112
+#: texmf/scripts/texlive/tlmgrgui.pl:2120
 msgid "Default net package repository"
 msgstr "Výchozí síťový zdroj balíků"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2165
+#: texmf/scripts/texlive/tlmgrgui.pl:2173
 #, perl-format
 msgid ""
 "Running %s failed.\n"
@@ -1551,6 +1559,20 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "Updates for the tlmgr are present.\n"
+#~ "Installation and upgrades won't work without being forced.\n"
+#~ "Please select \"Update all installed\" button below.\n"
+#~ "The program will terminate after the update.\n"
+#~ "Then you can restart the program for further updates."
+#~ msgstr ""
+#~ "Aktualizace pro tlmgr jsou k dispozici.\n"
+#~ "Instalace a upgrady nebudou fungovat, nebudou-li vynuceny.\n"
+#~ "Přejděte, prosím, na aktualizační obrazovku a stiskněte tlačítko \"update "
+#~ "all\".\n"
+#~ "Potom bude možno ukončit a znovu spustit program pro další updaty"
 
 #~ msgid "(no description available)"
 #~ msgstr "(není dostupný žádný popis)"
