@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-01-30 04:11+0100\n"
+"POT-Creation-Date: 2011-02-17 04:17+0100\n"
 "PO-Revision-Date: 2010-05-28 01:29+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <tex-live@tug.org>\n"
@@ -1473,70 +1473,66 @@ msgid "Basic LaTeX packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:78
-msgid "LaTeX3 packages"
-msgstr ""
-
-#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX supplementary packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:80
+#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:81
+#: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:82
+#: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:83
+#: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:84
+#: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:85
+#: tlpkg/translations/shortdesc.pl:84
 msgid "Omega"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:86
+#: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:87
+#: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:88
+#: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:89
+#: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:90
+#: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:91
+#: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:92
+#: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:93
+#: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:94
+#: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr ""
 

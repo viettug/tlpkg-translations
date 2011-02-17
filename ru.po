@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-01-30 04:11+0100\n"
+"POT-Creation-Date: 2011-02-17 04:17+0100\n"
 "PO-Revision-Date: 2010-11-01 11:27+0800\n"
 "Last-Translator: \n"
 "Language-Team: Russian <tex-live@tug.org>\n"
@@ -1471,72 +1471,71 @@ msgid "Basic LaTeX packages"
 msgstr "Основные пакеты LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:78
-msgid "LaTeX3 packages"
-msgstr "Пакеты LaTex3"
-
-#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX supplementary packages"
 msgstr "Вспомогательные пакеты LaTeX"
 
-#: tlpkg/translations/shortdesc.pl:80
+#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
 msgstr "Рекомендованные пакеты LaTeX"
 
-#: tlpkg/translations/shortdesc.pl:81
+#: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
 msgstr "Пакеты LuaTeX"
 
-#: tlpkg/translations/shortdesc.pl:82
+#: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
 msgstr "Улучшенный набор математики"
 
-#: tlpkg/translations/shortdesc.pl:83
+#: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
 msgstr "Пакеты для рисования MetaPost (и Metafont)"
 
-#: tlpkg/translations/shortdesc.pl:84
+#: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
 msgstr "Для набора музыкальных произведений"
 
-#: tlpkg/translations/shortdesc.pl:85
+#: tlpkg/translations/shortdesc.pl:84
 msgid "Omega"
 msgstr "Omega"
 
-#: tlpkg/translations/shortdesc.pl:86
+#: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
 msgstr "Графические пакеты и программы"
 
-#: tlpkg/translations/shortdesc.pl:87
+#: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr "Вспомогательные пакеты для Plain Tex"
 
-#: tlpkg/translations/shortdesc.pl:88
+#: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
 msgstr "Пакеты PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:89
+#: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
 msgstr "Поддержка для издателей, сборников, стандартов, конференций и прочее"
 
-#: tlpkg/translations/shortdesc.pl:90
+#: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
 msgstr "Набор для естественных и компьютерных наук"
 
-#: tlpkg/translations/shortdesc.pl:91
+#: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
 msgstr "GNU Texinfo"
 
-#: tlpkg/translations/shortdesc.pl:92
+#: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
 msgstr "Редактор TeXworks"
 
-#: tlpkg/translations/shortdesc.pl:93
+#: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
 msgstr "Программы для Windows"
 
-#: tlpkg/translations/shortdesc.pl:94
+#: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Пакеты XeTeX"
+
+#~ msgid "LaTeX3 packages"
+#~ msgstr "Пакеты LaTex3"
 
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"

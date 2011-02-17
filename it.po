@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-01-30 04:11+0100\n"
+"POT-Creation-Date: 2011-02-17 04:17+0100\n"
 "PO-Revision-Date: 2010-09-21 10:46+0100\n"
 "Last-Translator: Marco Pallane <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -1472,72 +1472,71 @@ msgid "Basic LaTeX packages"
 msgstr "Pacchetti LaTeX di base"
 
 #: tlpkg/translations/shortdesc.pl:78
-msgid "LaTeX3 packages"
-msgstr "Pacchetti LaTeX3"
-
-#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX supplementary packages"
 msgstr "Pacchetti LaTeX supplementari"
 
-#: tlpkg/translations/shortdesc.pl:80
+#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
 msgstr "Pacchetti LaTeX raccomandati"
 
-#: tlpkg/translations/shortdesc.pl:81
+#: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
 msgstr "Pacchetti LuaTeX"
 
-#: tlpkg/translations/shortdesc.pl:82
+#: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
 msgstr "Impaginazione  matematica avanzata"
 
-#: tlpkg/translations/shortdesc.pl:83
+#: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
 msgstr "Pacchetti di disegno MetaPost (e Metafont)"
 
-#: tlpkg/translations/shortdesc.pl:84
+#: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
 msgstr "Impaginazione musicale"
 
-#: tlpkg/translations/shortdesc.pl:85
+#: tlpkg/translations/shortdesc.pl:84
 msgid "Omega"
 msgstr "Omega"
 
-#: tlpkg/translations/shortdesc.pl:86
+#: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
 msgstr "Pacchetti e programmi grafici"
 
-#: tlpkg/translations/shortdesc.pl:87
+#: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr "Pacchetti Plain TeX supplementari"
 
-#: tlpkg/translations/shortdesc.pl:88
+#: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
 msgstr "Pacchetti PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:89
+#: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
 msgstr "Supporto per editori, tesi, standard, conferenze, ecc."
 
-#: tlpkg/translations/shortdesc.pl:90
+#: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
 msgstr "Tipografia per scienze naturali e informatica"
 
-#: tlpkg/translations/shortdesc.pl:91
+#: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
 msgstr "GNU Texinfo"
 
-#: tlpkg/translations/shortdesc.pl:92
+#: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
 msgstr "Il programma TeXworks"
 
-#: tlpkg/translations/shortdesc.pl:93
+#: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
 msgstr "Programmi di supporto per Windows"
 
-#: tlpkg/translations/shortdesc.pl:94
+#: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Pacchetti XeTeX"
+
+#~ msgid "LaTeX3 packages"
+#~ msgstr "Pacchetti LaTeX3"
 
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
