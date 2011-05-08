@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-04-28 04:16+0200\n"
-"PO-Revision-Date: 2010-06-01 16:38+0100\n"
+"PO-Revision-Date: 2011-05-08 17:44+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -31,7 +31,8 @@ msgstr "Namestitev TeX Live %s"
 #: tlpkg/installer/install-menu-perltk.pl:754
 #: tlpkg/installer/install-menu-perltk.pl:818
 #: tlpkg/installer/install-menu-perltk.pl:847
-#: texmf/scripts/texlive/tlmgrgui.pl:584 texmf/scripts/texlive/tlmgrgui.pl:585
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:585
 #: texmf/scripts/texlive/tlmgrgui.pl:995
 #: texmf/scripts/texlive/tlmgrgui.pl:1198
 #: texmf/scripts/texlive/tlmgrgui.pl:1304
@@ -155,9 +156,12 @@ msgstr "Nastavite pot do"
 #: tlpkg/installer/install-menu-perltk.pl:738
 #: tlpkg/installer/install-menu-perltk.pl:816
 #: tlpkg/installer/install-menu-perltk.pl:845
-#: texmf/scripts/texlive/tlmgrgui.pl:219 texmf/scripts/texlive/tlmgrgui.pl:584
-#: texmf/scripts/texlive/tlmgrgui.pl:588 texmf/scripts/texlive/tlmgrgui.pl:590
-#: texmf/scripts/texlive/tlmgrgui.pl:608 texmf/scripts/texlive/tlmgrgui.pl:787
+#: texmf/scripts/texlive/tlmgrgui.pl:219
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:588
+#: texmf/scripts/texlive/tlmgrgui.pl:590
+#: texmf/scripts/texlive/tlmgrgui.pl:608
+#: texmf/scripts/texlive/tlmgrgui.pl:787
 #: texmf/scripts/texlive/tlmgrgui.pl:1007
 #: texmf/scripts/texlive/tlmgrgui.pl:1349
 #: texmf/scripts/texlive/tlmgrgui.pl:1379
@@ -254,17 +258,13 @@ msgstr "Namesti"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Glej %s/index.html za povezave do dokumentacije. Na domači strani\n"
 "(http://tug.org/texlive/) lahko najdete posodobitve in popravke.\n"
 "TeX Live je skupni projekt društev uporabnikov TeX-a širom sveta;\n"
 "podprete ga lahko s pristopom k enemu izmed njih. \n"
-"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups."
-"html."
+"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:499
 #: tlpkg/installer/install-menu-perltk.pl:424
@@ -315,7 +315,7 @@ msgstr "Vse"
 
 #: tlpkg/installer/install-menu-perltk.pl:58
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: tlpkg/installer/install-menu-perltk.pl:59
 #: texmf/scripts/texlive/tlmgrgui.pl:1277
@@ -613,7 +613,8 @@ msgstr "Kriteriji za prikaz paketov"
 msgid "Status"
 msgstr "Status"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:286 texmf/scripts/texlive/tlmgrgui.pl:339
+#: texmf/scripts/texlive/tlmgrgui.pl:286
+#: texmf/scripts/texlive/tlmgrgui.pl:339
 msgid "all"
 msgstr "vsi"
 
@@ -795,8 +796,7 @@ msgstr "Onemogoči samodejno nameščanje novih paketov"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:529
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
-"Onemogoči samodejno odstranjevanje paketov, ki so bili izbrisani iz strežnika"
+msgstr "Onemogoči samodejno odstranjevanje paketov, ki so bili izbrisani iz strežnika"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:536
 msgid "Update filename database"
@@ -850,7 +850,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Priročnik"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:605 texmf/scripts/texlive/tlmgrgui.pl:607
+#: texmf/scripts/texlive/tlmgrgui.pl:605
+#: texmf/scripts/texlive/tlmgrgui.pl:607
 msgid "About"
 msgstr "O programu"
 
@@ -900,7 +901,7 @@ msgstr "Verzija v katalogu na strežniku:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
-msgstr ""
+msgstr "Ključne besede:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Functionality:"
@@ -957,7 +958,8 @@ msgstr "Binarne datoteke:"
 msgid "Further information"
 msgstr "Dodatne informacije"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:976 texmf/scripts/texlive/tlmgrgui.pl:981
+#: texmf/scripts/texlive/tlmgrgui.pl:976
+#: texmf/scripts/texlive/tlmgrgui.pl:981
 #, fuzzy
 msgid "Select platforms to support"
 msgstr "Izbira podprtih arhitektur"
@@ -1049,7 +1051,7 @@ msgstr "Privzeti format papirja za"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1309
 msgid "GUI Language"
-msgstr ""
+msgstr "Jezik grafičnega vmesnika"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1335
@@ -1059,7 +1061,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
 msgid "Default language for GUI:"
-msgstr ""
+msgstr "Privzeti jezik grafičnega vmesnika:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
@@ -1109,14 +1111,12 @@ msgstr ""
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different "
-"package repository!\n"
+"If you want to install or update packages, please try with a different package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Iz \"%s\" ni mogoče prebrati podatkovne baze za TeX Live.\n"
-"Če želite nameščati ali posodabljati pakete, poskusite z drugim "
-"repozitorijem.\n"
+"Če želite nameščati ali posodabljati pakete, poskusite z drugim repozitorijem.\n"
 "\n"
 "Za konfiguracijo ali odstranjevanje paketov vam ni potrebno storiti ničesar."
 
@@ -1137,12 +1137,11 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
-msgstr ""
+msgstr "Paketi za XeTeX"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1959
 #, perl-format
@@ -1150,12 +1149,8 @@ msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Please wait a bit after the program has terminated so that the update can be completed."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2041
 msgid "Restore done"
@@ -1221,155 +1216,156 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and LaTeX)"
-msgstr ""
+msgstr "osnovna namestitev (plain TeX in LaTeX)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
-msgstr ""
+msgstr "namestitev ConTeXt-a"
 
 #: tlpkg/translations/shortdesc.pl:3
 msgid "full scheme (everything)"
-msgstr ""
+msgstr "polna namestitev"
 
 #: tlpkg/translations/shortdesc.pl:4
 msgid "GUST TeX Live scheme"
-msgstr ""
+msgstr "namestitev GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr ""
+msgstr "srednje velika namestitev (plain TeX, LaTeX, priporočljivi paketi, podpora za nekatere jezike)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
-msgstr ""
+msgstr "minimalna namestitev (samo plain TeX)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "teTeX scheme (more than medium, but nowhere near full)"
-msgstr ""
+msgstr "namestitev, podobna teTeX-u (večja od srednje velike, toda mnogo manjša od polne)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "XML scheme"
-msgstr ""
+msgstr "namestitev za XML"
 
 #: tlpkg/translations/shortdesc.pl:9
 msgid "Essential programs and files"
-msgstr ""
+msgstr "Osnovni programi in datoteke"
 
 #: tlpkg/translations/shortdesc.pl:10
 msgid "Extra BibTeX styles"
-msgstr ""
+msgstr "Dodatni slogi za BibTeX"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "TeX auxiliary programs"
-msgstr ""
+msgstr "Pomožni programi za TeX"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "ConTeXt format"
-msgstr ""
+msgstr "Format za ConTeXt"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "Arabic documentation"
-msgstr ""
+msgstr "Arabska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:14
+#, fuzzy
 msgid "TeX Live documentation"
-msgstr ""
+msgstr "Angleška dokumentacija za TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Bulgarian documentation"
-msgstr ""
+msgstr "Bolgarska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:16
 msgid "Chinese documentation"
-msgstr ""
+msgstr "Kitajska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Czech/Slovak documentation"
-msgstr ""
+msgstr "Češko-slovaška dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Dutch documentation"
-msgstr ""
+msgstr "Nizozemska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "English documentation"
-msgstr ""
+msgstr "Angleška dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Finnish documentation"
-msgstr ""
+msgstr "Finska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "French documentation"
-msgstr ""
+msgstr "Francoska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:22
 msgid "German documentation"
-msgstr ""
+msgstr "Nemška dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:23
 msgid "Italian documentation"
-msgstr ""
+msgstr "Italijanska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:24
 msgid "Japanese documentation"
-msgstr ""
+msgstr "Japonska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Korean documentation"
-msgstr ""
+msgstr "Korejska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Mongolian documentation"
-msgstr ""
+msgstr "Mongolska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Polish documentation"
-msgstr ""
+msgstr "Poljska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:28
 msgid "Portuguese documentation"
-msgstr ""
+msgstr "Portugalska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Russian documentation"
-msgstr ""
+msgstr "Ruska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "Serbian documentation"
-msgstr ""
+msgstr "Srbska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:31
 msgid "Slovenian documentation"
-msgstr ""
+msgstr "Slovenska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:32
 msgid "Spanish documentation"
-msgstr ""
+msgstr "Španska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:33
 msgid "Thai documentation"
-msgstr ""
+msgstr "Tajska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:34
 msgid "Turkish documentation"
-msgstr ""
+msgstr "Turška dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Ukrainian documentation"
-msgstr ""
+msgstr "Ukrajinska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Vietnamese documentation"
-msgstr ""
+msgstr "Vietnamska dokumentacija"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Extra fonts"
-msgstr ""
+msgstr "Dodatne pisave"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Recommended fonts"
-msgstr ""
+msgstr "Priporočene pisave"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "TeX and Outline font utilities"
@@ -1377,187 +1373,189 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
-msgstr ""
+msgstr "Dodatni formati"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Games typesetting"
-msgstr ""
+msgstr "Stavljenje iger"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "Extra generic packages"
-msgstr ""
+msgstr "Dodatni priporočeni paketi"
 
 #: tlpkg/translations/shortdesc.pl:43
+#, fuzzy
 msgid "Recommended generic packages"
-msgstr ""
+msgstr "Priporočeni paketi"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "HTML/SGML/XML support"
-msgstr ""
+msgstr "Podpora za HTML/SGML/XML"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Humanities packages"
-msgstr ""
+msgstr "Paketi za družboslovce"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "African scripts"
-msgstr ""
+msgstr "afriški"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Arabic"
-msgstr ""
+msgstr "arabski"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Armenian"
-msgstr ""
+msgstr "armenski"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "Chinese, Japanese, Korean"
-msgstr ""
+msgstr "kitajski, japonski, korejski"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Croatian"
-msgstr ""
+msgstr "hrvaški"
 
 #: tlpkg/translations/shortdesc.pl:51
+#, fuzzy
 msgid "Cyrillic"
-msgstr ""
+msgstr "v cirilici"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "Czech/Slovak"
-msgstr ""
+msgstr "češki in slovaški"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Danish"
-msgstr ""
+msgstr "danski"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "Dutch"
-msgstr ""
+msgstr "nizozemski"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "US and UK English"
-msgstr ""
+msgstr "angleški"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Finnish"
-msgstr ""
+msgstr "finski"
 
 #: tlpkg/translations/shortdesc.pl:57
 msgid "French"
-msgstr ""
+msgstr "francoski"
 
 #: tlpkg/translations/shortdesc.pl:58
 msgid "German"
-msgstr ""
+msgstr "nemški"
 
 #: tlpkg/translations/shortdesc.pl:59
 msgid "Greek"
-msgstr ""
+msgstr "grški"
 
 #: tlpkg/translations/shortdesc.pl:60
 msgid "Hebrew"
-msgstr ""
+msgstr "hebrejski"
 
 #: tlpkg/translations/shortdesc.pl:61
 msgid "Hungarian"
-msgstr ""
+msgstr "madžarski"
 
 #: tlpkg/translations/shortdesc.pl:62
 msgid "Indic scripts"
-msgstr ""
+msgstr "indijski"
 
 #: tlpkg/translations/shortdesc.pl:63
 msgid "Italian"
-msgstr ""
+msgstr "italijanski"
 
 #: tlpkg/translations/shortdesc.pl:64
 msgid "Latin"
-msgstr ""
+msgstr "latinski"
 
 #: tlpkg/translations/shortdesc.pl:65
 msgid "Latvian"
-msgstr ""
+msgstr "latvijski"
 
 #: tlpkg/translations/shortdesc.pl:66
 msgid "Lithuanian"
-msgstr ""
+msgstr "litvanski"
 
 #: tlpkg/translations/shortdesc.pl:67
 msgid "Mongolian"
-msgstr ""
+msgstr "mongolski"
 
 #: tlpkg/translations/shortdesc.pl:68
 msgid "Norwegian"
-msgstr ""
+msgstr "norveški"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation files"
-msgstr ""
+msgstr "ostali delilni vzorci"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
-msgstr ""
+msgstr "poljski"
 
 #: tlpkg/translations/shortdesc.pl:71
 msgid "Portuguese"
-msgstr ""
+msgstr "portugalski"
 
 #: tlpkg/translations/shortdesc.pl:72
 msgid "Spanish"
-msgstr ""
+msgstr "španski"
 
 #: tlpkg/translations/shortdesc.pl:73
 msgid "Swedish"
-msgstr ""
+msgstr "švedski"
 
 #: tlpkg/translations/shortdesc.pl:74
 msgid "Tibetan"
-msgstr ""
+msgstr "tibetanski"
 
 #: tlpkg/translations/shortdesc.pl:75
 msgid "Turkmen"
-msgstr ""
+msgstr "turkmenistanski"
 
 #: tlpkg/translations/shortdesc.pl:76
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamščina"
 
 #: tlpkg/translations/shortdesc.pl:77
 msgid "Basic LaTeX packages"
-msgstr ""
+msgstr "Osnovni paketi za LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:78
 msgid "LaTeX supplementary packages"
-msgstr ""
+msgstr "Dodatni paketi za LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
-msgstr ""
+msgstr "Priporočljivi paketi za LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
-msgstr ""
+msgstr "Paketi za LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
-msgstr ""
+msgstr "Napredno stavljenje matematičnih formul"
 
 #: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
-msgstr ""
+msgstr "Paketi za risanje v MetaPost-u (in Metafont-u)"
 
 #: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
-msgstr ""
+msgstr "Stavljenje glasbe"
 
 #: tlpkg/translations/shortdesc.pl:84
 msgid "Omega"
-msgstr ""
+msgstr "Omega"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
-msgstr ""
+msgstr "Grafični paketi in programi"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
@@ -1565,15 +1563,15 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
-msgstr ""
+msgstr "Paketi za PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
-msgstr ""
+msgstr "Paketi za založnike, dizertacije, standarde, konference, itd."
 
 #: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
-msgstr ""
+msgstr "Paketi za naravoslovce"
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
@@ -1581,7 +1579,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
-msgstr ""
+msgstr "Urejevalnik besedil TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
@@ -1589,7 +1587,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
-msgstr ""
+msgstr "Paketi za XeTeX"
 
 #, fuzzy
 #~ msgid ""
@@ -1641,10 +1639,8 @@ msgstr ""
 #~ msgstr ""
 #~ "Namestitev ali odstranitev zbirk ne bo namestila/odstranila odvisnih "
 #~ "paketkov"
-
 #~ msgid "Architectures"
 #~ msgstr "Arhitekture"
-
 #, fuzzy
 #~ msgid "Select architectures to support"
 #~ msgstr "Izbira podprtih arhitektur"
@@ -1674,23 +1670,18 @@ msgstr ""
 # 4. zavihek
 #~ msgid "Uninstallation"
 #~ msgstr "Odstrani TL"
-
 #~ msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
 #~ msgstr "Prosim uporabite \"Dodaj/odstrani programe\" v nadzorni plošči."
-
 #~ msgid ""
 #~ "Really remove the complete TeX Live %s installation?\n"
 #~ "Your last chance to change your mind!"
 #~ msgstr ""
 #~ "Ste prepričani, da želite odstraniti TeX Live %s?\n"
 #~ "To je še zadnja možnost, da si premislite."
-
 #~ msgid "Current package repository:"
 #~ msgstr "Trenutni repozitorij:"
-
 #~ msgid "Load"
 #~ msgstr "Naloži"
-
 #, fuzzy
 #~ msgid "Press this button to load the database from the package repository."
 #~ msgstr "Prebere podatkovno bazo iz repozitorija."
