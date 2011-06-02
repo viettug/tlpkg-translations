@@ -7,14 +7,13 @@ msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-05-31 04:12+0200\n"
-"PO-Revision-Date: 2010-07-17 14:34+0200\n"
+"PO-Revision-Date: 2011-06-02 21:02+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
 #: tlpkg/installer/install-menu-perltk.pl:177
@@ -138,7 +137,7 @@ msgstr "потребан простор на диску:"
 #: tlpkg/installer/install-menu-wizard.pl:272
 #: tlpkg/installer/install-menu-perltk.pl:889
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
+msgstr "(подразумевани директоријум неуписив - промените га!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
@@ -357,7 +356,7 @@ msgstr "Подешавање директоријума"
 
 #: tlpkg/installer/install-menu-perltk.pl:227
 msgid "Portable setup"
-msgstr ""
+msgstr "Преносива инсталација"
 
 #: tlpkg/installer/install-menu-perltk.pl:229
 #: tlpkg/installer/install-menu-perltk.pl:286
@@ -433,7 +432,7 @@ msgstr "Направи симболичке линкове у системски
 
 #: tlpkg/installer/install-menu-perltk.pl:326
 msgid "Add menu shortcuts"
-msgstr ""
+msgstr "Додати пречице у менију"
 
 #: tlpkg/installer/install-menu-perltk.pl:332
 #: tlpkg/installer/install-menu-perltk.pl:539
@@ -557,7 +556,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:200
 msgid "Cannot load taxonomy file"
-msgstr ""
+msgstr "Није могуће отворити фајл са обележјима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:212
 #: texmf/scripts/texlive/tlmgrgui.pl:1569
@@ -655,7 +654,7 @@ msgstr "описи"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "taxonomies"
-msgstr ""
+msgstr "обележја"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:313
 msgid "filenames"
@@ -762,7 +761,7 @@ msgstr "Платформе (архитектура / оперативни сис
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 msgid "GUI Language ..."
-msgstr ""
+msgstr "Језик TeX Live менаџера у графичком режиму ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:518
 #: texmf/scripts/texlive/tlmgrgui.pl:1377
@@ -878,19 +877,19 @@ msgstr "Удаљена каталошка верзија:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
-msgstr ""
+msgstr "Кључне речи:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Functionality:"
-msgstr ""
+msgstr "Функционалност:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:684
 msgid "Primary characterization:"
-msgstr ""
+msgstr "Примарна обележја:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:689
 msgid "Secondary characterization:"
-msgstr ""
+msgstr "Секундарна обележја:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Collection:"
@@ -1018,17 +1017,17 @@ msgstr "Подразумевана величина папира за"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1309
 msgid "GUI Language"
-msgstr ""
+msgstr "Језик TeX Live менаџера у графичком режиму"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1335
 #: texmf/scripts/texlive/tlmgrgui.pl:1351
 msgid "System default"
-msgstr ""
+msgstr "Језик система"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
 msgid "Default language for GUI:"
-msgstr ""
+msgstr "Подразумевани језик за графичко окружење:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
@@ -1099,6 +1098,9 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
+"Инсталиране су важне надоградње.\n"
+"Програм ће сада прекинути рад.\n"
+"Покрените га поново ако буде неопходно."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1957
 msgid ""
@@ -1110,11 +1112,18 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"Доступна је надоградња за tlmgr.\n"
+"Инсталација и надоградње се неће обављати осим ако није изричито захтевано.\n"
+"Притисните дугме „Надогради све“ након што затворите ово обавештење.\n"
+"\n"
+"tlmgr ће се искључити када његова сопствена надоградња буде готова.\n"
+"Тада можете да га поново покренете ради даљих надоградњи."
+""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1959
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr "Доступно је најмање %s додатних надоградњи након што је tlmgr освежен."
+msgstr "Када tlmgr буде освежен, биће доступно најмање %s додатних надоградњи."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
 msgid ""
