@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-05-31 04:12+0200\n"
+"POT-Creation-Date: 2011-06-03 04:18+0200\n"
 "PO-Revision-Date: 2010-07-11 12:37+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -477,6 +477,10 @@ msgstr "Zmeniť hodnotu premennej"
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Vložte cestu pre %s (namiesto %s použite ~ )"
+
+#: tlpkg/installer/install-menu-perltk.pl:602
+msgid "custom selection of collections"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"

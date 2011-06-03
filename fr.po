@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-05-31 04:12+0200\n"
+"POT-Creation-Date: 2011-06-03 04:18+0200\n"
 "PO-Revision-Date: 2010-08-13 14:19+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -478,6 +478,10 @@ msgstr "Changer la valeur de la variable"
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Entrer le chemin %s (utiliser ~ pour %s)"
+
+#: tlpkg/installer/install-menu-perltk.pl:602
+msgid "custom selection of collections"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"
