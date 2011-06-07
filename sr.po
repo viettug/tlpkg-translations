@@ -7,14 +7,13 @@ msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-03 04:18+0200\n"
-"PO-Revision-Date: 2011-06-02 21:02+0200\n"
+"PO-Revision-Date: 2011-06-07 19:38+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
 #: tlpkg/installer/install-menu-perltk.pl:177
@@ -138,7 +137,7 @@ msgstr "потребан простор на диску:"
 #: tlpkg/installer/install-menu-wizard.pl:272
 #: tlpkg/installer/install-menu-perltk.pl:889
 msgid "(default not allowed or not writable - please change!)"
-msgstr "(подразумевани директоријум неуписив - промените га!)"
+msgstr "(подразумевани директоријум је неуписив - промените га!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
@@ -479,7 +478,7 @@ msgstr "Унесите путању за %s (употребите ~ као за�
 
 #: tlpkg/installer/install-menu-perltk.pl:602
 msgid "custom selection of collections"
-msgstr ""
+msgstr "произвољан избор колекција"
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"
@@ -1103,7 +1102,7 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
-"Инсталиране су важне надоградње.\n"
+"Инсталиране су инфраструктурне надоградње.\n"
 "Програм ће сада прекинути рад.\n"
 "Покрените га поново ако буде неопходно."
 
