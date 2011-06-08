@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-03 04:18+0200\n"
+"POT-Creation-Date: 2011-06-08 04:16+0200\n"
 "PO-Revision-Date: 2010-08-13 14:19+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -132,12 +132,12 @@ msgstr ""
 "Il est fortement recommandé de conserver l'année comme dernière composante."
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:875
+#: tlpkg/installer/install-menu-perltk.pl:889
 msgid "disk space required:"
 msgstr "espace disque nécessaire :"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:889
+#: tlpkg/installer/install-menu-perltk.pl:903
 msgid "(default not allowed or not writable - please change!)"
 msgstr ""
 
@@ -204,13 +204,13 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:924
-#: tlpkg/installer/install-menu-perltk.pl:925
-#: tlpkg/installer/install-menu-perltk.pl:926
-#: tlpkg/installer/install-menu-perltk.pl:932
 #: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:1025
-#: tlpkg/installer/install-menu-perltk.pl:1049
+#: tlpkg/installer/install-menu-perltk.pl:939
+#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:946
+#: tlpkg/installer/install-menu-perltk.pl:952
+#: tlpkg/installer/install-menu-perltk.pl:1039
+#: tlpkg/installer/install-menu-perltk.pl:1063
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -227,16 +227,16 @@ msgstr "Oui"
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:924
-#: tlpkg/installer/install-menu-perltk.pl:925
-#: tlpkg/installer/install-menu-perltk.pl:926
-#: tlpkg/installer/install-menu-perltk.pl:932
 #: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:1015
-#: tlpkg/installer/install-menu-perltk.pl:1034
-#: tlpkg/installer/install-menu-perltk.pl:1035
-#: tlpkg/installer/install-menu-perltk.pl:1037
+#: tlpkg/installer/install-menu-perltk.pl:939
+#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:946
+#: tlpkg/installer/install-menu-perltk.pl:952
+#: tlpkg/installer/install-menu-perltk.pl:1029
+#: tlpkg/installer/install-menu-perltk.pl:1048
 #: tlpkg/installer/install-menu-perltk.pl:1049
+#: tlpkg/installer/install-menu-perltk.pl:1051
+#: tlpkg/installer/install-menu-perltk.pl:1063
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -300,7 +300,7 @@ msgid "Finish"
 msgstr "Terminer"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
-#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:129
 msgid "None"
 msgstr "Aucun"
@@ -527,27 +527,27 @@ msgstr "Emplacement des pages info"
 msgid "Select arch-os"
 msgstr "Choisir la plate-forme"
 
-#: tlpkg/installer/install-menu-perltk.pl:868
+#: tlpkg/installer/install-menu-perltk.pl:881
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s parmi %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:873
+#: tlpkg/installer/install-menu-perltk.pl:887
 #, perl-format
 msgid "%s collections out of %s"
 msgstr "%s collections parmi %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:898
 msgid "(no language collection selected!)"
 msgstr "(aucune collection de langue sélectionnée !)"
 
-#: tlpkg/installer/install-menu-perltk.pl:898
-#: tlpkg/installer/install-menu-perltk.pl:909
+#: tlpkg/installer/install-menu-perltk.pl:912
+#: tlpkg/installer/install-menu-perltk.pl:923
 msgid "(please change TEXDIR first!)"
 msgstr "(changer d'abord TEXDIR !)"
 
-#: tlpkg/installer/install-menu-perltk.pl:901
-#: tlpkg/installer/install-menu-perltk.pl:912
+#: tlpkg/installer/install-menu-perltk.pl:915
+#: tlpkg/installer/install-menu-perltk.pl:926
 msgid "(default not writable - please change!)"
 msgstr "(écriture impossible - changer d'emplacement !)"
 

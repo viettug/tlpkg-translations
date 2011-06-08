@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-03 04:18+0200\n"
+"POT-Creation-Date: 2011-06-08 04:16+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -118,13 +118,13 @@ msgid ""
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:875
+#: tlpkg/installer/install-menu-perltk.pl:889
 #, fuzzy
 msgid "disk space required:"
 msgstr "需要的磁碟空間"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:889
+#: tlpkg/installer/install-menu-perltk.pl:903
 msgid "(default not allowed or not writable - please change!)"
 msgstr ""
 
@@ -187,13 +187,13 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:924
-#: tlpkg/installer/install-menu-perltk.pl:925
-#: tlpkg/installer/install-menu-perltk.pl:926
-#: tlpkg/installer/install-menu-perltk.pl:932
 #: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:1025
-#: tlpkg/installer/install-menu-perltk.pl:1049
+#: tlpkg/installer/install-menu-perltk.pl:939
+#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:946
+#: tlpkg/installer/install-menu-perltk.pl:952
+#: tlpkg/installer/install-menu-perltk.pl:1039
+#: tlpkg/installer/install-menu-perltk.pl:1063
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -210,16 +210,16 @@ msgstr "是"
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:924
-#: tlpkg/installer/install-menu-perltk.pl:925
-#: tlpkg/installer/install-menu-perltk.pl:926
-#: tlpkg/installer/install-menu-perltk.pl:932
 #: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:1015
-#: tlpkg/installer/install-menu-perltk.pl:1034
-#: tlpkg/installer/install-menu-perltk.pl:1035
-#: tlpkg/installer/install-menu-perltk.pl:1037
+#: tlpkg/installer/install-menu-perltk.pl:939
+#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:946
+#: tlpkg/installer/install-menu-perltk.pl:952
+#: tlpkg/installer/install-menu-perltk.pl:1029
+#: tlpkg/installer/install-menu-perltk.pl:1048
 #: tlpkg/installer/install-menu-perltk.pl:1049
+#: tlpkg/installer/install-menu-perltk.pl:1051
+#: tlpkg/installer/install-menu-perltk.pl:1063
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -280,7 +280,7 @@ msgid "Finish"
 msgstr "完成"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
-#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:129
 #, fuzzy
 msgid "None"
@@ -513,27 +513,27 @@ msgstr "超文本文檔(*.info)安裝位置"
 msgid "Select arch-os"
 msgstr "選擇系統架構"
 
-#: tlpkg/installer/install-menu-perltk.pl:868
+#: tlpkg/installer/install-menu-perltk.pl:881
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s 來自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:873
+#: tlpkg/installer/install-menu-perltk.pl:887
 #, fuzzy, perl-format
 msgid "%s collections out of %s"
 msgstr "%s 集合來自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:884
+#: tlpkg/installer/install-menu-perltk.pl:898
 msgid "(no language collection selected!)"
 msgstr "(沒有選擇語言集合！)"
 
-#: tlpkg/installer/install-menu-perltk.pl:898
-#: tlpkg/installer/install-menu-perltk.pl:909
+#: tlpkg/installer/install-menu-perltk.pl:912
+#: tlpkg/installer/install-menu-perltk.pl:923
 msgid "(please change TEXDIR first!)"
 msgstr "(請首先改變 TEXDIR ！)"
 
-#: tlpkg/installer/install-menu-perltk.pl:901
-#: tlpkg/installer/install-menu-perltk.pl:912
+#: tlpkg/installer/install-menu-perltk.pl:915
+#: tlpkg/installer/install-menu-perltk.pl:926
 msgid "(default not writable - please change!)"
 msgstr "(默認位置不可寫 - 請做相應更改！)"
 
