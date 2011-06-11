@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-08 04:16+0200\n"
+"POT-Creation-Date: 2011-06-11 23:55+0200\n"
 "PO-Revision-Date: 2010-05-28 01:29+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <tex-live@tug.org>\n"
@@ -1457,7 +1457,7 @@ msgid "Norwegian"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:69
-msgid "Other hyphenation files"
+msgid "Other hyphenation patterns"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:70

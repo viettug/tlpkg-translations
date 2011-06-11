@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 German Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-08 04:16+0200\n"
+"POT-Creation-Date: 2011-06-11 23:55+0200\n"
 "PO-Revision-Date: 2010-11-01 13:57+0900\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
@@ -1451,8 +1451,8 @@ msgid "Norwegian"
 msgstr "Norwegisch"
 
 #: tlpkg/translations/shortdesc.pl:69
-msgid "Other hyphenation files"
-msgstr "Weitere Trennmuster"
+msgid "Other hyphenation patterns"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1549,6 +1549,9 @@ msgstr "Windows-spezifische Hilfsprogramme"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX Pakete"
+
+#~ msgid "Other hyphenation files"
+#~ msgstr "Weitere Trennmuster"
 
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Verknüpfungen im Menü und am Desktop erstellen"

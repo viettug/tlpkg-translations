@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-08 04:16+0200\n"
+"POT-Creation-Date: 2011-06-11 23:55+0200\n"
 "PO-Revision-Date: 2011-03-01 17:08+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -1466,8 +1466,8 @@ msgid "Norwegian"
 msgstr "Norvegese"
 
 #: tlpkg/translations/shortdesc.pl:69
-msgid "Other hyphenation files"
-msgstr "Altri file di sillabazione"
+msgid "Other hyphenation patterns"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1564,6 +1564,9 @@ msgstr "Programmi di supporto per Windows"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Pacchetti XeTeX"
+
+#~ msgid "Other hyphenation files"
+#~ msgstr "Altri file di sillabazione"
 
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Aggiungi un collegamento nel menu e sul desktop"

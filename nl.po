@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-08 04:16+0200\n"
+"POT-Creation-Date: 2011-06-11 23:55+0200\n"
 "PO-Revision-Date: 2011-06-06 11:14+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1459,8 +1459,8 @@ msgid "Norwegian"
 msgstr "Noors"
 
 #: tlpkg/translations/shortdesc.pl:69
-msgid "Other hyphenation files"
-msgstr "Andere afbreek-bestanden"
+msgid "Other hyphenation patterns"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1558,6 +1558,9 @@ msgstr "Windows hulpprogramma's"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX pakketten"
+
+#~ msgid "Other hyphenation files"
+#~ msgstr "Andere afbreek-bestanden"
 
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Snelkoppelingen menu en bureaublad maken"

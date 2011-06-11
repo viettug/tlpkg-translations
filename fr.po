@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-08 04:16+0200\n"
+"POT-Creation-Date: 2011-06-11 23:55+0200\n"
 "PO-Revision-Date: 2010-08-13 14:19+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1457,8 +1457,8 @@ msgid "Norwegian"
 msgstr "Norvégien"
 
 #: tlpkg/translations/shortdesc.pl:69
-msgid "Other hyphenation files"
-msgstr "Autres fichiers de césure"
+msgid "Other hyphenation patterns"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1555,6 +1555,9 @@ msgstr "Programmes de support spécifique pour Windows"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Paquet XeTeX"
+
+#~ msgid "Other hyphenation files"
+#~ msgstr "Autres fichiers de césure"
 
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Ajouter des raccourcis dans le menu et sur le bureau"
