@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-11 23:55+0200\n"
+"POT-Creation-Date: 2011-06-13 04:18+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -27,9 +27,9 @@ msgstr "TeX Live %s 安装"
 #: tlpkg/installer/install-menu-perltk.pl:568
 #: tlpkg/installer/install-menu-perltk.pl:623
 #: tlpkg/installer/install-menu-perltk.pl:677
-#: tlpkg/installer/install-menu-perltk.pl:754
-#: tlpkg/installer/install-menu-perltk.pl:818
-#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:761
+#: tlpkg/installer/install-menu-perltk.pl:825
+#: tlpkg/installer/install-menu-perltk.pl:854
 #: texmf/scripts/texlive/tlmgrgui.pl:584 texmf/scripts/texlive/tlmgrgui.pl:585
 #: texmf/scripts/texlive/tlmgrgui.pl:995
 #: texmf/scripts/texlive/tlmgrgui.pl:1198
@@ -127,13 +127,13 @@ msgstr ""
 "强烈建议以年份作为最后的目录项。"
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:889
+#: tlpkg/installer/install-menu-perltk.pl:896
 #, fuzzy
 msgid "disk space required:"
 msgstr "需要的磁盘空间"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:903
+#: tlpkg/installer/install-menu-perltk.pl:910
 msgid "(default not allowed or not writable - please change!)"
 msgstr ""
 
@@ -147,9 +147,9 @@ msgstr "输入路径变量"
 #: tlpkg/installer/install-menu-perltk.pl:553
 #: tlpkg/installer/install-menu-perltk.pl:621
 #: tlpkg/installer/install-menu-perltk.pl:661
-#: tlpkg/installer/install-menu-perltk.pl:738
-#: tlpkg/installer/install-menu-perltk.pl:816
-#: tlpkg/installer/install-menu-perltk.pl:845
+#: tlpkg/installer/install-menu-perltk.pl:745
+#: tlpkg/installer/install-menu-perltk.pl:823
+#: tlpkg/installer/install-menu-perltk.pl:852
 #: texmf/scripts/texlive/tlmgrgui.pl:219 texmf/scripts/texlive/tlmgrgui.pl:584
 #: texmf/scripts/texlive/tlmgrgui.pl:588 texmf/scripts/texlive/tlmgrgui.pl:590
 #: texmf/scripts/texlive/tlmgrgui.pl:608 texmf/scripts/texlive/tlmgrgui.pl:787
@@ -199,13 +199,13 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:939
-#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:945
 #: tlpkg/installer/install-menu-perltk.pl:946
-#: tlpkg/installer/install-menu-perltk.pl:952
-#: tlpkg/installer/install-menu-perltk.pl:1039
-#: tlpkg/installer/install-menu-perltk.pl:1063
+#: tlpkg/installer/install-menu-perltk.pl:947
+#: tlpkg/installer/install-menu-perltk.pl:953
+#: tlpkg/installer/install-menu-perltk.pl:959
+#: tlpkg/installer/install-menu-perltk.pl:1046
+#: tlpkg/installer/install-menu-perltk.pl:1070
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -222,16 +222,16 @@ msgstr "是"
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:939
-#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:945
 #: tlpkg/installer/install-menu-perltk.pl:946
-#: tlpkg/installer/install-menu-perltk.pl:952
-#: tlpkg/installer/install-menu-perltk.pl:1029
-#: tlpkg/installer/install-menu-perltk.pl:1048
-#: tlpkg/installer/install-menu-perltk.pl:1049
-#: tlpkg/installer/install-menu-perltk.pl:1051
-#: tlpkg/installer/install-menu-perltk.pl:1063
+#: tlpkg/installer/install-menu-perltk.pl:947
+#: tlpkg/installer/install-menu-perltk.pl:953
+#: tlpkg/installer/install-menu-perltk.pl:959
+#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1055
+#: tlpkg/installer/install-menu-perltk.pl:1056
+#: tlpkg/installer/install-menu-perltk.pl:1058
+#: tlpkg/installer/install-menu-perltk.pl:1070
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -291,7 +291,7 @@ msgid "Finish"
 msgstr "完成"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
-#: tlpkg/installer/install-menu-perltk.pl:1050
+#: tlpkg/installer/install-menu-perltk.pl:1057
 #: texmf/scripts/texlive/tlmgrgui.pl:129
 msgid "None"
 msgstr "无"
@@ -320,7 +320,7 @@ msgid "Basic Information"
 msgstr "基本信息"
 
 #: tlpkg/installer/install-menu-perltk.pl:187
-#: tlpkg/installer/install-menu-perltk.pl:827
+#: tlpkg/installer/install-menu-perltk.pl:834
 msgid "Binary system(s)"
 msgstr "二进制系统"
 
@@ -421,7 +421,7 @@ msgid "Adjust PATH setting in registry"
 msgstr "修改注册表中的 PATH 设置"
 
 #: tlpkg/installer/install-menu-perltk.pl:314
-#: tlpkg/installer/install-menu-perltk.pl:793
+#: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "创建指向系统目录的符号链接"
 
@@ -480,14 +480,14 @@ msgid "Select the collections to be installed"
 msgstr "选择要安装的组件"
 
 #: tlpkg/installer/install-menu-perltk.pl:656
-#: tlpkg/installer/install-menu-perltk.pl:711
-#: tlpkg/installer/install-menu-perltk.pl:733
+#: tlpkg/installer/install-menu-perltk.pl:718
+#: tlpkg/installer/install-menu-perltk.pl:740
 msgid "Select All"
 msgstr "全部选择"
 
 #: tlpkg/installer/install-menu-perltk.pl:658
-#: tlpkg/installer/install-menu-perltk.pl:713
-#: tlpkg/installer/install-menu-perltk.pl:735
+#: tlpkg/installer/install-menu-perltk.pl:720
+#: tlpkg/installer/install-menu-perltk.pl:742
 msgid "Deselect All"
 msgstr "取消全部选择"
 
@@ -499,47 +499,47 @@ msgstr "选择语言支持"
 msgid "Select language-specific documentation"
 msgstr "选择相关语言的文档"
 
-#: tlpkg/installer/install-menu-perltk.pl:797
+#: tlpkg/installer/install-menu-perltk.pl:804
 msgid "create symlinks in standard directories"
 msgstr "在标准位置创建符号链接"
 
-#: tlpkg/installer/install-menu-perltk.pl:802
+#: tlpkg/installer/install-menu-perltk.pl:809
 msgid "binaries to"
 msgstr "程序文件安装位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:804
+#: tlpkg/installer/install-menu-perltk.pl:811
 msgid "manpages to"
 msgstr "手册文档(*.man)安装位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:806
+#: tlpkg/installer/install-menu-perltk.pl:813
 msgid "info to"
 msgstr "超文本文档(*.info)安装位置"
 
-#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:843
 msgid "Select arch-os"
 msgstr "选择系统架构"
 
-#: tlpkg/installer/install-menu-perltk.pl:881
+#: tlpkg/installer/install-menu-perltk.pl:888
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s  来自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:887
+#: tlpkg/installer/install-menu-perltk.pl:894
 #, fuzzy, perl-format
 msgid "%s collections out of %s"
 msgstr "%s 集合来自 %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:898
+#: tlpkg/installer/install-menu-perltk.pl:905
 msgid "(no language collection selected!)"
 msgstr "(没有选择语言集合！)"
 
-#: tlpkg/installer/install-menu-perltk.pl:912
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:919
+#: tlpkg/installer/install-menu-perltk.pl:930
 msgid "(please change TEXDIR first!)"
 msgstr "(请首先改变 TEXDIR ！)"
 
-#: tlpkg/installer/install-menu-perltk.pl:915
-#: tlpkg/installer/install-menu-perltk.pl:926
+#: tlpkg/installer/install-menu-perltk.pl:922
+#: tlpkg/installer/install-menu-perltk.pl:933
 msgid "(default not writable - please change!)"
 msgstr "(默认位置不可写 - 请做相应更改！)"
 

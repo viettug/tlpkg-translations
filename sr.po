@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-11 23:55+0200\n"
+"POT-Creation-Date: 2011-06-13 04:18+0200\n"
 "PO-Revision-Date: 2011-06-07 19:38+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -31,9 +31,9 @@ msgstr "TeX Live %s: инсталација"
 #: tlpkg/installer/install-menu-perltk.pl:568
 #: tlpkg/installer/install-menu-perltk.pl:623
 #: tlpkg/installer/install-menu-perltk.pl:677
-#: tlpkg/installer/install-menu-perltk.pl:754
-#: tlpkg/installer/install-menu-perltk.pl:818
-#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:761
+#: tlpkg/installer/install-menu-perltk.pl:825
+#: tlpkg/installer/install-menu-perltk.pl:854
 #: texmf/scripts/texlive/tlmgrgui.pl:584 texmf/scripts/texlive/tlmgrgui.pl:585
 #: texmf/scripts/texlive/tlmgrgui.pl:995
 #: texmf/scripts/texlive/tlmgrgui.pl:1198
@@ -131,12 +131,12 @@ msgstr ""
 "Препоручујемо да задржите годину као последњи члан."
 
 #: tlpkg/installer/install-menu-wizard.pl:253
-#: tlpkg/installer/install-menu-perltk.pl:889
+#: tlpkg/installer/install-menu-perltk.pl:896
 msgid "disk space required:"
 msgstr "потребан простор на диску:"
 
 #: tlpkg/installer/install-menu-wizard.pl:272
-#: tlpkg/installer/install-menu-perltk.pl:903
+#: tlpkg/installer/install-menu-perltk.pl:910
 msgid "(default not allowed or not writable - please change!)"
 msgstr "(подразумевани директоријум је неуписив - промените га!)"
 
@@ -150,9 +150,9 @@ msgstr "Унесите путању за"
 #: tlpkg/installer/install-menu-perltk.pl:553
 #: tlpkg/installer/install-menu-perltk.pl:621
 #: tlpkg/installer/install-menu-perltk.pl:661
-#: tlpkg/installer/install-menu-perltk.pl:738
-#: tlpkg/installer/install-menu-perltk.pl:816
-#: tlpkg/installer/install-menu-perltk.pl:845
+#: tlpkg/installer/install-menu-perltk.pl:745
+#: tlpkg/installer/install-menu-perltk.pl:823
+#: tlpkg/installer/install-menu-perltk.pl:852
 #: texmf/scripts/texlive/tlmgrgui.pl:219 texmf/scripts/texlive/tlmgrgui.pl:584
 #: texmf/scripts/texlive/tlmgrgui.pl:588 texmf/scripts/texlive/tlmgrgui.pl:590
 #: texmf/scripts/texlive/tlmgrgui.pl:608 texmf/scripts/texlive/tlmgrgui.pl:787
@@ -203,13 +203,13 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:939
-#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:945
 #: tlpkg/installer/install-menu-perltk.pl:946
-#: tlpkg/installer/install-menu-perltk.pl:952
-#: tlpkg/installer/install-menu-perltk.pl:1039
-#: tlpkg/installer/install-menu-perltk.pl:1063
+#: tlpkg/installer/install-menu-perltk.pl:947
+#: tlpkg/installer/install-menu-perltk.pl:953
+#: tlpkg/installer/install-menu-perltk.pl:959
+#: tlpkg/installer/install-menu-perltk.pl:1046
+#: tlpkg/installer/install-menu-perltk.pl:1070
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -226,16 +226,16 @@ msgstr "да"
 #: tlpkg/installer/install-menu-perltk.pl:93
 #: tlpkg/installer/install-menu-perltk.pl:94
 #: tlpkg/installer/install-menu-perltk.pl:95
-#: tlpkg/installer/install-menu-perltk.pl:938
-#: tlpkg/installer/install-menu-perltk.pl:939
-#: tlpkg/installer/install-menu-perltk.pl:940
+#: tlpkg/installer/install-menu-perltk.pl:945
 #: tlpkg/installer/install-menu-perltk.pl:946
-#: tlpkg/installer/install-menu-perltk.pl:952
-#: tlpkg/installer/install-menu-perltk.pl:1029
-#: tlpkg/installer/install-menu-perltk.pl:1048
-#: tlpkg/installer/install-menu-perltk.pl:1049
-#: tlpkg/installer/install-menu-perltk.pl:1051
-#: tlpkg/installer/install-menu-perltk.pl:1063
+#: tlpkg/installer/install-menu-perltk.pl:947
+#: tlpkg/installer/install-menu-perltk.pl:953
+#: tlpkg/installer/install-menu-perltk.pl:959
+#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1055
+#: tlpkg/installer/install-menu-perltk.pl:1056
+#: tlpkg/installer/install-menu-perltk.pl:1058
+#: tlpkg/installer/install-menu-perltk.pl:1070
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -298,7 +298,7 @@ msgid "Finish"
 msgstr "Заврши"
 
 #: tlpkg/installer/install-menu-perltk.pl:54
-#: tlpkg/installer/install-menu-perltk.pl:1050
+#: tlpkg/installer/install-menu-perltk.pl:1057
 #: texmf/scripts/texlive/tlmgrgui.pl:129
 msgid "None"
 msgstr "Ништа"
@@ -327,7 +327,7 @@ msgid "Basic Information"
 msgstr "Основни подаци"
 
 #: tlpkg/installer/install-menu-perltk.pl:187
-#: tlpkg/installer/install-menu-perltk.pl:827
+#: tlpkg/installer/install-menu-perltk.pl:834
 msgid "Binary system(s)"
 msgstr "Платформе (тј. архитектуре и оперативни системи) за програме"
 
@@ -427,7 +427,7 @@ msgid "Adjust PATH setting in registry"
 msgstr "Подеси PATH вредност у Registry"
 
 #: tlpkg/installer/install-menu-perltk.pl:314
-#: tlpkg/installer/install-menu-perltk.pl:793
+#: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "Направи симболичке линкове у системским директоријумима"
 
@@ -486,14 +486,14 @@ msgid "Select the collections to be installed"
 msgstr "Изаберите колекције које ће бити инсталиране"
 
 #: tlpkg/installer/install-menu-perltk.pl:656
-#: tlpkg/installer/install-menu-perltk.pl:711
-#: tlpkg/installer/install-menu-perltk.pl:733
+#: tlpkg/installer/install-menu-perltk.pl:718
+#: tlpkg/installer/install-menu-perltk.pl:740
 msgid "Select All"
 msgstr "Изабери све"
 
 #: tlpkg/installer/install-menu-perltk.pl:658
-#: tlpkg/installer/install-menu-perltk.pl:713
-#: tlpkg/installer/install-menu-perltk.pl:735
+#: tlpkg/installer/install-menu-perltk.pl:720
+#: tlpkg/installer/install-menu-perltk.pl:742
 msgid "Deselect All"
 msgstr "Уклони све ознаке"
 
@@ -505,49 +505,49 @@ msgstr "Изаберите језичку подршку"
 msgid "Select language-specific documentation"
 msgstr "Изаберите превод документације"
 
-#: tlpkg/installer/install-menu-perltk.pl:797
+#: tlpkg/installer/install-menu-perltk.pl:804
 msgid "create symlinks in standard directories"
 msgstr "Направи симболичке линкове у стандардним директоријумима"
 
-#: tlpkg/installer/install-menu-perltk.pl:802
+#: tlpkg/installer/install-menu-perltk.pl:809
 msgid "binaries to"
 msgstr "Стави бинарне фајлове у"
 
-#: tlpkg/installer/install-menu-perltk.pl:804
+#: tlpkg/installer/install-menu-perltk.pl:811
 msgid "manpages to"
 msgstr "Стави man странице у"
 
-#: tlpkg/installer/install-menu-perltk.pl:806
+#: tlpkg/installer/install-menu-perltk.pl:813
 msgid "info to"
 msgstr "Стави info странице у"
 
-#: tlpkg/installer/install-menu-perltk.pl:836
+#: tlpkg/installer/install-menu-perltk.pl:843
 msgid "Select arch-os"
 msgstr ""
 "Изаберите платформу\n"
 "(архитектура - оперативни систем)"
 
-#: tlpkg/installer/install-menu-perltk.pl:881
+#: tlpkg/installer/install-menu-perltk.pl:888
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s од укупно %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:887
+#: tlpkg/installer/install-menu-perltk.pl:894
 #, perl-format
 msgid "%s collections out of %s"
 msgstr "%s колекција од укупно %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:898
+#: tlpkg/installer/install-menu-perltk.pl:905
 msgid "(no language collection selected!)"
 msgstr "(није одабрана ниједна језичка колекција!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:912
-#: tlpkg/installer/install-menu-perltk.pl:923
+#: tlpkg/installer/install-menu-perltk.pl:919
+#: tlpkg/installer/install-menu-perltk.pl:930
 msgid "(please change TEXDIR first!)"
 msgstr "(прво промените TEXDIR!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:915
-#: tlpkg/installer/install-menu-perltk.pl:926
+#: tlpkg/installer/install-menu-perltk.pl:922
+#: tlpkg/installer/install-menu-perltk.pl:933
 msgid "(default not writable - please change!)"
 msgstr "(није могуће уписивање на подразумевану локацију - промените је!)"
 
