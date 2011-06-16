@@ -4,17 +4,16 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
+"Project-Id-Version: Tex Live 2011 Serbian Translation 20110616\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-16 04:13+0200\n"
-"PO-Revision-Date: 2011-06-07 19:38+0200\n"
+"PO-Revision-Date: 2011-06-16 13:47+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
 #: tlpkg/installer/install-menu-perltk.pl:177
@@ -1476,7 +1475,7 @@ msgstr "Норвешки"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "Остала правила за прелом речи"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
