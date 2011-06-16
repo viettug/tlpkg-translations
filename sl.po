@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2011-06-07 21:22+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -176,6 +176,39 @@ msgstr "Nastavite pot do"
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
 msgstr "V redu"
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+msgid "Default paper size"
+msgstr "Privzet format papirja"
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+#, fuzzy
+msgid "Add menu shortcuts"
+msgstr "Dodajne menijske bližnjice"
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+#, fuzzy
+msgid "Change file associations"
+msgstr "Spremeni asociacije končnic datotek"
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+#, fuzzy
+msgid "Adjust PATH setting in registry"
+msgstr "Nastavi pot (PATH) v registru"
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+msgid "Installation for all users"
+msgstr "Namestitev za vse uporabnike"
 
 #: tlpkg/installer/install-menu-wizard.pl:361
 msgid "This screen allows you to configure some options"
@@ -405,10 +438,6 @@ msgstr "TEXMFHOME (uporabnikove datoteke)"
 msgid "Options"
 msgstr "Možnosti"
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-msgid "Default paper size"
-msgstr "Privzet format papirja"
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "Dovoli izvajanje omejenega števila programov z \\write18"
@@ -425,34 +454,10 @@ msgstr "Namesti dokumentacijo za pisave in makre"
 msgid "Install font/macro source tree"
 msgstr "Namesti izvorno kodo za pisave in makre"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-#, fuzzy
-msgid "Adjust PATH setting in registry"
-msgstr "Nastavi pot (PATH) v registru"
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "Namesti simbolne povezave v sistemske mape"
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-#, fuzzy
-msgid "Add menu shortcuts"
-msgstr "Dodajne menijske bližnjice"
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-#, fuzzy
-msgid "Change file associations"
-msgstr "Spremeni asociacije končnic datotek"
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-msgid "Installation for all users"
-msgstr "Namestitev za vse uporabnike"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 msgid "Install TeXworks front end"

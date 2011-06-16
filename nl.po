@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2011-06-06 11:14+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -172,6 +172,36 @@ msgstr "Pad voor"
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
 msgstr "Ok"
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+msgid "Default paper size"
+msgstr "Standaard papier-formaat voor"
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+msgid "Add menu shortcuts"
+msgstr "Maak TeX Live menu"
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+msgid "Change file associations"
+msgstr "Wijzig bestandstypen"
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+msgid "Adjust PATH setting in registry"
+msgstr "PATH aanpassen in registry"
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+msgid "Installation for all users"
+msgstr "Installeer voor alle gebruikers"
 
 #: tlpkg/installer/install-menu-wizard.pl:361
 msgid "This screen allows you to configure some options"
@@ -399,10 +429,6 @@ msgstr "TEXMFHOME (eigen macros etc.)"
 msgid "Options"
 msgstr "Opties"
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-msgid "Default paper size"
-msgstr "Standaard papier-formaat voor"
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "Sta uitvoering van een beperkte lijst programmas toe via \\write18"
@@ -419,31 +445,10 @@ msgstr "Installeer font/macro doc folder"
 msgid "Install font/macro source tree"
 msgstr "Installeer font/macro bron folder"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-msgid "Adjust PATH setting in registry"
-msgstr "PATH aanpassen in registry"
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "Maak symlinks naar standaard-folders"
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-msgid "Add menu shortcuts"
-msgstr "Maak TeX Live menu"
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-msgid "Change file associations"
-msgstr "Wijzig bestandstypen"
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-msgid "Installation for all users"
-msgstr "Installeer voor alle gebruikers"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 msgid "Install TeXworks front end"

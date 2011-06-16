@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2010-05-28 01:29+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <tex-live@tug.org>\n"
@@ -179,6 +179,37 @@ msgstr "右の変数のパスを入力→"
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
 msgstr "OK"
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+#, fuzzy
+msgid "Default paper size"
+msgstr "既定用紙: 設定先 ="
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+msgid "Add menu shortcuts"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+msgid "Change file associations"
+msgstr "ファイル関連付けを変更する"
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+msgid "Adjust PATH setting in registry"
+msgstr "レジストリの PATH 設定を調整する"
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+msgid "Installation for all users"
+msgstr "全ユーザ用に導入"
 
 #: tlpkg/installer/install-menu-wizard.pl:361
 msgid "This screen allows you to configure some options"
@@ -404,11 +435,6 @@ msgstr "TEXMFHOME（ユーザ固有ファイル用ディレクトリ）"
 msgid "Options"
 msgstr "オプション"
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-#, fuzzy
-msgid "Default paper size"
-msgstr "既定用紙: 設定先 ="
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "\\write18 を用いて制限リスト中のプログラムを実行することを許可"
@@ -425,31 +451,10 @@ msgstr "font と macro の doc ツリーを導入"
 msgid "Install font/macro source tree"
 msgstr "font と macro のソースツリーを導入"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-msgid "Adjust PATH setting in registry"
-msgstr "レジストリの PATH 設定を調整する"
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "システムディレクトリに symlink を作成する"
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-msgid "Add menu shortcuts"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-msgid "Change file associations"
-msgstr "ファイル関連付けを変更する"
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-msgid "Installation for all users"
-msgstr "全ユーザ用に導入"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 msgid "Install TeXworks front end"

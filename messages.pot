@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -167,6 +167,36 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:2204
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+msgid "Default paper size"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+msgid "Add menu shortcuts"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+msgid "Change file associations"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+msgid "Adjust PATH setting in registry"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+msgid "Installation for all users"
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:361
@@ -379,10 +409,6 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-msgid "Default paper size"
-msgstr ""
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr ""
@@ -399,30 +425,9 @@ msgstr ""
 msgid "Install font/macro source tree"
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-msgid "Adjust PATH setting in registry"
-msgstr ""
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-msgid "Add menu shortcuts"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-msgid "Change file associations"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-msgid "Installation for all users"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:346

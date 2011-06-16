@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -164,6 +164,37 @@ msgstr "輸入路徑變數"
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
 msgstr "確定"
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+msgid "Default paper size"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+msgid "Add menu shortcuts"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+msgid "Change file associations"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+msgid "Adjust PATH setting in registry"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+#, fuzzy
+msgid "Installation for all users"
+msgstr "安裝 TeX Live"
 
 #: tlpkg/installer/install-menu-wizard.pl:361
 msgid "This screen allows you to configure some options"
@@ -387,10 +418,6 @@ msgstr "TEXMFLOCAL (存放本地格式檔等)"
 msgid "Options"
 msgstr "選項"
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-msgid "Default paper size"
-msgstr ""
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr ""
@@ -407,32 +434,10 @@ msgstr "安裝字體/巨集包文檔目錄樹"
 msgid "Install font/macro source tree"
 msgstr "安裝字體/巨集包源碼目錄樹"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-msgid "Adjust PATH setting in registry"
-msgstr ""
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "創建指向系統目錄的符號鏈結"
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-msgid "Add menu shortcuts"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-msgid "Change file associations"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-#, fuzzy
-msgid "Installation for all users"
-msgstr "安裝 TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 #, fuzzy

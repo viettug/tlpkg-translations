@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-15 04:11+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2011-06-07 19:38+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -176,6 +176,36 @@ msgstr "Унесите путању за"
 #: texmf/scripts/texlive/tlmgrgui.pl:2249
 msgid "Ok"
 msgstr "У реду"
+
+#: tlpkg/installer/install-menu-wizard.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:284
+msgid "Default paper size"
+msgstr "Подразумевана величина папира"
+
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:326
+msgid "Add menu shortcuts"
+msgstr "Додати пречице у менију"
+
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-perltk.pl:332
+#: tlpkg/installer/install-menu-perltk.pl:539
+#: tlpkg/installer/install-menu-perltk.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1179
+#: texmf/scripts/texlive/tlmgrgui.pl:1520
+#: texmf/scripts/texlive/tlmgrgui.pl:1524
+msgid "Change file associations"
+msgstr "Повежи типове фајлова са одговарајућим програмима"
+
+#: tlpkg/installer/install-menu-wizard.pl:345
+#: tlpkg/installer/install-menu-perltk.pl:313
+msgid "Adjust PATH setting in registry"
+msgstr "Подеси PATH вредност у Registry"
+
+#: tlpkg/installer/install-menu-wizard.pl:346
+#: tlpkg/installer/install-menu-perltk.pl:339
+msgid "Installation for all users"
+msgstr "Инсталација за све кориснике"
 
 #: tlpkg/installer/install-menu-wizard.pl:361
 msgid "This screen allows you to configure some options"
@@ -403,10 +433,6 @@ msgstr "TEXMFHOME (директоријум за корисникове фајл
 msgid "Options"
 msgstr "Подешавања"
 
-#: tlpkg/installer/install-menu-perltk.pl:284
-msgid "Default paper size"
-msgstr "Подразумевана величина папира"
-
 #: tlpkg/installer/install-menu-perltk.pl:289
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "Дозволи покретање ограничене листе програма путем \\write18"
@@ -423,31 +449,10 @@ msgstr "Инсталирај документацију за фонтове и �
 msgid "Install font/macro source tree"
 msgstr "Инсталирај изворни код фонтова и макроа"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
-msgid "Adjust PATH setting in registry"
-msgstr "Подеси PATH вредност у Registry"
-
 #: tlpkg/installer/install-menu-perltk.pl:314
 #: tlpkg/installer/install-menu-perltk.pl:800
 msgid "Create symlinks in system directories"
 msgstr "Направи симболичке линкове у системским директоријумима"
-
-#: tlpkg/installer/install-menu-perltk.pl:326
-msgid "Add menu shortcuts"
-msgstr "Додати пречице у менију"
-
-#: tlpkg/installer/install-menu-perltk.pl:332
-#: tlpkg/installer/install-menu-perltk.pl:539
-#: tlpkg/installer/install-menu-perltk.pl:544
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1520
-#: texmf/scripts/texlive/tlmgrgui.pl:1524
-msgid "Change file associations"
-msgstr "Повежи типове фајлова са одговарајућим програмима"
-
-#: tlpkg/installer/install-menu-perltk.pl:339
-msgid "Installation for all users"
-msgstr "Инсталација за све кориснике"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 msgid "Install TeXworks front end"
