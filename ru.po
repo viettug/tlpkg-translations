@@ -6,15 +6,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-16 04:13+0200\n"
-"PO-Revision-Date: 2010-11-01 11:27+0800\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2011-06-16 12:52-0500\n"
+"Last-Translator: Boris Veytsman <borisv@lk.net>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 1.1\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
@@ -35,7 +34,8 @@ msgstr "Установка TeX Live %s"
 #: tlpkg/installer/install-menu-perltk.pl:761
 #: tlpkg/installer/install-menu-perltk.pl:825
 #: tlpkg/installer/install-menu-perltk.pl:856
-#: texmf/scripts/texlive/tlmgrgui.pl:584 texmf/scripts/texlive/tlmgrgui.pl:585
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:585
 #: texmf/scripts/texlive/tlmgrgui.pl:995
 #: texmf/scripts/texlive/tlmgrgui.pl:1198
 #: texmf/scripts/texlive/tlmgrgui.pl:1304
@@ -139,7 +139,7 @@ msgstr "требуется места на диске:"
 #: tlpkg/installer/install-menu-wizard.pl:272
 #: tlpkg/installer/install-menu-perltk.pl:924
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
+msgstr "(в директорию по умолчанию писать нельзя - пожалуйста, задайте другое значение)"
 
 #: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
@@ -155,9 +155,12 @@ msgstr "Введите путь для"
 #: tlpkg/installer/install-menu-perltk.pl:823
 #: tlpkg/installer/install-menu-perltk.pl:854
 #: tlpkg/installer/install-menu-perltk.pl:871
-#: texmf/scripts/texlive/tlmgrgui.pl:219 texmf/scripts/texlive/tlmgrgui.pl:584
-#: texmf/scripts/texlive/tlmgrgui.pl:588 texmf/scripts/texlive/tlmgrgui.pl:590
-#: texmf/scripts/texlive/tlmgrgui.pl:608 texmf/scripts/texlive/tlmgrgui.pl:787
+#: texmf/scripts/texlive/tlmgrgui.pl:219
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:588
+#: texmf/scripts/texlive/tlmgrgui.pl:590
+#: texmf/scripts/texlive/tlmgrgui.pl:608
+#: texmf/scripts/texlive/tlmgrgui.pl:787
 #: texmf/scripts/texlive/tlmgrgui.pl:1007
 #: texmf/scripts/texlive/tlmgrgui.pl:1349
 #: texmf/scripts/texlive/tlmgrgui.pl:1379
@@ -186,7 +189,7 @@ msgstr "Формат страницы по умолчанию"
 #: tlpkg/installer/install-menu-wizard.pl:343
 #: tlpkg/installer/install-menu-perltk.pl:326
 msgid "Add menu shortcuts"
-msgstr ""
+msgstr "Добавить пункты меню"
 
 #: tlpkg/installer/install-menu-wizard.pl:344
 #: tlpkg/installer/install-menu-perltk.pl:332
@@ -284,16 +287,10 @@ msgstr "Установить"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "В %s/index.html можно найти ссылки на документацию.\n"
-"Последние обновления и исправления доступны на странице TeX Live (http://tug."
-"org/texlive/). TeX Live это совместный проект групп пользователей TeX'а по "
-"всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам "
-"группе. Список групп доступен на странице http://tug.org/usergroups.html."
+"Последние обновления и исправления доступны на странице TeX Live (http://tug.org/texlive/). TeX Live это совместный проект групп пользователей TeX'а по всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам группе. Список групп доступен на странице http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:510
 #: tlpkg/installer/install-menu-perltk.pl:424
@@ -388,7 +385,7 @@ msgstr "Подготовка директорий"
 
 #: tlpkg/installer/install-menu-perltk.pl:227
 msgid "Portable setup"
-msgstr ""
+msgstr "Настройка для переносимой системы (например, на флешке USB)"
 
 #: tlpkg/installer/install-menu-perltk.pl:229
 #: tlpkg/installer/install-menu-perltk.pl:286
@@ -485,7 +482,7 @@ msgstr "Введите путь для %s (используйте ~ для %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:602
 msgid "custom selection of collections"
-msgstr ""
+msgstr "выбор коллекций"
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"
@@ -601,8 +598,7 @@ msgid ""
 msgstr ""
 "У вас нет достаточных полномочий, чтобы изменить как-либо установку,\n"
 "в частности, нет прав на запись для директории %s.\n"
-"Запустите эту программу от имени администратора или свяжитесь с вашим "
-"администратором.\n"
+"Запустите эту программу от имени администратора или свяжитесь с вашим администратором.\n"
 "\n"
 "Большая часть кнопок будет отключена."
 
@@ -627,7 +623,8 @@ msgstr "Отображение конфигурации"
 msgid "Status"
 msgstr "Статус"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:286 texmf/scripts/texlive/tlmgrgui.pl:339
+#: texmf/scripts/texlive/tlmgrgui.pl:286
+#: texmf/scripts/texlive/tlmgrgui.pl:339
 msgid "all"
 msgstr "все"
 
@@ -777,7 +774,7 @@ msgstr "Платформы ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 msgid "GUI Language ..."
-msgstr ""
+msgstr "Язык графической оболочки..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:518
 #: texmf/scripts/texlive/tlmgrgui.pl:1377
@@ -845,7 +842,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Руководство"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:605 texmf/scripts/texlive/tlmgrgui.pl:607
+#: texmf/scripts/texlive/tlmgrgui.pl:605
+#: texmf/scripts/texlive/tlmgrgui.pl:607
 msgid "About"
 msgstr "О программе"
 
@@ -912,9 +910,7 @@ msgstr "Коллекция:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:704
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Предупреждение: версии по каталогу могут быть устарелыми или попросту "
-"неверными."
+msgstr "Предупреждение: версии по каталогу могут быть устарелыми или попросту неверными."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
@@ -944,7 +940,8 @@ msgstr "Программы:"
 msgid "Further information"
 msgstr "Дополнительная информация"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:976 texmf/scripts/texlive/tlmgrgui.pl:981
+#: texmf/scripts/texlive/tlmgrgui.pl:976
+#: texmf/scripts/texlive/tlmgrgui.pl:981
 msgid "Select platforms to support"
 msgstr "Выберите необходимые вам архитектуры"
 
@@ -1028,17 +1025,17 @@ msgstr "Формат по умолчанию для"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1309
 msgid "GUI Language"
-msgstr ""
+msgstr "Язык графической оболочки"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1335
 #: texmf/scripts/texlive/tlmgrgui.pl:1351
 msgid "System default"
-msgstr ""
+msgstr "Системное значение по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
 msgid "Default language for GUI:"
-msgstr ""
+msgstr "Язык по умолчанию для графической оболочки:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
@@ -1086,14 +1083,12 @@ msgstr ""
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different "
-"package repository!\n"
+"If you want to install or update packages, please try with a different package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Не могу загрузить базу данных TeX Live из %s\n"
-"Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий "
-"пакетов!\n"
+"Если вы хотите установить или обновить пакеты, попробуйте другой репозиторий пакетов!\n"
 "\n"
 "Для настройки или удаления вам это не нужно."
 
@@ -1108,17 +1103,24 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
+"Установлены критические обновления.\n"
+"Сейчас программа завершится.\n"
+"Если надо, пожалуйста, перезапустите систему."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1968
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"Найдены обновления для программы tlmgr.\n"
+"Установка и обновление не запустятся без прямого приказа.\n"
+"Пожалуйста, выйдите из этого диалога и выберите кнопку \"Обновить все установленные пакеты\".\n"
+"\n"
+"                             После обновления программа завершится."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1970
 #, perl-format
@@ -1126,12 +1128,8 @@ msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr "После обновления tlmgr будут доступны ещё %s обновлений."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1972
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Пожалуйста, подождите немного после завершения программы, чтобы обновление "
-"завершилось."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Пожалуйста, подождите немного после завершения программы, чтобы обновление завершилось."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
 msgid "Restore done"
@@ -1464,7 +1462,7 @@ msgstr "Норвежский"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "Другие схемы переноса"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1564,13 +1562,10 @@ msgstr "Пакеты XeTeX"
 
 #~ msgid "Other hyphenation files"
 #~ msgstr "Другие файлы переносов"
-
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Добавить ярлыки в меню и на рабочий стол"
-
 #~ msgid "LaTeX3 packages"
 #~ msgstr "Пакеты LaTex3"
-
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
 #~ "Installation and upgrades won't work without being forced.\n"
@@ -1585,114 +1580,83 @@ msgstr "Пакеты XeTeX"
 #~ "внизу.\n"
 #~ "Программа будет закрыта после обновления.\n"
 #~ "Затем вы можете запустить программу снова для дальнейших обновлений."
-
 #~ msgid "(no description available)"
 #~ msgstr "(нет описания)"
-
 #~ msgid "Use Ctrl or Shift or drag to select more"
 #~ msgstr ""
 #~ "Чтобы выбрать более одного элемента, используйте Ctrl, Shift или "
 #~ "перетаскивание"
-
 #~ msgid "Select packages"
 #~ msgstr "Выберите пакеты"
-
 #~ msgid "Search"
 #~ msgstr "Найти"
-
 #~ msgid "Next"
 #~ msgstr "Далее"
-
 #~ msgid "Information on the selected item"
 #~ msgstr "Информация по выбранным элементам"
-
 #~ msgid "Force"
 #~ msgstr "Принудительно"
-
 #~ msgid ""
 #~ "Force the removal of a package even if it is referenced in a collection."
 #~ msgstr "Удалить пакет, даже если на него ссылаются в коллекции."
-
 #~ msgid "without depends"
 #~ msgstr "без зависимостей"
-
 #~ msgid ""
 #~ "For collections: install or remove will not install/remove the "
 #~ "dependencies"
 #~ msgstr ""
 #~ "Для коллекций: установка или удаление не будет означать установку/"
 #~ "удаление зависимостей"
-
 #~ msgid "Architectures"
 #~ msgstr "Архитектуры"
-
 #~ msgid "Select architectures to support"
 #~ msgstr "Выберите архитектуры, которые вам необходимы"
-
 #~ msgid "Reset changes"
 #~ msgstr "Сбросить изменения"
-
 #~ msgid "Removals of the main architecture not possible!"
 #~ msgstr "Удаление основной архитектуры невозможно!"
-
 #~ msgid "Configuration"
 #~ msgstr "Настройки"
-
 #~ msgid "Default settings"
 #~ msgstr "Значения по умолчанию"
-
 #~ msgid "Paper settings"
 #~ msgstr "Настройки формата страницы"
-
 #~ msgid "Re-initialize file database"
 #~ msgstr "Инициализировать заново базу данных файлов"
-
 #~ msgid "Re-create all formats"
 #~ msgstr "Создать заново все форматы"
-
 #~ msgid "Uninstallation"
 #~ msgstr "Удалить TeX Live"
-
 #~ msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
 #~ msgstr ""
 #~ "Используйте пункт \"Установка и удаление программ\" в Панели управления!"
-
 #~ msgid ""
 #~ "Really remove the complete TeX Live %s installation?\n"
 #~ "Your last chance to change your mind!"
 #~ msgstr ""
 #~ "Действительно удалить всю установку TeX Live %s?\n"
 #~ "Это ваш последний шанс изменить своё решение!"
-
 #~ msgid "Current package repository:"
 #~ msgstr "Текущий репозиторий пакетов"
-
 #~ msgid "Load"
 #~ msgstr "Загрузить"
-
 #~ msgid "Press this button to load the database from the package repository."
 #~ msgstr ""
 #~ "Нажмите эту кнопку, чтобы загрузить базу данных из репозитория пакетов."
-
 #~ msgid ""
 #~ "Change package repository from where packages are fetched at installation "
 #~ "and update time."
 #~ msgstr ""
 #~ "Измените репозиторий пакетов, откуда будут получены обновлённые и новые "
 #~ "пакеты."
-
 #~ msgid "Debug"
 #~ msgstr "Отладка"
-
 #~ msgid "Turn on debug mode."
 #~ msgstr "Включить отладку."
-
 #~ msgid "Adding packages"
 #~ msgstr "Добавление пакетов"
-
 #~ msgid "Install selected"
 #~ msgstr "Установить выбранное"
-
 #~ msgid ""
 #~ "The database of the package repository has not been loaded.\n"
 #~ "\n"
@@ -1702,28 +1666,20 @@ msgstr "Пакеты XeTeX"
 #~ "\n"
 #~ "Чтобы это сделать, используйте кнопку \"Загрузить\" (и возможно \"Изменить"
 #~ "\")."
-
 #~ msgid "Updating packages"
 #~ msgstr "Обновление пакетов"
-
 #~ msgid "Update all"
 #~ msgstr "Обновить все"
-
 #~ msgid "Update selected"
 #~ msgstr "Обновить выбранные"
-
 #~ msgid "Removing packages"
 #~ msgstr "Удаление пакетов"
-
 #~ msgid "Remove selected"
 #~ msgstr "Удалить выбранные"
-
 #~ msgid "Please click on an item on the left for details"
 #~ msgstr "Чтобы получить подробную информацию, нажмите на элемент слева"
-
 #~ msgid "...please change me..."
 #~ msgstr "...пожалуйста измените меня..."
-
 #~ msgid ""
 #~ "No updates found.\n"
 #~ "\n"
@@ -1746,10 +1702,8 @@ msgstr "Пакеты XeTeX"
 #~ "\n"
 #~ "Если вы хотите пользоваться им постоянно, перейдите к вкладке \"Настройка"
 #~ "\" и измените репозиторий пакетов по умолчанию."
-
 #~ msgid "Everything up-to-date!"
 #~ msgstr "Всё обновлено!"
-
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
 #~ "Installation and upgrades won't work without being forced.\n"
@@ -1764,55 +1718,40 @@ msgstr "Пакеты XeTeX"
 #~ "\".\n"
 #~ "Программа будет закрыта после обновления.\n"
 #~ "Затем вы можете запустить программу снова для дальнейших обновлений."
-
 #~ msgid "Change package repository"
 #~ msgstr "Изменить репозиторий пакетов"
-
 #~ msgid "New package repository:"
 #~ msgstr "Новый репозиторий пакетов:"
-
 #~ msgid "Warning Window"
 #~ msgstr "Предупреждение"
-
 #~ msgid "Use letter size instead of A4 by default"
 #~ msgstr "Использовать формат letter вместо A4 по умолчанию"
-
 #~ msgid "pattern:"
 #~ msgstr "шаблон:"
-
 #~ msgid "Architectures ..."
 #~ msgstr "Архитектуры ..."
 
 #, fuzzy
 #~ msgid "Update LuaTeX font database"
 #~ msgstr "Обновить базу данных шрифтов"
-
 #~ msgid "File"
 #~ msgstr "Файл"
-
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s коллекций из %s (требуется место на диске: %s MB)"
-
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(используйте ~ для %%%)"
-
 #~ msgid "Select set of supported architectures"
 #~ msgstr "Выберите набор из поддерживаемых архитектур"
-
 #~ msgid "Change Location"
 #~ msgstr "Изменить адрес"
-
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Выберите добавляемые архитектуры (удаление не возможно)"
-
 #~ msgid "Default installation source"
 #~ msgstr "Источник установки по умолчанию"
-
 #~ msgid "New default installation source"
 #~ msgstr "Новый источник установки по умолчанию"
-
 #~ msgid "Default net location"
 #~ msgstr "Сетевой адрес по умолчанию"
-
 #~ msgid "Current installation source:"
 #~ msgstr "Текущий источник установки:"
+
