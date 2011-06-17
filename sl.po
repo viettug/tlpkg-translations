@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-17 04:13+0200\n"
-"PO-Revision-Date: 2011-06-07 21:22+0100\n"
+"PO-Revision-Date: 2011-06-17 17:01+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -31,7 +31,8 @@ msgstr "Namestitev TeX Live %s"
 #: tlpkg/installer/install-menu-perltk.pl:761
 #: tlpkg/installer/install-menu-perltk.pl:825
 #: tlpkg/installer/install-menu-perltk.pl:856
-#: texmf/scripts/texlive/tlmgrgui.pl:584 texmf/scripts/texlive/tlmgrgui.pl:585
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:585
 #: texmf/scripts/texlive/tlmgrgui.pl:995
 #: texmf/scripts/texlive/tlmgrgui.pl:1198
 #: texmf/scripts/texlive/tlmgrgui.pl:1304
@@ -154,9 +155,12 @@ msgstr "Nastavite pot do"
 #: tlpkg/installer/install-menu-perltk.pl:823
 #: tlpkg/installer/install-menu-perltk.pl:854
 #: tlpkg/installer/install-menu-perltk.pl:871
-#: texmf/scripts/texlive/tlmgrgui.pl:219 texmf/scripts/texlive/tlmgrgui.pl:584
-#: texmf/scripts/texlive/tlmgrgui.pl:588 texmf/scripts/texlive/tlmgrgui.pl:590
-#: texmf/scripts/texlive/tlmgrgui.pl:608 texmf/scripts/texlive/tlmgrgui.pl:787
+#: texmf/scripts/texlive/tlmgrgui.pl:219
+#: texmf/scripts/texlive/tlmgrgui.pl:584
+#: texmf/scripts/texlive/tlmgrgui.pl:588
+#: texmf/scripts/texlive/tlmgrgui.pl:590
+#: texmf/scripts/texlive/tlmgrgui.pl:608
+#: texmf/scripts/texlive/tlmgrgui.pl:787
 #: texmf/scripts/texlive/tlmgrgui.pl:1007
 #: texmf/scripts/texlive/tlmgrgui.pl:1349
 #: texmf/scripts/texlive/tlmgrgui.pl:1379
@@ -286,17 +290,13 @@ msgstr "Namesti"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Glej %s/index.html za povezave do dokumentacije. Na domači strani\n"
 "(http://tug.org/texlive/) lahko najdete posodobitve in popravke.\n"
 "TeX Live je skupni projekt društev uporabnikov TeX-a širom sveta;\n"
 "podprete ga lahko s pristopom k enemu izmed njih. \n"
-"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups."
-"html."
+"Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:510
 #: tlpkg/installer/install-menu-perltk.pl:424
@@ -638,7 +638,8 @@ msgstr "Kriteriji za prikaz paketov"
 msgid "Status"
 msgstr "Status"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:286 texmf/scripts/texlive/tlmgrgui.pl:339
+#: texmf/scripts/texlive/tlmgrgui.pl:286
+#: texmf/scripts/texlive/tlmgrgui.pl:339
 msgid "all"
 msgstr "vsi"
 
@@ -821,8 +822,7 @@ msgstr "Onemogoči samodejno nameščanje novih paketov"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:529
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
-"Onemogoči samodejno odstranjevanje paketov, ki so bili izbrisani iz strežnika"
+msgstr "Onemogoči samodejno odstranjevanje paketov, ki so bili izbrisani iz strežnika"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:536
 msgid "Update filename database"
@@ -876,7 +876,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Priročnik"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:605 texmf/scripts/texlive/tlmgrgui.pl:607
+#: texmf/scripts/texlive/tlmgrgui.pl:605
+#: texmf/scripts/texlive/tlmgrgui.pl:607
 msgid "About"
 msgstr "O programu"
 
@@ -983,7 +984,8 @@ msgstr "Binarne datoteke:"
 msgid "Further information"
 msgstr "Dodatne informacije"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:976 texmf/scripts/texlive/tlmgrgui.pl:981
+#: texmf/scripts/texlive/tlmgrgui.pl:976
+#: texmf/scripts/texlive/tlmgrgui.pl:981
 #, fuzzy
 msgid "Select platforms to support"
 msgstr "Izbira podprtih arhitektur"
@@ -1131,14 +1133,12 @@ msgstr ""
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different "
-"package repository!\n"
+"If you want to install or update packages, please try with a different package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Iz \"%s\" ni mogoče prebrati podatkovne baze za TeX Live.\n"
-"Če želite nameščati ali posodabljati pakete, poskusite z drugim "
-"repozitorijem.\n"
+"Če želite nameščati ali posodabljati pakete, poskusite z drugim repozitorijem.\n"
 "\n"
 "Za konfiguracijo ali odstranjevanje paketov vam ni potrebno storiti ničesar."
 
@@ -1162,12 +1162,15 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"Na voljo so posodobitve za program \"tlmgr\", ki ga trenutnouporabljate.\n"
+"Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
+"preden v zavihku \"Posodobitve\" izberete \"Posodobi vse\".\n"
+"Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1970
 #, perl-format
@@ -1175,12 +1178,8 @@ msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr "Na voljo je vsaj %s posodobljenih paketov"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1972
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Please wait a bit after the program has terminated so that the update can be completed."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
@@ -1259,9 +1258,7 @@ msgstr "namestitev GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr ""
-"srednje velika namestitev (plain TeX, LaTeX, priporočljivi paketi, podpora "
-"za nekatere jezike)"
+msgstr "srednje velika namestitev (plain TeX, LaTeX, priporočljivi paketi, podpora za nekatere jezike)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1269,9 +1266,7 @@ msgstr "minimalna namestitev (samo plain TeX)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "teTeX scheme (more than medium, but nowhere near full)"
-msgstr ""
-"namestitev, podobna teTeX-u (večja od srednje velike, toda mnogo manjša od "
-"polne)"
+msgstr "namestitev, podobna teTeX-u (večja od srednje velike, toda mnogo manjša od polne)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "XML scheme"
@@ -1523,7 +1518,7 @@ msgstr "norveški"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "ostali delilni vzorci"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1622,229 +1617,3 @@ msgstr "Dodatni programi za Okna"
 msgid "XeTeX packages"
 msgstr "Paketi za XeTeX"
 
-#~ msgid "Restore done"
-#~ msgstr "Obnovitev paketov končana"
-
-#~ msgid "Other hyphenation files"
-#~ msgstr "ostali delilni vzorci"
-
-#~ msgid "Add shortcuts to menu and desktop"
-#~ msgstr "Dodaj bližnjice v meni in na omizje."
-
-#, fuzzy
-#~ msgid ""
-#~ "Updates for the tlmgr are present.\n"
-#~ "Installation and upgrades won't work without being forced.\n"
-#~ "Please select \"Update all installed\" button below.\n"
-#~ "The program will terminate after the update.\n"
-#~ "Then you can restart the program for further updates."
-#~ msgstr ""
-#~ "Na voljo so posodobitve za program \"tlmgr\", ki ga trenutno "
-#~ "uporabljate.\n"
-#~ "Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
-#~ "preden v zavihku \"Posodobitve\" izberete \"Posodobi vse\".\n"
-#~ "Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
-
-#~ msgid "(no description available)"
-#~ msgstr "(brez opisa)"
-
-#~ msgid "Use Ctrl or Shift or drag to select more"
-#~ msgstr "Uporabite Ctrl ali Shift za izbiro večih paketov naenkrat"
-
-#~ msgid "Select packages"
-#~ msgstr "Izberi pakete"
-
-#~ msgid "Search"
-#~ msgstr "Išči"
-
-#~ msgid "Next"
-#~ msgstr "Naslednji"
-
-#~ msgid "Information on the selected item"
-#~ msgstr "Informacije o izbranih"
-
-#, fuzzy
-#~ msgid "Force"
-#~ msgstr "brezpogojno"
-
-#~ msgid ""
-#~ "Force the removal of a package even if it is referenced in a collection."
-#~ msgstr "Brezpogojno odstrani paket, četudi je del nameščene zbirke."
-
-#~ msgid "without depends"
-#~ msgstr "brez upoštevanja odvisnosti"
-
-# To je skoraj gotovo narobe
-#~ msgid ""
-#~ "For collections: install or remove will not install/remove the "
-#~ "dependencies"
-#~ msgstr ""
-#~ "Namestitev ali odstranitev zbirk ne bo namestila/odstranila odvisnih "
-#~ "paketkov"
-
-#~ msgid "Architectures"
-#~ msgstr "Arhitekture"
-
-#, fuzzy
-#~ msgid "Select architectures to support"
-#~ msgstr "Izbira podprtih arhitektur"
-
-#~ msgid "Reset changes"
-#~ msgstr "Ponastavi spremembe"
-
-#~ msgid "Removals of the main architecture not possible!"
-#~ msgstr "Odstranitev arhitekture, na kateri teče računalnik, ni mogoča."
-
-#~ msgid "Configuration"
-#~ msgstr "Nastavitve"
-
-#~ msgid "Default settings"
-#~ msgstr "Privzete nastavitve"
-
-#~ msgid "Paper settings"
-#~ msgstr "Nastavitve papirja"
-
-#, fuzzy
-#~ msgid "Re-initialize file database"
-#~ msgstr "Posodobi bazo datotek"
-
-#~ msgid "Re-create all formats"
-#~ msgstr "Ponovno generiraj vse formate"
-
-# 4. zavihek
-#~ msgid "Uninstallation"
-#~ msgstr "Odstrani TL"
-
-#~ msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
-#~ msgstr "Prosim uporabite \"Dodaj/odstrani programe\" v nadzorni plošči."
-
-#~ msgid ""
-#~ "Really remove the complete TeX Live %s installation?\n"
-#~ "Your last chance to change your mind!"
-#~ msgstr ""
-#~ "Ste prepričani, da želite odstraniti TeX Live %s?\n"
-#~ "To je še zadnja možnost, da si premislite."
-
-#~ msgid "Current package repository:"
-#~ msgstr "Trenutni repozitorij:"
-
-#~ msgid "Load"
-#~ msgstr "Naloži"
-
-#, fuzzy
-#~ msgid "Press this button to load the database from the package repository."
-#~ msgstr "Prebere podatkovno bazo iz repozitorija."
-
-#~ msgid ""
-#~ "Change package repository from where packages are fetched at installation "
-#~ "and update time."
-#~ msgstr "Spremeni repozitorij za nameščanje in posodabljanje paketov."
-
-#~ msgid "Debug"
-#~ msgstr "Razhroščevanje"
-
-#~ msgid "Turn on debug mode."
-#~ msgstr "Vključi razhroščevalni način."
-
-#~ msgid "Adding packages"
-#~ msgstr "Dodajanje paketov"
-
-#~ msgid "Install selected"
-#~ msgstr "Namesti izbrane"
-
-#~ msgid ""
-#~ "The database of the package repository has not been loaded.\n"
-#~ "\n"
-#~ "Please use the \"Load\" (and possibly \"Change\") button to do so."
-#~ msgstr ""
-#~ "Podatkovna baza iz repozitorija še ni bila naložena.\n"
-#~ "\n"
-#~ "To storite z gumbom \"Naloži\" (in po potrebi \"Spremeni\")."
-
-#~ msgid "Updating packages"
-#~ msgstr "Posodabljanje paketov"
-
-#~ msgid "Update all"
-#~ msgstr "Posodobi vse"
-
-#~ msgid "Update selected"
-#~ msgstr "Posodobi izbrane"
-
-#~ msgid "Removing packages"
-#~ msgstr "Odstranjevanje paketov"
-
-#~ msgid "Remove selected"
-#~ msgstr "Odstrani izbrane"
-
-#~ msgid "Please click on an item on the left for details"
-#~ msgstr "Izberite paket na levi za opis podrobnosti"
-
-#~ msgid "...please change me..."
-#~ msgstr "... prosim spremeni ..."
-
-#~ msgid ""
-#~ "No updates found.\n"
-#~ "\n"
-#~ "Your installation is set up to look on the disk for updates.\n"
-#~ "\n"
-#~ "If you want to install from the Internet for this one time only, click on "
-#~ "the \"Change\" button above and select \"Default net package repository"
-#~ "\" (or any other package repository you know to be working).\n"
-#~ "\n"
-#~ "If you want to change it permanently, go to the \"Configuration\" Tab and "
-#~ "change the default package repository."
-#~ msgstr ""
-#~ "Na disku ni najdenih posodobitev.\n"
-#~ "\n"
-#~ "Če želite samo tokrat posodobiti pakete z interneta, pritisnite gumb "
-#~ "\"Posodobi\" zgoraj in izberite \"Privzeti spletni repozitorij\" (ali "
-#~ "katerikoli drug repozitorij, ki ga poznate).\n"
-#~ "\n"
-#~ "Če želite vedno posodabljati z interneta, spremenite repozitorij v "
-#~ "zavihku \"Nastavitve\"."
-
-#~ msgid "Everything up-to-date!"
-#~ msgstr "Vsi paketi so posodobljeni."
-
-#~ msgid ""
-#~ "Updates for the tlmgr are present.\n"
-#~ "Installation and upgrades won't work without being forced.\n"
-#~ "Please go to the update screen and press the \"update all\" button.\n"
-#~ "The program will terminate after the update.\n"
-#~ "Then you can restart the program for further updates."
-#~ msgstr ""
-#~ "Na voljo so posodobitve za program \"tlmgr\", ki ga trenutno "
-#~ "uporabljate.\n"
-#~ "Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
-#~ "preden v zavihku \"Posodobitve\" izberete \"Posodobi vse\".\n"
-#~ "Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
-
-#~ msgid "Change package repository"
-#~ msgstr "Spremeni lokacijo repozitorija s paketi"
-
-#~ msgid "New package repository:"
-#~ msgstr "Nov repozitorij s paketi:"
-
-#~ msgid "Warning Window"
-#~ msgstr "Opozorilno okno"
-
-#~ msgid "Use letter size instead of A4 by default"
-#~ msgstr "Privzeto uporabi format letter namesto A4"
-
-#, fuzzy
-#~ msgid "pattern:"
-#~ msgstr "vklopi"
-
-#~ msgid "Architectures ..."
-#~ msgstr "Arhitekture ..."
-
-#, fuzzy
-#~ msgid "Update LuaTeX font database"
-#~ msgstr "Posodobi mapiranja za pisave"
-
-#, fuzzy
-#~ msgid "%s collections out of %s (disk space required: %s MB)"
-#~ msgstr "%s zbirk od %s"
-
-#~ msgid "(use ~ for %%%)"
-#~ msgstr "(uporabite ~ za %%%)"
