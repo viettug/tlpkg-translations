@@ -6,14 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live 2011 Serbian Translation 20110616\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-17 04:13+0200\n"
 "PO-Revision-Date: 2011-06-16 13:47+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:148
 #: tlpkg/installer/install-menu-perltk.pl:177
@@ -664,15 +665,15 @@ msgstr "шеме"
 msgid "Match"
 msgstr "Поклапање"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "descriptions"
 msgstr "описи"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr "обележја"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr "имена фајлова"
 
@@ -1144,9 +1145,6 @@ msgstr ""
 "Сачекајте мало након што се програм искључи како би се надоградња довршила."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr "Повраћај урађен"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 msgid "Restore completed"
 msgstr "Повраћај завршен"
@@ -1572,6 +1570,9 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid "Restore done"
+#~ msgstr "Повраћај урађен"
 
 #~ msgid "Other hyphenation files"
 #~ msgstr "Остали фајлови за прелом речи"

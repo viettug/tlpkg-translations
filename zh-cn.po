@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-17 04:13+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -657,16 +657,16 @@ msgstr "套装"
 msgid "Match"
 msgstr "匹配"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 #, fuzzy
 msgid "descriptions"
 msgstr "简短描述"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr ""
 
@@ -1125,9 +1125,6 @@ msgid ""
 msgstr "请在程序退出后等待一会，安装才会完成。"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr "已经恢复"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 msgid "Restore completed"
 msgstr "恢复完毕"
@@ -1552,6 +1549,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr ""
+
+#~ msgid "Restore done"
+#~ msgstr "已经恢复"
 
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "在桌面和菜单栏添加快捷方式"

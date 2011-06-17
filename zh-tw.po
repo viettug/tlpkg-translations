@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-17 04:13+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -648,16 +648,16 @@ msgstr ""
 msgid "Match"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 #, fuzzy
 msgid "descriptions"
 msgstr "選項"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr ""
 
@@ -1128,9 +1128,6 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr ""
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 #, fuzzy
 msgid "Restore completed"

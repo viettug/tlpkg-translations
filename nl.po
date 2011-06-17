@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-17 04:13+0200\n"
 "PO-Revision-Date: 2011-06-06 11:14+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -659,15 +659,15 @@ msgstr "Schema's"
 msgid "Match"
 msgstr "Match"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "descriptions"
 msgstr "beschrijvingen"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr "taxonomieën"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr "bestandsnamen"
 
@@ -1138,9 +1138,6 @@ msgstr ""
 "worden voltooid."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr "Klaar met herstel"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 msgid "Restore completed"
 msgstr "Volledig herstel voltooid"
@@ -1566,6 +1563,9 @@ msgstr "Windows hulpprogramma's"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX pakketten"
+
+#~ msgid "Restore done"
+#~ msgstr "Klaar met herstel"
 
 #~ msgid "Other hyphenation files"
 #~ msgstr "Andere afbreek-bestanden"

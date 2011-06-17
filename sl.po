@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-17 04:13+0200\n"
 "PO-Revision-Date: 2011-06-07 21:22+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -676,16 +676,16 @@ msgstr "sheme"
 msgid "Match"
 msgstr "Iskanje"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 #, fuzzy
 msgid "descriptions"
 msgstr "po opisu"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr "po ključnih besedah"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 #, fuzzy
 msgid "filenames"
 msgstr "po imenih datotek"
@@ -1183,9 +1183,6 @@ msgstr ""
 "completed."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr "Obnovitev paketov končana"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 #, fuzzy
 msgid "Restore completed"
@@ -1624,6 +1621,9 @@ msgstr "Dodatni programi za Okna"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Paketi za XeTeX"
+
+#~ msgid "Restore done"
+#~ msgstr "Obnovitev paketov končana"
 
 #~ msgid "Other hyphenation files"
 #~ msgstr "ostali delilni vzorci"
