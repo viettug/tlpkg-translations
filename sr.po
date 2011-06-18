@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Tex Live 2010 Serbian Translation 20100525\n"
+"Project-Id-Version: Tex Live 2011 Serbian Translation 20110616\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
-"PO-Revision-Date: 2011-06-07 19:38+0200\n"
+"POT-Creation-Date: 2011-06-18 04:12+0200\n"
+"PO-Revision-Date: 2011-06-16 13:47+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
 "Language: \n"
@@ -240,7 +240,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:967
 #: tlpkg/installer/install-menu-perltk.pl:973
 #: tlpkg/installer/install-menu-perltk.pl:1060
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -266,7 +266,7 @@ msgstr "да"
 #: tlpkg/installer/install-menu-perltk.pl:1069
 #: tlpkg/installer/install-menu-perltk.pl:1070
 #: tlpkg/installer/install-menu-perltk.pl:1072
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -534,6 +534,7 @@ msgstr ""
 "(архитектура - оперативни систем)"
 
 #: tlpkg/installer/install-menu-perltk.pl:869
+#: tlpkg/installer/install-menu-perltk.pl:1079
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 #: texmf/scripts/texlive/tlmgrgui.pl:1005
 #: texmf/scripts/texlive/tlmgrgui.pl:1573
@@ -573,6 +574,12 @@ msgstr "(прво промените TEXDIR!)"
 #: tlpkg/installer/install-menu-perltk.pl:947
 msgid "(default not writable - please change!)"
 msgstr "(није могуће уписивање на подразумевану локацију - промените је!)"
+
+#: tlpkg/installer/install-menu-perltk.pl:1080
+msgid ""
+"Portable option changed;\n"
+"Directories have been reinitialized"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -665,15 +672,15 @@ msgstr "шеме"
 msgid "Match"
 msgstr "Поклапање"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "descriptions"
 msgstr "описи"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr "обележја"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr "имена фајлова"
 
@@ -1145,9 +1152,6 @@ msgstr ""
 "Сачекајте мало након што се програм искључи како би се надоградња довршила."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr "Повраћај урађен"
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 msgid "Restore completed"
 msgstr "Повраћај завршен"
@@ -1476,7 +1480,7 @@ msgstr "Норвешки"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "Остала правила за прелом речи"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
@@ -1573,6 +1577,9 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid "Restore done"
+#~ msgstr "Повраћај урађен"
 
 #~ msgid "Other hyphenation files"
 #~ msgstr "Остали фајлови за прелом речи"

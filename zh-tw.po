@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-18 04:12+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -225,7 +225,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:967
 #: tlpkg/installer/install-menu-perltk.pl:973
 #: tlpkg/installer/install-menu-perltk.pl:1060
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -251,7 +251,7 @@ msgstr "是"
 #: tlpkg/installer/install-menu-perltk.pl:1069
 #: tlpkg/installer/install-menu-perltk.pl:1070
 #: tlpkg/installer/install-menu-perltk.pl:1072
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -520,6 +520,7 @@ msgid "Select arch-os"
 msgstr "選擇系統架構"
 
 #: tlpkg/installer/install-menu-perltk.pl:869
+#: tlpkg/installer/install-menu-perltk.pl:1079
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 #: texmf/scripts/texlive/tlmgrgui.pl:1005
 #: texmf/scripts/texlive/tlmgrgui.pl:1573
@@ -559,6 +560,12 @@ msgstr "(請首先改變 TEXDIR ！)"
 #: tlpkg/installer/install-menu-perltk.pl:947
 msgid "(default not writable - please change!)"
 msgstr "(默認位置不可寫 - 請做相應更改！)"
+
+#: tlpkg/installer/install-menu-perltk.pl:1080
+msgid ""
+"Portable option changed;\n"
+"Directories have been reinitialized"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -648,16 +655,16 @@ msgstr ""
 msgid "Match"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 #, fuzzy
 msgid "descriptions"
 msgstr "選項"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:309
+#: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
 msgstr ""
 
@@ -1128,9 +1135,6 @@ msgid ""
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
-msgid "Restore done"
-msgstr ""
-
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
 #, fuzzy
 msgid "Restore completed"
