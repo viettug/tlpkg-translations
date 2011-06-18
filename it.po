@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-06-17 04:13+0200\n"
+"POT-Creation-Date: 2011-06-18 04:12+0200\n"
 "PO-Revision-Date: 2011-03-01 17:08+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -237,7 +237,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:967
 #: tlpkg/installer/install-menu-perltk.pl:973
 #: tlpkg/installer/install-menu-perltk.pl:1060
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -263,7 +263,7 @@ msgstr "Sì"
 #: tlpkg/installer/install-menu-perltk.pl:1069
 #: tlpkg/installer/install-menu-perltk.pl:1070
 #: tlpkg/installer/install-menu-perltk.pl:1072
-#: tlpkg/installer/install-menu-perltk.pl:1084
+#: tlpkg/installer/install-menu-perltk.pl:1088
 #: texmf/scripts/texlive/tlmgrgui.pl:655
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1437
@@ -532,6 +532,7 @@ msgid "Select arch-os"
 msgstr "Seleziona le combinazioni di architetture e sistemi operativi"
 
 #: tlpkg/installer/install-menu-perltk.pl:869
+#: tlpkg/installer/install-menu-perltk.pl:1079
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 #: texmf/scripts/texlive/tlmgrgui.pl:1005
 #: texmf/scripts/texlive/tlmgrgui.pl:1573
@@ -571,6 +572,12 @@ msgstr "(è necessario cambiare TEXDIR!)"
 #: tlpkg/installer/install-menu-perltk.pl:947
 msgid "(default not writable - please change!)"
 msgstr "(non si hanno i permessi di scrittura - cambiare il percorso!)"
+
+#: tlpkg/installer/install-menu-perltk.pl:1080
+msgid ""
+"Portable option changed;\n"
+"Directories have been reinitialized"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
