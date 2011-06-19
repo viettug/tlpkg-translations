@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-04-28 04:16+0200\n"
-"PO-Revision-Date: 2011-06-18 11:58+0700\n"
+"PO-Revision-Date: 2011-06-19 15:59+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -569,6 +569,8 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
+"Đã đổi các tùy chọn cho cài đặt linh hoạt;\n"
+"Các thư mục vừa được thiết lập"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -580,7 +582,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:200
 msgid "Cannot load taxonomy file"
-msgstr ""
+msgstr "Không nạp được tập tin phân loại (taxonomy file)"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:212
 #: texmf/scripts/texlive/tlmgrgui.pl:1569
@@ -655,11 +657,11 @@ msgstr "các nhóm"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:301
 msgid "schemes"
-msgstr ""
+msgstr "các nhóm"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:304
 msgid "Match"
-msgstr ""
+msgstr "So khớp"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "descriptions"
@@ -667,7 +669,7 @@ msgstr "mô tả"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
-msgstr ""
+msgstr "phân loại"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
@@ -703,11 +705,11 @@ msgstr "Tên gói"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:381
 msgid "Local rev. (ver.)"
-msgstr ""
+msgstr "Phiên bản đang có"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:382
 msgid "Remote rev. (ver.)"
-msgstr ""
+msgstr "Phiên bản trên máy phục vụ"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:383
 msgid "Short description"
@@ -878,7 +880,7 @@ msgstr "Phiên bản đang có ở máy:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:661
 msgid "Local Catalogue Version:"
-msgstr ""
+msgstr "Phiên bản ca-ta-lô ở đang có:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:665
 msgid "Remote Revision:"
@@ -886,7 +888,7 @@ msgstr "Phiên bản ở xa:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:669
 msgid "Remote Catalogue Version:"
-msgstr ""
+msgstr "Phiên bản ca-ta-lô ở máy phục vụ:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
@@ -894,15 +896,15 @@ msgstr "Từ khóa:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Functionality:"
-msgstr ""
+msgstr "Chức năng:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:684
 msgid "Primary characterization:"
-msgstr ""
+msgstr "Đặc tính gốc:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:689
 msgid "Secondary characterization:"
-msgstr ""
+msgstr "Đặc tính phụ:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Collection:"
@@ -910,7 +912,7 @@ msgstr "Nhóm:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:704
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
+msgstr "Chú ý: Phiên bản ca-ta-lô có thể bị lệch hoặc sai"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
@@ -918,7 +920,7 @@ msgstr "Phụ thuộc vào:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:746
 msgid "Binaries' dependencies:"
-msgstr ""
+msgstr "Phần mà các tập tin nhị phân đòi hỏi:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:748
 msgid "Runfiles:"
@@ -1040,7 +1042,7 @@ msgstr "Ngôn ngữ mặc định của giao diện:"
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
 msgid "Changes will take effect after restart"
-msgstr ""
+msgstr "Thay đổi sẽ có tác dụng sau khi khởi động lại"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1392
 msgid "Change default package repository"
@@ -1103,6 +1105,9 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
+"Hoàn tất các cập nhật chủ yếu.\n"
+"Chương trình sẽ thoát.\n"
+"Vui lòng khởi động lại nếu cần thiết."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1968
 msgid ""
@@ -1113,11 +1118,17 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"Chương trình tlmgr đang ở tình trạng mới nhất.\n"
+"Cài đặt, nâng cấp vì thế sẽ không được thực hiện trừ khi có ép buộc.\n"
+"Hãy chọn \"Cập nhật mọi thứ đã cài\" sau khi thông báo này đóng lại.\n"
+"\n"
+"Chương trình sẽ đóng sau khi được cập nhật.\n"
+"Sau đó, bạn co thể khởi động lại chương trình để có có các cập nhật khác."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1970
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr ""
+msgstr "Sau khi cập nhật tlmgr thì sẽ có bổ sung thêm ít nhất %s cập nhật khác."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1972
 msgid "Please wait a bit after the program has terminated so that the update can be completed."
@@ -1130,11 +1141,11 @@ msgstr "Hoàn tất phục hồi"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2059
 msgid "Select the package to restore, or restore all packages"
-msgstr ""
+msgstr "Chọn gói để khôi phục, hoặc chọn khôi  phục mọi gói"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2075
 msgid "Revision:"
-msgstr ""
+msgstr "Phiên bản:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2080
 msgid "Restore selected package"
@@ -1142,11 +1153,11 @@ msgstr "Phục hồi gói đã chọn"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2096
 msgid "Restore all package to latest version"
-msgstr ""
+msgstr "Cài đặt mọi gói ở phiên bản mới nhất"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2112
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2144
 msgid "Update symbolic links"
@@ -1179,51 +1190,51 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and LaTeX)"
-msgstr ""
+msgstr "Nhóm cơ bản (plain TeX và LaTeX)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
-msgstr ""
+msgstr "Nhóm ConTeXt"
 
 #: tlpkg/translations/shortdesc.pl:3
 msgid "full scheme (everything)"
-msgstr ""
+msgstr "đầy đủ mọi thứ"
 
 #: tlpkg/translations/shortdesc.pl:4
 msgid "GUST TeX Live scheme"
-msgstr ""
+msgstr "Nhóm cho TeXLive GUST"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr ""
+msgstr "nhóm trung bình (plain, latex, các gói được khuyên dùng, hỗ trợ cho vài ngôn ngữ)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
-msgstr ""
+msgstr "nhóm tối thiểu (chỉ có \"plain TeX\")"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "teTeX scheme (more than medium, but nowhere near full)"
-msgstr ""
+msgstr "nhóm teTeX (nhiều hơn nhóm trung bình, nhưng chưa phải là đầy đủ)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "XML scheme"
-msgstr ""
+msgstr "nhóm XML"
 
 #: tlpkg/translations/shortdesc.pl:9
 msgid "Essential programs and files"
-msgstr ""
+msgstr "Các tập tin, chương trình bắt buộc"
 
 #: tlpkg/translations/shortdesc.pl:10
 msgid "Extra BibTeX styles"
-msgstr ""
+msgstr "Gói bổ sung cho BibTeX"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "TeX auxiliary programs"
-msgstr ""
+msgstr "Các chương trình hỗ trợ cho TeX"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "ConTeXt format"
-msgstr ""
+msgstr "Định dạng ConTeXt"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "Arabic documentation"
@@ -1315,7 +1326,7 @@ msgstr "Tài liệu tiếng Thổ Nhĩ Kỳ"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Ukrainian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Ukraine"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Vietnamese documentation"
@@ -1327,155 +1338,155 @@ msgstr "Các phông chữ bổ sung"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Recommended fonts"
-msgstr ""
+msgstr "Các phông chữ khuyên dùng"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "TeX and Outline font utilities"
-msgstr ""
+msgstr "Tiện ích cho TeX và xử lý phông outline"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
-msgstr ""
+msgstr "Định dạng bổ sung"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Games typesetting"
-msgstr ""
+msgstr "Sắp chữ trong các trò chơi"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "Extra generic packages"
-msgstr ""
+msgstr "Các gói bổ sung chung chung"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Recommended generic packages"
-msgstr ""
+msgstr "Các gói chung chung được khuyên dùng"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "HTML/SGML/XML support"
-msgstr ""
+msgstr "Hỗ trợ cho HTML/SGML/XML"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Humanities packages"
-msgstr ""
+msgstr "Gói cho khoa học nhân văn"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "African scripts"
-msgstr ""
+msgstr "Chữ viết châu Phi"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Arabic"
-msgstr ""
+msgstr "Tiếng Ả rập"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Armenian"
-msgstr ""
+msgstr "Tiếng Armenia"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "Chinese, Japanese, Korean"
-msgstr ""
+msgstr "Tiếng Trung, Nhật và Hàn"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Croatian"
-msgstr ""
+msgstr "Tiếng Croatia"
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Cyrillic"
-msgstr ""
+msgstr "Kiểu chữ Kirin"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "Czech/Slovak"
-msgstr ""
+msgstr "Czech/Slovka"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Danish"
-msgstr ""
+msgstr "Tiếng Đan Mạch"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "Dutch"
-msgstr ""
+msgstr "Tiến Đức"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "US and UK English"
-msgstr ""
+msgstr "Tiếng Anh (US, UK)"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Finnish"
-msgstr ""
+msgstr "Tiến Phần Lan"
 
 #: tlpkg/translations/shortdesc.pl:57
 msgid "French"
-msgstr ""
+msgstr "Tiến Pháp"
 
 #: tlpkg/translations/shortdesc.pl:58
 msgid "German"
-msgstr ""
+msgstr "Đức"
 
 #: tlpkg/translations/shortdesc.pl:59
 msgid "Greek"
-msgstr ""
+msgstr "Hy Lạp"
 
 #: tlpkg/translations/shortdesc.pl:60
 msgid "Hebrew"
-msgstr ""
+msgstr "Do thái"
 
 #: tlpkg/translations/shortdesc.pl:61
 msgid "Hungarian"
-msgstr ""
+msgstr "Tiếng Hungary"
 
 #: tlpkg/translations/shortdesc.pl:62
 msgid "Indic scripts"
-msgstr ""
+msgstr "Kiểu chữ Indic (thuộc Ấn Độ)"
 
 #: tlpkg/translations/shortdesc.pl:63
 msgid "Italian"
-msgstr ""
+msgstr "Tiếng Ý"
 
 #: tlpkg/translations/shortdesc.pl:64
 msgid "Latin"
-msgstr ""
+msgstr "Tiếng Latin"
 
 #: tlpkg/translations/shortdesc.pl:65
 msgid "Latvian"
-msgstr ""
+msgstr "Tiếng Latvia"
 
 #: tlpkg/translations/shortdesc.pl:66
 msgid "Lithuanian"
-msgstr ""
+msgstr "Tiếng Latvia"
 
 #: tlpkg/translations/shortdesc.pl:67
 msgid "Mongolian"
-msgstr ""
+msgstr "Tiếng Mông Cổ"
 
 #: tlpkg/translations/shortdesc.pl:68
 msgid "Norwegian"
-msgstr ""
+msgstr "Tiếng Na Uy"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "Các kiểu tách từ khác"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
-msgstr ""
+msgstr "Tiếng Ba Lan"
 
 #: tlpkg/translations/shortdesc.pl:71
 msgid "Portuguese"
-msgstr ""
+msgstr "Tiếng Thổ Nhĩ Kỳ"
 
 #: tlpkg/translations/shortdesc.pl:72
 msgid "Spanish"
-msgstr ""
+msgstr "Tiếng Bồ Đào Nha"
 
 #: tlpkg/translations/shortdesc.pl:73
 msgid "Swedish"
-msgstr ""
+msgstr "Tiếng Thụy Điển"
 
 #: tlpkg/translations/shortdesc.pl:74
 msgid "Tibetan"
-msgstr ""
+msgstr "Tiếng Tây Tạng"
 
 #: tlpkg/translations/shortdesc.pl:75
 msgid "Turkmen"
-msgstr ""
+msgstr "Turkmen"
 
 #: tlpkg/translations/shortdesc.pl:76
 msgid "Vietnamese"
