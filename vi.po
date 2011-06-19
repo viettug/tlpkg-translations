@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-04-28 04:16+0200\n"
-"PO-Revision-Date: 2011-06-16 17:49+0700\n"
+"PO-Revision-Date: 2011-06-18 11:58+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -134,7 +134,7 @@ msgstr "dung lượng đĩa cần thiết:"
 #: tlpkg/installer/install-menu-wizard.pl:272
 #: tlpkg/installer/install-menu-perltk.pl:924
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
+msgstr "(mặc định không cho phép hoặc không ghi được - hãy đổi lại!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
@@ -184,7 +184,7 @@ msgstr "Kiểu giấy mặc định"
 #: tlpkg/installer/install-menu-wizard.pl:343
 #: tlpkg/installer/install-menu-perltk.pl:326
 msgid "Add menu shortcuts"
-msgstr ""
+msgstr "Thêm liên kết nhanh vào menu"
 
 #: tlpkg/installer/install-menu-wizard.pl:344
 #: tlpkg/installer/install-menu-perltk.pl:332
@@ -477,7 +477,7 @@ msgstr "Nhập đường dẫn cho %s (dùng ký tự ~ để chỉ %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:602
 msgid "custom selection of collections"
-msgstr ""
+msgstr "tự chọn các nhóm"
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"
@@ -766,11 +766,11 @@ msgstr "Tổng quan ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:509
 msgid "Paper ..."
-msgstr ""
+msgstr "Kiểu giấy ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:512
 msgid "Platforms ..."
-msgstr ""
+msgstr "Kiểu hệ thống ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 msgid "GUI Language ..."
@@ -882,7 +882,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:665
 msgid "Remote Revision:"
-msgstr ""
+msgstr "Phiên bản ở xa:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:669
 msgid "Remote Catalogue Version:"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
-msgstr ""
+msgstr "Từ khóa:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Functionality:"
@@ -914,7 +914,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
-msgstr ""
+msgstr "Phụ thuộc vào:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:746
 msgid "Binaries' dependencies:"
@@ -922,19 +922,19 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:748
 msgid "Runfiles:"
-msgstr ""
+msgstr "Tập tin thi hành:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:749
 msgid "Docfiles:"
-msgstr ""
+msgstr "Tập tin tài liệu:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:750
 msgid "Srcfiles:"
-msgstr ""
+msgstr "Tập tin nguồn:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:762
 msgid "Binfiles:"
-msgstr ""
+msgstr "Tập tin thi hành:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:767
 msgid "Further information"
@@ -1016,7 +1016,7 @@ msgstr "Kiểu giấy mặc định cho tất cả"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1275
 msgid "a4"
-msgstr ""
+msgstr "a4"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1289
 #: texmf/scripts/texlive/tlmgrgui.pl:1471
@@ -1025,17 +1025,17 @@ msgstr "Kiểu giấy mặc định cho"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1309
 msgid "GUI Language"
-msgstr ""
+msgstr "Ngôn ngữ giao diện"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1335
 #: texmf/scripts/texlive/tlmgrgui.pl:1351
 msgid "System default"
-msgstr ""
+msgstr "Mặc định của hệ thống"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
 msgid "Default language for GUI:"
-msgstr ""
+msgstr "Ngôn ngữ mặc định của giao diện:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
@@ -1227,91 +1227,91 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "Arabic documentation"
-msgstr ""
+msgstr "Tài liệu Ả rập"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "TeX Live documentation"
-msgstr ""
+msgstr "Tài liệu dùng TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Bulgarian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Bungary"
 
 #: tlpkg/translations/shortdesc.pl:16
 msgid "Chinese documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Trung Quốc"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Czech/Slovak documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Czech/Slovak"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Dutch documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Đan Mạch"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "English documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Anh"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Finnish documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Phần Lan"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "French documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Pháp"
 
 #: tlpkg/translations/shortdesc.pl:22
 msgid "German documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Đức"
 
 #: tlpkg/translations/shortdesc.pl:23
 msgid "Italian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Ý"
 
 #: tlpkg/translations/shortdesc.pl:24
 msgid "Japanese documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Nhật"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Korean documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Hàn Quốc"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Mongolian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Mông Cổ"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Polish documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Ba Lan"
 
 #: tlpkg/translations/shortdesc.pl:28
 msgid "Portuguese documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Bồ Đào Nha"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Russian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Nga"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "Serbian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Serbia"
 
 #: tlpkg/translations/shortdesc.pl:31
 msgid "Slovenian documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Slovenia"
 
 #: tlpkg/translations/shortdesc.pl:32
 msgid "Spanish documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Tây Ban Nha"
 
 #: tlpkg/translations/shortdesc.pl:33
 msgid "Thai documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Thái"
 
 #: tlpkg/translations/shortdesc.pl:34
 msgid "Turkish documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Thổ Nhĩ Kỳ"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Ukrainian documentation"
@@ -1319,11 +1319,11 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Vietnamese documentation"
-msgstr ""
+msgstr "Tài liệu tiếng Việt"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Extra fonts"
-msgstr ""
+msgstr "Các phông chữ bổ sung"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Recommended fonts"
@@ -1479,71 +1479,71 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:76
 msgid "Vietnamese"
-msgstr ""
+msgstr "Tiếng Việt"
 
 #: tlpkg/translations/shortdesc.pl:77
 msgid "Basic LaTeX packages"
-msgstr ""
+msgstr "Gói cơ bản cho LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:78
 msgid "LaTeX supplementary packages"
-msgstr ""
+msgstr "Gói bổ sung cho LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
-msgstr ""
+msgstr "Gói LaTeX được khuyên dùng"
 
 #: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
-msgstr ""
+msgstr "gói cho LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
-msgstr ""
+msgstr "Sắp chữ công thức nâng cao"
 
 #: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
-msgstr ""
+msgstr "Gói vẽ hình bằng MetaPost (và Metafont)"
 
 #: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
-msgstr ""
+msgstr "Chế bản các khuông nhạc"
 
 #: tlpkg/translations/shortdesc.pl:84
 msgid "Omega"
-msgstr ""
+msgstr "Omega"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
-msgstr ""
+msgstr "Gói và chương trình cho đồ họa"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
-msgstr ""
+msgstr "Gói bổ sung cho \"plain TeX\""
 
 #: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
-msgstr ""
+msgstr "Các gói PStricks"
 
 #: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
-msgstr ""
+msgstr "Hỗ trợ cho xuất bản, luận văn, hội thảo, v.v..."
 
 #: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
-msgstr ""
+msgstr "Gói dành cho khoa học tự nhiên và máy tính"
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
-msgstr ""
+msgstr "TeXinfo bản GNU"
 
 #: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
-msgstr ""
+msgstr "Trình soạn thảo TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
-msgstr ""
+msgstr "Hỗ trợ cho Windows"
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
