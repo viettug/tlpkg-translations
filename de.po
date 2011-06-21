@@ -781,7 +781,7 @@ msgstr "Architekturen ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 msgid "GUI Language ..."
-msgstr "GUI Sprache"
+msgstr "GUI Sprache ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:518
 #: texmf/scripts/texlive/tlmgrgui.pl:1377
@@ -794,11 +794,11 @@ msgstr "Debug-Ausgabe"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:526
 msgid "Disable auto-install of new packages"
-msgstr "Auto-installation von Paketen abschalten"
+msgstr "Auto-Installation von Paketen abschalten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:529
 msgid "Disable auto-removal of server-deleted packages"
-msgstr "Auto-Entfernung von Paketen ausschalten"
+msgstr "Auto-Entfernung von Paketen abschalten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:536
 msgid "Update filename database"
@@ -825,7 +825,7 @@ msgstr "Verwaltung der symbolische links"
 #: texmf/scripts/texlive/tlmgrgui.pl:580
 #, perl-format
 msgid "Remove TeX Live %s ..."
-msgstr "TeX Live %s entfernen"
+msgstr "TeX Live %s entfernen ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:583
 #, perl-format
