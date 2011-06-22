@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-18 04:12+0200\n"
-"PO-Revision-Date: 2011-06-19 19:54+0100\n"
+"PO-Revision-Date: 2011-06-22 18:36+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -467,9 +467,8 @@ msgstr "Zakończ"
 
 #: tlpkg/installer/install-menu-perltk.pl:401
 #: tlpkg/installer/install-menu-perltk.pl:405
-#, fuzzy
 msgid "Installation process"
-msgstr "Instalacja"
+msgstr "Instalacja w toku"
 
 #: tlpkg/installer/install-menu-perltk.pl:483
 #: tlpkg/installer/install-menu-perltk.pl:514
@@ -545,9 +544,8 @@ msgstr "Ostrzeżenie"
 
 #: tlpkg/installer/install-menu-perltk.pl:870
 #: texmf/scripts/texlive/tlmgrgui.pl:1006
-#, fuzzy
 msgid "Removals of the main platform not possible!"
-msgstr "Usuwanie binariów dla głównego systemu operacyjnego jest niemożliwe!"
+msgstr "Usuwanie binariów dla głównej platformy jest niemożliwa!"
 
 #: tlpkg/installer/install-menu-perltk.pl:902
 #, perl-format
@@ -579,7 +577,7 @@ msgid ""
 "Directories have been reinitialized"
 msgstr ""
 "Zmieniono opcję dla instalacji przenośnej.\n"
-"Fordery ponownie zainicjowano"
+"Foldery zostały ponownie zainicjowane"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -924,7 +922,7 @@ msgstr "Kolekcja:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:704
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr "Uwaga:  nr wersji wg TeX Catalogue może być nie całkiem aktualny lub wręcz błędny."
+msgstr "Uwaga:  nr wersji wg TeX Catalogue może być niezbyt aktualny lub wręcz błędny."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
@@ -1021,9 +1019,8 @@ msgstr "Instaluj dla wszystkich użytkowników"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1261
 #: texmf/scripts/texlive/tlmgrgui.pl:1270
-#, fuzzy
 msgid "Paper options"
-msgstr "Ustawienie formatu papieru"
+msgstr "Opcje formatu papieru"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1274
 msgid "Default paper for all"
@@ -1134,7 +1131,7 @@ msgid ""
 msgstr ""
 "Dostępna jest aktualizacja programu tlmgr.\n"
 "Instalacje pakietów i aktualizacje nie będą działały bez włączenia trybu wymuszonego.\n"
-"Proszę  zaznaczyć przycisk \"Update all installed\" po opuszczeniu tego komunikatu.\n"
+"Proszę  zaznaczyć przycisk \"Aktualizuj wszystkie zainstalowane pakiety\" po zamknięciu tego komunikatu.\n"
 "\n"
 "Po aktualizacji program zakończy działanie.\n"
 "Uruchom ponownie dla kontynuacji aktualizowania. "
@@ -1524,7 +1521,7 @@ msgstr "Pakiety LuaTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
-msgstr "Skład zaawanowanej matematyki"
+msgstr "Skład zaawansowanej matematyki"
 
 #: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
