@@ -1,12 +1,12 @@
 #
-# Manuel Pégourié-Gonnard <mpg@tug.org>, 2010.
+# Manuel Pégourié-Gonnard <mpg@tug.org>, 2010, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-18 04:12+0200\n"
-"PO-Revision-Date: 2010-08-13 14:19+0200\n"
+"PO-Revision-Date: 2011-06-23 19:23+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -139,7 +139,7 @@ msgstr "espace disque nécessaire :"
 #: tlpkg/installer/install-menu-wizard.pl:272
 #: tlpkg/installer/install-menu-perltk.pl:924
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
+msgstr "(répertoire par défaut interdit en écriture - veuillez le modifier!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:282
 msgid "Enter path for"
@@ -186,7 +186,7 @@ msgstr "Taille de papier par défaut"
 #: tlpkg/installer/install-menu-wizard.pl:343
 #: tlpkg/installer/install-menu-perltk.pl:326
 msgid "Add menu shortcuts"
-msgstr ""
+msgstr "Ajouter des raccourcis au menu"
 
 #: tlpkg/installer/install-menu-wizard.pl:344
 #: tlpkg/installer/install-menu-perltk.pl:332
@@ -390,7 +390,7 @@ msgstr "Choix des répertoires"
 
 #: tlpkg/installer/install-menu-perltk.pl:227
 msgid "Portable setup"
-msgstr ""
+msgstr "Options de portabilité"
 
 #: tlpkg/installer/install-menu-perltk.pl:229
 #: tlpkg/installer/install-menu-perltk.pl:286
@@ -487,7 +487,7 @@ msgstr "Entrer le chemin %s (utiliser ~ pour %s)"
 
 #: tlpkg/installer/install-menu-perltk.pl:602
 msgid "custom selection of collections"
-msgstr ""
+msgstr "sélection personnalisée de collections"
 
 #: tlpkg/installer/install-menu-perltk.pl:640
 msgid "Select the collections to be installed"
@@ -580,6 +580,8 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
+"Option 'portable' modifiée :\n"
+"Les chemins d'installation ont été réinitialisés."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -591,7 +593,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:200
 msgid "Cannot load taxonomy file"
-msgstr ""
+msgstr "Échec du chargement du fichier de taxonomie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:212
 #: texmf/scripts/texlive/tlmgrgui.pl:1569
@@ -677,7 +679,7 @@ msgstr "Descriptions"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:312
 msgid "taxonomies"
-msgstr ""
+msgstr "taxonomies"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "filenames"
@@ -784,7 +786,7 @@ msgstr "Plate-formes..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 msgid "GUI Language ..."
-msgstr ""
+msgstr "Langue pour l'interface graphique ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:518
 #: texmf/scripts/texlive/tlmgrgui.pl:1377
@@ -899,19 +901,19 @@ msgstr "Version du dépôt d'après le catalogue :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
-msgstr ""
+msgstr "Mots clefs :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Functionality:"
-msgstr ""
+msgstr "Fonctionalité :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:684
 msgid "Primary characterization:"
-msgstr ""
+msgstr "Caractérisation primaire :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:689
 msgid "Secondary characterization:"
-msgstr ""
+msgstr "Caractérisation secondaire :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Collection:"
@@ -1035,17 +1037,17 @@ msgstr "Papier par défaut pour"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1309
 msgid "GUI Language"
-msgstr ""
+msgstr "Langue pour l'interface graphique :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1330
 #: texmf/scripts/texlive/tlmgrgui.pl:1335
 #: texmf/scripts/texlive/tlmgrgui.pl:1351
 msgid "System default"
-msgstr ""
+msgstr "valeur par défaut du système"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1334
 msgid "Default language for GUI:"
-msgstr ""
+msgstr "Langue par défaut pour l'interface graphique :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1347
 #: texmf/scripts/texlive/tlmgrgui.pl:1376
@@ -1115,6 +1117,9 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
+"Des mises à jour critiques viennent d'être installées.\n"
+"Le programme va maintenant s'arrêter.\n"
+"Veuillez le relancer si nécessaire."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1968
 msgid ""
@@ -1126,6 +1131,14 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
+"Des mises à jour de tlmgr sont disponibles.\n"
+"Les installations et mises à jour ne seront pas effectuées à moins d'être "
+"forcées.\n"
+"Veuillez sélectionner \"Mettre à jour tous les paquets installés\" après "
+"avoir fermé cette fenêtre.\n"
+"\n"
+"Le programme s'arrêtera après cette mise à jour.\n"
+"Vous pourrez le relancer ultérieurement pour d'autres mises à jour."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1970
 #, perl-format
@@ -1470,7 +1483,7 @@ msgstr "Norvégien"
 
 #: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
-msgstr ""
+msgstr "Autres motifs de césure"
 
 #: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
