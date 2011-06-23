@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-04-28 04:16+0200\n"
-"PO-Revision-Date: 2011-06-20 05:54+0700\n"
+"PO-Revision-Date: 2011-06-23 21:47+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -92,7 +92,7 @@ msgstr "Hoặc dùng tham số --gui expert để cài texlive."
 #: tlpkg/installer/install-menu-wizard.pl:207
 #: tlpkg/installer/install-menu-wizard.pl:437
 msgid "Destination folder:"
-msgstr "Destination folder:"
+msgstr "Cài đặt vào thư mục:"
 
 #: tlpkg/installer/install-menu-wizard.pl:209
 #: tlpkg/installer/install-menu-perltk.pl:190
@@ -1566,7 +1566,7 @@ msgstr "Gói dành cho khoa học tự nhiên và máy tính"
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
-msgstr "TeXinfo bản GNU"
+msgstr "Texinfo bản GNU"
 
 #: tlpkg/translations/shortdesc.pl:91
 msgid "The TeXworks Editor"
