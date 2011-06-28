@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-06-18 04:12+0200\n"
-"PO-Revision-Date: 2011-06-17 17:01+0100\n"
+"PO-Revision-Date: 2011-06-28 03:29+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -586,6 +586,8 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
+"Opcija za prenosno namestitev se je spremenila;\n"
+"Mape za namestitev so se nastavile na privzeto vrednost."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
 msgid ""
@@ -936,16 +938,19 @@ msgid "Keywords:"
 msgstr "Ključne besede:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:679
+#, fuzzy
 msgid "Functionality:"
-msgstr ""
+msgstr "Funkcionalnost:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:684
+#, fuzzy
 msgid "Primary characterization:"
-msgstr ""
+msgstr "Primarna funkcija:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:689
+#, fuzzy
 msgid "Secondary characterization:"
-msgstr ""
+msgstr "Sekundarna funkcija:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Collection:"
@@ -1190,8 +1195,8 @@ msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
+"Prosimo počakajte še trenutek po zaključku programa, da se posodobitev "
+"zaključi."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
 #: texmf/scripts/texlive/tlmgrgui.pl:2054
@@ -1214,8 +1219,9 @@ msgid "Restore selected package"
 msgstr "Izberi pakete"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2096
+#, fuzzy
 msgid "Restore all package to latest version"
-msgstr ""
+msgstr "Ponastavi vse pakete na zadnjo verzijo"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2112
 msgid "Close"
