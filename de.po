@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 German Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-09-13 04:23+0200\n"
-"PO-Revision-Date: 2011-06-19 09:32+0100\n"
-"Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
+"PO-Revision-Date: 2011-09-13 15:52+0900\n"
+"Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -93,31 +93,31 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Ändern der voreingestellten Installationsquelle"
 
 #: tlpkg/installer/install-menu-wizard.pl:257
 msgid "Mirror:"
-msgstr ""
+msgstr "Spiegelserver:"
 
 #: tlpkg/installer/install-menu-wizard.pl:305
 msgid "Continent"
-msgstr ""
+msgstr "Kontinent"
 
 #: tlpkg/installer/install-menu-wizard.pl:319
 msgid "Countries"
-msgstr ""
+msgstr "Länder"
 
 #: tlpkg/installer/install-menu-wizard.pl:337
 msgid "Mirrors"
-msgstr ""
+msgstr "Spiegelserver"
 
 #: tlpkg/installer/install-menu-wizard.pl:383
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "Bitte warten bis die Installationsdatenbank geladen ist."
 
 #: tlpkg/installer/install-menu-wizard.pl:384
 msgid "This will take some time!"
-msgstr ""
+msgstr "Dies kann etwas Zeit beanspruchen!"
 
 #: tlpkg/installer/install-menu-wizard.pl:392
 #, perl-format
@@ -127,10 +127,14 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"DIe TeX Live Versionen der lokalen Installation\n"
+"und der benutzten Installationsquelle stimmen nicht überein:\n"
+"  lokal: %s\n"
+"  Installationsquelle:%s"
 
 #: tlpkg/installer/install-menu-wizard.pl:396
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Bitte zurückgehen und einen anderen Spiegelserver auswählen."
 
 #: tlpkg/installer/install-menu-wizard.pl:423
 #: tlpkg/installer/install-menu-wizard.pl:653
@@ -402,7 +406,7 @@ msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:265
 msgid "Select repository"
-msgstr ""
+msgstr "Auswahl der  Installationsquelle"
 
 #: tlpkg/installer/install-menu-perltk.pl:281
 msgid "Load"
@@ -431,6 +435,11 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"DIe TeX Live Versionen der lokalen Installation und der benutzten "
+"Installationsquelle stimmen nicht überein:\n"
+"  lokal: %s\n"
+"  Installationsquelle: %s\n"
+"Bitte anderen Spiegelserver auswählen."
 
 #: tlpkg/installer/install-menu-perltk.pl:307
 msgid "Basic Information"
