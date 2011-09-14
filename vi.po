@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-09-13 04:23+0200\n"
+"POT-Creation-Date: 2011-09-14 04:26+0200\n"
 "PO-Revision-Date: 2011-06-23 21:47+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -22,9 +22,9 @@ msgid "TeX Live %s Installation"
 msgstr "Cài đặt TeX Live %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:165
-#: tlpkg/installer/install-menu-wizard.pl:387
-#: tlpkg/installer/install-menu-wizard.pl:505
-#: tlpkg/installer/install-menu-wizard.pl:718
+#: tlpkg/installer/install-menu-wizard.pl:388
+#: tlpkg/installer/install-menu-wizard.pl:506
+#: tlpkg/installer/install-menu-wizard.pl:719
 #: tlpkg/installer/install-menu-perltk.pl:544
 #: tlpkg/installer/install-menu-perltk.pl:628
 #: tlpkg/installer/install-menu-perltk.pl:660
@@ -50,21 +50,21 @@ msgid "Cancel"
 msgstr "Bỏ qua"
 
 #: tlpkg/installer/install-menu-wizard.pl:167
-#: tlpkg/installer/install-menu-wizard.pl:274
-#: tlpkg/installer/install-menu-wizard.pl:342
-#: tlpkg/installer/install-menu-wizard.pl:397
-#: tlpkg/installer/install-menu-wizard.pl:473
-#: tlpkg/installer/install-menu-wizard.pl:627
-#: tlpkg/installer/install-menu-wizard.pl:672
+#: tlpkg/installer/install-menu-wizard.pl:275
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-wizard.pl:398
+#: tlpkg/installer/install-menu-wizard.pl:474
+#: tlpkg/installer/install-menu-wizard.pl:628
+#: tlpkg/installer/install-menu-wizard.pl:673
 msgid "< Back"
 msgstr "< Quay lại"
 
 #: tlpkg/installer/install-menu-wizard.pl:168
 #: tlpkg/installer/install-menu-wizard.pl:209
-#: tlpkg/installer/install-menu-wizard.pl:275
-#: tlpkg/installer/install-menu-wizard.pl:343
-#: tlpkg/installer/install-menu-wizard.pl:474
-#: tlpkg/installer/install-menu-wizard.pl:628
+#: tlpkg/installer/install-menu-wizard.pl:276
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-wizard.pl:475
+#: tlpkg/installer/install-menu-wizard.pl:629
 msgid "Next >"
 msgstr "Tiếp theo >"
 
@@ -99,31 +99,57 @@ msgstr "Hoặc dùng tham số --gui expert để cài texlive."
 msgid "Change default repository"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:257
+#: tlpkg/installer/install-menu-wizard.pl:239
+#: tlpkg/installer/install-menu-perltk.pl:250
+msgid "Command line repository"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:245
+#: tlpkg/installer/install-menu-perltk.pl:256
+msgid "LOCAL REPOSITORIES"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:249
+#: tlpkg/installer/install-menu-perltk.pl:260
+msgid "NETWORK REPOSITORIES"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:250
+#: tlpkg/installer/install-menu-perltk.pl:261
+#: texmf/scripts/texlive/tlmgrgui.pl:1410
+msgid "Default remote repository"
+msgstr "Nguồn cài đặt mặc định từ internet"
+
+#: tlpkg/installer/install-menu-wizard.pl:256
+#: tlpkg/installer/install-menu-perltk.pl:265
+msgid "Select repository"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:305
+#: tlpkg/installer/install-menu-wizard.pl:306
 msgid "Continent"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:319
+#: tlpkg/installer/install-menu-wizard.pl:320
 msgid "Countries"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:337
+#: tlpkg/installer/install-menu-wizard.pl:338
 msgid "Mirrors"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:383
+#: tlpkg/installer/install-menu-wizard.pl:384
 msgid "Please wait while the repository database is loaded."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:384
+#: tlpkg/installer/install-menu-wizard.pl:385
 msgid "This will take some time!"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:392
+#: tlpkg/installer/install-menu-wizard.pl:393
 #, perl-format
 msgid ""
 "The TeX Live versions of the local installation\n"
@@ -132,16 +158,16 @@ msgid ""
 "repository: %s"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:396
+#: tlpkg/installer/install-menu-wizard.pl:397
 msgid "Please go back and select a different mirror."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:423
-#: tlpkg/installer/install-menu-wizard.pl:653
+#: tlpkg/installer/install-menu-wizard.pl:424
+#: tlpkg/installer/install-menu-wizard.pl:654
 msgid "Destination folder:"
 msgstr "Cài đặt vào thư mục:"
 
-#: tlpkg/installer/install-menu-wizard.pl:425
+#: tlpkg/installer/install-menu-wizard.pl:426
 #: tlpkg/installer/install-menu-perltk.pl:315
 #: tlpkg/installer/install-menu-perltk.pl:324
 #: tlpkg/installer/install-menu-perltk.pl:334
@@ -168,7 +194,7 @@ msgstr "Cài đặt vào thư mục:"
 msgid "Change"
 msgstr "Thay đổi"
 
-#: tlpkg/installer/install-menu-wizard.pl:447
+#: tlpkg/installer/install-menu-wizard.pl:448
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
@@ -177,21 +203,21 @@ msgstr ""
 "Khuyến cáo: bạn nên để năm (ví dụ: 2009, 2008) vào cuối đường dẫn để phân "
 "biệt các bộ cài đặt khác nhau."
 
-#: tlpkg/installer/install-menu-wizard.pl:469
+#: tlpkg/installer/install-menu-wizard.pl:470
 #: tlpkg/installer/install-menu-perltk.pl:1040
 msgid "disk space required:"
 msgstr "dung lượng đĩa cần thiết:"
 
-#: tlpkg/installer/install-menu-wizard.pl:488
+#: tlpkg/installer/install-menu-wizard.pl:489
 #: tlpkg/installer/install-menu-perltk.pl:1054
 msgid "(default not allowed or not writable - please change!)"
 msgstr "(mặc định không cho phép hoặc không ghi được - hãy đổi lại!)"
 
-#: tlpkg/installer/install-menu-wizard.pl:498
+#: tlpkg/installer/install-menu-wizard.pl:499
 msgid "Enter path for"
 msgstr "Nhập đường dẫn cho"
 
-#: tlpkg/installer/install-menu-wizard.pl:502
+#: tlpkg/installer/install-menu-wizard.pl:503
 #: tlpkg/installer/install-menu-perltk.pl:292
 #: tlpkg/installer/install-menu-perltk.pl:627
 #: tlpkg/installer/install-menu-perltk.pl:658
@@ -225,17 +251,17 @@ msgstr "Nhập đường dẫn cho"
 msgid "Ok"
 msgstr "Đồng ý"
 
-#: tlpkg/installer/install-menu-wizard.pl:558
+#: tlpkg/installer/install-menu-wizard.pl:559
 #: tlpkg/installer/install-menu-perltk.pl:409
 msgid "Default paper size"
 msgstr "Kiểu giấy mặc định"
 
-#: tlpkg/installer/install-menu-wizard.pl:559
+#: tlpkg/installer/install-menu-wizard.pl:560
 #: tlpkg/installer/install-menu-perltk.pl:451
 msgid "Add menu shortcuts"
 msgstr "Thêm liên kết nhanh vào menu"
 
-#: tlpkg/installer/install-menu-wizard.pl:560
+#: tlpkg/installer/install-menu-wizard.pl:561
 #: tlpkg/installer/install-menu-perltk.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:669
 #: tlpkg/installer/install-menu-perltk.pl:674
@@ -245,21 +271,21 @@ msgstr "Thêm liên kết nhanh vào menu"
 msgid "Change file associations"
 msgstr "Đổi tương ứng tập tin - chương trình"
 
-#: tlpkg/installer/install-menu-wizard.pl:561
+#: tlpkg/installer/install-menu-wizard.pl:562
 #: tlpkg/installer/install-menu-perltk.pl:438
 msgid "Adjust PATH setting in registry"
 msgstr "Điều chỉnh đường dẫn (biến PATH) trong registry hệ thống"
 
-#: tlpkg/installer/install-menu-wizard.pl:562
+#: tlpkg/installer/install-menu-wizard.pl:563
 #: tlpkg/installer/install-menu-perltk.pl:464
 msgid "Installation for all users"
 msgstr "Cài đặt cho mọi người dùng trên máy"
 
-#: tlpkg/installer/install-menu-wizard.pl:577
+#: tlpkg/installer/install-menu-wizard.pl:578
 msgid "This screen allows you to configure some options"
 msgstr "Cửa sổ này cho phép bạn thay đổi vài tùy chọn"
 
-#: tlpkg/installer/install-menu-wizard.pl:645
+#: tlpkg/installer/install-menu-wizard.pl:646
 #, perl-format
 msgid ""
 "We are ready to install TeX Live %s.\n"
@@ -272,7 +298,7 @@ msgstr ""
 "Nếu bạn muốn thay đổi, hãy quay lại,\n"
 "còn không, hãy chọn \"Cài đặt\" để bắt đầu."
 
-#: tlpkg/installer/install-menu-wizard.pl:661
+#: tlpkg/installer/install-menu-wizard.pl:662
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -295,7 +321,7 @@ msgstr ""
 msgid "Yes"
 msgstr "Đồng ý"
 
-#: tlpkg/installer/install-menu-wizard.pl:661
+#: tlpkg/installer/install-menu-wizard.pl:662
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -321,12 +347,12 @@ msgstr "Đồng ý"
 msgid "No"
 msgstr "Không đồng ý"
 
-#: tlpkg/installer/install-menu-wizard.pl:670
+#: tlpkg/installer/install-menu-wizard.pl:671
 #: texmf/scripts/texlive/tlmgrgui.pl:419
 msgid "Install"
 msgstr "Cài đặt"
 
-#: tlpkg/installer/install-menu-wizard.pl:724
+#: tlpkg/installer/install-menu-wizard.pl:725
 #: tlpkg/installer/install-menu-perltk.pl:552
 #, perl-format
 msgid ""
@@ -343,7 +369,7 @@ msgstr ""
 "thích hợp nhất với bạn. Danh sách các nhóm người dùng có thể tìm thấy tại "
 "http://tug.org/usergroups.html."
 
-#: tlpkg/installer/install-menu-wizard.pl:726
+#: tlpkg/installer/install-menu-wizard.pl:727
 #: tlpkg/installer/install-menu-perltk.pl:554
 #, perl-format
 msgid ""
@@ -357,7 +383,7 @@ msgstr ""
 "Quan trọng nhất, thêm %s/bin/%s\n"
 "vào đường dẫn đến tập tin thi hành (PATH) để sử dụng cho cả sau này."
 
-#: tlpkg/installer/install-menu-wizard.pl:729
+#: tlpkg/installer/install-menu-wizard.pl:730
 #: tlpkg/installer/install-menu-perltk.pl:557
 msgid ""
 "There were some warnings during the installation process.\n"
@@ -366,12 +392,12 @@ msgstr ""
 "Xảy ra lỗi trong quá trình cài đặt.\n"
 "Dưới đây là danh sách các thông báo:"
 
-#: tlpkg/installer/install-menu-wizard.pl:733
+#: tlpkg/installer/install-menu-wizard.pl:734
 #: tlpkg/installer/install-menu-perltk.pl:562
 msgid "Welcome to TeX Live!"
 msgstr "Chào mừng đến với TeX Live!"
 
-#: tlpkg/installer/install-menu-wizard.pl:742
+#: tlpkg/installer/install-menu-wizard.pl:743
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid "Finish"
 msgstr "Kết thúc"
@@ -400,10 +426,6 @@ msgstr "A4"
 #: texmf/scripts/texlive/tlmgrgui.pl:1277
 msgid "letter"
 msgstr "thư"
-
-#: tlpkg/installer/install-menu-perltk.pl:265
-msgid "Select repository"
-msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:281
 msgid "Load"
@@ -1134,10 +1156,6 @@ msgstr "Nguồn cài đặt mặc định mới"
 #: texmf/scripts/texlive/tlmgrgui.pl:2189
 msgid "Choose Directory"
 msgstr "Chọn thư mục"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1410
-msgid "Default remote repository"
-msgstr "Nguồn cài đặt mặc định từ internet"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1467
 msgid "Select paper format for"

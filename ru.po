@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-09-13 04:23+0200\n"
+"POT-Creation-Date: 2011-09-14 04:26+0200\n"
 "PO-Revision-Date: 2011-08-26 14:31+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
@@ -25,9 +25,9 @@ msgid "TeX Live %s Installation"
 msgstr "Установка TeX Live %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:165
-#: tlpkg/installer/install-menu-wizard.pl:387
-#: tlpkg/installer/install-menu-wizard.pl:505
-#: tlpkg/installer/install-menu-wizard.pl:718
+#: tlpkg/installer/install-menu-wizard.pl:388
+#: tlpkg/installer/install-menu-wizard.pl:506
+#: tlpkg/installer/install-menu-wizard.pl:719
 #: tlpkg/installer/install-menu-perltk.pl:544
 #: tlpkg/installer/install-menu-perltk.pl:628
 #: tlpkg/installer/install-menu-perltk.pl:660
@@ -53,21 +53,21 @@ msgid "Cancel"
 msgstr "Отмена"
 
 #: tlpkg/installer/install-menu-wizard.pl:167
-#: tlpkg/installer/install-menu-wizard.pl:274
-#: tlpkg/installer/install-menu-wizard.pl:342
-#: tlpkg/installer/install-menu-wizard.pl:397
-#: tlpkg/installer/install-menu-wizard.pl:473
-#: tlpkg/installer/install-menu-wizard.pl:627
-#: tlpkg/installer/install-menu-wizard.pl:672
+#: tlpkg/installer/install-menu-wizard.pl:275
+#: tlpkg/installer/install-menu-wizard.pl:343
+#: tlpkg/installer/install-menu-wizard.pl:398
+#: tlpkg/installer/install-menu-wizard.pl:474
+#: tlpkg/installer/install-menu-wizard.pl:628
+#: tlpkg/installer/install-menu-wizard.pl:673
 msgid "< Back"
 msgstr "< Назад"
 
 #: tlpkg/installer/install-menu-wizard.pl:168
 #: tlpkg/installer/install-menu-wizard.pl:209
-#: tlpkg/installer/install-menu-wizard.pl:275
-#: tlpkg/installer/install-menu-wizard.pl:343
-#: tlpkg/installer/install-menu-wizard.pl:474
-#: tlpkg/installer/install-menu-wizard.pl:628
+#: tlpkg/installer/install-menu-wizard.pl:276
+#: tlpkg/installer/install-menu-wizard.pl:344
+#: tlpkg/installer/install-menu-wizard.pl:475
+#: tlpkg/installer/install-menu-wizard.pl:629
 msgid "Next >"
 msgstr "Далее >"
 
@@ -102,31 +102,57 @@ msgstr "Или используйте опцию --gui expert для install-tl.
 msgid "Change default repository"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:257
+#: tlpkg/installer/install-menu-wizard.pl:239
+#: tlpkg/installer/install-menu-perltk.pl:250
+msgid "Command line repository"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:245
+#: tlpkg/installer/install-menu-perltk.pl:256
+msgid "LOCAL REPOSITORIES"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:249
+#: tlpkg/installer/install-menu-perltk.pl:260
+msgid "NETWORK REPOSITORIES"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:250
+#: tlpkg/installer/install-menu-perltk.pl:261
+#: texmf/scripts/texlive/tlmgrgui.pl:1410
+msgid "Default remote repository"
+msgstr "Сетевой репозиторий по умолчанию"
+
+#: tlpkg/installer/install-menu-wizard.pl:256
+#: tlpkg/installer/install-menu-perltk.pl:265
+msgid "Select repository"
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:305
+#: tlpkg/installer/install-menu-wizard.pl:306
 msgid "Continent"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:319
+#: tlpkg/installer/install-menu-wizard.pl:320
 msgid "Countries"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:337
+#: tlpkg/installer/install-menu-wizard.pl:338
 msgid "Mirrors"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:383
+#: tlpkg/installer/install-menu-wizard.pl:384
 msgid "Please wait while the repository database is loaded."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:384
+#: tlpkg/installer/install-menu-wizard.pl:385
 msgid "This will take some time!"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:392
+#: tlpkg/installer/install-menu-wizard.pl:393
 #, perl-format
 msgid ""
 "The TeX Live versions of the local installation\n"
@@ -135,16 +161,16 @@ msgid ""
 "repository: %s"
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:396
+#: tlpkg/installer/install-menu-wizard.pl:397
 msgid "Please go back and select a different mirror."
 msgstr ""
 
-#: tlpkg/installer/install-menu-wizard.pl:423
-#: tlpkg/installer/install-menu-wizard.pl:653
+#: tlpkg/installer/install-menu-wizard.pl:424
+#: tlpkg/installer/install-menu-wizard.pl:654
 msgid "Destination folder:"
 msgstr "Папка назначения:"
 
-#: tlpkg/installer/install-menu-wizard.pl:425
+#: tlpkg/installer/install-menu-wizard.pl:426
 #: tlpkg/installer/install-menu-perltk.pl:315
 #: tlpkg/installer/install-menu-perltk.pl:324
 #: tlpkg/installer/install-menu-perltk.pl:334
@@ -171,7 +197,7 @@ msgstr "Папка назначения:"
 msgid "Change"
 msgstr "Изменить"
 
-#: tlpkg/installer/install-menu-wizard.pl:447
+#: tlpkg/installer/install-menu-wizard.pl:448
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
@@ -179,22 +205,22 @@ msgstr ""
 "Папка назначения будет содержать установленные файлы.\n"
 "Настоятельно рекомендуем сохранить год выпуска дистрибутива в её названии."
 
-#: tlpkg/installer/install-menu-wizard.pl:469
+#: tlpkg/installer/install-menu-wizard.pl:470
 #: tlpkg/installer/install-menu-perltk.pl:1040
 msgid "disk space required:"
 msgstr "требуется места на диске:"
 
-#: tlpkg/installer/install-menu-wizard.pl:488
+#: tlpkg/installer/install-menu-wizard.pl:489
 #: tlpkg/installer/install-menu-perltk.pl:1054
 msgid "(default not allowed or not writable - please change!)"
 msgstr ""
 "(в каталог по умолчанию писать нельзя - пожалуйста, задайте другое значение)"
 
-#: tlpkg/installer/install-menu-wizard.pl:498
+#: tlpkg/installer/install-menu-wizard.pl:499
 msgid "Enter path for"
 msgstr "Введите путь для"
 
-#: tlpkg/installer/install-menu-wizard.pl:502
+#: tlpkg/installer/install-menu-wizard.pl:503
 #: tlpkg/installer/install-menu-perltk.pl:292
 #: tlpkg/installer/install-menu-perltk.pl:627
 #: tlpkg/installer/install-menu-perltk.pl:658
@@ -228,17 +254,17 @@ msgstr "Введите путь для"
 msgid "Ok"
 msgstr "Ок"
 
-#: tlpkg/installer/install-menu-wizard.pl:558
+#: tlpkg/installer/install-menu-wizard.pl:559
 #: tlpkg/installer/install-menu-perltk.pl:409
 msgid "Default paper size"
 msgstr "Формат страницы по умолчанию"
 
-#: tlpkg/installer/install-menu-wizard.pl:559
+#: tlpkg/installer/install-menu-wizard.pl:560
 #: tlpkg/installer/install-menu-perltk.pl:451
 msgid "Add menu shortcuts"
 msgstr "Добавить пункты меню"
 
-#: tlpkg/installer/install-menu-wizard.pl:560
+#: tlpkg/installer/install-menu-wizard.pl:561
 #: tlpkg/installer/install-menu-perltk.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:669
 #: tlpkg/installer/install-menu-perltk.pl:674
@@ -248,21 +274,21 @@ msgstr "Добавить пункты меню"
 msgid "Change file associations"
 msgstr "Изменить привязку файлов"
 
-#: tlpkg/installer/install-menu-wizard.pl:561
+#: tlpkg/installer/install-menu-wizard.pl:562
 #: tlpkg/installer/install-menu-perltk.pl:438
 msgid "Adjust PATH setting in registry"
 msgstr "Добавить в переменную PATH"
 
-#: tlpkg/installer/install-menu-wizard.pl:562
+#: tlpkg/installer/install-menu-wizard.pl:563
 #: tlpkg/installer/install-menu-perltk.pl:464
 msgid "Installation for all users"
 msgstr "Установка для всех пользователей"
 
-#: tlpkg/installer/install-menu-wizard.pl:577
+#: tlpkg/installer/install-menu-wizard.pl:578
 msgid "This screen allows you to configure some options"
 msgstr "Это окно позволяет вам настроить некоторые параметры"
 
-#: tlpkg/installer/install-menu-wizard.pl:645
+#: tlpkg/installer/install-menu-wizard.pl:646
 #, perl-format
 msgid ""
 "We are ready to install TeX Live %s.\n"
@@ -275,7 +301,7 @@ msgstr ""
 "Если вы хотите изменить что-нибудь, нажмите кнопку \"Назад\",\n"
 "если нет, нажмите кнопку \"Установить\"."
 
-#: tlpkg/installer/install-menu-wizard.pl:661
+#: tlpkg/installer/install-menu-wizard.pl:662
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -298,7 +324,7 @@ msgstr ""
 msgid "Yes"
 msgstr "Да"
 
-#: tlpkg/installer/install-menu-wizard.pl:661
+#: tlpkg/installer/install-menu-wizard.pl:662
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -324,12 +350,12 @@ msgstr "Да"
 msgid "No"
 msgstr "Нет"
 
-#: tlpkg/installer/install-menu-wizard.pl:670
+#: tlpkg/installer/install-menu-wizard.pl:671
 #: texmf/scripts/texlive/tlmgrgui.pl:419
 msgid "Install"
 msgstr "Установить"
 
-#: tlpkg/installer/install-menu-wizard.pl:724
+#: tlpkg/installer/install-menu-wizard.pl:725
 #: tlpkg/installer/install-menu-perltk.pl:552
 #, perl-format
 msgid ""
@@ -345,7 +371,7 @@ msgstr ""
 "всему миру; поддержите, пожалуйста, проект, присоединившись к подходящей вам "
 "группе. Список групп доступен на странице http://tug.org/usergroups.html."
 
-#: tlpkg/installer/install-menu-wizard.pl:726
+#: tlpkg/installer/install-menu-wizard.pl:727
 #: tlpkg/installer/install-menu-perltk.pl:554
 #, perl-format
 msgid ""
@@ -359,7 +385,7 @@ msgstr ""
 "Самое главное, добавьте %s/bin/%s\n"
 "к вашему PATH для текущей и будущих сессий."
 
-#: tlpkg/installer/install-menu-wizard.pl:729
+#: tlpkg/installer/install-menu-wizard.pl:730
 #: tlpkg/installer/install-menu-perltk.pl:557
 msgid ""
 "There were some warnings during the installation process.\n"
@@ -368,12 +394,12 @@ msgstr ""
 "В процессе установки появлялось несколько предупреждений.\n"
 "Здесь список этих предупреждений:"
 
-#: tlpkg/installer/install-menu-wizard.pl:733
+#: tlpkg/installer/install-menu-wizard.pl:734
 #: tlpkg/installer/install-menu-perltk.pl:562
 msgid "Welcome to TeX Live!"
 msgstr "Добро пожаловать в TeX Live!"
 
-#: tlpkg/installer/install-menu-wizard.pl:742
+#: tlpkg/installer/install-menu-wizard.pl:743
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid "Finish"
 msgstr "Конец"
@@ -402,10 +428,6 @@ msgstr "А4"
 #: texmf/scripts/texlive/tlmgrgui.pl:1277
 msgid "letter"
 msgstr "Letter"
-
-#: tlpkg/installer/install-menu-perltk.pl:265
-msgid "Select repository"
-msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:281
 msgid "Load"
@@ -1135,10 +1157,6 @@ msgstr "Новый репозиторий пакетов по умолчанию
 #: texmf/scripts/texlive/tlmgrgui.pl:2189
 msgid "Choose Directory"
 msgstr "Выберите каталог"
-
-#: texmf/scripts/texlive/tlmgrgui.pl:1410
-msgid "Default remote repository"
-msgstr "Сетевой репозиторий по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1467
 msgid "Select paper format for"
