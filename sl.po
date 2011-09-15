@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-09-14 04:26+0200\n"
-"PO-Revision-Date: 2011-06-28 03:29+0100\n"
+"PO-Revision-Date: 2011-09-15 20:33+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -96,22 +96,23 @@ msgstr "Lahko uporabite opcijo \"--gui perltk\" za install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Zamenjaj privzeti repozitorij"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:250
+#, fuzzy
 msgid "Command line repository"
-msgstr ""
+msgstr "Repozitorij za uporabo v ukazni vrstici"
 
 #: tlpkg/installer/install-menu-wizard.pl:245
 #: tlpkg/installer/install-menu-perltk.pl:256
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "LOKALNI REPOZITORIJI"
 
 #: tlpkg/installer/install-menu-wizard.pl:249
 #: tlpkg/installer/install-menu-perltk.pl:260
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "MREŽNI REPOZITORIJI"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:261
@@ -123,31 +124,32 @@ msgstr "Privzeti spletni repozitorij"
 #: tlpkg/installer/install-menu-wizard.pl:256
 #: tlpkg/installer/install-menu-perltk.pl:265
 msgid "Select repository"
-msgstr ""
+msgstr "Izberi repozitorij"
 
 #: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
-msgstr ""
+msgstr "Zrcalni strežnik:"
 
 #: tlpkg/installer/install-menu-wizard.pl:306
 msgid "Continent"
-msgstr ""
+msgstr "Kontinent"
 
 #: tlpkg/installer/install-menu-wizard.pl:320
 msgid "Countries"
-msgstr ""
+msgstr "Države"
 
 #: tlpkg/installer/install-menu-wizard.pl:338
 msgid "Mirrors"
-msgstr ""
+msgstr "Zrcalni strežniki"
 
 #: tlpkg/installer/install-menu-wizard.pl:384
+#, fuzzy
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "Podatkovna baza iz repozitorija se nalaga. Prosimo počakajte."
 
 #: tlpkg/installer/install-menu-wizard.pl:385
 msgid "This will take some time!"
-msgstr ""
+msgstr "To utegne trajati nekaj časa."
 
 #: tlpkg/installer/install-menu-wizard.pl:393
 #, perl-format
@@ -157,10 +159,14 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"Nameščena verzija TeX Live-a ni kompatibilna z verzijo na strežniku:\n"
+"nameščena verzija: %s\n"
+"verzija na strežniku: %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:397
+#, fuzzy
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Prosimo vrnite se in izberite drugi zrcalni strežnik."
 
 #: tlpkg/installer/install-menu-wizard.pl:424
 #: tlpkg/installer/install-menu-wizard.pl:654
@@ -435,7 +441,7 @@ msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:281
 msgid "Load"
-msgstr ""
+msgstr "Naloži"
 
 #: tlpkg/installer/install-menu-perltk.pl:287
 #: tlpkg/installer/install-menu-perltk.pl:999
@@ -460,6 +466,10 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"Nameščena verzija TeX Live-a ni kompatibilna z verzijo na strežniku:\n"
+"nameščena verzija: %s\n"
+"verzija na strežniku: %s\n"
+"Prosimo izberite drugi zrcalni strežnik."
 
 #: tlpkg/installer/install-menu-perltk.pl:307
 msgid "Basic Information"
