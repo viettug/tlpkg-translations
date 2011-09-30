@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-09-18 04:24+0200\n"
-"PO-Revision-Date: 2011-08-26 14:31+0900\n"
+"PO-Revision-Date: 2011-09-30 16:56+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "Language: ru\n"
@@ -101,22 +101,22 @@ msgstr "Или используйте опцию --gui expert для install-tl.
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Изменить репозиторий по умолчанию"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:252
 msgid "Command line repository"
-msgstr ""
+msgstr "Изменить репозиторий в командной строке"
 
 #: tlpkg/installer/install-menu-wizard.pl:245
 #: tlpkg/installer/install-menu-perltk.pl:258
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "ЛОКАЛЬНЫЕ РЕПОЗИТОРИИ"
 
 #: tlpkg/installer/install-menu-wizard.pl:249
 #: tlpkg/installer/install-menu-perltk.pl:262
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "СЕТЕВЫЕ РЕПОЗИТОРИИ"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:263
@@ -127,41 +127,41 @@ msgstr "Сетевой репозиторий по умолчанию"
 #: tlpkg/installer/install-menu-wizard.pl:256
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "Select repository"
-msgstr ""
+msgstr "Выбрать репозиторий"
 
 #: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
-msgstr ""
+msgstr "Зеркало:"
 
 #: tlpkg/installer/install-menu-wizard.pl:309
 msgid "Continent"
-msgstr ""
+msgstr "Материк"
 
 #: tlpkg/installer/install-menu-wizard.pl:323
 msgid "Countries"
-msgstr ""
+msgstr "Страны"
 
 #: tlpkg/installer/install-menu-wizard.pl:341
 msgid "Mirrors"
-msgstr ""
+msgstr "Зеркала"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "Подождите, пожалуйста, пока загрузится база данных репозитория."
 
 #: tlpkg/installer/install-menu-wizard.pl:388
 msgid "This will take some time!"
-msgstr ""
+msgstr "Это может занять некоторое время!"
 
 #: tlpkg/installer/install-menu-wizard.pl:395
 #: tlpkg/installer/install-menu-perltk.pl:293
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "Невозможно загрузить удалённую базу данных TeX Live:"
 
 #: tlpkg/installer/install-menu-wizard.pl:396
 #: tlpkg/installer/install-menu-wizard.pl:403
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Вернитесь назад и выберите другое зеркало."
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #, perl-format
@@ -171,6 +171,10 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"Версии TeX Live в локальной установке\n"
+"и в запрашиваемом репозитории не совпадают:\n"
+"\tлокальная: %s\n"
+"в репозитории: %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:430
 #: tlpkg/installer/install-menu-wizard.pl:660
@@ -458,7 +462,7 @@ msgstr "Предупреждение"
 
 #: tlpkg/installer/install-menu-perltk.pl:295
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "Выберите другое зеркало."
 
 #: tlpkg/installer/install-menu-perltk.pl:300
 #, perl-format
@@ -469,6 +473,11 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"Версии TeX Live в локальной установке и в запрашиваемом репозитории не "
+"совпадают:\n"
+"\tлокальная: %s\n"
+"\tв репозитории: %s\n"
+"Выберите другое зеркало."
 
 #: tlpkg/installer/install-menu-perltk.pl:319
 msgid "Basic Information"
@@ -717,7 +726,7 @@ msgstr ""
 "Запустите эту программу от имени администратора или свяжитесь с вашим "
 "администратором.\n"
 "\n"
-"Большая часть кнопок будет отключена."
+"Большая часть действий будет недоступна."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:265
 msgid "Load default"
