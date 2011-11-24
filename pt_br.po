@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+# Português do Brasil.
 # Copyright (C) YEAR TeX Live Team
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -160,7 +160,7 @@ msgstr ""
 msgid ""
 "As versões do TeX Live da instalação local\n"
 "e os repositórios acessados não são compatíveis:\n"
-"     local: %s\n"
+"      local: %s\n"
 "repositório: %s"
 msgstr ""
 
@@ -199,7 +199,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:454
 msgid ""
 "A pasta de destino irá conter a instalação.\n"
-"É fortemente recomendado manter o ano como o último componente."
+"É altamente recomendado manter o ano como o último componente."
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:476
@@ -575,7 +575,7 @@ msgid "Entre com o caminho para %s (use ~ para %s)"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:744
-msgid "personalize a seleção de coleções"
+msgid "Personalize a seleção de coleções"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:782
@@ -629,12 +629,12 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:1044
 #, perl-format
-msgid "%s out of %s"
+msgid "%s de %s"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:1050
 #, perl-format
-msgid "%s coleções out of %s"
+msgid "%s coleções de %s"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:1061
@@ -769,11 +769,11 @@ msgid "Selecionar todos"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:354
-msgid "Remover todos"
+msgid "Selecionar nenhum"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:358
-msgid "Resetar filtros"
+msgid "Limpar filtros"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:380
@@ -1090,7 +1090,7 @@ msgid "Papel padrão para todos"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1275
-msgid "a4"
+msgid "A4"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1289
@@ -1571,7 +1571,7 @@ msgid "Pacotes para desenhos MetaPost (e Metafont)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:83
-msgid "Digitação de músicas"
+msgid "Digitação de partituras"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:84
