@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2011-09-18 04:24+0200\n"
+"POT-Creation-Date: 2011-12-05 04:28+0100\n"
 "PO-Revision-Date: 2011-06-18 11:06+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1451,8 +1451,8 @@ msgid "Recommended fonts"
 msgstr "Aanbevolen lettertypen"
 
 #: tlpkg/translations/shortdesc.pl:39
-msgid "TeX and Outline font utilities"
-msgstr "Hulpprogramma's voor TeX- en schaalbare fonts"
+msgid "Graphics TeX and outline font utilities"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
@@ -1670,6 +1670,9 @@ msgstr "Windows hulpprogramma's"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX pakketten"
+
+#~ msgid "TeX and Outline font utilities"
+#~ msgstr "Hulpprogramma's voor TeX- en schaalbare fonts"
 
 #~ msgid "Restore done"
 #~ msgstr "Klaar met herstel"
