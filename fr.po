@@ -1,19 +1,20 @@
 #
-# Manuel Pégourié-Gonnard <mpg@tug.org>, 2010, 2011.
+# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-12-05 04:28+0100\n"
-"PO-Revision-Date: 2011-06-23 19:23+0200\n"
-"Last-Translator: Manuel Pégourié-Gonnard <mpg@tug.org>\n"
-"Language-Team: TL Translation Team <tex-live@tug.org>\n"
+"PO-Revision-Date: 2011-12-09 16:24+0100\n"
+"Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
+"Language-Team: Français <texlive@tug.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: UTF-8\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: s\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:239
@@ -100,22 +101,22 @@ msgstr "Ou utiliser l'option « --gui expert » de install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Changer de dépôt par défaut"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:252
 msgid "Command line repository"
-msgstr ""
+msgstr "Dépôt indiqué sur la ligne de commande"
 
 #: tlpkg/installer/install-menu-wizard.pl:245
 #: tlpkg/installer/install-menu-perltk.pl:258
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "Dépôts de paquets locaux"
 
 #: tlpkg/installer/install-menu-wizard.pl:249
 #: tlpkg/installer/install-menu-perltk.pl:262
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "Dépôts de paquets en ligne"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:263
@@ -126,41 +127,43 @@ msgstr "Dépôt de paquets en ligne par défaut"
 #: tlpkg/installer/install-menu-wizard.pl:256
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "Select repository"
-msgstr ""
+msgstr "Choisir le dépôt de paquets"
 
 #: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
-msgstr ""
+msgstr "Mirroir :"
 
 #: tlpkg/installer/install-menu-wizard.pl:309
 msgid "Continent"
-msgstr ""
+msgstr "Continent"
 
 #: tlpkg/installer/install-menu-wizard.pl:323
 msgid "Countries"
-msgstr ""
+msgstr "Pays"
 
 #: tlpkg/installer/install-menu-wizard.pl:341
 msgid "Mirrors"
-msgstr ""
+msgstr "Mirroirs"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
 msgid "Please wait while the repository database is loaded."
 msgstr ""
+"Veuillez patientez pendant le chargement de la base de données des dépôts de "
+"paquets."
 
 #: tlpkg/installer/install-menu-wizard.pl:388
 msgid "This will take some time!"
-msgstr ""
+msgstr "Ceci peut prendre du temps."
 
 #: tlpkg/installer/install-menu-wizard.pl:395
 #: tlpkg/installer/install-menu-perltk.pl:293
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "Échec du chargement de la base de données TeX Live :"
 
 #: tlpkg/installer/install-menu-wizard.pl:396
 #: tlpkg/installer/install-menu-wizard.pl:403
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Veuillez revenir en arrière et choisir un autre miroir."
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #, perl-format
@@ -170,6 +173,10 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"Les versions de TeX Live de l'installation locale\n"
+"et du dépôt de paquets ne sont pas compatibles :\n"
+"installée : %s\n"
+"    dépôt : %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:430
 #: tlpkg/installer/install-menu-wizard.pl:660
@@ -458,7 +465,7 @@ msgstr "Avertissement"
 
 #: tlpkg/installer/install-menu-perltk.pl:295
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "Veuillez choisir un autre miroir."
 
 #: tlpkg/installer/install-menu-perltk.pl:300
 #, perl-format
@@ -469,6 +476,11 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"Les versions de TeX Live de l'installation locale\n"
+"et du dépôt de paquets ne sont pas compatibles :\n"
+"installée : %s\n"
+"    dépôt : %s\n"
+"Veuillez choisir un autre miroir."
 
 #: tlpkg/installer/install-menu-perltk.pl:319
 msgid "Basic Information"
@@ -691,7 +703,7 @@ msgid ""
 "This may take some time, please wait!"
 msgstr ""
 "Chargement de la base de données TeX Live locale en cours\n"
-"Ceci peut prendre du temps, veuillez patienter !"
+"Ceci peut prendre du temps, veuillez patienter."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:200
 msgid "Cannot load taxonomy file"
@@ -1461,7 +1473,7 @@ msgstr "Fontes recommandées"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "Graphics TeX and outline font utilities"
-msgstr ""
+msgstr "Utilitaires graphiques pour TeX et les polices vectorielles"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
