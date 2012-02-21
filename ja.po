@@ -1,20 +1,20 @@
 # Copyright (C) 2010, 2011 TeX Live Team
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Koji Yokota <yokota@res.otaru-uc.ac.jp>, 2010, 2011.
+# Koji Yokota <yokota@res.otaru-uc.ac.jp>, 2010, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2011-12-05 04:28+0100\n"
-"PO-Revision-Date: 2011-08-23 15:00+0900\n"
+"PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
-"Language-Team: Japanese <tex-live@tug.org>\n"
+"Language-Team: Japanese <lyx-doc@lyx.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
@@ -100,22 +100,22 @@ msgstr "あるいは install-tl に引数 --gui expert を付けてください�
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "既定リポジトリを変更"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:252
 msgid "Command line repository"
-msgstr ""
+msgstr "コマンドラインリポジトリ "
 
 #: tlpkg/installer/install-menu-wizard.pl:245
 #: tlpkg/installer/install-menu-perltk.pl:258
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "ローカルリポジトリ"
 
 #: tlpkg/installer/install-menu-wizard.pl:249
 #: tlpkg/installer/install-menu-perltk.pl:262
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "ネットワークリポジトリ"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:263
@@ -126,41 +126,41 @@ msgstr "既定リモートレポジトリ"
 #: tlpkg/installer/install-menu-wizard.pl:256
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "Select repository"
-msgstr ""
+msgstr "リポジトリを選択"
 
 #: tlpkg/installer/install-menu-wizard.pl:258
 msgid "Mirror:"
-msgstr ""
+msgstr "ミラー:"
 
 #: tlpkg/installer/install-menu-wizard.pl:309
 msgid "Continent"
-msgstr ""
+msgstr "大陸"
 
 #: tlpkg/installer/install-menu-wizard.pl:323
 msgid "Countries"
-msgstr ""
+msgstr "国"
 
 #: tlpkg/installer/install-menu-wizard.pl:341
 msgid "Mirrors"
-msgstr ""
+msgstr "ミラー"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "リポジトリデータベースが読み込まれるまでおまちください。"
 
 #: tlpkg/installer/install-menu-wizard.pl:388
 msgid "This will take some time!"
-msgstr ""
+msgstr "これには少し時間がかかります！"
 
 #: tlpkg/installer/install-menu-wizard.pl:395
 #: tlpkg/installer/install-menu-perltk.pl:293
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "リモートTeX Liveデータベースを読み込めませんでした:"
 
 #: tlpkg/installer/install-menu-wizard.pl:396
 #: tlpkg/installer/install-menu-wizard.pl:403
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "前に戻って別のミラーを選択してください。"
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #, perl-format
@@ -170,6 +170,10 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"ローカルに導入済のTeX Liveのバージョンと\n"
+"アクセスしたリポジトリのバージョンに互換性がありません:\n"
+"ローカル　: %s\n"
+"リポジトリ: %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:430
 #: tlpkg/installer/install-menu-wizard.pl:660
@@ -457,7 +461,7 @@ msgstr "警告"
 
 #: tlpkg/installer/install-menu-perltk.pl:295
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "別のミラーを選択してください。"
 
 #: tlpkg/installer/install-menu-perltk.pl:300
 #, perl-format
@@ -468,6 +472,11 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"ローカルに導入済のTeX Liveのバージョンと、アクセスしたリポジトリの "
+"バージョンに互換性がありません:\n"
+"　ローカル　: %s\n"
+"　リポジトリ: %s\n"
+"別のミラーを選択してください。"
 
 #: tlpkg/installer/install-menu-perltk.pl:319
 msgid "Basic Information"
@@ -504,7 +513,7 @@ msgstr "ディレクトリ設定"
 
 #: tlpkg/installer/install-menu-perltk.pl:364
 msgid "Portable setup"
-msgstr "かんたん設定"
+msgstr "可搬設定"
 
 #: tlpkg/installer/install-menu-perltk.pl:366
 #: tlpkg/installer/install-menu-perltk.pl:423
@@ -1023,8 +1032,7 @@ msgstr "コレクション:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:704
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"警告： カタログバージョンが追いついていないか、間違っている可能性があります。"
+msgstr "警告： カタログバージョンが追いついていないか、間違っている可能性があります。"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
@@ -1454,7 +1462,7 @@ msgstr "推奨されるフォント"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "Graphics TeX and outline font utilities"
-msgstr ""
+msgstr "グラフィックスTeX及びフォントユーティリティ"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
