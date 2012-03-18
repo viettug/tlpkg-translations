@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-17 04:31+0100\n"
+"POT-Creation-Date: 2012-03-18 04:28+0100\n"
 "PO-Revision-Date: 2011-10-06 16:31+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
@@ -590,7 +590,7 @@ msgid "Install TeXworks front end"
 msgstr "Установить редактор TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
-msgid "Setup default repository for network updates"
+msgid "After install, use CTAN for package updates"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:510

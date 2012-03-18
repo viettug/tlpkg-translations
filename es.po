@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-17 04:31+0100\n"
+"POT-Creation-Date: 2012-03-18 04:28+0100\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -574,7 +574,7 @@ msgid "Install TeXworks front end"
 msgstr "Instalar el editor gráfico TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
-msgid "Setup default repository for network updates"
+msgid "After install, use CTAN for package updates"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:510
