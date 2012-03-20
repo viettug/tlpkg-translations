@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-18 04:28+0100\n"
+"POT-Creation-Date: 2012-03-20 04:26+0100\n"
 "PO-Revision-Date: 2011-12-09 16:24+0100\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1479,8 +1479,8 @@ msgid "Recommended fonts"
 msgstr "Fontes recommandées"
 
 #: tlpkg/translations/shortdesc.pl:39
-msgid "Graphics TeX and outline font utilities"
-msgstr "Utilitaires graphiques pour TeX et les polices vectorielles"
+msgid "Graphics and font utilities"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Extra formats"
@@ -1659,8 +1659,8 @@ msgid "Music typesetting"
 msgstr "Composition de la musique"
 
 #: tlpkg/translations/shortdesc.pl:84
-msgid "Omega"
-msgstr "Omega"
+msgid "Omega packages."
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
@@ -1687,8 +1687,8 @@ msgid "GNU Texinfo"
 msgstr "GNU TeXinfo"
 
 #: tlpkg/translations/shortdesc.pl:91
-msgid "The TeXworks Editor"
-msgstr "L'éditeur TeXworks"
+msgid "TeXworks editor"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
@@ -1697,6 +1697,15 @@ msgstr "Programmes de support spécifique pour Windows"
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Paquet XeTeX"
+
+#~ msgid "Graphics TeX and outline font utilities"
+#~ msgstr "Utilitaires graphiques pour TeX et les polices vectorielles"
+
+#~ msgid "Omega"
+#~ msgstr "Omega"
+
+#~ msgid "The TeXworks Editor"
+#~ msgstr "L'éditeur TeXworks"
 
 #~ msgid "TeX and Outline font utilities"
 #~ msgstr "Utilitaires pour TeX et les fontes vectorielles"
