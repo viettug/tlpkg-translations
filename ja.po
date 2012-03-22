@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-20 04:26+0100\n"
+"POT-Creation-Date: 2012-03-22 04:26+0100\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -587,7 +587,7 @@ msgid "Install TeXworks front end"
 msgstr "TeXworks フロントエンドを導入"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
-msgid "After install, use CTAN for package updates"
+msgid "After install, use tlnet on CTAN for package updates"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:510

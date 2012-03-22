@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-20 04:26+0100\n"
+"POT-Creation-Date: 2012-03-22 04:26+0100\n"
 "PO-Revision-Date: 2011-06-23 21:47+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -581,7 +581,7 @@ msgid "Install TeXworks front end"
 msgstr "Cài đặt trình soạn thảo TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
-msgid "After install, use CTAN for package updates"
+msgid "After install, use tlnet on CTAN for package updates"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:510
