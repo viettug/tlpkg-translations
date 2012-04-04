@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-03-31 04:34+0200\n"
+"POT-Creation-Date: 2012-04-04 04:32+0200\n"
 "PO-Revision-Date: 2011-12-09 16:24+0100\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1663,7 +1663,7 @@ msgid "Music typesetting"
 msgstr "Composition de la musique"
 
 #: tlpkg/translations/shortdesc.pl:85
-msgid "Omega packages."
+msgid "Omega packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:86
