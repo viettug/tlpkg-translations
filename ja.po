@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-04 04:32+0200\n"
+"POT-Creation-Date: 2012-04-05 04:32+0200\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -1341,7 +1341,7 @@ msgid "minimal scheme (plain only)"
 msgstr "最小限スキーム(plainのみ)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme"
+msgid "small scheme (essentials, xetex, recommended packages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8

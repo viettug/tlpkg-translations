@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-04 04:32+0200\n"
+"POT-Creation-Date: 2012-04-05 04:32+0200\n"
 "PO-Revision-Date: 2011-06-23 21:47+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1339,7 +1339,7 @@ msgid "minimal scheme (plain only)"
 msgstr "nhóm tối thiểu (chỉ có \"plain TeX\")"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme"
+msgid "small scheme (essentials, xetex, recommended packages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8

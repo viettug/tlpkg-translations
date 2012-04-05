@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-04 04:32+0200\n"
+"POT-Creation-Date: 2012-04-05 04:32+0200\n"
 "PO-Revision-Date: 2011-06-20 09:49+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -1337,7 +1337,7 @@ msgid "minimal scheme (plain only)"
 msgstr "Schema minimo (solo plain)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme"
+msgid "small scheme (essentials, xetex, recommended packages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8
