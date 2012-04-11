@@ -1,13 +1,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Vladimir <lomov.vl@gmail.com>, 2009, 2010, 2011.
-# Vladimir Lomov <irk.translator@gmail.com>, 2011.
+# Vladimir Lomov <irk.translator@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-04-05 04:32+0200\n"
-"PO-Revision-Date: 2011-10-06 16:31+0900\n"
+"PO-Revision-Date: 2012-04-11 14:24+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "Language: ru\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:244
@@ -67,7 +67,7 @@ msgstr ""
 "\n"
 "Этот Помощник проведёт вас через процедуру установки.\n"
 "\n"
-"Для тонкой, настраиваемой установки просмотрите, пожалуйста,\n"
+"Для более гибкой настройки установки просмотрите, пожалуйста,\n"
 "web-страницы или руководство по установке."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
@@ -85,7 +85,7 @@ msgstr "Изменить репозиторий по умолчанию"
 #: tlpkg/installer/install-menu-wizard.pl:240
 #: tlpkg/installer/install-menu-perltk.pl:257
 msgid "Command line repository"
-msgstr "Указать репозиторий в командной строке"
+msgstr "Репозиторий указанный в командной строке"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-perltk.pl:263
@@ -177,8 +177,8 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
-"Редакция локально установленного TeX Live\n"
-"не совпадает с редакцией в запрашиваемом репозитории:\n"
+"Версия локально установленного TeX Live\n"
+"не совпадает с версией в запрашиваемом репозитории:\n"
 "    локальная: %s\n"
 "в репозитории: %s"
 
@@ -482,7 +482,7 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"Редакция локально установленного TeX Live не совпадает с редакцией в "
+"Версия локально установленного TeX Live не совпадает с версией в "
 "запрашиваемом репозитории:\n"
 "    локальная: %s\n"
 "в репозитории: %s\n"
@@ -490,7 +490,7 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:324
 msgid "Basic Information"
-msgstr "Первичная информация"
+msgstr "Базовая настройка"
 
 #: tlpkg/installer/install-menu-perltk.pl:329
 #: tlpkg/installer/install-menu-perltk.pl:987
@@ -523,7 +523,7 @@ msgstr "Подготовка каталогов"
 
 #: tlpkg/installer/install-menu-perltk.pl:369
 msgid "Portable setup"
-msgstr "Настройка для переносимой системы"
+msgstr "Настройка для мобильного использования"
 
 #: tlpkg/installer/install-menu-perltk.pl:371
 #: tlpkg/installer/install-menu-perltk.pl:428
@@ -596,7 +596,7 @@ msgstr "Установить редактор TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
 msgid "After install, use tlnet on CTAN for package updates"
-msgstr ""
+msgstr "После установки, используйте tlnet на CTAN для обновления пакетов"
 
 #: tlpkg/installer/install-menu-perltk.pl:510
 msgid "Install TeX Live"
@@ -700,7 +700,7 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
-"Настройка переносимой установки изменилась;\n"
+"Настройка мобильного использования изменилась;\n"
 "Каталоги были заново инициализированы"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:155
@@ -730,7 +730,7 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"У вас нет полномочий, чтобы изменить как-либо установку,\n"
+"У вас нет прав, чтобы изменить установку,\n"
 "в частности, нет прав на запись в каталог %s.\n"
 "Запустите эту программу от имени администратора или свяжитесь с вашим "
 "администратором.\n"
@@ -917,7 +917,7 @@ msgstr "Дополнительные параметры"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:522
 msgid "Enable debugging output"
-msgstr "Включить детальный вывод"
+msgstr "Включить отладочный вывод"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:526
 msgid "Disable auto-install of new packages"
@@ -969,7 +969,7 @@ msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
-"Действительно удалить ЦЕЛИКОМ всю установку TeX Live %s?\n"
+"Действительно удалить ПОЛНОСТЬЮ всю установку TeX Live %s?\n"
 "Это ваш последний шанс изменить своё решение!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:604
@@ -1019,7 +1019,7 @@ msgstr "Сетевая ревизия:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:669
 msgid "Remote Catalogue Version:"
-msgstr "Версия в сетевом реестре:"
+msgstr "Версия в Каталоге:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:674
 msgid "Keywords:"
@@ -1031,11 +1031,11 @@ msgstr "Характеристика:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:684
 msgid "Primary characterization:"
-msgstr "Первичное описание:"
+msgstr "Основная характеристика:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:689
 msgid "Secondary characterization:"
-msgstr "Вторичное описание:"
+msgstr "Дополнительная характеристика:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Collection:"
@@ -1044,8 +1044,8 @@ msgstr "Коллекция:"
 #: texmf/scripts/texlive/tlmgrgui.pl:704
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
 msgstr ""
-"Предупреждение: версии в реестре могут быть устарелыми или попросту "
-"неверными."
+"Предупреждение: информация о версии в Каталоге может быть устаревшей или "
+"попросту неверной."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:742
 msgid "Depends:"
@@ -1073,7 +1073,7 @@ msgstr "Программы:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:767
 msgid "Further information"
-msgstr "Дополнительная информация"
+msgstr "Дополнительно"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:976 texmf/scripts/texlive/tlmgrgui.pl:981
 msgid "Select platforms to support"
@@ -1096,15 +1096,15 @@ msgstr "Репозиторий пакетов по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1087
 msgid "Create formats on installation"
-msgstr "Создать форматы при установке"
+msgstr "Создавать форматы при установке"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1095
 msgid "Install macro/font sources"
-msgstr "Установить исходные файлы для макросов и шрифтов"
+msgstr "Устанавливать исходные файлы для макросов и шрифтов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1103
 msgid "Install macro/font docs"
-msgstr "Установить документацию для макросов и шрифтов"
+msgstr "Устанавливать документацию для макросов и шрифтов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1111
 msgid "Default backup directory"
@@ -1235,9 +1235,9 @@ msgid ""
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
-"Установлены критически важные обновления.\n"
-"Сейчас программа завершится.\n"
-"Перезапустите программу, если необходимо."
+"Были установлены критически важные обновления.\n"
+"Сейчас программа будет закрыта.\n"
+"Если необходимо, перезапустите программу."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1968
 msgid ""
@@ -1250,12 +1250,12 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 "Имеются обновления для программы tlmgr.\n"
-"Установка и обновление не запустятся без прямого приказа.\n"
-"Пожалуйста, выйдите из этого диалога и выберите действие «Обновить все "
+"Установку и обновление нужно провести «вручную».\n"
+"Пожалуйста, закройте это окно и выберите действие «Обновить все "
 "установленные пакеты».\n"
 "\n"
-"После обновления программа завершится. После чего перезапустите программу "
-"для дальнейших действий."
+"После обновления программа tlmgr будет закрыта. Запустите tlmgr затем снова, "
+"чтобы обновить другие пакеты."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1970
 #, perl-format
@@ -1267,7 +1267,7 @@ msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
-"Пожалуйста, подождите немного после завершения программы, чтобы обновление "
+"Пожалуйста, после закрытия программы подождите немного, чтобы обновление "
 "завершилось."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2052
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and LaTeX)"
-msgstr "первичная схема (plain и LaTeX)"
+msgstr "базовая схема (plain и LaTeX)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1334,7 +1334,7 @@ msgstr "схема ConTeXt"
 
 #: tlpkg/translations/shortdesc.pl:3
 msgid "full scheme (everything)"
-msgstr "полная схема (всё)"
+msgstr "полная схема (включает всё)"
 
 #: tlpkg/translations/shortdesc.pl:4
 msgid "GUST TeX Live scheme"
@@ -1350,7 +1350,7 @@ msgstr "минимальная схема (только plain)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (essentials, xetex, recommended packages)"
-msgstr ""
+msgstr "малая схема (самое необходимое, движок xetex, рекомендованные пакеты)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1482,7 +1482,7 @@ msgstr "Рекомендованные шрифты"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr ""
+msgstr "Инструменты для работы с графикой и шрифтами"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1490,7 +1490,7 @@ msgstr "Дополнительные форматы"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "Games typesetting"
-msgstr "Для печати игр"
+msgstr "Для вёрстки игр"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Extra generic packages"
@@ -1638,7 +1638,7 @@ msgstr "Основные пакеты LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX supplementary packages"
-msgstr "Вспомогательные пакеты LaTeX"
+msgstr "Дополнительные пакеты LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:80
 msgid "LaTeX recommended packages"
@@ -1650,7 +1650,7 @@ msgstr "Пакеты LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:82
 msgid "Advanced math typesetting"
-msgstr "Улучшенный набор математики"
+msgstr "Улучшенная вёрстка математики"
 
 #: tlpkg/translations/shortdesc.pl:83
 msgid "MetaPost (and Metafont) drawing packages"
@@ -1658,11 +1658,11 @@ msgstr "Пакеты для рисования MetaPost (и Metafont)"
 
 #: tlpkg/translations/shortdesc.pl:84
 msgid "Music typesetting"
-msgstr "Для набора музыкальных произведений"
+msgstr "Для вёрстки музыкальных произведений"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Omega packages"
-msgstr ""
+msgstr "Пакеты проекта Omega"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
@@ -1670,7 +1670,7 @@ msgstr "Графические пакеты и программы"
 
 #: tlpkg/translations/shortdesc.pl:87
 msgid "Plain TeX supplementary packages"
-msgstr "Вспомогательные пакеты для Plain Tex"
+msgstr "Дополнительные пакеты для Plain TeX"
 
 #: tlpkg/translations/shortdesc.pl:88
 msgid "PSTricks packages"
@@ -1682,7 +1682,7 @@ msgstr "Поддержка для издательств, сборников, с
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "Typesetting for natural and computer sciences"
-msgstr "Для набора в естественных и компьютерных науках"
+msgstr "Для вёрстки в естественных и компьютерных науках"
 
 #: tlpkg/translations/shortdesc.pl:91
 msgid "GNU Texinfo"
@@ -1690,7 +1690,7 @@ msgstr "GNU Texinfo"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "TeXworks editor"
-msgstr ""
+msgstr "Редактор TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "Windows support programs"
