@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-05 04:32+0200\n"
+"POT-Creation-Date: 2012-04-12 03:38+0200\n"
 "PO-Revision-Date: 2012-04-11 14:24+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
@@ -1325,8 +1325,8 @@ msgstr ""
 "Пожалуйста, ознакомьтесь с подробностями в окне журнала."
 
 #: tlpkg/translations/shortdesc.pl:1
-msgid "basic scheme (plain and LaTeX)"
-msgstr "базовая схема (plain и LaTeX)"
+msgid "basic scheme (plain and latex)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1699,6 +1699,9 @@ msgstr "Программы для Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Пакеты XeTeX"
+
+#~ msgid "basic scheme (plain and LaTeX)"
+#~ msgstr "базовая схема (plain и LaTeX)"
 
 #~ msgid "Omega"
 #~ msgstr "Omega"

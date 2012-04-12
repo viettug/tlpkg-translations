@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-05 04:32+0200\n"
+"POT-Creation-Date: 2012-04-12 03:38+0200\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1298,7 +1298,7 @@ msgstr ""
 "Vea la ventana de mensajes para ver los detalles."
 
 #: tlpkg/translations/shortdesc.pl:1
-msgid "basic scheme (plain and LaTeX)"
+msgid "basic scheme (plain and latex)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:2

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live 2011 Serbian Translation 20110618\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-05 04:32+0200\n"
+"POT-Creation-Date: 2012-04-12 03:38+0200\n"
 "PO-Revision-Date: 2011-06-18 20:43+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -1313,8 +1313,8 @@ msgstr ""
 "Прозор са порукама (log window) садржи више детаља."
 
 #: tlpkg/translations/shortdesc.pl:1
-msgid "basic scheme (plain and LaTeX)"
-msgstr "основна шема (чист [plain] TeX и LaTeX)"
+msgid "basic scheme (plain and latex)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1688,6 +1688,9 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid "basic scheme (plain and LaTeX)"
+#~ msgstr "основна шема (чист [plain] TeX и LaTeX)"
 
 #~ msgid "Omega"
 #~ msgstr "Omega"

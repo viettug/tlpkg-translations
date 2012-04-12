@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-05 04:32+0200\n"
+"POT-Creation-Date: 2012-04-12 03:38+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1291,7 +1291,7 @@ msgstr ""
 "请查看日志窗口以了解细节。"
 
 #: tlpkg/translations/shortdesc.pl:1
-msgid "basic scheme (plain and LaTeX)"
+msgid "basic scheme (plain and latex)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:2

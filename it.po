@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Texlive\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-04-05 04:32+0200\n"
+"POT-Creation-Date: 2012-04-12 03:38+0200\n"
 "PO-Revision-Date: 2011-06-20 09:49+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -1312,8 +1312,8 @@ msgstr ""
 "Consulta la finestra di registro per i dettagli."
 
 #: tlpkg/translations/shortdesc.pl:1
-msgid "basic scheme (plain and LaTeX)"
-msgstr "Schema base (plain e LaTeX)"
+msgid "basic scheme (plain and latex)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1687,6 +1687,9 @@ msgstr "Programmi di supporto per Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Pacchetti XeTeX"
+
+#~ msgid "basic scheme (plain and LaTeX)"
+#~ msgstr "Schema base (plain e LaTeX)"
 
 #~ msgid "Omega"
 #~ msgstr "Omega"
