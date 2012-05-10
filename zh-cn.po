@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-09 04:37+0200\n"
+"POT-Creation-Date: 2012-05-10 04:39+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -20,7 +20,7 @@ msgstr "TeX Live %s 安装"
 
 #: tlpkg/installer/install-menu-wizard.pl:165
 #: tlpkg/installer/install-menu-perltk.pl:514
-#: texmf/scripts/texlive/tlmgrgui.pl:524
+#: texmf/scripts/texlive/tlmgrgui.pl:527
 msgid "Quit"
 msgstr "退出"
 
@@ -92,8 +92,8 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:251
 #: tlpkg/installer/install-menu-perltk.pl:268
-#: texmf/scripts/texlive/tlmgrgui.pl:1464
-#: texmf/scripts/texlive/tlmgrgui.pl:1496
+#: texmf/scripts/texlive/tlmgrgui.pl:1459
+#: texmf/scripts/texlive/tlmgrgui.pl:1491
 msgid "Default remote repository"
 msgstr "缺省的网络软件包仓库"
 
@@ -138,19 +138,20 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:914
 #: tlpkg/installer/install-menu-perltk.pl:978
 #: tlpkg/installer/install-menu-perltk.pl:1009
-#: texmf/scripts/texlive/tlmgrgui.pl:607 texmf/scripts/texlive/tlmgrgui.pl:608
-#: texmf/scripts/texlive/tlmgrgui.pl:1035
-#: texmf/scripts/texlive/tlmgrgui.pl:1256
-#: texmf/scripts/texlive/tlmgrgui.pl:1371
-#: texmf/scripts/texlive/tlmgrgui.pl:1436
-#: texmf/scripts/texlive/tlmgrgui.pl:1446
-#: texmf/scripts/texlive/tlmgrgui.pl:1509
-#: texmf/scripts/texlive/tlmgrgui.pl:1689
-#: texmf/scripts/texlive/tlmgrgui.pl:1743
-#: texmf/scripts/texlive/tlmgrgui.pl:1776
-#: texmf/scripts/texlive/tlmgrgui.pl:1809
-#: texmf/scripts/texlive/tlmgrgui.pl:2456
-#: texmf/scripts/texlive/tlmgrgui.pl:2501
+#: texmf/scripts/texlive/tlmgrgui.pl:610 texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:1038
+#: texmf/scripts/texlive/tlmgrgui.pl:1250
+#: texmf/scripts/texlive/tlmgrgui.pl:1366
+#: texmf/scripts/texlive/tlmgrgui.pl:1431
+#: texmf/scripts/texlive/tlmgrgui.pl:1441
+#: texmf/scripts/texlive/tlmgrgui.pl:1504
+#: texmf/scripts/texlive/tlmgrgui.pl:1686
+#: texmf/scripts/texlive/tlmgrgui.pl:1751
+#: texmf/scripts/texlive/tlmgrgui.pl:1788
+#: texmf/scripts/texlive/tlmgrgui.pl:1821
+#: texmf/scripts/texlive/tlmgrgui.pl:2468
+#: texmf/scripts/texlive/tlmgrgui.pl:2505
+#: texmf/scripts/texlive/tlmgrgui.pl:2550
 msgid "Cancel"
 msgstr "取消"
 
@@ -191,18 +192,18 @@ msgstr "目的文件夹:"
 #: tlpkg/installer/install-menu-perltk.pl:411
 #: tlpkg/installer/install-menu-perltk.pl:460
 #: tlpkg/installer/install-menu-perltk.pl:476
-#: texmf/scripts/texlive/tlmgrgui.pl:1133
-#: texmf/scripts/texlive/tlmgrgui.pl:1173
-#: texmf/scripts/texlive/tlmgrgui.pl:1188
-#: texmf/scripts/texlive/tlmgrgui.pl:1197
-#: texmf/scripts/texlive/tlmgrgui.pl:1205
-#: texmf/scripts/texlive/tlmgrgui.pl:1213
-#: texmf/scripts/texlive/tlmgrgui.pl:1241
-#: texmf/scripts/texlive/tlmgrgui.pl:1358
-#: texmf/scripts/texlive/tlmgrgui.pl:1582
-#: texmf/scripts/texlive/tlmgrgui.pl:2420
-#: texmf/scripts/texlive/tlmgrgui.pl:2425
-#: texmf/scripts/texlive/tlmgrgui.pl:2430
+#: texmf/scripts/texlive/tlmgrgui.pl:1136
+#: texmf/scripts/texlive/tlmgrgui.pl:1174
+#: texmf/scripts/texlive/tlmgrgui.pl:1182
+#: texmf/scripts/texlive/tlmgrgui.pl:1191
+#: texmf/scripts/texlive/tlmgrgui.pl:1199
+#: texmf/scripts/texlive/tlmgrgui.pl:1207
+#: texmf/scripts/texlive/tlmgrgui.pl:1235
+#: texmf/scripts/texlive/tlmgrgui.pl:1353
+#: texmf/scripts/texlive/tlmgrgui.pl:1577
+#: texmf/scripts/texlive/tlmgrgui.pl:2432
+#: texmf/scripts/texlive/tlmgrgui.pl:2437
+#: texmf/scripts/texlive/tlmgrgui.pl:2442
 msgid "Change"
 msgstr "修改"
 
@@ -241,28 +242,29 @@ msgstr "输入路径变量"
 #: tlpkg/installer/install-menu-perltk.pl:976
 #: tlpkg/installer/install-menu-perltk.pl:1007
 #: tlpkg/installer/install-menu-perltk.pl:1024
-#: texmf/scripts/texlive/tlmgrgui.pl:236 texmf/scripts/texlive/tlmgrgui.pl:607
-#: texmf/scripts/texlive/tlmgrgui.pl:611 texmf/scripts/texlive/tlmgrgui.pl:613
-#: texmf/scripts/texlive/tlmgrgui.pl:631 texmf/scripts/texlive/tlmgrgui.pl:810
-#: texmf/scripts/texlive/tlmgrgui.pl:1047
-#: texmf/scripts/texlive/tlmgrgui.pl:1416
-#: texmf/scripts/texlive/tlmgrgui.pl:1446
-#: texmf/scripts/texlive/tlmgrgui.pl:1447
-#: texmf/scripts/texlive/tlmgrgui.pl:1506
-#: texmf/scripts/texlive/tlmgrgui.pl:1625
-#: texmf/scripts/texlive/tlmgrgui.pl:1635
-#: texmf/scripts/texlive/tlmgrgui.pl:1742
-#: texmf/scripts/texlive/tlmgrgui.pl:1768
-#: texmf/scripts/texlive/tlmgrgui.pl:1800
-#: texmf/scripts/texlive/tlmgrgui.pl:1848
-#: texmf/scripts/texlive/tlmgrgui.pl:1920
-#: texmf/scripts/texlive/tlmgrgui.pl:1951
-#: texmf/scripts/texlive/tlmgrgui.pl:2259
-#: texmf/scripts/texlive/tlmgrgui.pl:2319
-#: texmf/scripts/texlive/tlmgrgui.pl:2345
-#: texmf/scripts/texlive/tlmgrgui.pl:2453
-#: texmf/scripts/texlive/tlmgrgui.pl:2496
-#: texmf/scripts/texlive/tlmgrgui.pl:2581
+#: texmf/scripts/texlive/tlmgrgui.pl:239 texmf/scripts/texlive/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui.pl:614 texmf/scripts/texlive/tlmgrgui.pl:616
+#: texmf/scripts/texlive/tlmgrgui.pl:634 texmf/scripts/texlive/tlmgrgui.pl:813
+#: texmf/scripts/texlive/tlmgrgui.pl:1050
+#: texmf/scripts/texlive/tlmgrgui.pl:1411
+#: texmf/scripts/texlive/tlmgrgui.pl:1441
+#: texmf/scripts/texlive/tlmgrgui.pl:1442
+#: texmf/scripts/texlive/tlmgrgui.pl:1501
+#: texmf/scripts/texlive/tlmgrgui.pl:1620
+#: texmf/scripts/texlive/tlmgrgui.pl:1630
+#: texmf/scripts/texlive/tlmgrgui.pl:1750
+#: texmf/scripts/texlive/tlmgrgui.pl:1777
+#: texmf/scripts/texlive/tlmgrgui.pl:1812
+#: texmf/scripts/texlive/tlmgrgui.pl:1860
+#: texmf/scripts/texlive/tlmgrgui.pl:1932
+#: texmf/scripts/texlive/tlmgrgui.pl:1963
+#: texmf/scripts/texlive/tlmgrgui.pl:2271
+#: texmf/scripts/texlive/tlmgrgui.pl:2331
+#: texmf/scripts/texlive/tlmgrgui.pl:2357
+#: texmf/scripts/texlive/tlmgrgui.pl:2465
+#: texmf/scripts/texlive/tlmgrgui.pl:2503
+#: texmf/scripts/texlive/tlmgrgui.pl:2545
+#: texmf/scripts/texlive/tlmgrgui.pl:2630
 msgid "Ok"
 msgstr "确定"
 
@@ -281,9 +283,9 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:474
 #: tlpkg/installer/install-menu-perltk.pl:692
 #: tlpkg/installer/install-menu-perltk.pl:697
-#: texmf/scripts/texlive/tlmgrgui.pl:1237
-#: texmf/scripts/texlive/tlmgrgui.pl:1785
-#: texmf/scripts/texlive/tlmgrgui.pl:1789
+#: texmf/scripts/texlive/tlmgrgui.pl:1231
+#: texmf/scripts/texlive/tlmgrgui.pl:1797
+#: texmf/scripts/texlive/tlmgrgui.pl:1801
 msgid "Change file associations"
 msgstr "修改文件关联"
 
@@ -331,9 +333,9 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:1126
 #: tlpkg/installer/install-menu-perltk.pl:1213
 #: tlpkg/installer/install-menu-perltk.pl:1241
-#: texmf/scripts/texlive/tlmgrgui.pl:678
-#: texmf/scripts/texlive/tlmgrgui.pl:1092
-#: texmf/scripts/texlive/tlmgrgui.pl:1702
+#: texmf/scripts/texlive/tlmgrgui.pl:681
+#: texmf/scripts/texlive/tlmgrgui.pl:1095
+#: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Yes"
 msgstr "是"
 
@@ -358,14 +360,14 @@ msgstr "是"
 #: tlpkg/installer/install-menu-perltk.pl:1223
 #: tlpkg/installer/install-menu-perltk.pl:1225
 #: tlpkg/installer/install-menu-perltk.pl:1241
-#: texmf/scripts/texlive/tlmgrgui.pl:678
-#: texmf/scripts/texlive/tlmgrgui.pl:1092
-#: texmf/scripts/texlive/tlmgrgui.pl:1702
+#: texmf/scripts/texlive/tlmgrgui.pl:681
+#: texmf/scripts/texlive/tlmgrgui.pl:1095
+#: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "No"
 msgstr "否"
 
 #: tlpkg/installer/install-menu-wizard.pl:682
-#: texmf/scripts/texlive/tlmgrgui.pl:436
+#: texmf/scripts/texlive/tlmgrgui.pl:439
 msgid "Install"
 msgstr "安装"
 
@@ -418,17 +420,17 @@ msgstr "完成"
 
 #: tlpkg/installer/install-menu-perltk.pl:56
 #: tlpkg/installer/install-menu-perltk.pl:1224
-#: texmf/scripts/texlive/tlmgrgui.pl:144
+#: texmf/scripts/texlive/tlmgrgui.pl:145
 msgid "None"
 msgstr "无"
 
 #: tlpkg/installer/install-menu-perltk.pl:57
-#: texmf/scripts/texlive/tlmgrgui.pl:145
+#: texmf/scripts/texlive/tlmgrgui.pl:146
 msgid "Only new"
 msgstr "只有新的"
 
 #: tlpkg/installer/install-menu-perltk.pl:58
-#: texmf/scripts/texlive/tlmgrgui.pl:146
+#: texmf/scripts/texlive/tlmgrgui.pl:147
 msgid "All"
 msgstr "全部的"
 
@@ -437,7 +439,7 @@ msgid "A4"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:61
-#: texmf/scripts/texlive/tlmgrgui.pl:1344
+#: texmf/scripts/texlive/tlmgrgui.pl:1338
 msgid "letter"
 msgstr "letter"
 
@@ -449,15 +451,15 @@ msgstr "载入"
 #: tlpkg/installer/install-menu-perltk.pl:304
 #: tlpkg/installer/install-menu-perltk.pl:1022
 #: tlpkg/installer/install-menu-perltk.pl:1232
-#: texmf/scripts/texlive/tlmgrgui.pl:234
-#: texmf/scripts/texlive/tlmgrgui.pl:1045
-#: texmf/scripts/texlive/tlmgrgui.pl:1634
-#: texmf/scripts/texlive/tlmgrgui.pl:1846
-#: texmf/scripts/texlive/tlmgrgui.pl:1918
-#: texmf/scripts/texlive/tlmgrgui.pl:1949
-#: texmf/scripts/texlive/tlmgrgui.pl:2259
-#: texmf/scripts/texlive/tlmgrgui.pl:2319
-#: texmf/scripts/texlive/tlmgrgui.pl:2581
+#: texmf/scripts/texlive/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui.pl:1048
+#: texmf/scripts/texlive/tlmgrgui.pl:1629
+#: texmf/scripts/texlive/tlmgrgui.pl:1858
+#: texmf/scripts/texlive/tlmgrgui.pl:1930
+#: texmf/scripts/texlive/tlmgrgui.pl:1961
+#: texmf/scripts/texlive/tlmgrgui.pl:2271
+#: texmf/scripts/texlive/tlmgrgui.pl:2331
+#: texmf/scripts/texlive/tlmgrgui.pl:2630
 msgid "Warning"
 msgstr "警告"
 
@@ -523,11 +525,11 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:483
 #: tlpkg/installer/install-menu-perltk.pl:491
 #: tlpkg/installer/install-menu-perltk.pl:498
-#: texmf/scripts/texlive/tlmgrgui.pl:1149
-#: texmf/scripts/texlive/tlmgrgui.pl:1157
-#: texmf/scripts/texlive/tlmgrgui.pl:1165
-#: texmf/scripts/texlive/tlmgrgui.pl:1223
-#: texmf/scripts/texlive/tlmgrgui.pl:1232
+#: texmf/scripts/texlive/tlmgrgui.pl:1153
+#: texmf/scripts/texlive/tlmgrgui.pl:1160
+#: texmf/scripts/texlive/tlmgrgui.pl:1167
+#: texmf/scripts/texlive/tlmgrgui.pl:1217
+#: texmf/scripts/texlive/tlmgrgui.pl:1226
 msgid "Toggle"
 msgstr "切换"
 
@@ -552,7 +554,7 @@ msgid "TEXMFHOME (directory for user-specific files)"
 msgstr "TEXMFHOME (用户专有文件的目录)"
 
 #: tlpkg/installer/install-menu-perltk.pl:422
-#: texmf/scripts/texlive/tlmgrgui.pl:493
+#: texmf/scripts/texlive/tlmgrgui.pl:496
 msgid "Options"
 msgstr "选项"
 
@@ -654,7 +656,7 @@ msgid "Select arch-os"
 msgstr "选择系统架构"
 
 #: tlpkg/installer/install-menu-perltk.pl:1023
-#: texmf/scripts/texlive/tlmgrgui.pl:1046
+#: texmf/scripts/texlive/tlmgrgui.pl:1049
 #, fuzzy
 msgid "Removals of the main platform not possible!"
 msgstr "不可能删除主架构文件！"
@@ -689,7 +691,7 @@ msgid ""
 "Directories have been reinitialized"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:170
+#: texmf/scripts/texlive/tlmgrgui.pl:171
 msgid ""
 "Loading local TeX Live Database\n"
 "This may take some time, please wait!"
@@ -697,16 +699,16 @@ msgstr ""
 "正在载入本地 TeX Live 数据库\n"
 "可能会花费一点时间，请稍等！"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:217
+#: texmf/scripts/texlive/tlmgrgui.pl:218
 msgid "Cannot load taxonomy file"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:229
-#: texmf/scripts/texlive/tlmgrgui.pl:2575
+#: texmf/scripts/texlive/tlmgrgui.pl:232
+#: texmf/scripts/texlive/tlmgrgui.pl:2624
 msgid "Completed"
 msgstr "完成"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:235
+#: texmf/scripts/texlive/tlmgrgui.pl:238
 #, perl-format
 msgid ""
 "You don't have permissions to change the installation in any way,\n"
@@ -721,243 +723,243 @@ msgstr ""
 "\n"
 "大部分按钮都被禁用了。"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:281
+#: texmf/scripts/texlive/tlmgrgui.pl:284
 msgid "Load default"
 msgstr "载入缺省软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:287
-#: texmf/scripts/texlive/tlmgrgui.pl:2531
+#: texmf/scripts/texlive/tlmgrgui.pl:290
+#: texmf/scripts/texlive/tlmgrgui.pl:2580
 msgid "Loaded repository:"
 msgstr "已载入的软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:287
+#: texmf/scripts/texlive/tlmgrgui.pl:290
 msgid "none"
 msgstr "无"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:294
+#: texmf/scripts/texlive/tlmgrgui.pl:297
 msgid "Display configuration"
 msgstr "显示配置"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:299
+#: texmf/scripts/texlive/tlmgrgui.pl:302
 msgid "Status"
 msgstr "状态"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:302 texmf/scripts/texlive/tlmgrgui.pl:356
+#: texmf/scripts/texlive/tlmgrgui.pl:305 texmf/scripts/texlive/tlmgrgui.pl:359
 msgid "all"
 msgstr "全部的"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:304
+#: texmf/scripts/texlive/tlmgrgui.pl:307
 msgid "installed"
 msgstr "已安装"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "not installed"
 msgstr "未安装"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:308
+#: texmf/scripts/texlive/tlmgrgui.pl:311
 msgid "updates"
 msgstr "更新"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:311
+#: texmf/scripts/texlive/tlmgrgui.pl:314
 msgid "Category"
 msgstr "分类"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "packages"
 msgstr "软件包"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:315
+#: texmf/scripts/texlive/tlmgrgui.pl:318
 msgid "collections"
 msgstr "集合"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:317
+#: texmf/scripts/texlive/tlmgrgui.pl:320
 msgid "schemes"
 msgstr "套装"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:320
+#: texmf/scripts/texlive/tlmgrgui.pl:323
 msgid "Match"
 msgstr "匹配"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:325
+#: texmf/scripts/texlive/tlmgrgui.pl:328
 #, fuzzy
 msgid "descriptions"
 msgstr "简短描述"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:328
+#: texmf/scripts/texlive/tlmgrgui.pl:331
 msgid "taxonomies"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:332
+#: texmf/scripts/texlive/tlmgrgui.pl:335
 msgid "filenames"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:354
+#: texmf/scripts/texlive/tlmgrgui.pl:357
 msgid "Selection"
 msgstr "选择"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:358
+#: texmf/scripts/texlive/tlmgrgui.pl:361
 msgid "selected"
 msgstr "选定的"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:361
+#: texmf/scripts/texlive/tlmgrgui.pl:364
 msgid "not selected"
 msgstr "未选的"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:369
+#: texmf/scripts/texlive/tlmgrgui.pl:372
 msgid "Select all"
 msgstr "全部选择"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:371
+#: texmf/scripts/texlive/tlmgrgui.pl:374
 msgid "Select none"
 msgstr "全部不选"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:375
+#: texmf/scripts/texlive/tlmgrgui.pl:378
 msgid "Reset filters"
 msgstr "重置过滤器"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:397
+#: texmf/scripts/texlive/tlmgrgui.pl:400
 msgid "Package name"
 msgstr "软件包名称"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:398
+#: texmf/scripts/texlive/tlmgrgui.pl:401
 msgid "Local rev. (ver.)"
 msgstr "本地版本"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:399
+#: texmf/scripts/texlive/tlmgrgui.pl:402
 msgid "Remote rev. (ver.)"
 msgstr "远程版本"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:400
+#: texmf/scripts/texlive/tlmgrgui.pl:403
 msgid "Short description"
 msgstr "简短描述"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:414
+#: texmf/scripts/texlive/tlmgrgui.pl:417
 msgid "Update all installed"
 msgstr "更新全部已安装的"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:418
+#: texmf/scripts/texlive/tlmgrgui.pl:421
 msgid "Reinstall previously removed packages"
 msgstr "重装先前删除的包"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:431
+#: texmf/scripts/texlive/tlmgrgui.pl:434
 msgid "Update"
 msgstr "更新"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:440
-#: texmf/scripts/texlive/tlmgrgui.pl:1975
+#: texmf/scripts/texlive/tlmgrgui.pl:443
+#: texmf/scripts/texlive/tlmgrgui.pl:1987
 msgid "Remove"
 msgstr "删除"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:445
+#: texmf/scripts/texlive/tlmgrgui.pl:448
 msgid "Backup"
 msgstr "备份"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:495
+#: texmf/scripts/texlive/tlmgrgui.pl:498
 msgid "Actions"
 msgstr "操作"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:499
-#: texmf/scripts/texlive/tlmgrgui.pl:2606
+#: texmf/scripts/texlive/tlmgrgui.pl:502
+#: texmf/scripts/texlive/tlmgrgui.pl:2655
 msgid "Help"
 msgstr "帮助"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:508
-#: texmf/scripts/texlive/tlmgrgui.pl:1099
-#: texmf/scripts/texlive/tlmgrgui.pl:1275
-#: texmf/scripts/texlive/tlmgrgui.pl:1678
-#: texmf/scripts/texlive/tlmgrgui.pl:2527
+#: texmf/scripts/texlive/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui.pl:1102
+#: texmf/scripts/texlive/tlmgrgui.pl:1269
+#: texmf/scripts/texlive/tlmgrgui.pl:1674
+#: texmf/scripts/texlive/tlmgrgui.pl:2576
 msgid "multiple repositories"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:511
-#: texmf/scripts/texlive/tlmgrgui.pl:1275
-#: texmf/scripts/texlive/tlmgrgui.pl:1277
+#: texmf/scripts/texlive/tlmgrgui.pl:514
+#: texmf/scripts/texlive/tlmgrgui.pl:1269
+#: texmf/scripts/texlive/tlmgrgui.pl:1271
 msgid "Load default repository:"
 msgstr "载入缺省软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:514
+#: texmf/scripts/texlive/tlmgrgui.pl:517
 msgid "Load cmd line repository:"
 msgstr "载入命令行仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:517
+#: texmf/scripts/texlive/tlmgrgui.pl:520
 msgid "Load default net repository:"
 msgstr "载入缺省的网络仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:520
+#: texmf/scripts/texlive/tlmgrgui.pl:523
 msgid "Load other repository ..."
 msgstr "载入其他仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:530
+#: texmf/scripts/texlive/tlmgrgui.pl:533
 msgid "General ..."
 msgstr "通用..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:532
+#: texmf/scripts/texlive/tlmgrgui.pl:535
 msgid "Paper ..."
 msgstr "纸张..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:535
+#: texmf/scripts/texlive/tlmgrgui.pl:538
 #, fuzzy
 msgid "Platforms ..."
 msgstr "纸张..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:537
+#: texmf/scripts/texlive/tlmgrgui.pl:540
 msgid "GUI Language ..."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:541
-#: texmf/scripts/texlive/tlmgrgui.pl:1444
+#: texmf/scripts/texlive/tlmgrgui.pl:544
+#: texmf/scripts/texlive/tlmgrgui.pl:1439
 msgid "Expert options"
 msgstr "专家设置"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:545
+#: texmf/scripts/texlive/tlmgrgui.pl:548
 msgid "Enable debugging output"
 msgstr "启用调试输出"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:549
+#: texmf/scripts/texlive/tlmgrgui.pl:552
 msgid "Disable auto-install of new packages"
 msgstr "禁用新软件包的自动安装"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:552
+#: texmf/scripts/texlive/tlmgrgui.pl:555
 msgid "Disable auto-removal of server-deleted packages"
 msgstr "禁用服务器删除包的自动卸载"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:559
+#: texmf/scripts/texlive/tlmgrgui.pl:562
 msgid "Update filename database"
 msgstr "更新文件名数据库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:567
+#: texmf/scripts/texlive/tlmgrgui.pl:570
 msgid "Rebuild all formats"
 msgstr "重新创建所有格式文件"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:578
+#: texmf/scripts/texlive/tlmgrgui.pl:581
 msgid "Update font map database"
 msgstr "更新字体映射数据库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:591
-#: texmf/scripts/texlive/tlmgrgui.pl:2329
+#: texmf/scripts/texlive/tlmgrgui.pl:594
+#: texmf/scripts/texlive/tlmgrgui.pl:2341
 msgid "Restore packages from backup"
 msgstr "从备份恢复软件包"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:597
-#: texmf/scripts/texlive/tlmgrgui.pl:2411
+#: texmf/scripts/texlive/tlmgrgui.pl:600
+#: texmf/scripts/texlive/tlmgrgui.pl:2423
 msgid "Handle symlinks in system dirs"
 msgstr "创建指向系统目录的符号链接"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:603
+#: texmf/scripts/texlive/tlmgrgui.pl:606
 #, perl-format
 msgid "Remove TeX Live %s ..."
 msgstr "删除 TeX Live %s ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:606
+#: texmf/scripts/texlive/tlmgrgui.pl:609
 #, perl-format
 msgid "Remove TeX Live %s"
 msgstr "删除 TeX Live %s"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:613
+#: texmf/scripts/texlive/tlmgrgui.pl:616
 msgid "Complete removal completed"
 msgstr "已经完整删除"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:618
+#: texmf/scripts/texlive/tlmgrgui.pl:621
 #, perl-format
 msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
@@ -966,265 +968,266 @@ msgstr ""
 "确定要删除整个 TeX Live %s 的安装吗？\n"
 "这是你最后一次改变主意的机会！"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:627
+#: texmf/scripts/texlive/tlmgrgui.pl:630
 msgid "Manual"
 msgstr "手册"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:628 texmf/scripts/texlive/tlmgrgui.pl:630
+#: texmf/scripts/texlive/tlmgrgui.pl:631 texmf/scripts/texlive/tlmgrgui.pl:633
 msgid "About"
 msgstr "关于"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:652
+#: texmf/scripts/texlive/tlmgrgui.pl:655
 msgid "Details on:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:662
-#: texmf/scripts/texlive/tlmgrgui.pl:2353
+#: texmf/scripts/texlive/tlmgrgui.pl:665
+#: texmf/scripts/texlive/tlmgrgui.pl:2365
 msgid "Package:"
 msgstr "软件包:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:664
+#: texmf/scripts/texlive/tlmgrgui.pl:667
 msgid "Category:"
 msgstr "分类:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:666
+#: texmf/scripts/texlive/tlmgrgui.pl:669
 msgid "Short description:"
 msgstr "简短描述:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:674
+#: texmf/scripts/texlive/tlmgrgui.pl:677
 msgid "Long description:"
 msgstr "详细描述:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:677
+#: texmf/scripts/texlive/tlmgrgui.pl:680
 msgid "Installed:"
 msgstr "已安装的:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:680
+#: texmf/scripts/texlive/tlmgrgui.pl:683
 msgid "Local Revision:"
 msgstr "本地版本:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:684
+#: texmf/scripts/texlive/tlmgrgui.pl:687
 msgid "Local Catalogue Version:"
 msgstr "本地目录版本:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:688
+#: texmf/scripts/texlive/tlmgrgui.pl:691
 msgid "Remote Revision:"
 msgstr "远程版本:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:692
+#: texmf/scripts/texlive/tlmgrgui.pl:695
 msgid "Remote Catalogue Version:"
 msgstr "远程目录版本:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:697
+#: texmf/scripts/texlive/tlmgrgui.pl:700
 msgid "Keywords:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:702
+#: texmf/scripts/texlive/tlmgrgui.pl:705
 msgid "Functionality:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:707
+#: texmf/scripts/texlive/tlmgrgui.pl:710
 msgid "Primary characterization:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:712
+#: texmf/scripts/texlive/tlmgrgui.pl:715
 msgid "Secondary characterization:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:723
+#: texmf/scripts/texlive/tlmgrgui.pl:726
 msgid "Collection:"
 msgstr "集合:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:727
+#: texmf/scripts/texlive/tlmgrgui.pl:730
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
 msgstr "警告: 目录版本可能是旧的或者错的。"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:765
+#: texmf/scripts/texlive/tlmgrgui.pl:768
 msgid "Depends:"
 msgstr "依赖:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:769
+#: texmf/scripts/texlive/tlmgrgui.pl:772
 msgid "Binaries' dependencies:"
 msgstr "二进制依赖:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:771
+#: texmf/scripts/texlive/tlmgrgui.pl:774
 msgid "Runfiles:"
 msgstr "运行文件:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:772
+#: texmf/scripts/texlive/tlmgrgui.pl:775
 msgid "Docfiles:"
 msgstr "文档文件:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:773
+#: texmf/scripts/texlive/tlmgrgui.pl:776
 msgid "Srcfiles:"
 msgstr "源文件:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:785
+#: texmf/scripts/texlive/tlmgrgui.pl:788
 msgid "Binfiles:"
 msgstr "二进制文件:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:790
+#: texmf/scripts/texlive/tlmgrgui.pl:793
 msgid "Further information"
 msgstr "详细信息"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1016
-#: texmf/scripts/texlive/tlmgrgui.pl:1021
+#: texmf/scripts/texlive/tlmgrgui.pl:1019
+#: texmf/scripts/texlive/tlmgrgui.pl:1024
 #, fuzzy
 msgid "Select platforms to support"
 msgstr "选择支持的架构"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1032
-#: texmf/scripts/texlive/tlmgrgui.pl:1253
-#: texmf/scripts/texlive/tlmgrgui.pl:1368
+#: texmf/scripts/texlive/tlmgrgui.pl:1035
+#: texmf/scripts/texlive/tlmgrgui.pl:1247
+#: texmf/scripts/texlive/tlmgrgui.pl:1363
 msgid "Apply changes"
 msgstr "应用修改"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1111
-#: texmf/scripts/texlive/tlmgrgui.pl:1120
+#: texmf/scripts/texlive/tlmgrgui.pl:1114
+#: texmf/scripts/texlive/tlmgrgui.pl:1123
 msgid "General options"
 msgstr "通用设置"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1125
+#: texmf/scripts/texlive/tlmgrgui.pl:1128
 msgid "Default package repository"
 msgstr "缺省的软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1145
+#: texmf/scripts/texlive/tlmgrgui.pl:1149
 msgid "Create formats on installation"
 msgstr "安装时创建格式文件"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1153
+#: texmf/scripts/texlive/tlmgrgui.pl:1156
 msgid "Install macro/font sources"
 msgstr "安装宏包/字体源代码"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1161
+#: texmf/scripts/texlive/tlmgrgui.pl:1163
 msgid "Install macro/font docs"
 msgstr "安装宏包/字体文档"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1169
+#: texmf/scripts/texlive/tlmgrgui.pl:1170
 msgid "Default backup directory"
 msgstr "缺省的备份目录"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1184
-#: texmf/scripts/texlive/tlmgrgui.pl:1751
-#: texmf/scripts/texlive/tlmgrgui.pl:1755
+#: texmf/scripts/texlive/tlmgrgui.pl:1178
+#: texmf/scripts/texlive/tlmgrgui.pl:1759
+#: texmf/scripts/texlive/tlmgrgui.pl:1764
 msgid "Auto backup setting"
 msgstr "自动备份设置"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1193
-#: texmf/scripts/texlive/tlmgrgui.pl:2418
+#: texmf/scripts/texlive/tlmgrgui.pl:1187
+#: texmf/scripts/texlive/tlmgrgui.pl:2430
 msgid "Link destination for programs"
 msgstr "程序的链接目的路径"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1201
-#: texmf/scripts/texlive/tlmgrgui.pl:2423
+#: texmf/scripts/texlive/tlmgrgui.pl:1195
+#: texmf/scripts/texlive/tlmgrgui.pl:2435
 msgid "Link destination for info docs"
 msgstr "info 文档的链接目的路径"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1209
-#: texmf/scripts/texlive/tlmgrgui.pl:2428
+#: texmf/scripts/texlive/tlmgrgui.pl:1203
+#: texmf/scripts/texlive/tlmgrgui.pl:2440
 msgid "Link destination for man pages"
 msgstr "man 手册页的链接目的路径"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1219
+#: texmf/scripts/texlive/tlmgrgui.pl:1213
 msgid "Create shortcuts in menu and on desktop"
 msgstr "系统集成"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1228
+#: texmf/scripts/texlive/tlmgrgui.pl:1222
 msgid "Install for all users"
 msgstr "给所有用户安装"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1328
-#: texmf/scripts/texlive/tlmgrgui.pl:1337
+#: texmf/scripts/texlive/tlmgrgui.pl:1322
+#: texmf/scripts/texlive/tlmgrgui.pl:1331
 msgid "Paper options"
 msgstr "纸张设置"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1341
+#: texmf/scripts/texlive/tlmgrgui.pl:1335
 msgid "Default paper for all"
 msgstr "所有程序的缺省纸张"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1342
+#: texmf/scripts/texlive/tlmgrgui.pl:1336
 msgid "a4"
 msgstr "a4"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1356
-#: texmf/scripts/texlive/tlmgrgui.pl:1736
+#: texmf/scripts/texlive/tlmgrgui.pl:1350
+#: texmf/scripts/texlive/tlmgrgui.pl:1744
 msgid "Default paper for"
 msgstr "缺省的纸张给"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1376
+#: texmf/scripts/texlive/tlmgrgui.pl:1371
 msgid "GUI Language"
 msgstr ""
 
+#: texmf/scripts/texlive/tlmgrgui.pl:1392
 #: texmf/scripts/texlive/tlmgrgui.pl:1397
-#: texmf/scripts/texlive/tlmgrgui.pl:1402
-#: texmf/scripts/texlive/tlmgrgui.pl:1418
+#: texmf/scripts/texlive/tlmgrgui.pl:1413
 msgid "System default"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1401
+#: texmf/scripts/texlive/tlmgrgui.pl:1396
 msgid "Default language for GUI:"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1414
-#: texmf/scripts/texlive/tlmgrgui.pl:1443
+#: texmf/scripts/texlive/tlmgrgui.pl:1409
+#: texmf/scripts/texlive/tlmgrgui.pl:1438
 msgid "Changes will take effect after restart"
 msgstr "修改会在重启后生效"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1488
-#: texmf/scripts/texlive/tlmgrgui.pl:2481
+#: texmf/scripts/texlive/tlmgrgui.pl:1483
+#: texmf/scripts/texlive/tlmgrgui.pl:2494
+#: texmf/scripts/texlive/tlmgrgui.pl:2530
 msgid "Choose Directory"
 msgstr "选择目录"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1554
+#: texmf/scripts/texlive/tlmgrgui.pl:1549
 msgid "Edit default package repositories"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1557
+#: texmf/scripts/texlive/tlmgrgui.pl:1552
 msgid "Specify set of repositories to be used"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1573
+#: texmf/scripts/texlive/tlmgrgui.pl:1568
 msgid "Delete"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1584
+#: texmf/scripts/texlive/tlmgrgui.pl:1579
 msgid "Change "
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1585
+#: texmf/scripts/texlive/tlmgrgui.pl:1580
 msgid "main"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1606
+#: texmf/scripts/texlive/tlmgrgui.pl:1601
 msgid "Add repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1608
-#: texmf/scripts/texlive/tlmgrgui.pl:1609
+#: texmf/scripts/texlive/tlmgrgui.pl:1603
+#: texmf/scripts/texlive/tlmgrgui.pl:1604
 msgid "Add package repository"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1635
+#: texmf/scripts/texlive/tlmgrgui.pl:1630
 msgid "Multiple defined tags (first column) are not possible, please fix it."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1691
+#: texmf/scripts/texlive/tlmgrgui.pl:1688
 msgid "Revert"
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1732
+#: texmf/scripts/texlive/tlmgrgui.pl:1740
 msgid "Select paper format for"
 msgstr "选择纸张格式给"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1758
+#: texmf/scripts/texlive/tlmgrgui.pl:1767
 msgid "keep arbitrarily many"
 msgstr "保持任意多的"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1759
+#: texmf/scripts/texlive/tlmgrgui.pl:1768
 msgid "disable"
 msgstr "禁用"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1847
+#: texmf/scripts/texlive/tlmgrgui.pl:1859
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
@@ -1238,19 +1241,19 @@ msgstr ""
 "\n"
 "如果只是需要配置或删除则不需要做任何其他操作。"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1886
+#: texmf/scripts/texlive/tlmgrgui.pl:1898
 msgid "Installation"
 msgstr "安装 TeX Live"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1919
-#: texmf/scripts/texlive/tlmgrgui.pl:1950
+#: texmf/scripts/texlive/tlmgrgui.pl:1931
+#: texmf/scripts/texlive/tlmgrgui.pl:1962
 msgid ""
 "Critical updates have been installed.\n"
 "Program will terminate now.\n"
 "Please restart if necessary."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2260
+#: texmf/scripts/texlive/tlmgrgui.pl:2272
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
@@ -1261,63 +1264,71 @@ msgid ""
 "Then you can restart the program for further updates."
 msgstr ""
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2262
+#: texmf/scripts/texlive/tlmgrgui.pl:2274
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr "在 tlmgr 更新后至少有 %s 个软件包更新可用。"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2264
+#: texmf/scripts/texlive/tlmgrgui.pl:2276
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr "请在程序退出后等待一会，安装才会完成。"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2344
-#: texmf/scripts/texlive/tlmgrgui.pl:2346
+#: texmf/scripts/texlive/tlmgrgui.pl:2356
+#: texmf/scripts/texlive/tlmgrgui.pl:2358
 msgid "Restore completed"
 msgstr "恢复完毕"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2351
+#: texmf/scripts/texlive/tlmgrgui.pl:2363
 msgid "Select the package to restore, or restore all packages"
 msgstr "选择需要恢复的包，或者恢复所有包"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2367
+#: texmf/scripts/texlive/tlmgrgui.pl:2379
 msgid "Revision:"
 msgstr "版本:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2372
+#: texmf/scripts/texlive/tlmgrgui.pl:2384
 msgid "Restore selected package"
 msgstr "恢复指定软件包"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2388
+#: texmf/scripts/texlive/tlmgrgui.pl:2400
 msgid "Restore all package to latest version"
 msgstr "将所有包恢复到最新版本"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2404
+#: texmf/scripts/texlive/tlmgrgui.pl:2416
 msgid "Close"
 msgstr "关闭"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2436
+#: texmf/scripts/texlive/tlmgrgui.pl:2448
 msgid "Update symbolic links"
 msgstr "更新符号链接"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2443
+#: texmf/scripts/texlive/tlmgrgui.pl:2455
 msgid "Remove symbolic links"
 msgstr "删除符号链接"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2474
+#: texmf/scripts/texlive/tlmgrgui.pl:2488
+msgid "Edit directory"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2491
+msgid "New value for"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2523
 msgid "Load package repository"
 msgstr "载入软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2477
+#: texmf/scripts/texlive/tlmgrgui.pl:2526
 msgid "Package repository:"
 msgstr "软件包仓库:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2489
+#: texmf/scripts/texlive/tlmgrgui.pl:2538
 msgid "Default net package repository"
 msgstr "缺省的网络软件包仓库"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2582
+#: texmf/scripts/texlive/tlmgrgui.pl:2631
 #, perl-format
 msgid ""
 "Running %s failed.\n"
