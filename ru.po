@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-10 04:39+0200\n"
-"PO-Revision-Date: 2012-04-11 14:24+0900\n"
+"PO-Revision-Date: 2012-05-12 09:37+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
 "Language: ru\n"
@@ -890,7 +890,7 @@ msgstr "Справка"
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
 #: texmf/scripts/texlive/tlmgrgui.pl:2576
 msgid "multiple repositories"
-msgstr ""
+msgstr "репозитории"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
@@ -1201,40 +1201,42 @@ msgstr "Выберите каталог"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1549
 msgid "Edit default package repositories"
-msgstr ""
+msgstr "Изменить репозитории пакетов по умолчанию"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1552
 msgid "Specify set of repositories to be used"
-msgstr ""
+msgstr "Указать список используемых репозиториев"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1568
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1579
 msgid "Change "
-msgstr ""
+msgstr "Изменить"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1580
 msgid "main"
-msgstr ""
+msgstr "основной"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1601
 msgid "Add repository"
-msgstr ""
+msgstr "Добавить репозиторий"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1603
 #: texmf/scripts/texlive/tlmgrgui.pl:1604
 msgid "Add package repository"
-msgstr ""
+msgstr "Добавить репозиторий пакетов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1630
 msgid "Multiple defined tags (first column) are not possible, please fix it."
 msgstr ""
+"Нельзя использовать один и тот же ярлык (первый столбец) несколько раз, "
+"исправьте пожалуйста."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1688
 msgid "Revert"
-msgstr ""
+msgstr "Восстановить"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1740
 msgid "Select paper format for"
@@ -1344,11 +1346,11 @@ msgstr "Удалить символьные ссылки"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2488
 msgid "Edit directory"
-msgstr ""
+msgstr "Изменить каталог"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2491
 msgid "New value for"
-msgstr ""
+msgstr "Новое значение для"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2523
 msgid "Load package repository"
@@ -1373,7 +1375,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and latex)"
-msgstr ""
+msgstr "базовая схема (plain и latex)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
