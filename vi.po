@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live 2009 Translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-10 04:39+0200\n"
-"PO-Revision-Date: 2011-06-23 21:47+0700\n"
+"PO-Revision-Date: 2012-05-14 07:07+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -63,8 +63,7 @@ msgstr ""
 "\n"
 "Bộ cài đặt này sẽ hướng dẫn bạn từng bước trong quá trình cài đặt.\n"
 "\n"
-"Với người dùng cap cấp, việc thay đổi trình cài đặt có thể được thực hiện "
-"theo trang web hoặc hướng dẫn cài đặt."
+"Với người dùng cap cấp, việc thay đổi trình cài đặt có thể được thực hiện theo trang web hoặc hướng dẫn cài đặt."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid "Or use install-tl-advanced.bat"
@@ -76,22 +75,22 @@ msgstr "Hoặc dùng tham số --gui expert để cài texlive."
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Thay đổi nguồn mặc định"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
 #: tlpkg/installer/install-menu-perltk.pl:257
 msgid "Command line repository"
-msgstr ""
+msgstr "Nguồn bằng dòng lệnh"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-perltk.pl:263
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "NGUỒN TRÊN MÁY"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "NGUỒN TỪ MẠNG"
 
 #: tlpkg/installer/install-menu-wizard.pl:251
 #: tlpkg/installer/install-menu-perltk.pl:268
@@ -103,31 +102,31 @@ msgstr "Nguồn cài đặt mặc định từ internet"
 #: tlpkg/installer/install-menu-wizard.pl:257
 #: tlpkg/installer/install-menu-perltk.pl:272
 msgid "Select repository"
-msgstr ""
+msgstr "Chọn nguồn"
 
 #: tlpkg/installer/install-menu-wizard.pl:259
 msgid "Mirror:"
-msgstr ""
+msgstr "Mirror:"
 
 #: tlpkg/installer/install-menu-wizard.pl:311
 msgid "Continent"
-msgstr ""
+msgstr "Lục địa"
 
 #: tlpkg/installer/install-menu-wizard.pl:325
 msgid "Countries"
-msgstr ""
+msgstr "Nước"
 
 #: tlpkg/installer/install-menu-wizard.pl:343
 msgid "Mirrors"
-msgstr ""
+msgstr "Mirros"
 
 #: tlpkg/installer/install-menu-wizard.pl:390
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "Vui lòng chờ trong khi dữ liệu nguồn được nạp."
 
 #: tlpkg/installer/install-menu-wizard.pl:391
 msgid "This will take some time!"
-msgstr ""
+msgstr "Sẽ tốn ít thời gian!"
 
 #: tlpkg/installer/install-menu-wizard.pl:394
 #: tlpkg/installer/install-menu-wizard.pl:517
@@ -141,7 +140,8 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:914
 #: tlpkg/installer/install-menu-perltk.pl:978
 #: tlpkg/installer/install-menu-perltk.pl:1009
-#: texmf/scripts/texlive/tlmgrgui.pl:610 texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui.pl:611
 #: texmf/scripts/texlive/tlmgrgui.pl:1038
 #: texmf/scripts/texlive/tlmgrgui.pl:1250
 #: texmf/scripts/texlive/tlmgrgui.pl:1366
@@ -161,12 +161,12 @@ msgstr "Bỏ qua"
 #: tlpkg/installer/install-menu-wizard.pl:398
 #: tlpkg/installer/install-menu-perltk.pl:298
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "Không thể nạp dữ liệu TeX Live từ mạng:"
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: tlpkg/installer/install-menu-wizard.pl:406
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Vui lòng quay lại và chọn mirro khác."
 
 #: tlpkg/installer/install-menu-wizard.pl:402
 #, perl-format
@@ -176,6 +176,10 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"Các phiên bản TeX Live cài trên máy\n"
+"và nguồn cài đặt đang được dùng nhưng không tương thích:\n"
+"      trên máy: %s\n"
+"nguồn cài đặt: %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:434
 #: tlpkg/installer/install-menu-wizard.pl:665
@@ -216,8 +220,7 @@ msgid ""
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
 "Thư mục đích sẽ chứa bộ cài đặt.\n"
-"Khuyến cáo: bạn nên để năm (ví dụ: 2009, 2008) vào cuối đường dẫn để phân "
-"biệt các bộ cài đặt khác nhau."
+"Khuyến cáo: bạn nên để năm (ví dụ: 2009, 2008) vào cuối đường dẫn để phân biệt các bộ cài đặt khác nhau."
 
 #: tlpkg/installer/install-menu-wizard.pl:480
 #: tlpkg/installer/install-menu-perltk.pl:1063
@@ -245,9 +248,12 @@ msgstr "Nhập đường dẫn cho"
 #: tlpkg/installer/install-menu-perltk.pl:976
 #: tlpkg/installer/install-menu-perltk.pl:1007
 #: tlpkg/installer/install-menu-perltk.pl:1024
-#: texmf/scripts/texlive/tlmgrgui.pl:239 texmf/scripts/texlive/tlmgrgui.pl:610
-#: texmf/scripts/texlive/tlmgrgui.pl:614 texmf/scripts/texlive/tlmgrgui.pl:616
-#: texmf/scripts/texlive/tlmgrgui.pl:634 texmf/scripts/texlive/tlmgrgui.pl:813
+#: texmf/scripts/texlive/tlmgrgui.pl:239
+#: texmf/scripts/texlive/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui.pl:614
+#: texmf/scripts/texlive/tlmgrgui.pl:616
+#: texmf/scripts/texlive/tlmgrgui.pl:634
+#: texmf/scripts/texlive/tlmgrgui.pl:813
 #: texmf/scripts/texlive/tlmgrgui.pl:1050
 #: texmf/scripts/texlive/tlmgrgui.pl:1411
 #: texmf/scripts/texlive/tlmgrgui.pl:1441
@@ -379,17 +385,10 @@ msgstr "Cài đặt"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Xem %s/index.html để biết liên kết đến tài liệu.\n"
-"Tại trang web của TeX Live (http://tug.org/texlive/) có các thông tin cập "
-"nhật và sửa lỗi. Dự án TeX Live là có sự tham gia của nhiều nhóm người dùng "
-"TeX trên khắp thế giới; vui lòng hỗ trợ dự án bằng cách tham gia vào nhóm "
-"thích hợp nhất với bạn. Danh sách các nhóm người dùng có thể tìm thấy tại "
-"http://tug.org/usergroups.html."
+"Tại trang web của TeX Live (http://tug.org/texlive/) có các thông tin cập nhật và sửa lỗi. Dự án TeX Live là có sự tham gia của nhiều nhóm người dùng TeX trên khắp thế giới; vui lòng hỗ trợ dự án bằng cách tham gia vào nhóm thích hợp nhất với bạn. Danh sách các nhóm người dùng có thể tìm thấy tại http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:739
 #: tlpkg/installer/install-menu-perltk.pl:577
@@ -471,17 +470,20 @@ msgstr "Cảnh báo"
 
 #: tlpkg/installer/install-menu-perltk.pl:300
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "Vui lòng chọn mirror khác."
 
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"Phiên bản TeX Live trên máy và được chọn từ mạng không tương thích:\n"
+"      trên máy: %s\n"
+"chọn từ mạng: %s\n"
+"Bạn hãy chọn nguồn cài đặt khác."
 
 #: tlpkg/installer/install-menu-perltk.pl:324
 msgid "Basic Information"
@@ -545,15 +547,11 @@ msgstr "TEXDIR (thư mục TeX chính)"
 
 #: tlpkg/installer/install-menu-perltk.pl:388
 msgid "TEXMFLOCAL (directory for site-wide local files)"
-msgstr ""
-"TEXMFLOCAL (thư mục cho các gói, phần bổ sung cho TeX; thư mục này dành cho "
-"hệ thống TeX ở địa phương)"
+msgstr "TEXMFLOCAL (thư mục cho các gói, phần bổ sung cho TeX; thư mục này dành cho hệ thống TeX ở địa phương)"
 
 #: tlpkg/installer/install-menu-perltk.pl:395
 msgid "TEXMFSYSVAR (directory for autogenerated data)"
-msgstr ""
-"TEXMFSYSVAR (thư mục cho các tập tin tạm thời được sinh ra khi biên dịch tài "
-"liệu)"
+msgstr "TEXMFSYSVAR (thư mục cho các tập tin tạm thời được sinh ra khi biên dịch tài liệu)"
 
 #: tlpkg/installer/install-menu-perltk.pl:402
 msgid "TEXMFSYSCONFIG (directory for local config)"
@@ -595,7 +593,7 @@ msgstr "Cài đặt trình soạn thảo TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:496
 msgid "After install, use tlnet on CTAN for package updates"
-msgstr ""
+msgstr "Sau khi cài, dùng tlnet trên CTAN để cập nhật gói"
 
 #: tlpkg/installer/install-menu-perltk.pl:510
 msgid "Install TeX Live"
@@ -730,8 +728,7 @@ msgid ""
 msgstr ""
 "Bạn không có quyền thay đổi nguồn cài đặt,\n"
 "đặc biệt, không thể ghi vào thư mục %s.\n"
-"Vui lòng chạy chương trình này ở quyền quản trị, hoặc liên hệ với người quản "
-"trị của bạn.\n"
+"Vui lòng chạy chương trình này ở quyền quản trị, hoặc liên hệ với người quản trị của bạn.\n"
 "\n"
 "Hầu hết các tác vụ sẽ bị vô hiệu hóa."
 
@@ -756,7 +753,8 @@ msgstr "Cấu hình thể hiện"
 msgid "Status"
 msgstr "Trạng thái"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:305 texmf/scripts/texlive/tlmgrgui.pl:359
+#: texmf/scripts/texlive/tlmgrgui.pl:305
+#: texmf/scripts/texlive/tlmgrgui.pl:359
 msgid "all"
 msgstr "tất cả"
 
@@ -880,7 +878,7 @@ msgstr "Giúp đỡ"
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
 #: texmf/scripts/texlive/tlmgrgui.pl:2576
 msgid "multiple repositories"
-msgstr ""
+msgstr "nhiều nguồn"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
@@ -982,7 +980,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Tài liệu hướng dẫn"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:631 texmf/scripts/texlive/tlmgrgui.pl:633
+#: texmf/scripts/texlive/tlmgrgui.pl:631
+#: texmf/scripts/texlive/tlmgrgui.pl:633
 msgid "About"
 msgstr "Giới thiệu"
 
@@ -1189,40 +1188,40 @@ msgstr "Chọn thư mục"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1549
 msgid "Edit default package repositories"
-msgstr ""
+msgstr "Sửa nguồn cài đặt gói mặc định"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1552
 msgid "Specify set of repositories to be used"
-msgstr ""
+msgstr "Chỉ định nhóm các nguồn cài đặt để dùng"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1568
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1579
 msgid "Change "
-msgstr ""
+msgstr "Thay đổi"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1580
 msgid "main"
-msgstr ""
+msgstr "chính"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1601
 msgid "Add repository"
-msgstr ""
+msgstr "Thêm nguồn"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1603
 #: texmf/scripts/texlive/tlmgrgui.pl:1604
 msgid "Add package repository"
-msgstr ""
+msgstr "Thêm nguồn gói"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1630
 msgid "Multiple defined tags (first column) are not possible, please fix it."
-msgstr ""
+msgstr "Lựa chọn nhiều nhiều tag (cột đầu) không được. Hãy sửa lỗi này."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1688
 msgid "Revert"
-msgstr ""
+msgstr "Phục hồi lại"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1740
 msgid "Select paper format for"
@@ -1240,14 +1239,12 @@ msgstr "vô hiệu hóa"
 #, perl-format
 msgid ""
 "Could not load the TeX Live Database from %s\n"
-"If you want to install or update packages, please try with a different "
-"package repository!\n"
+"If you want to install or update packages, please try with a different package repository!\n"
 "\n"
 "For configuration and removal you don't have to do anything."
 msgstr ""
 "Không thể nạp dữ liệu TeX Live từ %s\n"
-"Nếu bạn muốn cài đặt hoặc cập nhật các gói, vui lòng thử với nguồn cài đặt "
-"khác!\n"
+"Nếu bạn muốn cài đặt hoặc cập nhật các gói, vui lòng thử với nguồn cài đặt khác!\n"
 "\n"
 "Để cấu hình hoặc gỡ bỏ TeX Live thì bạn không cần làm gì thêm."
 
@@ -1270,8 +1267,7 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
@@ -1286,16 +1282,11 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:2274
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr ""
-"Sau khi cập nhật tlmgr thì sẽ có bổ sung thêm ít nhất %s cập nhật khác."
+msgstr "Sau khi cập nhật tlmgr thì sẽ có bổ sung thêm ít nhất %s cập nhật khác."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2276
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Vui lòng chờ một lát sau khi chương trình kết thúc, để cho việc cập nhật "
-"hoàn tất."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Vui lòng chờ một lát sau khi chương trình kết thúc, để cho việc cập nhật hoàn tất."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2356
 #: texmf/scripts/texlive/tlmgrgui.pl:2358
@@ -1332,11 +1323,11 @@ msgstr "Gỡ bỏ liên kết tượng trưng"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2488
 msgid "Edit directory"
-msgstr ""
+msgstr "Thư mục soạn thảo"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2491
 msgid "New value for"
-msgstr ""
+msgstr "Giá trị mới cho"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2523
 msgid "Load package repository"
@@ -1361,7 +1352,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and latex)"
-msgstr ""
+msgstr "cơ bản (plain và latex)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1377,9 +1368,7 @@ msgstr "Nhóm cho TeXLive GUST"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr ""
-"nhóm trung bình (plain, latex, các gói được khuyên dùng, hỗ trợ cho vài ngôn "
-"ngữ)"
+msgstr "nhóm trung bình (plain, latex, các gói được khuyên dùng, hỗ trợ cho vài ngôn ngữ)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1387,7 +1376,7 @@ msgstr "nhóm tối thiểu (chỉ có \"plain TeX\")"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (essentials, xetex, recommended packages)"
-msgstr ""
+msgstr "cỡ nhỏ (cơ bản, xetex, các gói được khuyên dùng)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1519,7 +1508,7 @@ msgstr "Phông chữ nên dùng"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr ""
+msgstr "Tiện ích đồ họa và phông chữ"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1699,7 +1688,7 @@ msgstr "Chế bản các khuông nhạc"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Omega packages"
-msgstr ""
+msgstr "Các gói Omega"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
@@ -1727,7 +1716,7 @@ msgstr "Texinfo bản GNU"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "TeXworks editor"
-msgstr ""
+msgstr "Trình soạn thảo TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "Windows support programs"
