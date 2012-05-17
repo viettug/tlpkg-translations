@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-16 04:34+0200\n"
-"PO-Revision-Date: 2011-09-15 20:33+0100\n"
+"PO-Revision-Date: 2012-05-17 06:29+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -71,7 +71,7 @@ msgstr "Lahko uporabite install-tl-advanced.bat"
 #: tlpkg/installer/install-menu-wizard.pl:194
 #, fuzzy
 msgid "Or use the argument --gui expert to install-tl."
-msgstr "Lahko uporabite opcijo \"--gui perltk\" za install-tl."
+msgstr "Lahko uporabite opcijo --gui expert za install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
@@ -162,8 +162,9 @@ msgstr "Prekliči"
 
 #: tlpkg/installer/install-menu-wizard.pl:398
 #: tlpkg/installer/install-menu-perltk.pl:298
+#, fuzzy
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "Ni bilo mogoče naložiti oddaljene baze paketkov za TeX Live:"
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: tlpkg/installer/install-menu-wizard.pl:406
@@ -482,8 +483,9 @@ msgid "Warning"
 msgstr "Opozorilo"
 
 #: tlpkg/installer/install-menu-perltk.pl:300
+#, fuzzy
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "Prosimo izberite drugi zrcalni strežnik."
 
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
@@ -714,7 +716,7 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
-"Opcija za prenosno namestitev se je spremenila;\n"
+"Spremenili ste opcijo za prenosno namestitev;\n"
 "Mape za namestitev so se nastavile na privzeto vrednost."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:171
@@ -909,7 +911,7 @@ msgstr "Pomoč"
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
 #: texmf/scripts/texlive/tlmgrgui.pl:2576
 msgid "multiple repositories"
-msgstr ""
+msgstr "več repozitorijev"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:514
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
@@ -1245,19 +1247,20 @@ msgstr "Izberi imenik"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1549
 msgid "Edit default package repositories"
-msgstr ""
+msgstr "Uredi privzete repozitorije"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1552
+#, fuzzy
 msgid "Specify set of repositories to be used"
-msgstr ""
+msgstr "Določi repozitorije, ki bodo uporabljeni"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1568
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1579
 msgid "Change "
-msgstr ""
+msgstr "Spremeni"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1580
 msgid "main"
@@ -1265,12 +1268,12 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1601
 msgid "Add repository"
-msgstr ""
+msgstr "Dodaj repozitorij"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1603
 #: texmf/scripts/texlive/tlmgrgui.pl:1604
 msgid "Add package repository"
-msgstr ""
+msgstr "Dodaj repozitorij paketov"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1630
 msgid "Multiple defined tags (first column) are not possible, please fix it."
@@ -1278,7 +1281,7 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1688
 msgid "Revert"
-msgstr ""
+msgstr "Povrni"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1740
 msgid "Select paper format for"
@@ -1335,7 +1338,7 @@ msgid ""
 msgstr ""
 "Na voljo so posodobitve za program \"tlmgr\", ki ga trenutnouporabljate.\n"
 "Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
-"preden v zavihku \"Posodobitve\" izberete \"Posodobi vse\".\n"
+"preden v zavihku \"Posodobitve\" ne izberete \"Posodobi vse\".\n"
 "Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2274
@@ -1388,13 +1391,14 @@ msgstr "Posodobi simbolne povezave"
 msgid "Remove symbolic links"
 msgstr "Odstrani simbolne povezave"
 
+# spremeni direktorij
 #: texmf/scripts/texlive/tlmgrgui.pl:2488
 msgid "Edit directory"
-msgstr ""
+msgstr "Uredi direktorij"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2491
 msgid "New value for"
-msgstr ""
+msgstr "Nova vrednost za"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2523
 #, fuzzy
@@ -1421,11 +1425,12 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and latex)"
-msgstr ""
+msgstr "osnovna namestitev (plain TeX in LaTeX)"
 
 #: tlpkg/translations/shortdesc.pl:2
+#, fuzzy
 msgid "ConTeXt scheme"
-msgstr "namestitev ConTeXt-a"
+msgstr "ConTeXt"
 
 #: tlpkg/translations/shortdesc.pl:3
 msgid "full scheme (everything)"
@@ -1433,7 +1438,7 @@ msgstr "polna namestitev"
 
 #: tlpkg/translations/shortdesc.pl:4
 msgid "GUST TeX Live scheme"
-msgstr "namestitev GUST TeX Live"
+msgstr "poljski GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (plain, latex, recommended packages, some languages)"
@@ -1443,17 +1448,16 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
-msgstr "minimalna namestitev (samo plain TeX)"
+msgstr "najmanjša namestitev (samo plain TeX)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (essentials, xetex, recommended packages)"
-msgstr ""
+msgstr "majhna namestitev (osnovna orodja, XeTeX, priporočeni paketi)"
 
 #: tlpkg/translations/shortdesc.pl:8
+#, fuzzy
 msgid "teTeX scheme (more than medium, but nowhere near full)"
-msgstr ""
-"namestitev, podobna teTeX-u (večja od srednje velike, toda mnogo manjša od "
-"polne)"
+msgstr "podobna teTeX-u (med srednje veliko in polno)"
 
 #: tlpkg/translations/shortdesc.pl:9
 msgid "XML scheme"
@@ -1582,7 +1586,7 @@ msgstr "Priporočene pisave"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr ""
+msgstr "Orodja za grafiko in pisave"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1764,7 +1768,7 @@ msgstr "Stavljenje glasbe"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Omega packages"
-msgstr ""
+msgstr "Paketi za Omego"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
@@ -1791,8 +1795,9 @@ msgid "GNU Texinfo"
 msgstr "GNU Texinfo"
 
 #: tlpkg/translations/shortdesc.pl:92
+#, fuzzy
 msgid "TeXworks editor"
-msgstr ""
+msgstr "Urejevalnik besedil TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:93
 #, fuzzy
@@ -1803,29 +1808,3 @@ msgstr "Dodatni programi za Okna"
 msgid "XeTeX packages"
 msgstr "Paketi za XeTeX"
 
-#~ msgid "Change default package repository"
-#~ msgstr "Spremeni privzeti repozitorij za pakete"
-
-#~ msgid "New default package repository"
-#~ msgstr "Nov privzeti repozitorij za pakete"
-
-# morda raje "hvala za potrpljenje", sicer pa imamo dva enaka niza
-#~ msgid ""
-#~ "Loading remote TeX Live Database\n"
-#~ "This may take some time, please wait!"
-#~ msgstr ""
-#~ "Nalaganje oddaljene podatkovne baze za TeX Live\n"
-#~ "Prosimo počakajte - to utegne trajati nekaj časa."
-
-#~ msgid "basic scheme (plain and LaTeX)"
-#~ msgstr "osnovna namestitev (plain TeX in LaTeX)"
-
-#~ msgid "Omega"
-#~ msgstr "Omega"
-
-#~ msgid "The TeXworks Editor"
-#~ msgstr "Urejevalnik besedil TeXworks"
-
-#, fuzzy
-#~ msgid "TeX and Outline font utilities"
-#~ msgstr "Orodja za TeXove in vektorske pisave"
