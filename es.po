@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-16 04:34+0200\n"
+"POT-Creation-Date: 2012-05-18 18:30+0200\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1361,7 +1361,7 @@ msgid "GUST TeX Live scheme"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:5
-msgid "medium scheme (plain, latex, recommended packages, some languages)"
+msgid "medium scheme (small + more packages and languages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:6
@@ -1369,7 +1369,7 @@ msgid "minimal scheme (plain only)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme (essentials, xetex, recommended packages)"
+msgid "small scheme (basic + xetex, metapost, a few languages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8

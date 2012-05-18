@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-16 04:34+0200\n"
+"POT-Creation-Date: 2012-05-18 18:30+0200\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -1380,15 +1380,15 @@ msgid "GUST TeX Live scheme"
 msgstr "GUST TeX Liveスキーム"
 
 #: tlpkg/translations/shortdesc.pl:5
-msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr "中庸スキーム(plain･latex･推奨パッケージ･いくつかの言語)"
+msgid "medium scheme (small + more packages and languages)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
 msgstr "最小限スキーム(plainのみ)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme (essentials, xetex, recommended packages)"
+msgid "small scheme (basic + xetex, metapost, a few languages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8
@@ -1738,6 +1738,9 @@ msgstr "Windowsサポートプログラム"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeXパッケージ"
+
+#~ msgid "medium scheme (plain, latex, recommended packages, some languages)"
+#~ msgstr "中庸スキーム(plain･latex･推奨パッケージ･いくつかの言語)"
 
 #~ msgid "Change default package repository"
 #~ msgstr "既定パッケージディレクトリを変更します"

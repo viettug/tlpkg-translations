@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-16 04:34+0200\n"
+"POT-Creation-Date: 2012-05-18 18:30+0200\n"
 "PO-Revision-Date: 2011-06-18 20:43+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -1376,16 +1376,15 @@ msgid "GUST TeX Live scheme"
 msgstr "GUST TeX Live шема"
 
 #: tlpkg/translations/shortdesc.pl:5
-msgid "medium scheme (plain, latex, recommended packages, some languages)"
+msgid "medium scheme (small + more packages and languages)"
 msgstr ""
-"средња шема (чист [plain] TeX, LaTeX, препоручени пакети, неколико језика)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
 msgstr "минимална шема (само чист [plain] TeX)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme (essentials, xetex, recommended packages)"
+msgid "small scheme (basic + xetex, metapost, a few languages)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8
@@ -1735,6 +1734,10 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid "medium scheme (plain, latex, recommended packages, some languages)"
+#~ msgstr ""
+#~ "средња шема (чист [plain] TeX, LaTeX, препоручени пакети, неколико језика)"
 
 #~ msgid "Change default package repository"
 #~ msgstr "Промени подразумевани репозиторијум пакета"

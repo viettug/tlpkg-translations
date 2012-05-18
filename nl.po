@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-16 04:34+0200\n"
+"POT-Creation-Date: 2012-05-18 18:30+0200\n"
 "PO-Revision-Date: 2012-05-14 16:56+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1378,16 +1378,16 @@ msgid "GUST TeX Live scheme"
 msgstr "GUST TeX Live schema"
 
 #: tlpkg/translations/shortdesc.pl:5
-msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr "medium schema (plain, latex, aanbevolen pakketten, enkele talen)"
+msgid "medium scheme (small + more packages and languages)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
 msgstr "minimum schema (alleen plain)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme (essentials, xetex, recommended packages)"
-msgstr "compact schema (basis, xetex, aanbevolen pakketten)"
+msgid "small scheme (basic + xetex, metapost, a few languages)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1737,6 +1737,12 @@ msgstr "Windows hulpprogramma's"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeX pakketten"
+
+#~ msgid "medium scheme (plain, latex, recommended packages, some languages)"
+#~ msgstr "medium schema (plain, latex, aanbevolen pakketten, enkele talen)"
+
+#~ msgid "small scheme (essentials, xetex, recommended packages)"
+#~ msgstr "compact schema (basis, xetex, aanbevolen pakketten)"
 
 #~ msgid "Change default package repository"
 #~ msgstr "Wijzig standaard installatie-bron"

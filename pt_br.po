@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-16 04:34+0200\n"
+"POT-Creation-Date: 2012-05-18 18:30+0200\n"
 "PO-Revision-Date: 2012-05-12 09:07-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
@@ -1388,16 +1388,16 @@ msgid "GUST TeX Live scheme"
 msgstr "esquema GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
-msgid "medium scheme (plain, latex, recommended packages, some languages)"
-msgstr "esquema médio (plain, LaTeX, pacotes recomendados, alguns idiomas)"
+msgid "medium scheme (small + more packages and languages)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
 msgstr "esquema mínimo (apenas plain)"
 
 #: tlpkg/translations/shortdesc.pl:7
-msgid "small scheme (essentials, xetex, recommended packages)"
-msgstr "esquema pequeno (essenciais, xetex, pacotes recomendados)"
+msgid "small scheme (basic + xetex, metapost, a few languages)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1748,6 +1748,12 @@ msgstr "Programas de suporte ao Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Pacotes XeTeX"
+
+#~ msgid "medium scheme (plain, latex, recommended packages, some languages)"
+#~ msgstr "esquema médio (plain, LaTeX, pacotes recomendados, alguns idiomas)"
+
+#~ msgid "small scheme (essentials, xetex, recommended packages)"
+#~ msgstr "esquema pequeno (essenciais, xetex, pacotes recomendados)"
 
 #~ msgid "Change default package repository"
 #~ msgstr "Alterar o repositório de pacotes padrão"
