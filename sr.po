@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-18 18:30+0200\n"
+"POT-Creation-Date: 2012-05-21 04:43+0200\n"
 "PO-Revision-Date: 2011-06-18 20:43+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -155,7 +155,7 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:1821
 #: texmf/scripts/texlive/tlmgrgui.pl:2468
 #: texmf/scripts/texlive/tlmgrgui.pl:2505
-#: texmf/scripts/texlive/tlmgrgui.pl:2550
+#: texmf/scripts/texlive/tlmgrgui.pl:2567
 msgid "Cancel"
 msgstr "Прекини"
 
@@ -266,8 +266,8 @@ msgstr "Унесите путању за"
 #: texmf/scripts/texlive/tlmgrgui.pl:2357
 #: texmf/scripts/texlive/tlmgrgui.pl:2465
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
-#: texmf/scripts/texlive/tlmgrgui.pl:2545
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2562
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Ok"
 msgstr "У реду"
 
@@ -465,7 +465,7 @@ msgstr "Учитај"
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
 #: texmf/scripts/texlive/tlmgrgui.pl:2271
 #: texmf/scripts/texlive/tlmgrgui.pl:2331
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Warning"
 msgstr "Упозорење"
 
@@ -713,7 +713,7 @@ msgid "Cannot load taxonomy file"
 msgstr "Није могуће отворити фајл са обележјима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:232
-#: texmf/scripts/texlive/tlmgrgui.pl:2624
+#: texmf/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
 msgstr "Готово"
 
@@ -738,7 +738,7 @@ msgid "Load default"
 msgstr "Учитај подразумевани репозиторијум"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:290
-#: texmf/scripts/texlive/tlmgrgui.pl:2580
+#: texmf/scripts/texlive/tlmgrgui.pl:2597
 msgid "Loaded repository:"
 msgstr "Учитани репозиторијум:"
 
@@ -868,7 +868,7 @@ msgid "Actions"
 msgstr "Акције"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:502
-#: texmf/scripts/texlive/tlmgrgui.pl:2655
+#: texmf/scripts/texlive/tlmgrgui.pl:2672
 msgid "Help"
 msgstr "Помоћ"
 
@@ -876,7 +876,7 @@ msgstr "Помоћ"
 #: texmf/scripts/texlive/tlmgrgui.pl:1102
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
-#: texmf/scripts/texlive/tlmgrgui.pl:2576
+#: texmf/scripts/texlive/tlmgrgui.pl:2593
 msgid "multiple repositories"
 msgstr ""
 
@@ -1184,7 +1184,7 @@ msgstr "Промене ће бити видљиве када поново пок
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1483
 #: texmf/scripts/texlive/tlmgrgui.pl:2494
-#: texmf/scripts/texlive/tlmgrgui.pl:2530
+#: texmf/scripts/texlive/tlmgrgui.pl:2549
 msgid "Choose Directory"
 msgstr "Изабери директоријум"
 
@@ -1346,11 +1346,11 @@ msgstr "Учитај репозиторијум пакета"
 msgid "Package repository:"
 msgstr "Репозиторијум пакета:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2538
+#: texmf/scripts/texlive/tlmgrgui.pl:2556
 msgid "Default net package repository"
 msgstr "Подразумевани репозиторијум пакета на Интернету"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2631
+#: texmf/scripts/texlive/tlmgrgui.pl:2648
 #, perl-format
 msgid ""
 "Running %s failed.\n"

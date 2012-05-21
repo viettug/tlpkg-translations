@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-18 18:30+0200\n"
+"POT-Creation-Date: 2012-05-21 04:43+0200\n"
 "PO-Revision-Date: 2012-05-14 16:56+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -151,7 +151,7 @@ msgstr "Dit gaat even duren!"
 #: texmf/scripts/texlive/tlmgrgui.pl:1821
 #: texmf/scripts/texlive/tlmgrgui.pl:2468
 #: texmf/scripts/texlive/tlmgrgui.pl:2505
-#: texmf/scripts/texlive/tlmgrgui.pl:2550
+#: texmf/scripts/texlive/tlmgrgui.pl:2567
 msgid "Cancel"
 msgstr "Afbreken"
 
@@ -266,8 +266,8 @@ msgstr "Pad voor"
 #: texmf/scripts/texlive/tlmgrgui.pl:2357
 #: texmf/scripts/texlive/tlmgrgui.pl:2465
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
-#: texmf/scripts/texlive/tlmgrgui.pl:2545
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2562
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Ok"
 msgstr "Ok"
 
@@ -465,7 +465,7 @@ msgstr "Laad"
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
 #: texmf/scripts/texlive/tlmgrgui.pl:2271
 #: texmf/scripts/texlive/tlmgrgui.pl:2331
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Warning"
 msgstr "Waarschuwing"
 
@@ -716,7 +716,7 @@ msgid "Cannot load taxonomy file"
 msgstr "Kan taxonomie-bestand niet laden"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:232
-#: texmf/scripts/texlive/tlmgrgui.pl:2624
+#: texmf/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
 msgstr "Klaar"
 
@@ -741,7 +741,7 @@ msgid "Load default"
 msgstr "Laad standaard installatie-bron."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:290
-#: texmf/scripts/texlive/tlmgrgui.pl:2580
+#: texmf/scripts/texlive/tlmgrgui.pl:2597
 msgid "Loaded repository:"
 msgstr "Geladen installatie-bron"
 
@@ -871,7 +871,7 @@ msgid "Actions"
 msgstr "Akties"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:502
-#: texmf/scripts/texlive/tlmgrgui.pl:2655
+#: texmf/scripts/texlive/tlmgrgui.pl:2672
 msgid "Help"
 msgstr "Help"
 
@@ -879,7 +879,7 @@ msgstr "Help"
 #: texmf/scripts/texlive/tlmgrgui.pl:1102
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
-#: texmf/scripts/texlive/tlmgrgui.pl:2576
+#: texmf/scripts/texlive/tlmgrgui.pl:2593
 msgid "multiple repositories"
 msgstr "meerdere installatie-bronnen"
 
@@ -1186,7 +1186,7 @@ msgstr "Wijzigingen treden in werking na herstart"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1483
 #: texmf/scripts/texlive/tlmgrgui.pl:2494
-#: texmf/scripts/texlive/tlmgrgui.pl:2530
+#: texmf/scripts/texlive/tlmgrgui.pl:2549
 msgid "Choose Directory"
 msgstr "Kies folder"
 
@@ -1348,11 +1348,11 @@ msgstr "Laad installatie-bron"
 msgid "Package repository:"
 msgstr "Installatie-bron."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2538
+#: texmf/scripts/texlive/tlmgrgui.pl:2556
 msgid "Default net package repository"
 msgstr "Standaard online installatie-bron"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2631
+#: texmf/scripts/texlive/tlmgrgui.pl:2648
 #, perl-format
 msgid ""
 "Running %s failed.\n"

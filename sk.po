@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-18 18:30+0200\n"
+"POT-Creation-Date: 2012-05-21 04:43+0200\n"
 "PO-Revision-Date: 2012-05-17 23:09+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -152,7 +152,7 @@ msgstr "Bude to trvať istý čas!"
 #: texmf/scripts/texlive/tlmgrgui.pl:1821
 #: texmf/scripts/texlive/tlmgrgui.pl:2468
 #: texmf/scripts/texlive/tlmgrgui.pl:2505
-#: texmf/scripts/texlive/tlmgrgui.pl:2550
+#: texmf/scripts/texlive/tlmgrgui.pl:2567
 msgid "Cancel"
 msgstr "Zrušiť"
 
@@ -269,8 +269,8 @@ msgstr "Vložte cestu pre"
 #: texmf/scripts/texlive/tlmgrgui.pl:2357
 #: texmf/scripts/texlive/tlmgrgui.pl:2465
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
-#: texmf/scripts/texlive/tlmgrgui.pl:2545
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2562
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Ok"
 msgstr "OK"
 
@@ -468,7 +468,7 @@ msgstr "Načítať"
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
 #: texmf/scripts/texlive/tlmgrgui.pl:2271
 #: texmf/scripts/texlive/tlmgrgui.pl:2331
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Warning"
 msgstr "Varovanie"
 
@@ -721,7 +721,7 @@ msgid "Cannot load taxonomy file"
 msgstr "Nie je možné načítať súbor taxonómie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:232
-#: texmf/scripts/texlive/tlmgrgui.pl:2624
+#: texmf/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
 msgstr "Dokončené"
 
@@ -746,7 +746,7 @@ msgid "Load default"
 msgstr "Načítať predvolené"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:290
-#: texmf/scripts/texlive/tlmgrgui.pl:2580
+#: texmf/scripts/texlive/tlmgrgui.pl:2597
 msgid "Loaded repository:"
 msgstr "Načítaná schránka:"
 
@@ -876,7 +876,7 @@ msgid "Actions"
 msgstr "Činnosti"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:502
-#: texmf/scripts/texlive/tlmgrgui.pl:2655
+#: texmf/scripts/texlive/tlmgrgui.pl:2672
 msgid "Help"
 msgstr "Pomoc"
 
@@ -884,7 +884,7 @@ msgstr "Pomoc"
 #: texmf/scripts/texlive/tlmgrgui.pl:1102
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
-#: texmf/scripts/texlive/tlmgrgui.pl:2576
+#: texmf/scripts/texlive/tlmgrgui.pl:2593
 msgid "multiple repositories"
 msgstr "viacnásobné schránky"
 
@@ -1190,7 +1190,7 @@ msgstr "Zmeny sa prejavia po reštarte"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1483
 #: texmf/scripts/texlive/tlmgrgui.pl:2494
-#: texmf/scripts/texlive/tlmgrgui.pl:2530
+#: texmf/scripts/texlive/tlmgrgui.pl:2549
 msgid "Choose Directory"
 msgstr "Zvoliť adresár"
 
@@ -1356,11 +1356,11 @@ msgstr "Načítať schránku balíkov"
 msgid "Package repository:"
 msgstr "Schránka balíkov:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2538
+#: texmf/scripts/texlive/tlmgrgui.pl:2556
 msgid "Default net package repository"
 msgstr "Predvolená sieťová schránka balíkov"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2631
+#: texmf/scripts/texlive/tlmgrgui.pl:2648
 #, perl-format
 msgid ""
 "Running %s failed.\n"

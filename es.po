@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-18 18:30+0200\n"
+"POT-Creation-Date: 2012-05-21 04:43+0200\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -153,7 +153,7 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:1821
 #: texmf/scripts/texlive/tlmgrgui.pl:2468
 #: texmf/scripts/texlive/tlmgrgui.pl:2505
-#: texmf/scripts/texlive/tlmgrgui.pl:2550
+#: texmf/scripts/texlive/tlmgrgui.pl:2567
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -265,8 +265,8 @@ msgstr "Introduzca la ruta para"
 #: texmf/scripts/texlive/tlmgrgui.pl:2357
 #: texmf/scripts/texlive/tlmgrgui.pl:2465
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
-#: texmf/scripts/texlive/tlmgrgui.pl:2545
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2562
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Ok"
 msgstr "Aceptar"
 
@@ -462,7 +462,7 @@ msgstr "Cargar"
 #: texmf/scripts/texlive/tlmgrgui.pl:1961
 #: texmf/scripts/texlive/tlmgrgui.pl:2271
 #: texmf/scripts/texlive/tlmgrgui.pl:2331
-#: texmf/scripts/texlive/tlmgrgui.pl:2630
+#: texmf/scripts/texlive/tlmgrgui.pl:2647
 msgid "Warning"
 msgstr "Advertencia"
 
@@ -706,7 +706,7 @@ msgid "Cannot load taxonomy file"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:232
-#: texmf/scripts/texlive/tlmgrgui.pl:2624
+#: texmf/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
 msgstr "Completado"
 
@@ -731,7 +731,7 @@ msgid "Load default"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:290
-#: texmf/scripts/texlive/tlmgrgui.pl:2580
+#: texmf/scripts/texlive/tlmgrgui.pl:2597
 msgid "Loaded repository:"
 msgstr "Repositorio cargado:"
 
@@ -861,7 +861,7 @@ msgid "Actions"
 msgstr "Acciones"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:502
-#: texmf/scripts/texlive/tlmgrgui.pl:2655
+#: texmf/scripts/texlive/tlmgrgui.pl:2672
 msgid "Help"
 msgstr "Ayuda"
 
@@ -869,7 +869,7 @@ msgstr "Ayuda"
 #: texmf/scripts/texlive/tlmgrgui.pl:1102
 #: texmf/scripts/texlive/tlmgrgui.pl:1269
 #: texmf/scripts/texlive/tlmgrgui.pl:1674
-#: texmf/scripts/texlive/tlmgrgui.pl:2576
+#: texmf/scripts/texlive/tlmgrgui.pl:2593
 msgid "multiple repositories"
 msgstr ""
 
@@ -1176,7 +1176,7 @@ msgstr "Los cambios se llevarán a cabo tras reiniciar"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1483
 #: texmf/scripts/texlive/tlmgrgui.pl:2494
-#: texmf/scripts/texlive/tlmgrgui.pl:2530
+#: texmf/scripts/texlive/tlmgrgui.pl:2549
 msgid "Choose Directory"
 msgstr "Elija un directorio"
 
@@ -1331,11 +1331,11 @@ msgstr "Cargar repositorio de paquetes"
 msgid "Package repository:"
 msgstr "Repositorio de paquetes:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2538
+#: texmf/scripts/texlive/tlmgrgui.pl:2556
 msgid "Default net package repository"
 msgstr "Repositorio de paquetes remoto por defecto"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2631
+#: texmf/scripts/texlive/tlmgrgui.pl:2648
 #, perl-format
 msgid ""
 "Running %s failed.\n"
