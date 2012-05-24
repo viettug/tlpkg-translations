@@ -1,12 +1,12 @@
 #
-# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011.
+# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-24 04:37+0200\n"
-"PO-Revision-Date: 2011-12-09 16:24+0100\n"
+"PO-Revision-Date: 2012-05-24 12:37+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: \n"
@@ -605,7 +605,7 @@ msgstr "Installer l'éditeur intégré TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
 msgid "After install, use tlnet on CTAN for package updates"
-msgstr ""
+msgstr "Après installation, utiliser tlnet sur le CTAN pour les mises àjours"
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -889,7 +889,7 @@ msgstr "Aide"
 #: texmf/scripts/texlive/tlmgrgui.pl:1685
 #: texmf/scripts/texlive/tlmgrgui.pl:2605
 msgid "multiple repositories"
-msgstr ""
+msgstr "plusieurs dépôts de paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:513
 #: texmf/scripts/texlive/tlmgrgui.pl:1270
@@ -1200,42 +1200,44 @@ msgstr "Choisir le répertoire"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1554
 msgid "Edit default package repositories"
-msgstr ""
+msgstr "Éditer les dépôts de paquets par défaut"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1557
 msgid "Specify set of repositories to be used"
-msgstr ""
+msgstr "Spécifier une liste de dépôts à utiliser"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1573
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1587
 #: texmf/scripts/texlive/tlmgrgui.pl:1590
 msgid "Change main package repository"
-msgstr ""
+msgstr "Changer de dépôt de paquets principal"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1588
 #: texmf/scripts/texlive/tlmgrgui.pl:1591
 msgid "Change subsidiary package repository"
-msgstr ""
+msgstr "Changer de dépôt de paquets secondaire"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1612
 msgid "Add repository"
-msgstr ""
+msgstr "Ajouter un dépôt"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1614
 #: texmf/scripts/texlive/tlmgrgui.pl:1615
 msgid "Add package repository"
-msgstr ""
+msgstr "Ajouter un dépôt de paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
 msgid "Multiple defined tags (first column) are not possible, please fix it."
 msgstr ""
+"Il n'est pas possible de définir un tag (première colonne) plusieurs fois, "
+"veuillez régler ce problème."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
-msgstr ""
+msgstr "Revenir en arrière"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1751
 msgid "Select paper format for"
@@ -1251,11 +1253,11 @@ msgstr "désactiver"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1870
 msgid "Loading of remote database failed."
-msgstr ""
+msgstr "Échec du chargement de la base de données distante"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1871
 msgid "Error message:"
-msgstr ""
+msgstr "Message d'erreur :"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1910
 msgid "Installation"
@@ -1341,11 +1343,11 @@ msgstr "Retirer les liens symboliques"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2500
 msgid "Edit directory"
-msgstr ""
+msgstr "Éditer le répertoire"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
 msgid "New value for"
-msgstr ""
+msgstr "Nouvelle valeur pour"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2535
 msgid "Load package repository"
@@ -1370,7 +1372,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and latex)"
-msgstr ""
+msgstr "Schéma de base (plain et latex)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1386,7 +1388,7 @@ msgstr "Schéma TeX Live du GUST"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr ""
+msgstr "Schéma moyen (petit avec plus de paquet et langues)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1394,7 +1396,7 @@ msgstr "Schéma minimal (Plain seulement)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (basic + xetex, metapost, a few languages)"
-msgstr ""
+msgstr "Schéma petit (de base + xetex, metapost, quelques langues)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1526,7 +1528,7 @@ msgstr "Fontes recommandées"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr ""
+msgstr "Utilitaires pour les graphiques et les fontes"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1706,7 +1708,7 @@ msgstr "Composition de la musique"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Omega packages"
-msgstr ""
+msgstr "Paquets pour Omega"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
@@ -1734,7 +1736,7 @@ msgstr "GNU TeXinfo"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "TeXworks editor"
-msgstr ""
+msgstr "L'éditeur TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "Windows support programs"
