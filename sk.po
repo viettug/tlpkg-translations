@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2012-05-17 23:09+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -710,20 +710,17 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
-"Načítava sa lokálna databáza TeX Live.\n"
-"To môže trvať istý čas, počkajte prosím!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
 msgstr "Nie je možné načítať súbor taxonómie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
-msgstr "Dokončené"
+msgid "... done loading"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -972,8 +969,8 @@ msgid "Remove TeX Live %s"
 msgstr "Odstrániť TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
-msgstr "Úplné odstránenie bolo dokončené"
+msgid "Complete removal finished"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1354,6 +1351,10 @@ msgstr "Schránka balíkov:"
 #: texmf/scripts/texlive/tlmgrgui.pl:2568
 msgid "Default net package repository"
 msgstr "Predvolená sieťová schránka balíkov"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
+msgstr "Dokončené"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2660
 #, perl-format
@@ -1739,6 +1740,16 @@ msgstr "programy podporujúce Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Balíky XeTeXu"
+
+#~ msgid ""
+#~ "Loading local TeX Live Database\n"
+#~ "This may take some time, please wait!"
+#~ msgstr ""
+#~ "Načítava sa lokálna databáza TeX Live.\n"
+#~ "To môže trvať istý čas, počkajte prosím!"
+
+#~ msgid "Complete removal completed"
+#~ msgstr "Úplné odstránenie bolo dokončené"
 
 #~ msgid "Change "
 #~ msgstr "Zmeniť"

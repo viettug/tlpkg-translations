@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2011-06-18 20:43+0200\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
@@ -702,20 +702,17 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
-"Учитавање локалне TeX Live базе података...\n"
-"Ово може да потраје, сачекајте!"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
 msgstr "Није могуће отворити фајл са обележјима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
-msgstr "Готово"
+msgid "... done loading"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -964,8 +961,8 @@ msgid "Remove TeX Live %s"
 msgstr "Уклони TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
-msgstr "Комплетно уклањање је завршено"
+msgid "Complete removal finished"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1343,6 +1340,10 @@ msgstr "Репозиторијум пакета:"
 #: texmf/scripts/texlive/tlmgrgui.pl:2568
 msgid "Default net package repository"
 msgstr "Подразумевани репозиторијум пакета на Интернету"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
+msgstr "Готово"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2660
 #, perl-format
@@ -1728,6 +1729,16 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid ""
+#~ "Loading local TeX Live Database\n"
+#~ "This may take some time, please wait!"
+#~ msgstr ""
+#~ "Учитавање локалне TeX Live базе података...\n"
+#~ "Ово може да потраје, сачекајте!"
+
+#~ msgid "Complete removal completed"
+#~ msgstr "Комплетно уклањање је завршено"
 
 #~ msgid ""
 #~ "Could not load the TeX Live Database from %s\n"

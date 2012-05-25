@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -710,20 +710,17 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
-"ローカルの TeX Live データベースを読み込んでいます。\n"
-"これには少し時間がかかるかもしれません。お待ちください！"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
 msgstr "分類ファイルを読み込みませんでした"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
-msgstr "完了"
+msgid "... done loading"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -972,8 +969,8 @@ msgid "Remove TeX Live %s"
 msgstr "TeX Live %s を取り除く"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
-msgstr "完全削除が完了しました"
+msgid "Complete removal finished"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1348,6 +1345,10 @@ msgstr "パッケージリポジトリ："
 #: texmf/scripts/texlive/tlmgrgui.pl:2568
 msgid "Default net package repository"
 msgstr "既定のネットレポジトリ"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
+msgstr "完了"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2660
 #, perl-format
@@ -1733,6 +1734,16 @@ msgstr "Windowsサポートプログラム"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeXパッケージ"
+
+#~ msgid ""
+#~ "Loading local TeX Live Database\n"
+#~ "This may take some time, please wait!"
+#~ msgstr ""
+#~ "ローカルの TeX Live データベースを読み込んでいます。\n"
+#~ "これには少し時間がかかるかもしれません。お待ちください！"
+
+#~ msgid "Complete removal completed"
+#~ msgstr "完全削除が完了しました"
 
 #~ msgid ""
 #~ "Could not load the TeX Live Database from %s\n"

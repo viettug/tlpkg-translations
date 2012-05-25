@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2012-05-18 22:50+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -721,11 +721,9 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
-"Nalaganje lokalne podatkovne baze za TeX Live\n"
-"Prosim počakajte - to utegne trajati nekaj časa."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 #, fuzzy
@@ -733,9 +731,8 @@ msgid "Cannot load taxonomy file"
 msgstr "Nalaganje datoteke s ključnimi besedami ni uspelo"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
-msgstr "Končano"
+msgid "... done loading"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -1007,8 +1004,8 @@ msgid "Remove TeX Live %s"
 msgstr "Odstrani TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
-msgstr "Popolna odstranitev programa končana."
+msgid "Complete removal finished"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, fuzzy, perl-format
@@ -1409,6 +1406,10 @@ msgstr "Nov repozitorij s paketi:"
 msgid "Default net package repository"
 msgstr "Privzeti spletni repozitorij"
 
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
+msgstr "Končano"
+
 #: texmf/scripts/texlive/tlmgrgui.pl:2660
 #, fuzzy, perl-format
 msgid ""
@@ -1801,6 +1802,16 @@ msgstr "Dodatni programi za Okna"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Paketi za XeTeX"
+
+#~ msgid ""
+#~ "Loading local TeX Live Database\n"
+#~ "This may take some time, please wait!"
+#~ msgstr ""
+#~ "Nalaganje lokalne podatkovne baze za TeX Live\n"
+#~ "Prosim počakajte - to utegne trajati nekaj časa."
+
+#~ msgid "Complete removal completed"
+#~ msgstr "Popolna odstranitev programa končana."
 
 #~ msgid "Change "
 #~ msgstr "Spremeni"

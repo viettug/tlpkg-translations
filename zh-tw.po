@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -686,8 +686,8 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
@@ -695,8 +695,7 @@ msgid "Cannot load taxonomy file"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
+msgid "... done loading"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
@@ -957,7 +956,7 @@ msgid "Remove TeX Live %s"
 msgstr "歡迎進入 TeX Live %s 的世界！"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
+msgid "Complete removal finished"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
@@ -1333,6 +1332,10 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2568
 msgid "Default net package repository"
+msgstr ""
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2660

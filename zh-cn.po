@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-24 04:37+0200\n"
+"POT-Creation-Date: 2012-05-25 04:36+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -693,20 +693,17 @@ msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:170
 msgid ""
-"Loading local TeX Live Database\n"
-"This may take some time, please wait!"
+"Loading local TeX Live database;\n"
+"this may take some time, please be patient ..."
 msgstr ""
-"正在载入本地 TeX Live 数据库\n"
-"可能会花费一点时间，请稍等！"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
-msgid "Completed"
-msgstr "完成"
+msgid "... done loading"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -956,8 +953,8 @@ msgid "Remove TeX Live %s"
 msgstr "删除 TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
-msgid "Complete removal completed"
-msgstr "已经完整删除"
+msgid "Complete removal finished"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1323,6 +1320,10 @@ msgstr "软件包仓库:"
 #: texmf/scripts/texlive/tlmgrgui.pl:2568
 msgid "Default net package repository"
 msgstr "缺省的网络软件包仓库"
+
+#: texmf/scripts/texlive/tlmgrgui.pl:2653
+msgid "Completed"
+msgstr "完成"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2660
 #, perl-format
@@ -1708,6 +1709,16 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr ""
+
+#~ msgid ""
+#~ "Loading local TeX Live Database\n"
+#~ "This may take some time, please wait!"
+#~ msgstr ""
+#~ "正在载入本地 TeX Live 数据库\n"
+#~ "可能会花费一点时间，请稍等！"
+
+#~ msgid "Complete removal completed"
+#~ msgstr "已经完整删除"
 
 #~ msgid ""
 #~ "Could not load the TeX Live Database from %s\n"
