@@ -1,20 +1,19 @@
 # Serbian/Cyrillic translation of TeX Live.
 # Copyright (C) 2010-2012 TeX Live Team
-# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010.
+# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-25 04:36+0200\n"
-"PO-Revision-Date: 2011-06-18 20:43+0200\n"
+"PO-Revision-Date: 2012-05-25 19:06+0400\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:248
@@ -77,22 +76,22 @@ msgstr "Или, позовите скрипту install-tl са параметр
 
 #: tlpkg/installer/install-menu-wizard.pl:203
 msgid "Change default repository"
-msgstr ""
+msgstr "Промена подразумеваног репозиторијума"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
 #: tlpkg/installer/install-menu-perltk.pl:261
 msgid "Command line repository"
-msgstr ""
+msgstr "Репозиторијум са командне линије"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "LOCAL REPOSITORIES"
-msgstr ""
+msgstr "ЛОКАЛНИ РЕПОЗИТОРИЈУМИ"
 
 #: tlpkg/installer/install-menu-wizard.pl:250
 #: tlpkg/installer/install-menu-perltk.pl:271
 msgid "NETWORK REPOSITORIES"
-msgstr ""
+msgstr "МРЕЖНИ РЕПОЗИТОРИЈУМИ"
 
 #: tlpkg/installer/install-menu-wizard.pl:251
 #: tlpkg/installer/install-menu-perltk.pl:272
@@ -104,31 +103,31 @@ msgstr "Подразумевани удаљени репозиторијум"
 #: tlpkg/installer/install-menu-wizard.pl:257
 #: tlpkg/installer/install-menu-perltk.pl:276
 msgid "Select repository"
-msgstr ""
+msgstr "Изаберите репозиторијум"
 
 #: tlpkg/installer/install-menu-wizard.pl:259
 msgid "Mirror:"
-msgstr ""
+msgstr "Огледало (mirror):"
 
 #: tlpkg/installer/install-menu-wizard.pl:311
 msgid "Continent"
-msgstr ""
+msgstr "Континент"
 
 #: tlpkg/installer/install-menu-wizard.pl:325
 msgid "Countries"
-msgstr ""
+msgstr "Државе"
 
 #: tlpkg/installer/install-menu-wizard.pl:343
 msgid "Mirrors"
-msgstr ""
+msgstr "Огледала (mirrors)"
 
 #: tlpkg/installer/install-menu-wizard.pl:390
 msgid "Please wait while the repository database is loaded."
-msgstr ""
+msgstr "Сачекајте док се не учита база података са репозиторијума."
 
 #: tlpkg/installer/install-menu-wizard.pl:391
 msgid "This will take some time!"
-msgstr ""
+msgstr "Ово ће потрајати неко време!"
 
 #: tlpkg/installer/install-menu-wizard.pl:394
 #: tlpkg/installer/install-menu-wizard.pl:517
@@ -162,12 +161,12 @@ msgstr "Прекини"
 #: tlpkg/installer/install-menu-wizard.pl:398
 #: tlpkg/installer/install-menu-perltk.pl:302
 msgid "Could not load remote TeX Live Database:"
-msgstr ""
+msgstr "Учитавање удаљене TeX Live базе података није успело:"
 
 #: tlpkg/installer/install-menu-wizard.pl:399
 #: tlpkg/installer/install-menu-wizard.pl:406
 msgid "Please go back and select a different mirror."
-msgstr ""
+msgstr "Вратите се назад и изаберите друго огледало (mirror)."
 
 #: tlpkg/installer/install-menu-wizard.pl:402
 #, perl-format
@@ -177,6 +176,10 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
+"Верзија TeX Live-а на Вашем компјутеру\n"
+"и верзија на задатом репозиторијуму нису компатибилне:\n"
+"          локална верзија: %s\n"
+"верзија са репозиторијума: %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:434
 #: tlpkg/installer/install-menu-wizard.pl:665
@@ -471,7 +474,7 @@ msgstr "Упозорење"
 
 #: tlpkg/installer/install-menu-perltk.pl:304
 msgid "Please select a different mirror."
-msgstr ""
+msgstr "Изаберите друго огледало (mirror)."
 
 #: tlpkg/installer/install-menu-perltk.pl:309
 #, perl-format
@@ -482,6 +485,10 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
+"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму нису компатибилне:\n"
+"          локална верзија: %s\n"
+"верзија са репозиторијума: %s\n"
+"Молимо Вас да изаберете друго огледало (mirror)."
 
 #: tlpkg/installer/install-menu-perltk.pl:328
 msgid "Basic Information"
@@ -490,7 +497,7 @@ msgstr "Основни подаци"
 #: tlpkg/installer/install-menu-perltk.pl:333
 #: tlpkg/installer/install-menu-perltk.pl:980
 msgid "Binary system(s)"
-msgstr "Платформе (тј. архитектуре и оперативни системи) за програме"
+msgstr "Платформе (архитектуре и оперативни системи)"
 
 #: tlpkg/installer/install-menu-perltk.pl:342
 #: tlpkg/installer/install-menu-perltk.pl:733
@@ -591,7 +598,7 @@ msgstr "Инсталирај специјализовани едитор TeXwork
 
 #: tlpkg/installer/install-menu-perltk.pl:500
 msgid "After install, use tlnet on CTAN for package updates"
-msgstr ""
+msgstr "После инсталације користите tlnet или CTAN за освежавање инсталираних пакета"
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -705,6 +712,8 @@ msgid ""
 "Loading local TeX Live database;\n"
 "this may take some time, please be patient ..."
 msgstr ""
+"Учитавање локалне TeX Live базе података;\n"
+"ово може да потраје неко време, будите стрпљиви..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
@@ -712,7 +721,7 @@ msgstr "Није могуће отворити фајл са обележјим�
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
 msgid "... done loading"
-msgstr ""
+msgstr "... учитавање готово"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -875,7 +884,7 @@ msgstr "Помоћ"
 #: texmf/scripts/texlive/tlmgrgui.pl:1685
 #: texmf/scripts/texlive/tlmgrgui.pl:2605
 msgid "multiple repositories"
-msgstr ""
+msgstr "група репозиторијума"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:513
 #: texmf/scripts/texlive/tlmgrgui.pl:1270
@@ -958,11 +967,11 @@ msgstr "Уклони TeX Live %s ..."
 #: texmf/scripts/texlive/tlmgrgui.pl:610
 #, perl-format
 msgid "Remove TeX Live %s"
-msgstr "Уклони TeX Live %s"
+msgstr "TeX Live %s: уклањање"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
 msgid "Complete removal finished"
-msgstr ""
+msgstr "Комплетно уклањање завршено"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1080,7 +1089,7 @@ msgstr "Још података"
 #: texmf/scripts/texlive/tlmgrgui.pl:1020
 #: texmf/scripts/texlive/tlmgrgui.pl:1025
 msgid "Select platforms to support"
-msgstr "Изаберите оперативне системе за програме"
+msgstr "Изаберите оперативне системе"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1036
 #: texmf/scripts/texlive/tlmgrgui.pl:1248
@@ -1145,7 +1154,7 @@ msgstr "Инсталирај за све кориснике"
 #: texmf/scripts/texlive/tlmgrgui.pl:1323
 #: texmf/scripts/texlive/tlmgrgui.pl:1332
 msgid "Paper options"
-msgstr "Подешавања папира"
+msgstr "Подешавање папира"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1336
 msgid "Default paper for all"
@@ -1187,42 +1196,42 @@ msgstr "Изабери директоријум"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1554
 msgid "Edit default package repositories"
-msgstr ""
+msgstr "Промена подразумеваног репозиторијума са пакетима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1557
 msgid "Specify set of repositories to be used"
-msgstr ""
+msgstr "Одредите групу репозиторијума која ће се користити"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1573
 msgid "Delete"
-msgstr ""
+msgstr "Обрисати"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1587
 #: texmf/scripts/texlive/tlmgrgui.pl:1590
 msgid "Change main package repository"
-msgstr ""
+msgstr "Изменити главни репозиторијум са пакетима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1588
 #: texmf/scripts/texlive/tlmgrgui.pl:1591
 msgid "Change subsidiary package repository"
-msgstr ""
+msgstr "Промена помоћног репозиторијума са пакетима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1612
 msgid "Add repository"
-msgstr ""
+msgstr "Додавање репозиторијума"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1614
 #: texmf/scripts/texlive/tlmgrgui.pl:1615
 msgid "Add package repository"
-msgstr ""
+msgstr "Додавање репозиторијума са пакетима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
 msgid "Multiple defined tags (first column) are not possible, please fix it."
-msgstr ""
+msgstr "За прву колону може бити дефинисана само једна кључна реч. Исправите задате кључне речи."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
-msgstr ""
+msgstr "Поништити измене"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1751
 msgid "Select paper format for"
@@ -1238,11 +1247,11 @@ msgstr "искључи бекапе"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1870
 msgid "Loading of remote database failed."
-msgstr ""
+msgstr "Учитавање удаљене базе података није успело."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1871
 msgid "Error message:"
-msgstr ""
+msgstr "Порука о грешци:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1910
 msgid "Installation"
@@ -1323,11 +1332,11 @@ msgstr "Уклони симболичке линкове"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2500
 msgid "Edit directory"
-msgstr ""
+msgstr "Промена директоријума"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2503
 msgid "New value for"
-msgstr ""
+msgstr "Нова вредност за"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2535
 msgid "Load package repository"
@@ -1356,7 +1365,7 @@ msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:1
 msgid "basic scheme (plain and latex)"
-msgstr ""
+msgstr "основна шема (чист [plain] TeX и latex)"
 
 #: tlpkg/translations/shortdesc.pl:2
 msgid "ConTeXt scheme"
@@ -1372,7 +1381,7 @@ msgstr "GUST TeX Live шема"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr ""
+msgstr "средња шема (мала шема + већи број пакета и боља језичка подршка)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1380,7 +1389,7 @@ msgstr "минимална шема (само чист [plain] TeX)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (basic + xetex, metapost, a few languages)"
-msgstr ""
+msgstr "мала шема (основна шема + xetex, metapost, подршка за неколико језика)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1512,7 +1521,7 @@ msgstr "Препоручени фонтови"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr ""
+msgstr "Програми за рад са графиком и фонтовима"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1692,7 +1701,7 @@ msgstr "Припрема музике за штампу"
 
 #: tlpkg/translations/shortdesc.pl:85
 msgid "Omega packages"
-msgstr ""
+msgstr "Omega пакети"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
@@ -1700,7 +1709,7 @@ msgstr "Графички пакети и програми"
 
 #: tlpkg/translations/shortdesc.pl:87
 msgid "Plain TeX supplementary packages"
-msgstr "Додатни пакети за чист (plain) TeX"
+msgstr "Додатни пакети за чист [plain] TeX"
 
 #: tlpkg/translations/shortdesc.pl:88
 msgid "PSTricks packages"
@@ -1720,7 +1729,7 @@ msgstr "GNU Texinfo програм"
 
 #: tlpkg/translations/shortdesc.pl:92
 msgid "TeXworks editor"
-msgstr ""
+msgstr "Едитор TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "Windows support programs"
