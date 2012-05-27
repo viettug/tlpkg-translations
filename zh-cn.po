@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-25 04:36+0200\n"
+"POT-Creation-Date: 2012-05-27 04:38+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -584,7 +584,7 @@ msgid "Install TeXworks front end"
 msgstr "安装 TeXworks 前端"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
-msgid "After install, use tlnet on CTAN for package updates"
+msgid "After installation, get package updates from CTAN"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
@@ -1207,7 +1207,8 @@ msgid "Add package repository"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
-msgid "Multiple defined tags (first column) are not possible, please fix it."
+#, perl-format
+msgid "Repository tag name already used: %s"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699

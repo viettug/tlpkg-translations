@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-25 04:36+0200\n"
+"POT-Creation-Date: 2012-05-27 04:38+0200\n"
 "PO-Revision-Date: 2012-05-12 09:37+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tex-live@tug.org>\n"
@@ -603,8 +603,8 @@ msgid "Install TeXworks front end"
 msgstr "Установить редактор TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
-msgid "After install, use tlnet on CTAN for package updates"
-msgstr "После установки, используйте tlnet на CTAN для обновления пакетов"
+msgid "After installation, get package updates from CTAN"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -1228,10 +1228,9 @@ msgid "Add package repository"
 msgstr "Добавить репозиторий пакетов"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
-msgid "Multiple defined tags (first column) are not possible, please fix it."
+#, perl-format
+msgid "Repository tag name already used: %s"
 msgstr ""
-"Нельзя использовать один и тот же ярлык (первый столбец) несколько раз, "
-"исправьте пожалуйста."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
@@ -1744,6 +1743,15 @@ msgstr "Программы для Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Пакеты XeTeX"
+
+#~ msgid "After install, use tlnet on CTAN for package updates"
+#~ msgstr "После установки, используйте tlnet на CTAN для обновления пакетов"
+
+#~ msgid ""
+#~ "Multiple defined tags (first column) are not possible, please fix it."
+#~ msgstr ""
+#~ "Нельзя использовать один и тот же ярлык (первый столбец) несколько раз, "
+#~ "исправьте пожалуйста."
 
 #~ msgid ""
 #~ "Loading local TeX Live Database\n"

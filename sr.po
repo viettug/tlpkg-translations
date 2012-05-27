@@ -6,14 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-25 04:36+0200\n"
+"POT-Creation-Date: 2012-05-27 04:38+0200\n"
 "PO-Revision-Date: 2012-05-25 19:06+0400\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:248
@@ -485,7 +486,8 @@ msgid ""
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму нису компатибилне:\n"
+"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму "
+"нису компатибилне:\n"
 "          локална верзија: %s\n"
 "верзија са репозиторијума: %s\n"
 "Молимо Вас да изаберете друго огледало (mirror)."
@@ -597,8 +599,8 @@ msgid "Install TeXworks front end"
 msgstr "Инсталирај специјализовани едитор TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
-msgid "After install, use tlnet on CTAN for package updates"
-msgstr "После инсталације користите tlnet или CTAN за освежавање инсталираних пакета"
+msgid "After installation, get package updates from CTAN"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -1226,8 +1228,9 @@ msgid "Add package repository"
 msgstr "Додавање репозиторијума са пакетима"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
-msgid "Multiple defined tags (first column) are not possible, please fix it."
-msgstr "За прву колону може бити дефинисана само једна кључна реч. Исправите задате кључне речи."
+#, perl-format
+msgid "Repository tag name already used: %s"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
@@ -1738,6 +1741,17 @@ msgstr "Програми за рад на Windows-у"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "XeTeX пакети"
+
+#~ msgid "After install, use tlnet on CTAN for package updates"
+#~ msgstr ""
+#~ "После инсталације користите tlnet или CTAN за освежавање инсталираних "
+#~ "пакета"
+
+#~ msgid ""
+#~ "Multiple defined tags (first column) are not possible, please fix it."
+#~ msgstr ""
+#~ "За прву колону може бити дефинисана само једна кључна реч. Исправите "
+#~ "задате кључне речи."
 
 #~ msgid ""
 #~ "Loading local TeX Live Database\n"

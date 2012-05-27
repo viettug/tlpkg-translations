@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-25 04:36+0200\n"
+"POT-Creation-Date: 2012-05-27 04:38+0200\n"
 "PO-Revision-Date: 2012-05-14 07:07+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -602,8 +602,8 @@ msgid "Install TeXworks front end"
 msgstr "Cài đặt trình soạn thảo TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
-msgid "After install, use tlnet on CTAN for package updates"
-msgstr "Sau khi cài, dùng tlnet trên CTAN để cập nhật gói"
+msgid "After installation, get package updates from CTAN"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -1224,8 +1224,9 @@ msgid "Add package repository"
 msgstr "Thêm nguồn gói"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
-msgid "Multiple defined tags (first column) are not possible, please fix it."
-msgstr "Lựa chọn nhiều nhiều tag (cột đầu) không được. Hãy sửa lỗi này."
+#, perl-format
+msgid "Repository tag name already used: %s"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
@@ -1738,6 +1739,13 @@ msgstr "Hỗ trợ cho Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Các gói cho XeTeX"
+
+#~ msgid "After install, use tlnet on CTAN for package updates"
+#~ msgstr "Sau khi cài, dùng tlnet trên CTAN để cập nhật gói"
+
+#~ msgid ""
+#~ "Multiple defined tags (first column) are not possible, please fix it."
+#~ msgstr "Lựa chọn nhiều nhiều tag (cột đầu) không được. Hãy sửa lỗi này."
 
 #~ msgid ""
 #~ "Loading local TeX Live Database\n"

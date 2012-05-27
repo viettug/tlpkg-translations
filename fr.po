@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-05-25 04:36+0200\n"
+"POT-Creation-Date: 2012-05-27 04:38+0200\n"
 "PO-Revision-Date: 2012-05-24 12:37+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -604,8 +604,8 @@ msgid "Install TeXworks front end"
 msgstr "Installer l'éditeur intégré TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
-msgid "After install, use tlnet on CTAN for package updates"
-msgstr "Après installation, utiliser tlnet sur le CTAN pour les mises àjours"
+msgid "After installation, get package updates from CTAN"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -1227,10 +1227,9 @@ msgid "Add package repository"
 msgstr "Ajouter un dépôt de paquets"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
-msgid "Multiple defined tags (first column) are not possible, please fix it."
+#, perl-format
+msgid "Repository tag name already used: %s"
 msgstr ""
-"Il n'est pas possible de définir un tag (première colonne) plusieurs fois, "
-"veuillez régler ce problème."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
@@ -1746,6 +1745,16 @@ msgstr "Programmes de support spécifique pour Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Paquet XeTeX"
+
+#~ msgid "After install, use tlnet on CTAN for package updates"
+#~ msgstr ""
+#~ "Après installation, utiliser tlnet sur le CTAN pour les mises àjours"
+
+#~ msgid ""
+#~ "Multiple defined tags (first column) are not possible, please fix it."
+#~ msgstr ""
+#~ "Il n'est pas possible de définir un tag (première colonne) plusieurs "
+#~ "fois, veuillez régler ce problème."
 
 #~ msgid ""
 #~ "Loading local TeX Live Database\n"
