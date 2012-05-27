@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-05-27 04:38+0200\n"
-"PO-Revision-Date: 2012-05-14 16:56+0100\n"
+"PO-Revision-Date: 2012-05-27 12:42+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -138,7 +138,8 @@ msgstr "Dit gaat even duren!"
 #: tlpkg/installer/install-menu-perltk.pl:907
 #: tlpkg/installer/install-menu-perltk.pl:971
 #: tlpkg/installer/install-menu-perltk.pl:1002
-#: texmf/scripts/texlive/tlmgrgui.pl:611 texmf/scripts/texlive/tlmgrgui.pl:612
+#: texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:612
 #: texmf/scripts/texlive/tlmgrgui.pl:1039
 #: texmf/scripts/texlive/tlmgrgui.pl:1251
 #: texmf/scripts/texlive/tlmgrgui.pl:1367
@@ -245,9 +246,12 @@ msgstr "Pad voor"
 #: tlpkg/installer/install-menu-perltk.pl:969
 #: tlpkg/installer/install-menu-perltk.pl:1000
 #: tlpkg/installer/install-menu-perltk.pl:1017
-#: texmf/scripts/texlive/tlmgrgui.pl:238 texmf/scripts/texlive/tlmgrgui.pl:611
-#: texmf/scripts/texlive/tlmgrgui.pl:615 texmf/scripts/texlive/tlmgrgui.pl:617
-#: texmf/scripts/texlive/tlmgrgui.pl:635 texmf/scripts/texlive/tlmgrgui.pl:814
+#: texmf/scripts/texlive/tlmgrgui.pl:238
+#: texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:615
+#: texmf/scripts/texlive/tlmgrgui.pl:617
+#: texmf/scripts/texlive/tlmgrgui.pl:635
+#: texmf/scripts/texlive/tlmgrgui.pl:814
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1416
 #: texmf/scripts/texlive/tlmgrgui.pl:1446
@@ -379,10 +383,7 @@ msgstr "Installeren"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Zie %s/index.html voor links naar documentatie.\n"
 "De TeX Live web site (http://tug.org/texlive/) bevat\n"
@@ -476,8 +477,7 @@ msgstr "Kies een andere mirror."
 #: tlpkg/installer/install-menu-perltk.pl:309
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
@@ -596,7 +596,7 @@ msgstr "Installeer TeXworks front-end"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
 msgid "After installation, get package updates from CTAN"
-msgstr ""
+msgstr "Aktualiseer pakketten vanuit CTAN"
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -708,6 +708,8 @@ msgid ""
 "Loading local TeX Live database;\n"
 "this may take some time, please be patient ..."
 msgstr ""
+"Lokale TeX Live database is aan het laden;\n"
+"dit kan even duren, geduld aub ..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
@@ -715,7 +717,7 @@ msgstr "Kan taxonomie-bestand niet laden"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
 msgid "... done loading"
-msgstr ""
+msgstr "... klaar met laden"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -728,8 +730,7 @@ msgid ""
 msgstr ""
 "U heeft geen permissie om ook maar iets aan de installatie te wijzigen,\n"
 "in het bijzonder, u heeft geen schrijfrechten voor de folder %s.\n"
-"Draai dit programma als Administrator, of neem contact op met uw lokale "
-"systeembeheerder.\n"
+"Draai dit programma als Administrator, of neem contact op met uw lokale systeembeheerder.\n"
 "\n"
 "De meeste knoppen zijn gedeactiveerd."
 
@@ -754,7 +755,8 @@ msgstr "Laat instellingen zien"
 msgid "Status"
 msgstr "Status"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:304 texmf/scripts/texlive/tlmgrgui.pl:358
+#: texmf/scripts/texlive/tlmgrgui.pl:304
+#: texmf/scripts/texlive/tlmgrgui.pl:358
 msgid "all"
 msgstr "alle"
 
@@ -929,9 +931,7 @@ msgstr "Deaktiveer automatische installatie van nieuwe pakketten"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:556
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
-"Deaktiveer automatische verwijdering van pakketten die op de server zijn "
-"verwijderd"
+msgstr "Deaktiveer automatische verwijdering van pakketten die op de server zijn verwijderd"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:563
 msgid "Update filename database"
@@ -967,7 +967,7 @@ msgstr "Verwijder TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
 msgid "Complete removal finished"
-msgstr ""
+msgstr "Klaar met volledig verwijderen"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -982,7 +982,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Handleiding"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:632 texmf/scripts/texlive/tlmgrgui.pl:634
+#: texmf/scripts/texlive/tlmgrgui.pl:632
+#: texmf/scripts/texlive/tlmgrgui.pl:634
 msgid "About"
 msgstr "Info"
 
@@ -1202,12 +1203,12 @@ msgstr "Verwijder"
 #: texmf/scripts/texlive/tlmgrgui.pl:1587
 #: texmf/scripts/texlive/tlmgrgui.pl:1590
 msgid "Change main package repository"
-msgstr ""
+msgstr "Wijzig hoofd installatie-bron"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1588
 #: texmf/scripts/texlive/tlmgrgui.pl:1591
 msgid "Change subsidiary package repository"
-msgstr ""
+msgstr "Wijzig aanvullende installatie-bron"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1612
 msgid "Add repository"
@@ -1221,7 +1222,7 @@ msgstr "Voeg installatie-bron toe"
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
 #, perl-format
 msgid "Repository tag name already used: %s"
-msgstr ""
+msgstr "Label van installatie-bron al in gebruik: %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
@@ -1241,11 +1242,11 @@ msgstr "deactiveer"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1870
 msgid "Loading of remote database failed."
-msgstr ""
+msgstr "Laden van online database mislukt"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1871
 msgid "Error message:"
-msgstr ""
+msgstr "Foutmelding:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1910
 msgid "Installation"
@@ -1266,8 +1267,7 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
@@ -1285,12 +1285,8 @@ msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr "Nog minstens %s verdere updates komen beschikbaar na updaten van tlmgr"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2288
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan "
-"worden voltooid."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan worden voltooid."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2368
 #: texmf/scripts/texlive/tlmgrgui.pl:2370
@@ -1376,7 +1372,7 @@ msgstr "GUST TeX Live schema"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr ""
+msgstr "Medium schema (klein + meer pakketten en taken)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1384,7 +1380,7 @@ msgstr "minimum schema (alleen plain)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "small scheme (basic + xetex, metapost, a few languages)"
-msgstr ""
+msgstr "klein schema (basis + xetex, metapost, enkele talen)"
 
 #: tlpkg/translations/shortdesc.pl:8
 msgid "teTeX scheme (more than medium, but nowhere near full)"
@@ -1712,8 +1708,7 @@ msgstr "PSTricks pakketten"
 
 #: tlpkg/translations/shortdesc.pl:89
 msgid "Support for publishers, theses, standards, conferences, etc."
-msgstr ""
-"Ondersteuning voor uitgevers, proefschriften, standaarden, conferenties etc."
+msgstr "Ondersteuning voor uitgevers, proefschriften, standaarden, conferenties etc."
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "Typesetting for natural and computer sciences"
