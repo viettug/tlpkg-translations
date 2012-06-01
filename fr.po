@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-01 04:35+0200\n"
-"PO-Revision-Date: 2012-05-24 12:37+0200\n"
+"PO-Revision-Date: 2012-06-01 20:30+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: \n"
@@ -63,18 +63,28 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
+"Bienvenue dans l'installateur de TeX Live %s\n"
+"http://tug.org/texlive\n"
+"\n"
+"Cet assistant vous guidera durant l'installation.\n"
+"\n"
+"Il est recommandé de désactiver votre antivirus pendant l'installation.\n"
+"\n"
+"Pour procéder à une installation personnalisée ou plus avancées,\n"
+"veuillez consulter les pages web ou le guide d'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid "Or use install-tl-advanced.bat."
-msgstr ""
+msgstr "Ou utilisez install-tl-advance.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:194
 msgid "Best to turn off your virus scanner during installation."
 msgstr ""
+"Il est recommandé de désactiver votre antivirus pendant l'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:195
 msgid "Or specify  --gui expert  to install-tl."
-msgstr ""
+msgstr "Ou utilisez l'option  --gui expert  de install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:204
 msgid "Change default repository"
@@ -604,7 +614,7 @@ msgstr "Installer l'éditeur intégré TeXworks"
 
 #: tlpkg/installer/install-menu-perltk.pl:500
 msgid "After installation, get package updates from CTAN"
-msgstr ""
+msgstr "Après installation, recevoir les mises à jour par le CTAN"
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -613,22 +623,28 @@ msgstr "Installer TeX Live"
 #: tlpkg/installer/install-menu-perltk.pl:565
 msgid "Best to disable your virus scanner during installation."
 msgstr ""
+"Il est recommandé de désactiver votre antivirus pendant l'installation."
 
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
 msgstr ""
+"L'installateur n'a pas les droits d'administrateur ;\n"
+"il ne peut donc installer que pour l'utilisateur actuel."
 
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
+"Veuillez faire un clic droit sur install-tl-advanced et sélectionner\n"
+"« Exécuter en tant qu'administrateur » si vous souhaitez\n"
+"installer pour tous les utilisateurs."
 
 #: tlpkg/installer/install-menu-perltk.pl:578
 msgid "Continue"
-msgstr ""
+msgstr "Continuer"
 
 #: tlpkg/installer/install-menu-perltk.pl:588
 #: tlpkg/installer/install-menu-perltk.pl:592
@@ -736,6 +752,8 @@ msgid ""
 "Loading local TeX Live database;\n"
 "this may take some time, please be patient ..."
 msgstr ""
+"Chargement de la base TeX Live locale en cours ;\n"
+"ceci peut prendre du temps, veuillez patienter..."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:217
 msgid "Cannot load taxonomy file"
@@ -743,7 +761,7 @@ msgstr "Échec du chargement du fichier de taxonomie"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:231
 msgid "... done loading"
-msgstr ""
+msgstr "... chargement terminé."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:237
 #, perl-format
@@ -992,7 +1010,7 @@ msgstr "Désinstaller TeX Live %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:617
 msgid "Complete removal finished"
-msgstr ""
+msgstr "Désinstallation complète terminée."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:622
 #, perl-format
@@ -1248,7 +1266,7 @@ msgstr "Ajouter un dépôt de paquets"
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
 #, perl-format
 msgid "Repository tag name already used: %s"
-msgstr ""
+msgstr "Ce tag de dépôt de paquets est déjà utilisé : %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
