@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-02 04:28+0200\n"
-"PO-Revision-Date: 2012-05-29 20:48+0100\n"
+"PO-Revision-Date: 2012-06-02 07:49+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -55,14 +55,18 @@ msgid ""
 "\n"
 "This wizard will guide you through the installation."
 msgstr ""
+"Willkommen zur Installation von TeX Live %s\n"
+"http://tug.org/texlive\n"
+"\n"
+"Dieses Setup Programm begleitet Sie durch die Installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
-msgstr ""
+msgstr "Oder nutzen sie die install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:197
 msgid "Or specify  --gui expert  to install-tl."
-msgstr ""
+msgstr "Oder geben Sie die Option '--gui expert' beim Aufruf von install-tl an."
 
 #: tlpkg/installer/install-menu-wizard.pl:206
 msgid "Change default repository"
@@ -131,7 +135,8 @@ msgstr "Dies kann etwas Zeit beanspruchen!"
 #: tlpkg/installer/install-menu-perltk.pl:937
 #: tlpkg/installer/install-menu-perltk.pl:1001
 #: tlpkg/installer/install-menu-perltk.pl:1032
-#: texmf/scripts/texlive/tlmgrgui.pl:611 texmf/scripts/texlive/tlmgrgui.pl:612
+#: texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:612
 #: texmf/scripts/texlive/tlmgrgui.pl:1039
 #: texmf/scripts/texlive/tlmgrgui.pl:1251
 #: texmf/scripts/texlive/tlmgrgui.pl:1367
@@ -220,8 +225,7 @@ msgstr "benötigter Festplattenplatz:"
 #: tlpkg/installer/install-menu-wizard.pl:503
 #: tlpkg/installer/install-menu-perltk.pl:1100
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
-"(Standardverzeichnis nicht zugänglich oder beschreibbar - bitte ändern)"
+msgstr "(Standardverzeichnis nicht zugänglich oder beschreibbar - bitte ändern)"
 
 #: tlpkg/installer/install-menu-wizard.pl:513
 msgid "Enter path for"
@@ -239,9 +243,12 @@ msgstr "Bitte geben Sie den Pfad ein für"
 #: tlpkg/installer/install-menu-perltk.pl:999
 #: tlpkg/installer/install-menu-perltk.pl:1030
 #: tlpkg/installer/install-menu-perltk.pl:1047
-#: texmf/scripts/texlive/tlmgrgui.pl:238 texmf/scripts/texlive/tlmgrgui.pl:611
-#: texmf/scripts/texlive/tlmgrgui.pl:615 texmf/scripts/texlive/tlmgrgui.pl:617
-#: texmf/scripts/texlive/tlmgrgui.pl:635 texmf/scripts/texlive/tlmgrgui.pl:814
+#: texmf/scripts/texlive/tlmgrgui.pl:238
+#: texmf/scripts/texlive/tlmgrgui.pl:611
+#: texmf/scripts/texlive/tlmgrgui.pl:615
+#: texmf/scripts/texlive/tlmgrgui.pl:617
+#: texmf/scripts/texlive/tlmgrgui.pl:635
+#: texmf/scripts/texlive/tlmgrgui.pl:814
 #: texmf/scripts/texlive/tlmgrgui.pl:1051
 #: texmf/scripts/texlive/tlmgrgui.pl:1416
 #: texmf/scripts/texlive/tlmgrgui.pl:1446
@@ -373,20 +380,15 @@ msgstr "Installation"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Für Verweise auf Dokumentation sehen Sie bitte %s/index.html.\n"
 "Die Webseite des TeX Live Projektes (http://tug.org/texlive/)\n"
 "informiert über Updates und Korrekturen.\n"
 "\n"
-"TeX Live ist ein gemeinsames Projekt der TeX Benutzer Gruppen rund um die "
-"Welt;\n"
+"TeX Live ist ein gemeinsames Projekt der TeX Benutzer Gruppen rund um die Welt;\n"
 "bitte überlegen Sie sich der für sie sinnvollsten Gruppe beizutreten. Die\n"
-"Liste der Gruppen können Sie am Web auf http://tug.org/usergroups.html "
-"finden."
+"Liste der Gruppen können Sie am Web auf http://tug.org/usergroups.html finden."
 
 #: tlpkg/installer/install-menu-wizard.pl:742
 #: tlpkg/installer/install-menu-perltk.pl:611
@@ -473,14 +475,12 @@ msgstr "Bitte einen anderen Spiegelserver wählen!"
 #: tlpkg/installer/install-menu-perltk.pl:309
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"DIe TeX Live Versionen der lokalen Installation und der benutzten "
-"Installationsquelle stimmen nicht überein:\n"
+"DIe TeX Live Versionen der lokalen Installation und der benutzten Installationsquelle stimmen nicht überein:\n"
 "  lokal: %s\n"
 "  Installationsquelle: %s\n"
 "Bitte anderen Spiegelserver auswählen."
@@ -601,23 +601,27 @@ msgstr "TeX Live installieren"
 
 #: tlpkg/installer/install-menu-perltk.pl:565
 msgid "Best to disable your virus scanner during installation."
-msgstr ""
+msgstr "Es ist empfohlen, einen Virenscanner während der Installation zu deaktivieren."
 
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
 msgstr ""
+"Das Install-Programm läuft nicht mit Administrator-Berechtigung;\n"
+"es kann daher nur für den aktuellen Nutzer installieren."
 
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
+"Rechtsklicken Sie install-tl-advanced und wählen Sie \"Als Administrator ausführen\"\n"
+"wenn Sie für alle Benutzer installieren möchten."
 
 #: tlpkg/installer/install-menu-perltk.pl:578
 msgid "Continue"
-msgstr ""
+msgstr "Weiter"
 
 #: tlpkg/installer/install-menu-perltk.pl:588
 #: tlpkg/installer/install-menu-perltk.pl:592
@@ -747,8 +751,7 @@ msgid ""
 msgstr ""
 "Sie haben keine Berechtigung die Installation zu verändern,\n"
 "insbesonders ist der Ordner %s nicht schreibbar.\n"
-"Bitte starten Sie dieses Programm als Administrator, oder kontaktieren Sie "
-"den lokalen Administrator.\n"
+"Bitte starten Sie dieses Programm als Administrator, oder kontaktieren Sie den lokalen Administrator.\n"
 "\n"
 "Die meisten Schaltflächen werden deaktiviert."
 
@@ -773,7 +776,8 @@ msgstr "Anzeigeeigenschaften"
 msgid "Status"
 msgstr "Status"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:304 texmf/scripts/texlive/tlmgrgui.pl:358
+#: texmf/scripts/texlive/tlmgrgui.pl:304
+#: texmf/scripts/texlive/tlmgrgui.pl:358
 msgid "all"
 msgstr "Alle"
 
@@ -999,7 +1003,8 @@ msgstr ""
 msgid "Manual"
 msgstr "Dokumentation"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:632 texmf/scripts/texlive/tlmgrgui.pl:634
+#: texmf/scripts/texlive/tlmgrgui.pl:632
+#: texmf/scripts/texlive/tlmgrgui.pl:634
 msgid "About"
 msgstr "Über TeX Live Manager (tlmgr)"
 
@@ -1066,8 +1071,7 @@ msgstr "Paketgruppe:"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:731
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Warnung: Die Katalog-Versionen können veraltet oder einfach falsch sein."
+msgstr "Warnung: Die Katalog-Versionen können veraltet oder einfach falsch sein."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:769
 msgid "Depends:"
@@ -1284,15 +1288,13 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
 "Updates für den tlmgr sind verfügbar.\n"
-"Die Installation von Updates funktioniert nicht ohne Upgrade auf die neue "
-"Version.\n"
+"Die Installation von Updates funktioniert nicht ohne Upgrade auf die neue Version.\n"
 "Bitte wählen Sie \"Update all installed\" nach Beendigung dieses Dialogs.\n"
 "\n"
 "Das Programm wird nach dem Update beendet.\n"
@@ -1301,16 +1303,11 @@ msgstr ""
 #: texmf/scripts/texlive/tlmgrgui.pl:2286
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr ""
-"Zumindest %s weitere Updates sind verfügbar nachdem tlmgr aktualisiert wurde."
+msgstr "Zumindest %s weitere Updates sind verfügbar nachdem tlmgr aktualisiert wurde."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2288
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Bitte warten Sie etwas nachdem das Programm sich beendet hat, damit die "
-"Aktualisierungen durchgeführt werden können."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Bitte warten Sie etwas nachdem das Programm sich beendet hat, damit die Aktualisierungen durchgeführt werden können."
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2368
 #: texmf/scripts/texlive/tlmgrgui.pl:2370
@@ -1319,8 +1316,7 @@ msgstr "Wiederherstellung abgeschlossen"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2375
 msgid "Select the package to restore, or restore all packages"
-msgstr ""
-"Auswahl des wiederherzustellenden Pakets, oder alle Pakete wiederherstellen"
+msgstr "Auswahl des wiederherzustellenden Pakets, oder alle Pakete wiederherstellen"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:2391
 msgid "Revision:"
@@ -1585,7 +1581,7 @@ msgstr "Kroatisch"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "Cyrillic"
-msgstr "Zyrillisch"
+msgstr "Kyrillisch"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Czech/Slovak"
@@ -1733,8 +1729,7 @@ msgstr "PSTricks Pakete"
 
 #: tlpkg/translations/shortdesc.pl:89
 msgid "Support for publishers, theses, standards, conferences, etc."
-msgstr ""
-"Unterstützung für Verleger, Abschlussarbeiten, Standards, Konferenzen, etc."
+msgstr "Unterstützung für Verleger, Abschlussarbeiten, Standards, Konferenzen, etc."
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "Typesetting for natural and computer sciences"
