@@ -7,14 +7,13 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-02 04:28+0200\n"
-"PO-Revision-Date: 2012-05-25 19:06+0400\n"
+"PO-Revision-Date: 2012-06-02 21:16+0400\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:248
@@ -58,14 +57,18 @@ msgid ""
 "\n"
 "This wizard will guide you through the installation."
 msgstr ""
+"TeX Live %s: Добродошли у инсталацију\n"
+"http://tug.org/texlive\n"
+"\n"
+"Овај програм ће Вас провести кроз процес инсталације."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
-msgstr ""
+msgstr "Можете да употребите и install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:197
 msgid "Or specify  --gui expert  to install-tl."
-msgstr ""
+msgstr "Или, позовите скрипту install-tl са параметром --gui expert."
 
 #: tlpkg/installer/install-menu-wizard.pl:206
 msgid "Change default repository"
@@ -592,7 +595,7 @@ msgstr "Инсталирај специјализовани едитор TeXwork
 
 #: tlpkg/installer/install-menu-perltk.pl:500
 msgid "After installation, get package updates from CTAN"
-msgstr ""
+msgstr "После инсталације обнављати пакете преко CTAN-а"
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
@@ -600,23 +603,29 @@ msgstr "Инсталирај TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:565
 msgid "Best to disable your virus scanner during installation."
-msgstr ""
+msgstr "Препоручује се искључивање антивирусних програма током инсталације."
 
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
 msgstr ""
+"Инсталациони програм може да инсталира само\n"
+"за тренутног корисника зато што нема системска\n"
+"овлашћења."
 
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
+"Отворите десним кликом миша install-tl-advanced и изаберите\n"
+"\"run as administrator\" (\"покрени као администратор\") ако желите\n"
+"да инсталација важи за све кориснике."
 
 #: tlpkg/installer/install-menu-perltk.pl:578
 msgid "Continue"
-msgstr ""
+msgstr "Продужити"
 
 #: tlpkg/installer/install-menu-perltk.pl:588
 #: tlpkg/installer/install-menu-perltk.pl:592
@@ -1242,7 +1251,7 @@ msgstr "Додавање репозиторијума са пакетима"
 #: texmf/scripts/texlive/tlmgrgui.pl:1641
 #, perl-format
 msgid "Repository tag name already used: %s"
-msgstr ""
+msgstr "Ознака репозиторијума је већ у употреби: %s"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1699
 msgid "Revert"
