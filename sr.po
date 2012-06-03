@@ -7,14 +7,13 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-03 04:30+0200\n"
-"PO-Revision-Date: 2012-06-02 21:16+0400\n"
+"PO-Revision-Date: 2012-06-04 01:28+0400\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: Serbian/Cyrillic <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:248
@@ -65,13 +64,15 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:191
 msgid "Best turn off your virusscanner during installation."
-msgstr ""
+msgstr "Препоручује се искључивање антивирусних програма током инсталације."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
+"Ако желите инсталацију са већим избором опција,\n"
+"погледајте упутство на Интернету или Приручник."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
