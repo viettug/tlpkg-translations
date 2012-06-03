@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-06-02 04:28+0200\n"
+"POT-Creation-Date: 2012-06-03 04:30+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -53,6 +53,16 @@ msgid ""
 "http://tug.org/texlive\n"
 "\n"
 "This wizard will guide you through the installation."
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:191
+msgid "Best turn off your virusscanner during installation."
+msgstr ""
+
+#: tlpkg/installer/install-menu-wizard.pl:193
+msgid ""
+"For an advanced, customizable installation, please consult\n"
+"the web pages or installation guide."
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:196
