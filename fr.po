@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-06-03 04:30+0200\n"
+"POT-Creation-Date: 2012-06-05 04:38+0200\n"
 "PO-Revision-Date: 2012-06-01 20:30+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -60,8 +60,10 @@ msgid ""
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:191
-msgid "Best turn off your virusscanner during installation."
+#: tlpkg/installer/install-menu-perltk.pl:565
+msgid "Best to disable your virus scanner during installation."
 msgstr ""
+"Il est recommandé de désactiver votre antivirus pendant l'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid ""
@@ -610,11 +612,6 @@ msgstr "Après installation, recevoir les mises à jour par le CTAN"
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
 msgstr "Installer TeX Live"
-
-#: tlpkg/installer/install-menu-perltk.pl:565
-msgid "Best to disable your virus scanner during installation."
-msgstr ""
-"Il est recommandé de désactiver votre antivirus pendant l'installation."
 
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""

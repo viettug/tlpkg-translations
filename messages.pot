@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-06-03 04:30+0200\n"
+"POT-Creation-Date: 2012-06-05 04:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,7 +61,8 @@ msgid ""
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:191
-msgid "Best turn off your virusscanner during installation."
+#: tlpkg/installer/install-menu-perltk.pl:565
+msgid "Best to disable your virus scanner during installation."
 msgstr ""
 
 #: tlpkg/installer/install-menu-wizard.pl:193
@@ -580,10 +581,6 @@ msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:514
 msgid "Install TeX Live"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:565
-msgid "Best to disable your virus scanner during installation."
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:569
