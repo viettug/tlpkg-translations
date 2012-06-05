@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
-"Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-06-05 04:38+0200\n"
-"PO-Revision-Date: 2012-05-28 13:43+0900\n"
+"Report-Msgid-Bugs-To: tldoc@tug.org\n"
+"POT-Creation-Date: 2012-06-03 04:30+0200\n"
+"PO-Revision-Date: 2012-06-05 11:17+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
 "Language: ru\n"
@@ -60,25 +60,32 @@ msgid ""
 "\n"
 "This wizard will guide you through the installation."
 msgstr ""
+"Вас приветствует программа установки TeX Live %s\n"
+"http://tug.org/texlive\n"
+"\n"
+"Этот Помощник проведёт вас через процедуру установки."
 
 #: tlpkg/installer/install-menu-wizard.pl:191
-#: tlpkg/installer/install-menu-perltk.pl:565
-msgid "Best to disable your virus scanner during installation."
+msgid "Best turn off your virusscanner during installation."
 msgstr ""
+"Настоятельно рекомендуем отключить вашу антивирусную программу на время "
+"установки."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
+"Для более гибкой настройки установки просмотрите, пожалуйста,\n"
+"web-страницы или руководство по установке."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
-msgstr ""
+msgstr "Или используйте install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:197
 msgid "Or specify  --gui expert  to install-tl."
-msgstr ""
+msgstr "Или используйте опцию --gui expert для install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:206
 msgid "Change default repository"
@@ -612,21 +619,30 @@ msgstr "После установки, получайте обновления �
 msgid "Install TeX Live"
 msgstr "Установить TeX Live"
 
+#: tlpkg/installer/install-menu-perltk.pl:565
+msgid "Best to disable your virus scanner during installation."
+msgstr ""
+"Рекомендуем отключить вашу антивирусную программу на время установки."
+
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
 msgstr ""
+"Программа установки не была запущена с правами администратора,\n"
+"установка будет выполнена только для текущего пользователя."
 
 #: tlpkg/installer/install-menu-perltk.pl:572
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
+"Если вы хотите установить для всех пользователей, нажмите правой кнопкой\n"
+"мыши на install-tl-advanced и выберите «Запуск от имени администратора»."
 
 #: tlpkg/installer/install-menu-perltk.pl:578
 msgid "Continue"
-msgstr ""
+msgstr "Продолжить"
 
 #: tlpkg/installer/install-menu-perltk.pl:588
 #: tlpkg/installer/install-menu-perltk.pl:592
