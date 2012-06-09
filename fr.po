@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-05 04:38+0200\n"
-"PO-Revision-Date: 2012-06-01 20:30+0200\n"
+"PO-Revision-Date: 2012-06-09 12:06+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: \n"
@@ -58,6 +58,10 @@ msgid ""
 "\n"
 "This wizard will guide you through the installation."
 msgstr ""
+"Bienvenue dans l'installateur de TeX Live %s\n"
+"http://tug.org/texlive\n"
+"\n"
+"Cet assistant vous guidera durant le processus d'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:191
 #: tlpkg/installer/install-menu-perltk.pl:565
@@ -70,6 +74,8 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
+"Pour une installation avancée et personnalisable, veuillez\n"
+"consulter les pages web ou le guide d'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
