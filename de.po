@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-06-05 04:38+0200\n"
-"PO-Revision-Date: 2012-06-05 06:55+0100\n"
+"PO-Revision-Date: 2012-06-10 20:25+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -63,7 +63,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:191
 #: tlpkg/installer/install-menu-perltk.pl:565
 msgid "Best to disable your virus scanner during installation."
-msgstr "Es ist empfohlen, einen Virenscanner während der Installation zu deaktivieren."
+msgstr "Wir empfehlen, Virenscanner während der Installation zu deaktivieren."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid ""
@@ -71,7 +71,7 @@ msgid ""
 "the web pages or installation guide."
 msgstr ""
 "Für fortgeschrittene Installationsoptionen konsultieren Sie\n"
-"bitte die Web-Seiten von TeXLive oder die Anleitung."
+"bitte die Web-Seiten von TeX Live oder die Anleitung."
 
 #: tlpkg/installer/install-menu-wizard.pl:196
 msgid "Or use install-tl-advanced.bat."
@@ -184,7 +184,7 @@ msgid ""
 "     local: %s\n"
 "repository: %s"
 msgstr ""
-"DIe TeX Live Versionen der lokalen Installation\n"
+"Die TeX Live Versionen der lokalen Installation\n"
 "und der benutzten Installationsquelle stimmen nicht überein:\n"
 "  lokal: %s\n"
 "  Installationsquelle:%s"
@@ -227,13 +227,13 @@ msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
-"Das Installationsverzeichnis enthält die TeX Live installation.\n"
-"Wie empfehlen das Jahr als letzten Ordner beizubehalten."
+"Das Installationsverzeichnis enthält die TeX Live Installation.\n"
+"Wie empfehlen, das Jahr als letzten Ordner beizubehalten."
 
 #: tlpkg/installer/install-menu-wizard.pl:483
 #: tlpkg/installer/install-menu-perltk.pl:1086
 msgid "disk space required:"
-msgstr "benötigter Festplattenplatz:"
+msgstr "Benötigter Festplattenplatz:"
 
 #: tlpkg/installer/install-menu-wizard.pl:503
 #: tlpkg/installer/install-menu-perltk.pl:1100
@@ -317,7 +317,7 @@ msgstr "Installation für alle Benutzer"
 
 #: tlpkg/installer/install-menu-wizard.pl:592
 msgid "This screen allows you to configure some options"
-msgstr "This screen allows you to configure some options"
+msgstr "Weitere Konfigurations-Optionen:"
 
 #: tlpkg/installer/install-menu-wizard.pl:660
 #, perl-format
@@ -329,7 +329,7 @@ msgid ""
 msgstr ""
 "Der Wizard ist nun bereit TeX Live %s zu installieren.\n"
 "Die folgenden Einstellungen werden benutzt.\n"
-"Wenn Sie etwas ändern möchten gehen Sie bitte zurück,\n"
+"Wenn Sie etwas ändern möchten, gehen Sie bitte zurück,\n"
 "andernfalls drücken Sie auf \"Installation\"."
 
 #: tlpkg/installer/install-menu-wizard.pl:676
@@ -395,13 +395,12 @@ msgid ""
 "See %s/index.html for links to documentation.\n"
 "The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
-"Für Verweise auf Dokumentation sehen Sie bitte %s/index.html.\n"
+"Für einen Überblick der verfügbaren Dokumentation lesen Sie bitte %s/index.html.\n"
 "Die Webseite des TeX Live Projektes (http://tug.org/texlive/)\n"
 "informiert über Updates und Korrekturen.\n"
 "\n"
-"TeX Live ist ein gemeinsames Projekt der TeX Benutzer Gruppen rund um die Welt;\n"
-"bitte überlegen Sie sich der für sie sinnvollsten Gruppe beizutreten. Die\n"
-"Liste der Gruppen können Sie am Web auf http://tug.org/usergroups.html finden."
+"TeX Live ist ein gemeinsames Projekt verschiedener TeX Benutzer Gruppen aus aller Welt;\n"
+"durch einen Beitritt in eine dieser Gruppen können Sie TeX Live aktiv unterstützen.Eine Liste der Gruppen können Sie im Internet auf http://tug.org/usergroups.html finden."
 
 #: tlpkg/installer/install-menu-wizard.pl:742
 #: tlpkg/installer/install-menu-perltk.pl:611
@@ -429,7 +428,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:749
 #: tlpkg/installer/install-menu-perltk.pl:619
 msgid "Welcome to TeX Live!"
-msgstr "Willkomen bei TeX Live!"
+msgstr "Willkommen bei TeX Live!"
 
 #: tlpkg/installer/install-menu-wizard.pl:758
 #: tlpkg/installer/install-menu-perltk.pl:629
@@ -511,7 +510,7 @@ msgstr "Binärsysteme"
 #: tlpkg/installer/install-menu-perltk.pl:763
 #: tlpkg/installer/install-menu-perltk.pl:777
 msgid "Selected scheme"
-msgstr "Ausgewähltes Schema"
+msgstr "Ausgewählter Installations-Umfang"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 msgid "Further Customization"
@@ -1402,7 +1401,7 @@ msgstr "GUST TeX Live scheme"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr "Medium (\"klein\" + mehr Pakete und Sprachen)"
+msgstr "Medium (\"small\" + mehr Pakete und Sprachen)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1542,7 +1541,7 @@ msgstr "Empfohlene Schriftarten"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "Graphics and font utilities"
-msgstr "Grafik und Font Werkzeuge"
+msgstr "Grafik- und Font-Werkzeuge"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Extra formats"
@@ -1726,7 +1725,7 @@ msgstr "Omega Pakete"
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Graphics packages and programs"
-msgstr "Grafikpakete und - programme"
+msgstr "Grafikpakete und -programme"
 
 #: tlpkg/translations/shortdesc.pl:87
 msgid "Plain TeX supplementary packages"
