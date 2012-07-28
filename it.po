@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-06-03 04:30+0200\n"
+"POT-Creation-Date: 2012-07-28 04:39+0200\n"
 "PO-Revision-Date: 2012-06-06 09:40+0100\n"
 "Last-Translator: Marco Pallante <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -22,7 +22,7 @@ msgstr "Installazione di TeX Live %s"
 #: tlpkg/installer/install-menu-wizard.pl:165
 #: tlpkg/installer/install-menu-perltk.pl:518
 #: tlpkg/installer/install-menu-perltk.pl:577
-#: texmf/scripts/texlive/tlmgrgui.pl:526
+#: texmf/scripts/texlive/tlmgrgui.pl:527
 msgid "Quit"
 msgstr "Esci"
 
@@ -60,8 +60,10 @@ msgstr ""
 "Questo programma vi guiderà durante il processo di installazione"
 
 #: tlpkg/installer/install-menu-wizard.pl:191
-msgid "Best turn off your virusscanner during installation."
-msgstr "Ti suggeriamo di chiudere il programma antivirus durante l'installazione."
+#: tlpkg/installer/install-menu-perltk.pl:565
+msgid "Best to disable your virus scanner during installation."
+msgstr ""
+"Ti suggeriamo di disabilitare il programma antivirus durante l'installazione."
 
 #: tlpkg/installer/install-menu-wizard.pl:193
 msgid ""
@@ -100,8 +102,8 @@ msgstr "ARCHIVI DI RETE"
 
 #: tlpkg/installer/install-menu-wizard.pl:254
 #: tlpkg/installer/install-menu-perltk.pl:272
-#: texmf/scripts/texlive/tlmgrgui.pl:1464
-#: texmf/scripts/texlive/tlmgrgui.pl:1496
+#: texmf/scripts/texlive/tlmgrgui.pl:1465
+#: texmf/scripts/texlive/tlmgrgui.pl:1497
 msgid "Default remote repository"
 msgstr "Archivio di rete predefinito"
 
@@ -146,21 +148,20 @@ msgstr "Questa operazione può durare a lungo!"
 #: tlpkg/installer/install-menu-perltk.pl:937
 #: tlpkg/installer/install-menu-perltk.pl:1001
 #: tlpkg/installer/install-menu-perltk.pl:1032
-#: texmf/scripts/texlive/tlmgrgui.pl:611
-#: texmf/scripts/texlive/tlmgrgui.pl:612
-#: texmf/scripts/texlive/tlmgrgui.pl:1039
-#: texmf/scripts/texlive/tlmgrgui.pl:1251
-#: texmf/scripts/texlive/tlmgrgui.pl:1367
-#: texmf/scripts/texlive/tlmgrgui.pl:1436
-#: texmf/scripts/texlive/tlmgrgui.pl:1446
-#: texmf/scripts/texlive/tlmgrgui.pl:1509
-#: texmf/scripts/texlive/tlmgrgui.pl:1697
-#: texmf/scripts/texlive/tlmgrgui.pl:1762
-#: texmf/scripts/texlive/tlmgrgui.pl:1799
-#: texmf/scripts/texlive/tlmgrgui.pl:1832
-#: texmf/scripts/texlive/tlmgrgui.pl:2480
-#: texmf/scripts/texlive/tlmgrgui.pl:2517
-#: texmf/scripts/texlive/tlmgrgui.pl:2579
+#: texmf/scripts/texlive/tlmgrgui.pl:612 texmf/scripts/texlive/tlmgrgui.pl:613
+#: texmf/scripts/texlive/tlmgrgui.pl:1040
+#: texmf/scripts/texlive/tlmgrgui.pl:1252
+#: texmf/scripts/texlive/tlmgrgui.pl:1368
+#: texmf/scripts/texlive/tlmgrgui.pl:1437
+#: texmf/scripts/texlive/tlmgrgui.pl:1447
+#: texmf/scripts/texlive/tlmgrgui.pl:1510
+#: texmf/scripts/texlive/tlmgrgui.pl:1698
+#: texmf/scripts/texlive/tlmgrgui.pl:1763
+#: texmf/scripts/texlive/tlmgrgui.pl:1800
+#: texmf/scripts/texlive/tlmgrgui.pl:1833
+#: texmf/scripts/texlive/tlmgrgui.pl:2481
+#: texmf/scripts/texlive/tlmgrgui.pl:2518
+#: texmf/scripts/texlive/tlmgrgui.pl:2580
 msgid "Cancel"
 msgstr "Annulla"
 
@@ -205,18 +206,18 @@ msgstr "Percorso di destinazione:"
 #: tlpkg/installer/install-menu-perltk.pl:415
 #: tlpkg/installer/install-menu-perltk.pl:464
 #: tlpkg/installer/install-menu-perltk.pl:480
-#: texmf/scripts/texlive/tlmgrgui.pl:1137
-#: texmf/scripts/texlive/tlmgrgui.pl:1175
-#: texmf/scripts/texlive/tlmgrgui.pl:1183
-#: texmf/scripts/texlive/tlmgrgui.pl:1192
-#: texmf/scripts/texlive/tlmgrgui.pl:1200
-#: texmf/scripts/texlive/tlmgrgui.pl:1208
-#: texmf/scripts/texlive/tlmgrgui.pl:1236
-#: texmf/scripts/texlive/tlmgrgui.pl:1354
-#: texmf/scripts/texlive/tlmgrgui.pl:1582
-#: texmf/scripts/texlive/tlmgrgui.pl:2444
-#: texmf/scripts/texlive/tlmgrgui.pl:2449
-#: texmf/scripts/texlive/tlmgrgui.pl:2454
+#: texmf/scripts/texlive/tlmgrgui.pl:1138
+#: texmf/scripts/texlive/tlmgrgui.pl:1176
+#: texmf/scripts/texlive/tlmgrgui.pl:1184
+#: texmf/scripts/texlive/tlmgrgui.pl:1193
+#: texmf/scripts/texlive/tlmgrgui.pl:1201
+#: texmf/scripts/texlive/tlmgrgui.pl:1209
+#: texmf/scripts/texlive/tlmgrgui.pl:1237
+#: texmf/scripts/texlive/tlmgrgui.pl:1355
+#: texmf/scripts/texlive/tlmgrgui.pl:1583
+#: texmf/scripts/texlive/tlmgrgui.pl:2445
+#: texmf/scripts/texlive/tlmgrgui.pl:2450
+#: texmf/scripts/texlive/tlmgrgui.pl:2455
 msgid "Change"
 msgstr "Cambia"
 
@@ -255,32 +256,29 @@ msgstr "Inserisci il percorso per"
 #: tlpkg/installer/install-menu-perltk.pl:999
 #: tlpkg/installer/install-menu-perltk.pl:1030
 #: tlpkg/installer/install-menu-perltk.pl:1047
-#: texmf/scripts/texlive/tlmgrgui.pl:238
-#: texmf/scripts/texlive/tlmgrgui.pl:611
-#: texmf/scripts/texlive/tlmgrgui.pl:615
-#: texmf/scripts/texlive/tlmgrgui.pl:617
-#: texmf/scripts/texlive/tlmgrgui.pl:635
-#: texmf/scripts/texlive/tlmgrgui.pl:814
-#: texmf/scripts/texlive/tlmgrgui.pl:1051
-#: texmf/scripts/texlive/tlmgrgui.pl:1416
-#: texmf/scripts/texlive/tlmgrgui.pl:1446
+#: texmf/scripts/texlive/tlmgrgui.pl:239 texmf/scripts/texlive/tlmgrgui.pl:612
+#: texmf/scripts/texlive/tlmgrgui.pl:616 texmf/scripts/texlive/tlmgrgui.pl:618
+#: texmf/scripts/texlive/tlmgrgui.pl:636 texmf/scripts/texlive/tlmgrgui.pl:815
+#: texmf/scripts/texlive/tlmgrgui.pl:1052
+#: texmf/scripts/texlive/tlmgrgui.pl:1417
 #: texmf/scripts/texlive/tlmgrgui.pl:1447
-#: texmf/scripts/texlive/tlmgrgui.pl:1506
-#: texmf/scripts/texlive/tlmgrgui.pl:1631
-#: texmf/scripts/texlive/tlmgrgui.pl:1641
-#: texmf/scripts/texlive/tlmgrgui.pl:1761
-#: texmf/scripts/texlive/tlmgrgui.pl:1788
-#: texmf/scripts/texlive/tlmgrgui.pl:1823
-#: texmf/scripts/texlive/tlmgrgui.pl:1872
-#: texmf/scripts/texlive/tlmgrgui.pl:1944
-#: texmf/scripts/texlive/tlmgrgui.pl:1975
-#: texmf/scripts/texlive/tlmgrgui.pl:2283
-#: texmf/scripts/texlive/tlmgrgui.pl:2343
-#: texmf/scripts/texlive/tlmgrgui.pl:2369
-#: texmf/scripts/texlive/tlmgrgui.pl:2477
-#: texmf/scripts/texlive/tlmgrgui.pl:2515
-#: texmf/scripts/texlive/tlmgrgui.pl:2574
-#: texmf/scripts/texlive/tlmgrgui.pl:2659
+#: texmf/scripts/texlive/tlmgrgui.pl:1448
+#: texmf/scripts/texlive/tlmgrgui.pl:1507
+#: texmf/scripts/texlive/tlmgrgui.pl:1632
+#: texmf/scripts/texlive/tlmgrgui.pl:1642
+#: texmf/scripts/texlive/tlmgrgui.pl:1762
+#: texmf/scripts/texlive/tlmgrgui.pl:1789
+#: texmf/scripts/texlive/tlmgrgui.pl:1824
+#: texmf/scripts/texlive/tlmgrgui.pl:1873
+#: texmf/scripts/texlive/tlmgrgui.pl:1945
+#: texmf/scripts/texlive/tlmgrgui.pl:1976
+#: texmf/scripts/texlive/tlmgrgui.pl:2284
+#: texmf/scripts/texlive/tlmgrgui.pl:2344
+#: texmf/scripts/texlive/tlmgrgui.pl:2370
+#: texmf/scripts/texlive/tlmgrgui.pl:2478
+#: texmf/scripts/texlive/tlmgrgui.pl:2516
+#: texmf/scripts/texlive/tlmgrgui.pl:2575
+#: texmf/scripts/texlive/tlmgrgui.pl:2660
 msgid "Ok"
 msgstr "Ok"
 
@@ -298,9 +296,9 @@ msgstr "Aggiungi le scorciatoie da menu"
 #: tlpkg/installer/install-menu-perltk.pl:478
 #: tlpkg/installer/install-menu-perltk.pl:726
 #: tlpkg/installer/install-menu-perltk.pl:731
-#: texmf/scripts/texlive/tlmgrgui.pl:1232
-#: texmf/scripts/texlive/tlmgrgui.pl:1808
-#: texmf/scripts/texlive/tlmgrgui.pl:1812
+#: texmf/scripts/texlive/tlmgrgui.pl:1233
+#: texmf/scripts/texlive/tlmgrgui.pl:1809
+#: texmf/scripts/texlive/tlmgrgui.pl:1813
 msgid "Change file associations"
 msgstr "Cambia le associazioni dei file"
 
@@ -349,9 +347,9 @@ msgstr ""
 #: tlpkg/installer/install-menu-perltk.pl:1149
 #: tlpkg/installer/install-menu-perltk.pl:1236
 #: tlpkg/installer/install-menu-perltk.pl:1264
-#: texmf/scripts/texlive/tlmgrgui.pl:682
-#: texmf/scripts/texlive/tlmgrgui.pl:1096
-#: texmf/scripts/texlive/tlmgrgui.pl:1710
+#: texmf/scripts/texlive/tlmgrgui.pl:683
+#: texmf/scripts/texlive/tlmgrgui.pl:1097
+#: texmf/scripts/texlive/tlmgrgui.pl:1711
 msgid "Yes"
 msgstr "Sì"
 
@@ -376,14 +374,14 @@ msgstr "Sì"
 #: tlpkg/installer/install-menu-perltk.pl:1246
 #: tlpkg/installer/install-menu-perltk.pl:1248
 #: tlpkg/installer/install-menu-perltk.pl:1264
-#: texmf/scripts/texlive/tlmgrgui.pl:682
-#: texmf/scripts/texlive/tlmgrgui.pl:1096
-#: texmf/scripts/texlive/tlmgrgui.pl:1710
+#: texmf/scripts/texlive/tlmgrgui.pl:683
+#: texmf/scripts/texlive/tlmgrgui.pl:1097
+#: texmf/scripts/texlive/tlmgrgui.pl:1711
 msgid "No"
 msgstr "No"
 
 #: tlpkg/installer/install-menu-wizard.pl:685
-#: texmf/scripts/texlive/tlmgrgui.pl:438
+#: texmf/scripts/texlive/tlmgrgui.pl:439
 msgid "Install"
 msgstr "Installa"
 
@@ -392,10 +390,18 @@ msgstr "Installa"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
-"Consulta la pagina %s/index.html nella directory di installazione per i riferimenti alla documentazione.\n"
-"Visita il sito di TeX Live (http://tug.org/texlive/) per aggiornamenti e correzioni. TeX Live è un progetto comune dei gruppi di utenti TeX sparsi per il mondo; per sostenere il progetto, puoi unirti al gruppo più vicino. La lista dei gruppi è disponibile sul web alla pagina http://tug.org/usergroups.html."
+"Consulta la pagina %s/index.html nella directory di installazione per i "
+"riferimenti alla documentazione.\n"
+"Visita il sito di TeX Live (http://tug.org/texlive/) per aggiornamenti e "
+"correzioni. TeX Live è un progetto comune dei gruppi di utenti TeX sparsi "
+"per il mondo; per sostenere il progetto, puoi unirti al gruppo più vicino. "
+"La lista dei gruppi è disponibile sul web alla pagina http://tug.org/"
+"usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:742
 #: tlpkg/installer/install-menu-perltk.pl:611
@@ -433,17 +439,17 @@ msgstr "Fine"
 
 #: tlpkg/installer/install-menu-perltk.pl:56
 #: tlpkg/installer/install-menu-perltk.pl:1247
-#: texmf/scripts/texlive/tlmgrgui.pl:144
+#: texmf/scripts/texlive/tlmgrgui.pl:145
 msgid "None"
 msgstr "Nessuno"
 
 #: tlpkg/installer/install-menu-perltk.pl:57
-#: texmf/scripts/texlive/tlmgrgui.pl:145
+#: texmf/scripts/texlive/tlmgrgui.pl:146
 msgid "Only new"
 msgstr "Solo nuovi"
 
 #: tlpkg/installer/install-menu-perltk.pl:58
-#: texmf/scripts/texlive/tlmgrgui.pl:146
+#: texmf/scripts/texlive/tlmgrgui.pl:147
 msgid "All"
 msgstr "Tutti"
 
@@ -452,7 +458,7 @@ msgid "A4"
 msgstr "A4"
 
 #: tlpkg/installer/install-menu-perltk.pl:61
-#: texmf/scripts/texlive/tlmgrgui.pl:1339
+#: texmf/scripts/texlive/tlmgrgui.pl:1340
 msgid "letter"
 msgstr "lettera"
 
@@ -464,15 +470,15 @@ msgstr "Carica"
 #: tlpkg/installer/install-menu-perltk.pl:308
 #: tlpkg/installer/install-menu-perltk.pl:1045
 #: tlpkg/installer/install-menu-perltk.pl:1255
-#: texmf/scripts/texlive/tlmgrgui.pl:236
-#: texmf/scripts/texlive/tlmgrgui.pl:1049
-#: texmf/scripts/texlive/tlmgrgui.pl:1640
-#: texmf/scripts/texlive/tlmgrgui.pl:1869
-#: texmf/scripts/texlive/tlmgrgui.pl:1942
-#: texmf/scripts/texlive/tlmgrgui.pl:1973
-#: texmf/scripts/texlive/tlmgrgui.pl:2283
-#: texmf/scripts/texlive/tlmgrgui.pl:2343
-#: texmf/scripts/texlive/tlmgrgui.pl:2659
+#: texmf/scripts/texlive/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui.pl:1050
+#: texmf/scripts/texlive/tlmgrgui.pl:1641
+#: texmf/scripts/texlive/tlmgrgui.pl:1870
+#: texmf/scripts/texlive/tlmgrgui.pl:1943
+#: texmf/scripts/texlive/tlmgrgui.pl:1974
+#: texmf/scripts/texlive/tlmgrgui.pl:2284
+#: texmf/scripts/texlive/tlmgrgui.pl:2344
+#: texmf/scripts/texlive/tlmgrgui.pl:2660
 msgid "Warning"
 msgstr "Attenzione"
 
@@ -483,12 +489,14 @@ msgstr "Scegli un mirror differente."
 #: tlpkg/installer/install-menu-perltk.pl:309
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being "
+"accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"Le versioni di TeX Live nell'installazione locale e nell'archivio a cui stai accedendo non sono compatibili:\n"
+"Le versioni di TeX Live nell'installazione locale e nell'archivio a cui stai "
+"accedendo non sono compatibili:\n"
 "  locale: %s\n"
 "  archivio: %s\n"
 "Scegli un mirror differente."
@@ -541,11 +549,11 @@ msgstr "Allestimento portatile"
 #: tlpkg/installer/install-menu-perltk.pl:487
 #: tlpkg/installer/install-menu-perltk.pl:495
 #: tlpkg/installer/install-menu-perltk.pl:502
-#: texmf/scripts/texlive/tlmgrgui.pl:1154
-#: texmf/scripts/texlive/tlmgrgui.pl:1161
-#: texmf/scripts/texlive/tlmgrgui.pl:1168
-#: texmf/scripts/texlive/tlmgrgui.pl:1218
-#: texmf/scripts/texlive/tlmgrgui.pl:1227
+#: texmf/scripts/texlive/tlmgrgui.pl:1155
+#: texmf/scripts/texlive/tlmgrgui.pl:1162
+#: texmf/scripts/texlive/tlmgrgui.pl:1169
+#: texmf/scripts/texlive/tlmgrgui.pl:1219
+#: texmf/scripts/texlive/tlmgrgui.pl:1228
 msgid "Toggle"
 msgstr "Inverti"
 
@@ -570,13 +578,14 @@ msgid "TEXMFHOME (directory for user-specific files)"
 msgstr "TEXMFHOME (directory dei file specifici per ciascun utente)"
 
 #: tlpkg/installer/install-menu-perltk.pl:426
-#: texmf/scripts/texlive/tlmgrgui.pl:495
+#: texmf/scripts/texlive/tlmgrgui.pl:496
 msgid "Options"
 msgstr "Opzioni"
 
 #: tlpkg/installer/install-menu-perltk.pl:435
 msgid "Allow execution of restricted list of programs via \\write18"
-msgstr "Consenti l'esecuzione di una ristretta lista di programmi tramite \\write18"
+msgstr ""
+"Consenti l'esecuzione di una ristretta lista di programmi tramite \\write18"
 
 #: tlpkg/installer/install-menu-perltk.pl:440
 msgid "Create all format files"
@@ -607,10 +616,6 @@ msgstr "Dopo l'installazione, ottieni gli aggiornamenti dei pacchetti da CTAN"
 msgid "Install TeX Live"
 msgstr "Installa TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:565
-msgid "Best to disable your virus scanner during installation."
-msgstr "Ti suggeriamo di disabilitare il programma antivirus durante l'installazione."
-
 #: tlpkg/installer/install-menu-perltk.pl:569
 msgid ""
 "The installer does not have adminstrative permissions;\n"
@@ -624,7 +629,8 @@ msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
-"Fai clic con il tasto destro su install-tl-advanced e seleziona \"esegui come amministratore\"\n"
+"Fai clic con il tasto destro su install-tl-advanced e seleziona \"esegui "
+"come amministratore\"\n"
 " per installare per tutti gli utenti"
 
 #: tlpkg/installer/install-menu-perltk.pl:578
@@ -696,7 +702,7 @@ msgid "Select arch-os"
 msgstr "Seleziona le combinazioni di architetture e sistemi operativi"
 
 #: tlpkg/installer/install-menu-perltk.pl:1046
-#: texmf/scripts/texlive/tlmgrgui.pl:1050
+#: texmf/scripts/texlive/tlmgrgui.pl:1051
 msgid "Removals of the main platform not possible!"
 msgstr "Non è possibile rimuovere la piattaforma principale!"
 
@@ -732,7 +738,7 @@ msgstr ""
 "L'opzione portatile è cambiata;\n"
 "Le directory sono state reinizializzate"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:170
+#: texmf/scripts/texlive/tlmgrgui.pl:171
 msgid ""
 "Loading local TeX Live database;\n"
 "this may take some time, please be patient ..."
@@ -740,15 +746,15 @@ msgstr ""
 "Caricamento del database locale di TeX Live in corso;\n"
 "questa operazione può durare a lungo, attendere ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:217
+#: texmf/scripts/texlive/tlmgrgui.pl:218
 msgid "Cannot load taxonomy file"
 msgstr "Impossibile caricare il file della tassonomia"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:231
+#: texmf/scripts/texlive/tlmgrgui.pl:232
 msgid "... done loading"
 msgstr "... caricamento completo"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:237
+#: texmf/scripts/texlive/tlmgrgui.pl:238
 #, perl-format
 msgid ""
 "You don't have permissions to change the installation in any way,\n"
@@ -759,246 +765,246 @@ msgid ""
 msgstr ""
 "Non hai i permessi sufficienti per cambiare l'installazione;\n"
 "in particolare, la directory %s non è scrivibile.\n"
-"Esegui questo programma come amministratore oppure contatta il tuo amministratore.\n"
+"Esegui questo programma come amministratore oppure contatta il tuo "
+"amministratore.\n"
 "\n"
 "La maggior parte dei pulsanti sarà disabilitata."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:283
+#: texmf/scripts/texlive/tlmgrgui.pl:284
 msgid "Load default"
 msgstr "Carica predefinito"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:289
-#: texmf/scripts/texlive/tlmgrgui.pl:2609
+#: texmf/scripts/texlive/tlmgrgui.pl:290
+#: texmf/scripts/texlive/tlmgrgui.pl:2610
 msgid "Loaded repository:"
 msgstr "Archivio caricato:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:289
+#: texmf/scripts/texlive/tlmgrgui.pl:290
 msgid "none"
 msgstr "nessuno"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:296
+#: texmf/scripts/texlive/tlmgrgui.pl:297
 msgid "Display configuration"
 msgstr "Impostazioni di visualizzazione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:301
+#: texmf/scripts/texlive/tlmgrgui.pl:302
 msgid "Status"
 msgstr "Stato"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:304
-#: texmf/scripts/texlive/tlmgrgui.pl:358
+#: texmf/scripts/texlive/tlmgrgui.pl:305 texmf/scripts/texlive/tlmgrgui.pl:359
 msgid "all"
 msgstr "tutti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:306
+#: texmf/scripts/texlive/tlmgrgui.pl:307
 msgid "installed"
 msgstr "installati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:308
+#: texmf/scripts/texlive/tlmgrgui.pl:309
 msgid "not installed"
 msgstr "non installati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:310
+#: texmf/scripts/texlive/tlmgrgui.pl:311
 msgid "updates"
 msgstr "aggiornamenti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:313
+#: texmf/scripts/texlive/tlmgrgui.pl:314
 msgid "Category"
 msgstr "Categoria"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:315
+#: texmf/scripts/texlive/tlmgrgui.pl:316
 msgid "packages"
 msgstr "pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:317
+#: texmf/scripts/texlive/tlmgrgui.pl:318
 msgid "collections"
 msgstr "collezioni"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:319
+#: texmf/scripts/texlive/tlmgrgui.pl:320
 msgid "schemes"
 msgstr "schemi"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:322
+#: texmf/scripts/texlive/tlmgrgui.pl:323
 msgid "Match"
 msgstr "Cerca"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:327
+#: texmf/scripts/texlive/tlmgrgui.pl:328
 msgid "descriptions"
 msgstr "descrizioni"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:330
+#: texmf/scripts/texlive/tlmgrgui.pl:331
 msgid "taxonomies"
 msgstr "tassonomie"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:334
+#: texmf/scripts/texlive/tlmgrgui.pl:335
 msgid "filenames"
 msgstr "nomi dei file"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:356
+#: texmf/scripts/texlive/tlmgrgui.pl:357
 msgid "Selection"
 msgstr "Selezione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:360
+#: texmf/scripts/texlive/tlmgrgui.pl:361
 msgid "selected"
 msgstr "selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:363
+#: texmf/scripts/texlive/tlmgrgui.pl:364
 msgid "not selected"
 msgstr "non selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:371
+#: texmf/scripts/texlive/tlmgrgui.pl:372
 msgid "Select all"
 msgstr "Seleziona tutti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:373
+#: texmf/scripts/texlive/tlmgrgui.pl:374
 msgid "Select none"
 msgstr "Seleziona nessuno"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:377
+#: texmf/scripts/texlive/tlmgrgui.pl:378
 msgid "Reset filters"
 msgstr "Reimposta filtri"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:399
+#: texmf/scripts/texlive/tlmgrgui.pl:400
 msgid "Package name"
 msgstr "Nome pacchetto"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:400
+#: texmf/scripts/texlive/tlmgrgui.pl:401
 msgid "Local rev. (ver.)"
 msgstr "Rev. locale (ver.)"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:401
+#: texmf/scripts/texlive/tlmgrgui.pl:402
 msgid "Remote rev. (ver.)"
 msgstr "Rev. remota (ver.)"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:402
+#: texmf/scripts/texlive/tlmgrgui.pl:403
 msgid "Short description"
 msgstr "Descrizione breve"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:416
+#: texmf/scripts/texlive/tlmgrgui.pl:417
 msgid "Update all installed"
 msgstr "Aggiorna installati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:420
+#: texmf/scripts/texlive/tlmgrgui.pl:421
 msgid "Reinstall previously removed packages"
 msgstr "Installa nuovamente i pacchetti rimossi in precedenza"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:433
+#: texmf/scripts/texlive/tlmgrgui.pl:434
 msgid "Update"
 msgstr "Aggiorna"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:442
-#: texmf/scripts/texlive/tlmgrgui.pl:1999
+#: texmf/scripts/texlive/tlmgrgui.pl:443
+#: texmf/scripts/texlive/tlmgrgui.pl:2000
 msgid "Remove"
 msgstr "Rimuovi"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:447
+#: texmf/scripts/texlive/tlmgrgui.pl:448
 msgid "Backup"
 msgstr "Backup"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:497
+#: texmf/scripts/texlive/tlmgrgui.pl:498
 msgid "Actions"
 msgstr "Azioni"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:501
-#: texmf/scripts/texlive/tlmgrgui.pl:2684
+#: texmf/scripts/texlive/tlmgrgui.pl:502
+#: texmf/scripts/texlive/tlmgrgui.pl:2685
 msgid "Help"
 msgstr "Aiuto"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:510
-#: texmf/scripts/texlive/tlmgrgui.pl:1103
-#: texmf/scripts/texlive/tlmgrgui.pl:1270
-#: texmf/scripts/texlive/tlmgrgui.pl:1685
-#: texmf/scripts/texlive/tlmgrgui.pl:2605
+#: texmf/scripts/texlive/tlmgrgui.pl:511
+#: texmf/scripts/texlive/tlmgrgui.pl:1104
+#: texmf/scripts/texlive/tlmgrgui.pl:1271
+#: texmf/scripts/texlive/tlmgrgui.pl:1686
+#: texmf/scripts/texlive/tlmgrgui.pl:2606
 msgid "multiple repositories"
 msgstr "archivi multipli"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:513
-#: texmf/scripts/texlive/tlmgrgui.pl:1270
-#: texmf/scripts/texlive/tlmgrgui.pl:1272
+#: texmf/scripts/texlive/tlmgrgui.pl:514
+#: texmf/scripts/texlive/tlmgrgui.pl:1271
+#: texmf/scripts/texlive/tlmgrgui.pl:1273
 msgid "Load default repository:"
 msgstr "Carica l'archivio predefinito:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:516
+#: texmf/scripts/texlive/tlmgrgui.pl:517
 msgid "Load cmd line repository:"
 msgstr "Carica l'archivio tramite riga di comando:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:519
+#: texmf/scripts/texlive/tlmgrgui.pl:520
 msgid "Load default net repository:"
 msgstr "Carica l'archivio remoto predefinito:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:522
+#: texmf/scripts/texlive/tlmgrgui.pl:523
 msgid "Load other repository ..."
 msgstr "Carica un altro archivio ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:532
+#: texmf/scripts/texlive/tlmgrgui.pl:533
 msgid "General ..."
 msgstr "Generale ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:534
+#: texmf/scripts/texlive/tlmgrgui.pl:535
 msgid "Paper ..."
 msgstr "Carta ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:537
+#: texmf/scripts/texlive/tlmgrgui.pl:538
 msgid "Platforms ..."
 msgstr "Piattaforme ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:541
+#: texmf/scripts/texlive/tlmgrgui.pl:542
 msgid "GUI Language ..."
 msgstr "Lingua Interfaccia Grafica ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:545
-#: texmf/scripts/texlive/tlmgrgui.pl:1444
+#: texmf/scripts/texlive/tlmgrgui.pl:546
+#: texmf/scripts/texlive/tlmgrgui.pl:1445
 msgid "Expert options"
 msgstr "Opzioni avanzate"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:549
+#: texmf/scripts/texlive/tlmgrgui.pl:550
 msgid "Enable debugging output"
 msgstr "Abilita i messaggi di debug"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:553
+#: texmf/scripts/texlive/tlmgrgui.pl:554
 msgid "Disable auto-install of new packages"
 msgstr "Impedisci l'installazione automatica di nuovi pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:556
+#: texmf/scripts/texlive/tlmgrgui.pl:557
 msgid "Disable auto-removal of server-deleted packages"
 msgstr "Impedisci l'eliminazione automatica dei pacchetti rimossi dal server"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:563
+#: texmf/scripts/texlive/tlmgrgui.pl:564
 msgid "Update filename database"
 msgstr "Aggiorna il database dei nomi dei file"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:571
+#: texmf/scripts/texlive/tlmgrgui.pl:572
 msgid "Rebuild all formats"
 msgstr "Crea nuovamente tutti i formati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:582
+#: texmf/scripts/texlive/tlmgrgui.pl:583
 msgid "Update font map database"
 msgstr "Aggiorna il database delle mappe dei font"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:595
-#: texmf/scripts/texlive/tlmgrgui.pl:2353
+#: texmf/scripts/texlive/tlmgrgui.pl:596
+#: texmf/scripts/texlive/tlmgrgui.pl:2354
 msgid "Restore packages from backup"
 msgstr "Ripristina i pacchetti dal backup"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:601
-#: texmf/scripts/texlive/tlmgrgui.pl:2435
+#: texmf/scripts/texlive/tlmgrgui.pl:602
+#: texmf/scripts/texlive/tlmgrgui.pl:2436
 msgid "Handle symlinks in system dirs"
 msgstr "Gestisci i collegamenti nelle directory di sistema"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:607
+#: texmf/scripts/texlive/tlmgrgui.pl:608
 #, perl-format
 msgid "Remove TeX Live %s ..."
 msgstr "Rimuovi TeX Live %s ..."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:610
+#: texmf/scripts/texlive/tlmgrgui.pl:611
 #, perl-format
 msgid "Remove TeX Live %s"
 msgstr "Rimozione di TeX Live %s"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:617
+#: texmf/scripts/texlive/tlmgrgui.pl:618
 msgid "Complete removal finished"
 msgstr "Rimozione totale completata"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:622
+#: texmf/scripts/texlive/tlmgrgui.pl:623
 #, perl-format
 msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
@@ -1007,282 +1013,282 @@ msgstr ""
 "Vuoi davvero rimuovere l'intera installazione di TeX Live %s?\n"
 "Non saranno chieste ulteriori conferme!"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:631
+#: texmf/scripts/texlive/tlmgrgui.pl:632
 msgid "Manual"
 msgstr "Manuale"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:632
-#: texmf/scripts/texlive/tlmgrgui.pl:634
+#: texmf/scripts/texlive/tlmgrgui.pl:633 texmf/scripts/texlive/tlmgrgui.pl:635
 msgid "About"
 msgstr "Informazioni"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:656
+#: texmf/scripts/texlive/tlmgrgui.pl:657
 msgid "Details on:"
 msgstr "Dettagli su: "
 
-#: texmf/scripts/texlive/tlmgrgui.pl:666
-#: texmf/scripts/texlive/tlmgrgui.pl:2377
+#: texmf/scripts/texlive/tlmgrgui.pl:667
+#: texmf/scripts/texlive/tlmgrgui.pl:2378
 msgid "Package:"
 msgstr "Pacchetto:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:668
+#: texmf/scripts/texlive/tlmgrgui.pl:669
 msgid "Category:"
 msgstr "Categoria:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:670
+#: texmf/scripts/texlive/tlmgrgui.pl:671
 msgid "Short description:"
 msgstr "Descrizione breve:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:678
+#: texmf/scripts/texlive/tlmgrgui.pl:679
 msgid "Long description:"
 msgstr "Descrizione lunga:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:681
+#: texmf/scripts/texlive/tlmgrgui.pl:682
 msgid "Installed:"
 msgstr "Installato:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:684
+#: texmf/scripts/texlive/tlmgrgui.pl:685
 msgid "Local Revision:"
 msgstr "Revisione locale:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:688
+#: texmf/scripts/texlive/tlmgrgui.pl:689
 msgid "Local Catalogue Version:"
 msgstr "Versione catalogo locale:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:692
+#: texmf/scripts/texlive/tlmgrgui.pl:693
 msgid "Remote Revision:"
 msgstr "Revisione remota:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:696
+#: texmf/scripts/texlive/tlmgrgui.pl:697
 msgid "Remote Catalogue Version:"
 msgstr "Versione catalogo remoto:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:701
+#: texmf/scripts/texlive/tlmgrgui.pl:702
 msgid "Keywords:"
 msgstr "Parole chiave:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:706
+#: texmf/scripts/texlive/tlmgrgui.pl:707
 msgid "Functionality:"
 msgstr "Funzionalità"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:711
+#: texmf/scripts/texlive/tlmgrgui.pl:712
 msgid "Primary characterization:"
 msgstr "Caratterizzazione primaria:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:716
+#: texmf/scripts/texlive/tlmgrgui.pl:717
 msgid "Secondary characterization:"
 msgstr "Caratterizzazione secondaria:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:727
+#: texmf/scripts/texlive/tlmgrgui.pl:728
 msgid "Collection:"
 msgstr "Collezione:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:731
+#: texmf/scripts/texlive/tlmgrgui.pl:732
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr "Attenzione: Le versioni del catalogo potrebbero essere obsolete o sbagliate."
+msgstr ""
+"Attenzione: Le versioni del catalogo potrebbero essere obsolete o sbagliate."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:769
+#: texmf/scripts/texlive/tlmgrgui.pl:770
 msgid "Depends:"
 msgstr "Dipendenze:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:773
+#: texmf/scripts/texlive/tlmgrgui.pl:774
 msgid "Binaries' dependencies:"
 msgstr "Dipendenze eseguibili:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:775
+#: texmf/scripts/texlive/tlmgrgui.pl:776
 msgid "Runfiles:"
 msgstr "File di runtime:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:776
+#: texmf/scripts/texlive/tlmgrgui.pl:777
 msgid "Docfiles:"
 msgstr "Documentazione:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:777
+#: texmf/scripts/texlive/tlmgrgui.pl:778
 msgid "Srcfiles:"
 msgstr "Sorgenti:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:789
+#: texmf/scripts/texlive/tlmgrgui.pl:790
 msgid "Binfiles:"
 msgstr "Eseguibili:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:794
+#: texmf/scripts/texlive/tlmgrgui.pl:795
 msgid "Further information"
 msgstr "Altre informazioni"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1020
-#: texmf/scripts/texlive/tlmgrgui.pl:1025
+#: texmf/scripts/texlive/tlmgrgui.pl:1021
+#: texmf/scripts/texlive/tlmgrgui.pl:1026
 msgid "Select platforms to support"
 msgstr "Seleziona le piattaforme da supportare"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1036
-#: texmf/scripts/texlive/tlmgrgui.pl:1248
-#: texmf/scripts/texlive/tlmgrgui.pl:1364
+#: texmf/scripts/texlive/tlmgrgui.pl:1037
+#: texmf/scripts/texlive/tlmgrgui.pl:1249
+#: texmf/scripts/texlive/tlmgrgui.pl:1365
 msgid "Apply changes"
 msgstr "Applica le modifiche"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1115
-#: texmf/scripts/texlive/tlmgrgui.pl:1124
+#: texmf/scripts/texlive/tlmgrgui.pl:1116
+#: texmf/scripts/texlive/tlmgrgui.pl:1125
 msgid "General options"
 msgstr "Opzioni generali"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1129
+#: texmf/scripts/texlive/tlmgrgui.pl:1130
 msgid "Default package repository"
 msgstr "Archivio predefinito dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1150
+#: texmf/scripts/texlive/tlmgrgui.pl:1151
 msgid "Create formats on installation"
 msgstr "Crea i formati durante l'installazione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1157
+#: texmf/scripts/texlive/tlmgrgui.pl:1158
 msgid "Install macro/font sources"
 msgstr "Installa i sorgenti per font e macro"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1164
+#: texmf/scripts/texlive/tlmgrgui.pl:1165
 msgid "Install macro/font docs"
 msgstr "Installa la documentazione per font e macro"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1171
+#: texmf/scripts/texlive/tlmgrgui.pl:1172
 msgid "Default backup directory"
 msgstr "Directory di backup predefinita"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1179
-#: texmf/scripts/texlive/tlmgrgui.pl:1770
-#: texmf/scripts/texlive/tlmgrgui.pl:1775
+#: texmf/scripts/texlive/tlmgrgui.pl:1180
+#: texmf/scripts/texlive/tlmgrgui.pl:1771
+#: texmf/scripts/texlive/tlmgrgui.pl:1776
 msgid "Auto backup setting"
 msgstr "Impostazioni per il backup automatico"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1188
-#: texmf/scripts/texlive/tlmgrgui.pl:2442
+#: texmf/scripts/texlive/tlmgrgui.pl:1189
+#: texmf/scripts/texlive/tlmgrgui.pl:2443
 msgid "Link destination for programs"
 msgstr "Destinazione dei collegamenti per i programmi"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1196
-#: texmf/scripts/texlive/tlmgrgui.pl:2447
+#: texmf/scripts/texlive/tlmgrgui.pl:1197
+#: texmf/scripts/texlive/tlmgrgui.pl:2448
 msgid "Link destination for info docs"
 msgstr "Destinazione dei collegamenti per le pagine info"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1204
-#: texmf/scripts/texlive/tlmgrgui.pl:2452
+#: texmf/scripts/texlive/tlmgrgui.pl:1205
+#: texmf/scripts/texlive/tlmgrgui.pl:2453
 msgid "Link destination for man pages"
 msgstr "Destinazione dei collegamenti per le pagine di manuale"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1214
+#: texmf/scripts/texlive/tlmgrgui.pl:1215
 msgid "Create shortcuts in menu and on desktop"
 msgstr "Crea i collegamenti nel menu e sul desktop"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1223
+#: texmf/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
 msgstr "Installazione per tutti gli utenti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1323
-#: texmf/scripts/texlive/tlmgrgui.pl:1332
+#: texmf/scripts/texlive/tlmgrgui.pl:1324
+#: texmf/scripts/texlive/tlmgrgui.pl:1333
 msgid "Paper options"
 msgstr "Impostazioni carta"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1336
+#: texmf/scripts/texlive/tlmgrgui.pl:1337
 msgid "Default paper for all"
 msgstr "Formato pagina predefinito per tutti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1337
+#: texmf/scripts/texlive/tlmgrgui.pl:1338
 msgid "a4"
 msgstr "a4"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1351
-#: texmf/scripts/texlive/tlmgrgui.pl:1755
+#: texmf/scripts/texlive/tlmgrgui.pl:1352
+#: texmf/scripts/texlive/tlmgrgui.pl:1756
 msgid "Default paper for"
 msgstr "Formato pagina per"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1372
+#: texmf/scripts/texlive/tlmgrgui.pl:1373
 msgid "GUI Language"
 msgstr "Lingua Interfaccia Grafica"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1395
-#: texmf/scripts/texlive/tlmgrgui.pl:1400
-#: texmf/scripts/texlive/tlmgrgui.pl:1418
+#: texmf/scripts/texlive/tlmgrgui.pl:1396
+#: texmf/scripts/texlive/tlmgrgui.pl:1401
+#: texmf/scripts/texlive/tlmgrgui.pl:1419
 msgid "System default"
 msgstr "Predefinito di sistema"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1399
+#: texmf/scripts/texlive/tlmgrgui.pl:1400
 msgid "Default language for GUI:"
 msgstr "Lingua predefinita per l'interfaccia grafica:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1414
-#: texmf/scripts/texlive/tlmgrgui.pl:1443
+#: texmf/scripts/texlive/tlmgrgui.pl:1415
+#: texmf/scripts/texlive/tlmgrgui.pl:1444
 msgid "Changes will take effect after restart"
 msgstr "I cambiamenti avranno effetto dopo il riavvio"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1488
-#: texmf/scripts/texlive/tlmgrgui.pl:2506
-#: texmf/scripts/texlive/tlmgrgui.pl:2561
+#: texmf/scripts/texlive/tlmgrgui.pl:1489
+#: texmf/scripts/texlive/tlmgrgui.pl:2507
+#: texmf/scripts/texlive/tlmgrgui.pl:2562
 msgid "Choose Directory"
 msgstr "Scegli una directory"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1554
+#: texmf/scripts/texlive/tlmgrgui.pl:1555
 msgid "Edit default package repositories"
 msgstr "Modifica gli archivi predefiniti dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1557
+#: texmf/scripts/texlive/tlmgrgui.pl:1558
 msgid "Specify set of repositories to be used"
 msgstr "Specifica gli archivi da usare"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1573
+#: texmf/scripts/texlive/tlmgrgui.pl:1574
 msgid "Delete"
 msgstr "Elimina"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1587
-#: texmf/scripts/texlive/tlmgrgui.pl:1590
+#: texmf/scripts/texlive/tlmgrgui.pl:1588
+#: texmf/scripts/texlive/tlmgrgui.pl:1591
 msgid "Change main package repository"
 msgstr "Cambia l'archivio principale dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1588
-#: texmf/scripts/texlive/tlmgrgui.pl:1591
+#: texmf/scripts/texlive/tlmgrgui.pl:1589
+#: texmf/scripts/texlive/tlmgrgui.pl:1592
 msgid "Change subsidiary package repository"
 msgstr "Cambia l'archivio di riserva dei pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1612
+#: texmf/scripts/texlive/tlmgrgui.pl:1613
 msgid "Add repository"
 msgstr "Aggiungi archivio"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1614
 #: texmf/scripts/texlive/tlmgrgui.pl:1615
+#: texmf/scripts/texlive/tlmgrgui.pl:1616
 msgid "Add package repository"
 msgstr "Aggiungi archivio di pachetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1641
+#: texmf/scripts/texlive/tlmgrgui.pl:1642
 #, perl-format
 msgid "Repository tag name already used: %s"
 msgstr "Nome del tag per l'archivio già usato: %s"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1699
+#: texmf/scripts/texlive/tlmgrgui.pl:1700
 msgid "Revert"
 msgstr "Ripristina"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1751
+#: texmf/scripts/texlive/tlmgrgui.pl:1752
 msgid "Select paper format for"
 msgstr "Seleziona formato carta per"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1778
+#: texmf/scripts/texlive/tlmgrgui.pl:1779
 msgid "keep arbitrarily many"
 msgstr "conserva un numero arbitrario di backup"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1779
+#: texmf/scripts/texlive/tlmgrgui.pl:1780
 msgid "disable"
 msgstr "disabilita"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1870
+#: texmf/scripts/texlive/tlmgrgui.pl:1871
 msgid "Loading of remote database failed."
 msgstr "Caricamento del database remoto fallito"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1871
+#: texmf/scripts/texlive/tlmgrgui.pl:1872
 msgid "Error message:"
 msgstr "Messaggio d'errore:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1910
+#: texmf/scripts/texlive/tlmgrgui.pl:1911
 msgid "Installation"
 msgstr "Installazione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:1943
-#: texmf/scripts/texlive/tlmgrgui.pl:1974
+#: texmf/scripts/texlive/tlmgrgui.pl:1944
+#: texmf/scripts/texlive/tlmgrgui.pl:1975
 msgid ""
 "Critical updates have been installed.\n"
 "Program will terminate now.\n"
@@ -1292,89 +1298,97 @@ msgstr ""
 "Il programma sarà ora terminato.\n"
 "Se è necessario, è possibile riavviarlo manualmente."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2284
+#: texmf/scripts/texlive/tlmgrgui.pl:2285
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this "
+"dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
 "Sono presenti aggiornamenti per tlmgr.\n"
 "L'installazione e gli aggiornamenti non funzioneranno se non sono forzati.\n"
-"Selezionate il pulsante \"Aggiorna installati\" dopo aver chiuso questa finestra.\n"
+"Selezionate il pulsante \"Aggiorna installati\" dopo aver chiuso questa "
+"finestra.\n"
 "\n"
 "Il programma verrà  terminato dopo l'aggiornamento.\n"
 "A quel punto sarà possibile riavviarlo per ulteriori aggiornamenti."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2286
+#: texmf/scripts/texlive/tlmgrgui.pl:2287
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr "Dall'ultimo aggiornamento di tlmgr, sono disponibili almeno %s ulteriori aggiornamenti."
+msgstr ""
+"Dall'ultimo aggiornamento di tlmgr, sono disponibili almeno %s ulteriori "
+"aggiornamenti."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2288
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Dopo che il programma abbia terminato, attendi qualche istante per consentire il completamento dell'aggiornamento."
+#: texmf/scripts/texlive/tlmgrgui.pl:2289
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Dopo che il programma abbia terminato, attendi qualche istante per "
+"consentire il completamento dell'aggiornamento."
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2368
-#: texmf/scripts/texlive/tlmgrgui.pl:2370
+#: texmf/scripts/texlive/tlmgrgui.pl:2369
+#: texmf/scripts/texlive/tlmgrgui.pl:2371
 msgid "Restore completed"
 msgstr "Ripristino completato"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2375
+#: texmf/scripts/texlive/tlmgrgui.pl:2376
 msgid "Select the package to restore, or restore all packages"
 msgstr "Seleziona i pacchetti da ripristinare oppure ripristinali tutti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2391
+#: texmf/scripts/texlive/tlmgrgui.pl:2392
 msgid "Revision:"
 msgstr "Revisione:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2396
+#: texmf/scripts/texlive/tlmgrgui.pl:2397
 msgid "Restore selected package"
 msgstr "Ripristina i pacchetti selezionati"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2412
+#: texmf/scripts/texlive/tlmgrgui.pl:2413
 msgid "Restore all package to latest version"
 msgstr "Ripristina tutti i pacchetti all'ultima versione"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2428
+#: texmf/scripts/texlive/tlmgrgui.pl:2429
 msgid "Close"
 msgstr "Chiudi"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2460
+#: texmf/scripts/texlive/tlmgrgui.pl:2461
 msgid "Update symbolic links"
 msgstr "Aggiorna i collegamenti simbolici"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2467
+#: texmf/scripts/texlive/tlmgrgui.pl:2468
 msgid "Remove symbolic links"
 msgstr "Rimuovi i collegamenti simbolici"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2500
+#: texmf/scripts/texlive/tlmgrgui.pl:2501
 msgid "Edit directory"
 msgstr "Modifica directory"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2503
+#: texmf/scripts/texlive/tlmgrgui.pl:2504
 msgid "New value for"
 msgstr "Nuovo valore per "
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2535
+#: texmf/scripts/texlive/tlmgrgui.pl:2536
 msgid "Load package repository"
 msgstr "Carica archivio pacchetti"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2538
+#: texmf/scripts/texlive/tlmgrgui.pl:2539
 msgid "Package repository:"
 msgstr "Archivio dei pacchetti:"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2568
+#: texmf/scripts/texlive/tlmgrgui.pl:2569
 msgid "Default net package repository"
 msgstr "Archivio dei pacchetti remoto predefinito"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2653
+#: texmf/scripts/texlive/tlmgrgui.pl:2654
 msgid "Completed"
 msgstr "Completato"
 
-#: texmf/scripts/texlive/tlmgrgui.pl:2660
+#: texmf/scripts/texlive/tlmgrgui.pl:2661
 #, perl-format
 msgid ""
 "Running %s failed.\n"
@@ -1758,6 +1772,10 @@ msgstr "Programmi di supporto per Windows"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Pacchetti XeTeX"
+
+#~ msgid "Best turn off your virusscanner during installation."
+#~ msgstr ""
+#~ "Ti suggeriamo di chiudere il programma antivirus durante l'installazione."
 
 #~ msgid ""
 #~ "Welcome to the installation of TeX Live %s\n"
