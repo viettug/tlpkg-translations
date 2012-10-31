@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-07-28 04:39+0200\n"
+"POT-Creation-Date: 2012-10-31 04:37+0100\n"
 "PO-Revision-Date: 2012-06-06 09:06+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1225,8 +1225,8 @@ msgid "Link destination for man pages"
 msgstr "Ciljna povezava za dokumentacijo (man pages)"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1215
-msgid "Create shortcuts in menu and on desktop"
-msgstr "Ustvari bližnjice v meniju in na namizju"
+msgid "Create shortcuts on the desktop"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
@@ -1840,3 +1840,6 @@ msgstr "Dodatni programi za Okna"
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr "Paketi za XeTeX"
+
+#~ msgid "Create shortcuts in menu and on desktop"
+#~ msgstr "Ustvari bližnjice v meniju in na namizju"

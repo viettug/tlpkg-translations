@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-07-28 04:39+0200\n"
+"POT-Creation-Date: 2012-10-31 04:37+0100\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1146,8 +1146,8 @@ msgid "Link destination for man pages"
 msgstr "Destino de los enlaces a páginas de manual"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1215
-msgid "Create shortcuts in menu and on desktop"
-msgstr "Crear enlaces en el menú y en el escritorio"
+msgid "Create shortcuts on the desktop"
+msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
@@ -1735,6 +1735,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:94
 msgid "XeTeX packages"
 msgstr ""
+
+#~ msgid "Create shortcuts in menu and on desktop"
+#~ msgstr "Crear enlaces en el menú y en el escritorio"
 
 #~ msgid ""
 #~ "Welcome to the installation of TeX Live %s\n"

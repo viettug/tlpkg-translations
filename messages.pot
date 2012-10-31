@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2012-07-28 04:39+0200\n"
+"POT-Creation-Date: 2012-10-31 04:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1122,7 +1122,7 @@ msgid "Link destination for man pages"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1215
-msgid "Create shortcuts in menu and on desktop"
+msgid "Create shortcuts on the desktop"
 msgstr ""
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1224
