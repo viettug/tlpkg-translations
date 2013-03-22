@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2012-10-31 04:37+0100\n"
-"PO-Revision-Date: 2012-11-05 21:01+0100\n"
+"PO-Revision-Date: 2013-03-22 08:09+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -58,7 +58,7 @@ msgstr ""
 "Willkommen zur Installation von TeX Live %s\n"
 "http://tug.org/texlive\n"
 "\n"
-"Dieses Setup Programm begleitet Sie durch die Installation."
+"Dieses Setup-Programm begleitet Sie durch die Installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:191
 #: tlpkg/installer/install-menu-perltk.pl:565
@@ -169,7 +169,7 @@ msgstr "Abbruch"
 #: tlpkg/installer/install-menu-wizard.pl:401
 #: tlpkg/installer/install-menu-perltk.pl:302
 msgid "Could not load remote TeX Live Database:"
-msgstr "Konnte die remote TeX Live Datenbank nicht laden"
+msgstr "Konnte die remote Datenbank von TeX Live nicht laden"
 
 #: tlpkg/installer/install-menu-wizard.pl:402
 #: tlpkg/installer/install-menu-wizard.pl:409
@@ -303,7 +303,7 @@ msgstr "Füge Menüeinträge hinzu"
 #: texmf/scripts/texlive/tlmgrgui.pl:1809
 #: texmf/scripts/texlive/tlmgrgui.pl:1813
 msgid "Change file associations"
-msgstr "Anpassen der Dateiverknüpfungen"
+msgstr "Anpassen der Datei-Verknüpfungen"
 
 #: tlpkg/installer/install-menu-wizard.pl:576
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -1185,7 +1185,7 @@ msgstr "Voreingestelltes Papierformat für alle Programme"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1338
 msgid "a4"
-msgstr "a4"
+msgstr "A4"
 
 #: texmf/scripts/texlive/tlmgrgui.pl:1352
 #: texmf/scripts/texlive/tlmgrgui.pl:1756
@@ -1301,7 +1301,7 @@ msgid ""
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
-"Updates für den tlmgr sind verfügbar.\n"
+"Updates für den TeX Live Manager (tlmgr) sind verfügbar.\n"
 "Die Installation von Updates funktioniert nicht ohne Upgrade auf die neue Version.\n"
 "Bitte wählen Sie \"Update all installed\" nach Beendigung dieses Dialogs.\n"
 "\n"
