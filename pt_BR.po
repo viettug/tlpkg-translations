@@ -5,13 +5,13 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-04-08 21:17+0200\n"
-"PO-Revision-Date: 2012-07-14 11:08-0300\n"
+"PO-Revision-Date: 2013-04-14 13:38-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:248
@@ -418,6 +418,10 @@ msgid ""
 "Most importantly, add %s/bin/%s\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Adicione %s/texmf-dist/doc/man em MANPATH.\n"
+"Adicione %s/texmf-dist/doc/info em INFOPATH.\n"
+"E o mais importante, adicione %s/bin/%s\n"
+"em seu PATH para a sessão atual e todas as sessões futuras."
 
 #: tlpkg/installer/install-menu-wizard.pl:745
 #: tlpkg/installer/install-menu-perltk.pl:614
@@ -1178,7 +1182,7 @@ msgstr "Destino do link para páginas de manual"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1215
 msgid "Create shortcuts on the desktop"
-msgstr ""
+msgstr "Criar atalhos na área de trabalho"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
