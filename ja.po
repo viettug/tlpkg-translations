@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-04-08 21:17+0200\n"
+"POT-Creation-Date: 2013-05-04 03:44+0200\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -1574,188 +1574,187 @@ msgid "Arabic"
 msgstr "アラビア語"
 
 #: tlpkg/translations/shortdesc.pl:49
-msgid "Armenian"
-msgstr "アルメニア語"
-
-#: tlpkg/translations/shortdesc.pl:50
 msgid "Chinese, Japanese, Korean"
 msgstr "日中韓語"
 
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:50
 msgid "Croatian"
 msgstr "クロアチア語"
 
-#: tlpkg/translations/shortdesc.pl:52
+#: tlpkg/translations/shortdesc.pl:51
 msgid "Cyrillic"
 msgstr "キリル文字"
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:52
 msgid "Czech/Slovak"
 msgstr "チェコ･スロバキア語"
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:53
 msgid "Danish"
 msgstr "デンマーク語"
 
-#: tlpkg/translations/shortdesc.pl:55
+#: tlpkg/translations/shortdesc.pl:54
 msgid "Dutch"
 msgstr "オランダ語"
 
-#: tlpkg/translations/shortdesc.pl:56
+#: tlpkg/translations/shortdesc.pl:55
 msgid "US and UK English"
 msgstr "英語･米語"
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:56
 msgid "Finnish"
 msgstr "フィンランド語"
 
-#: tlpkg/translations/shortdesc.pl:58
+#: tlpkg/translations/shortdesc.pl:57
 msgid "French"
 msgstr "フランス語"
 
-#: tlpkg/translations/shortdesc.pl:59
+#: tlpkg/translations/shortdesc.pl:58
 msgid "German"
 msgstr "ドイツ語"
 
-#: tlpkg/translations/shortdesc.pl:60
+#: tlpkg/translations/shortdesc.pl:59
 msgid "Greek"
 msgstr "ギリシア語"
 
-#: tlpkg/translations/shortdesc.pl:61
+#: tlpkg/translations/shortdesc.pl:60
 msgid "Hebrew"
 msgstr "ヘブライ語"
 
-#: tlpkg/translations/shortdesc.pl:62
+#: tlpkg/translations/shortdesc.pl:61
 msgid "Hungarian"
 msgstr "ハンガリー語"
 
-#: tlpkg/translations/shortdesc.pl:63
+#: tlpkg/translations/shortdesc.pl:62
 msgid "Indic scripts"
 msgstr "インド諸語文字"
 
-#: tlpkg/translations/shortdesc.pl:64
+#: tlpkg/translations/shortdesc.pl:63
 msgid "Italian"
 msgstr "イタリア語"
 
-#: tlpkg/translations/shortdesc.pl:65
+#: tlpkg/translations/shortdesc.pl:64
 msgid "Latin"
 msgstr "ラテン語"
 
-#: tlpkg/translations/shortdesc.pl:66
+#: tlpkg/translations/shortdesc.pl:65
 msgid "Latvian"
 msgstr "ラトビア語"
 
-#: tlpkg/translations/shortdesc.pl:67
+#: tlpkg/translations/shortdesc.pl:66
 msgid "Lithuanian"
 msgstr "リトアニア語"
 
-#: tlpkg/translations/shortdesc.pl:68
+#: tlpkg/translations/shortdesc.pl:67
 msgid "Mongolian"
 msgstr "モンゴル語"
 
-#: tlpkg/translations/shortdesc.pl:69
+#: tlpkg/translations/shortdesc.pl:68
 msgid "Norwegian"
 msgstr "ノルウェイ語"
 
-#: tlpkg/translations/shortdesc.pl:70
+#: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
 msgstr "他のハイフネーションパターン"
 
-#: tlpkg/translations/shortdesc.pl:71
+#: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
 msgstr "ポーランド語"
 
-#: tlpkg/translations/shortdesc.pl:72
+#: tlpkg/translations/shortdesc.pl:71
 msgid "Portuguese"
 msgstr "ポルトガル語"
 
-#: tlpkg/translations/shortdesc.pl:73
+#: tlpkg/translations/shortdesc.pl:72
 msgid "Spanish"
 msgstr "スペイン語"
 
-#: tlpkg/translations/shortdesc.pl:74
+#: tlpkg/translations/shortdesc.pl:73
 msgid "Swedish"
 msgstr "スウェーデン語"
 
-#: tlpkg/translations/shortdesc.pl:75
+#: tlpkg/translations/shortdesc.pl:74
 msgid "Tibetan"
 msgstr "チベット語"
 
-#: tlpkg/translations/shortdesc.pl:76
+#: tlpkg/translations/shortdesc.pl:75
 msgid "Turkmen"
 msgstr "トルクメン語"
 
-#: tlpkg/translations/shortdesc.pl:77
+#: tlpkg/translations/shortdesc.pl:76
 msgid "Vietnamese"
 msgstr "ベトナム語"
 
-#: tlpkg/translations/shortdesc.pl:78
+#: tlpkg/translations/shortdesc.pl:77
 msgid "Basic LaTeX packages"
 msgstr "LaTeX基本パッケージ"
 
-#: tlpkg/translations/shortdesc.pl:79
+#: tlpkg/translations/shortdesc.pl:78
 msgid "LaTeX supplementary packages"
 msgstr "LaTeX補完パッケージ"
 
-#: tlpkg/translations/shortdesc.pl:80
+#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
 msgstr "LaTeX推奨パッケージ"
 
-#: tlpkg/translations/shortdesc.pl:81
+#: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
 msgstr "LuaTeXパッケージ"
 
-#: tlpkg/translations/shortdesc.pl:82
+#: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
 msgstr "高度な数式組版"
 
-#: tlpkg/translations/shortdesc.pl:83
+#: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
 msgstr "MetaPost(およびMetafont)描画パッケージ"
 
-#: tlpkg/translations/shortdesc.pl:84
+#: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
 msgstr "音譜組版"
 
-#: tlpkg/translations/shortdesc.pl:85
+#: tlpkg/translations/shortdesc.pl:84
 msgid "Omega packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:86
+#: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
 msgstr "画像パッケージおよびプログラム"
 
-#: tlpkg/translations/shortdesc.pl:87
+#: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr "Plain TeX補完パッケージ"
 
-#: tlpkg/translations/shortdesc.pl:88
+#: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
 msgstr "PSTricksパッケージ"
 
-#: tlpkg/translations/shortdesc.pl:89
+#: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
 msgstr "出版社･論文・標準･会議等のサポート"
 
-#: tlpkg/translations/shortdesc.pl:90
+#: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
 msgstr "自然科学･計算機科学用組版"
 
-#: tlpkg/translations/shortdesc.pl:91
+#: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
 msgstr "GNU Texinfo"
 
-#: tlpkg/translations/shortdesc.pl:92
+#: tlpkg/translations/shortdesc.pl:91
 msgid "TeXworks editor"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:93
+#: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
 msgstr "Windowsサポートプログラム"
 
-#: tlpkg/translations/shortdesc.pl:94
+#: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeXパッケージ"
+
+#~ msgid "Armenian"
+#~ msgstr "アルメニア語"
 
 #~ msgid ""
 #~ "Add %s/texmf/doc/man to MANPATH.\n"

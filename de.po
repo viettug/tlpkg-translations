@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-04-08 21:17+0200\n"
+"POT-Creation-Date: 2013-05-04 03:44+0200\n"
 "PO-Revision-Date: 2013-04-09 18:26+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
@@ -1598,189 +1598,188 @@ msgid "Arabic"
 msgstr "Arabisch"
 
 #: tlpkg/translations/shortdesc.pl:49
-msgid "Armenian"
-msgstr "Armenisch"
-
-#: tlpkg/translations/shortdesc.pl:50
 msgid "Chinese, Japanese, Korean"
 msgstr "Chinesisch, Japanisch, Koreanisch"
 
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:50
 msgid "Croatian"
 msgstr "Kroatisch"
 
-#: tlpkg/translations/shortdesc.pl:52
+#: tlpkg/translations/shortdesc.pl:51
 msgid "Cyrillic"
 msgstr "Kyrillisch"
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:52
 msgid "Czech/Slovak"
 msgstr "Tschechisch/Slowakisch"
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:53
 msgid "Danish"
 msgstr "Dänisch"
 
-#: tlpkg/translations/shortdesc.pl:55
+#: tlpkg/translations/shortdesc.pl:54
 msgid "Dutch"
 msgstr "Niederländisch"
 
-#: tlpkg/translations/shortdesc.pl:56
+#: tlpkg/translations/shortdesc.pl:55
 msgid "US and UK English"
 msgstr "US und UK Englisch"
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:56
 msgid "Finnish"
 msgstr "Finnisch"
 
-#: tlpkg/translations/shortdesc.pl:58
+#: tlpkg/translations/shortdesc.pl:57
 msgid "French"
 msgstr "Französisch"
 
-#: tlpkg/translations/shortdesc.pl:59
+#: tlpkg/translations/shortdesc.pl:58
 msgid "German"
 msgstr "Deutsch"
 
-#: tlpkg/translations/shortdesc.pl:60
+#: tlpkg/translations/shortdesc.pl:59
 msgid "Greek"
 msgstr "Griechisch"
 
-#: tlpkg/translations/shortdesc.pl:61
+#: tlpkg/translations/shortdesc.pl:60
 msgid "Hebrew"
 msgstr "Hebräisch"
 
-#: tlpkg/translations/shortdesc.pl:62
+#: tlpkg/translations/shortdesc.pl:61
 msgid "Hungarian"
 msgstr "Ungarisch"
 
-#: tlpkg/translations/shortdesc.pl:63
+#: tlpkg/translations/shortdesc.pl:62
 msgid "Indic scripts"
 msgstr "Indische Schriften"
 
-#: tlpkg/translations/shortdesc.pl:64
+#: tlpkg/translations/shortdesc.pl:63
 msgid "Italian"
 msgstr "Italienisch"
 
-#: tlpkg/translations/shortdesc.pl:65
+#: tlpkg/translations/shortdesc.pl:64
 msgid "Latin"
 msgstr "Latein"
 
-#: tlpkg/translations/shortdesc.pl:66
+#: tlpkg/translations/shortdesc.pl:65
 msgid "Latvian"
 msgstr "Lettisch"
 
-#: tlpkg/translations/shortdesc.pl:67
+#: tlpkg/translations/shortdesc.pl:66
 msgid "Lithuanian"
 msgstr "Litauisch"
 
-#: tlpkg/translations/shortdesc.pl:68
+#: tlpkg/translations/shortdesc.pl:67
 msgid "Mongolian"
 msgstr "Mongolisch"
 
-#: tlpkg/translations/shortdesc.pl:69
+#: tlpkg/translations/shortdesc.pl:68
 msgid "Norwegian"
 msgstr "Norwegisch"
 
-#: tlpkg/translations/shortdesc.pl:70
+#: tlpkg/translations/shortdesc.pl:69
 msgid "Other hyphenation patterns"
 msgstr "Andere Trennmuster"
 
-#: tlpkg/translations/shortdesc.pl:71
+#: tlpkg/translations/shortdesc.pl:70
 msgid "Polish"
 msgstr "Polnisch"
 
-#: tlpkg/translations/shortdesc.pl:72
+#: tlpkg/translations/shortdesc.pl:71
 msgid "Portuguese"
 msgstr "Portugiesisch"
 
-#: tlpkg/translations/shortdesc.pl:73
+#: tlpkg/translations/shortdesc.pl:72
 msgid "Spanish"
 msgstr "Spanisch"
 
-#: tlpkg/translations/shortdesc.pl:74
+#: tlpkg/translations/shortdesc.pl:73
 msgid "Swedish"
 msgstr "Schwedisch"
 
-#: tlpkg/translations/shortdesc.pl:75
+#: tlpkg/translations/shortdesc.pl:74
 msgid "Tibetan"
 msgstr "Tibetisch"
 
-#: tlpkg/translations/shortdesc.pl:76
+#: tlpkg/translations/shortdesc.pl:75
 msgid "Turkmen"
 msgstr "Turk Sprachen"
 
-#: tlpkg/translations/shortdesc.pl:77
+#: tlpkg/translations/shortdesc.pl:76
 msgid "Vietnamese"
 msgstr "Vietnamesisch"
 
-#: tlpkg/translations/shortdesc.pl:78
+#: tlpkg/translations/shortdesc.pl:77
 msgid "Basic LaTeX packages"
 msgstr "Grundlegende LaTeX Pakete"
 
-#: tlpkg/translations/shortdesc.pl:79
+#: tlpkg/translations/shortdesc.pl:78
 msgid "LaTeX supplementary packages"
 msgstr "LaTeX Ergänzungspakete"
 
-#: tlpkg/translations/shortdesc.pl:80
+#: tlpkg/translations/shortdesc.pl:79
 msgid "LaTeX recommended packages"
 msgstr "LaTeX empfohlene Pakete"
 
-#: tlpkg/translations/shortdesc.pl:81
+#: tlpkg/translations/shortdesc.pl:80
 msgid "LuaTeX packages"
 msgstr "LuaTeX Pakete"
 
-#: tlpkg/translations/shortdesc.pl:82
+#: tlpkg/translations/shortdesc.pl:81
 msgid "Advanced math typesetting"
 msgstr "Fortgeschrittener Mathematik-Satz"
 
-#: tlpkg/translations/shortdesc.pl:83
+#: tlpkg/translations/shortdesc.pl:82
 msgid "MetaPost (and Metafont) drawing packages"
 msgstr "MetaPost (und Metafont) Zeichenpakete"
 
-#: tlpkg/translations/shortdesc.pl:84
+#: tlpkg/translations/shortdesc.pl:83
 msgid "Music typesetting"
 msgstr "Musiksatz"
 
-#: tlpkg/translations/shortdesc.pl:85
+#: tlpkg/translations/shortdesc.pl:84
 msgid "Omega packages"
 msgstr "Omega Pakete"
 
-#: tlpkg/translations/shortdesc.pl:86
+#: tlpkg/translations/shortdesc.pl:85
 msgid "Graphics packages and programs"
 msgstr "Grafikpakete und -programme"
 
-#: tlpkg/translations/shortdesc.pl:87
+#: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr "Plain TeX Ergänzungspakete"
 
-#: tlpkg/translations/shortdesc.pl:88
+#: tlpkg/translations/shortdesc.pl:87
 msgid "PSTricks packages"
 msgstr "PSTricks Pakete"
 
-#: tlpkg/translations/shortdesc.pl:89
+#: tlpkg/translations/shortdesc.pl:88
 msgid "Support for publishers, theses, standards, conferences, etc."
 msgstr ""
 "Unterstützung für Verleger, Abschlussarbeiten, Standards, Konferenzen, etc."
 
-#: tlpkg/translations/shortdesc.pl:90
+#: tlpkg/translations/shortdesc.pl:89
 msgid "Typesetting for natural and computer sciences"
 msgstr "Satz für Naturwissenschaften und Informatik"
 
-#: tlpkg/translations/shortdesc.pl:91
+#: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
 msgstr "GNU Texinfo"
 
-#: tlpkg/translations/shortdesc.pl:92
+#: tlpkg/translations/shortdesc.pl:91
 msgid "TeXworks editor"
 msgstr "TeXworks Editor"
 
-#: tlpkg/translations/shortdesc.pl:93
+#: tlpkg/translations/shortdesc.pl:92
 msgid "Windows support programs"
 msgstr "Windows-spezifische Hilfsprogramme"
 
-#: tlpkg/translations/shortdesc.pl:94
+#: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "XeTeX Pakete"
+
+#~ msgid "Armenian"
+#~ msgstr "Armenisch"
 
 #~ msgid ""
 #~ "Add %s/texmf/doc/man to MANPATH.\n"
