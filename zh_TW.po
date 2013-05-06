@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-04 03:44+0200\n"
+"POT-Creation-Date: 2013-05-07 01:27+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1679,7 +1679,7 @@ msgid "Vietnamese"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:77
-msgid "Basic LaTeX packages"
+msgid "LaTeX fundamental packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:78
@@ -1711,7 +1711,7 @@ msgid "Omega packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:85
-msgid "Graphics packages and programs"
+msgid "Graphics, pictures, diagrams."
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:86
@@ -1719,15 +1719,15 @@ msgid "Plain TeX supplementary packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:87
-msgid "PSTricks packages"
+msgid "PSTricks"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:88
-msgid "Support for publishers, theses, standards, conferences, etc."
+msgid "Publisher styles, theses, conferences, etc."
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:89
-msgid "Typesetting for natural and computer sciences"
+msgid "Natural and computer sciences"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:90
@@ -1739,7 +1739,7 @@ msgid "TeXworks editor"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:92
-msgid "Windows support programs"
+msgid "Windows-only support programs"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:93

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-04 03:44+0200\n"
+"POT-Creation-Date: 2013-05-07 01:27+0200\n"
 "PO-Revision-Date: 2012-06-09 12:06+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1708,8 +1708,8 @@ msgid "Vietnamese"
 msgstr "Vietnamien"
 
 #: tlpkg/translations/shortdesc.pl:77
-msgid "Basic LaTeX packages"
-msgstr "Paquets LaTeX de base"
+msgid "LaTeX fundamental packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:78
 msgid "LaTeX supplementary packages"
@@ -1740,24 +1740,24 @@ msgid "Omega packages"
 msgstr "Paquets pour Omega"
 
 #: tlpkg/translations/shortdesc.pl:85
-msgid "Graphics packages and programs"
-msgstr "Programmes et paquets pour les graphismes"
+msgid "Graphics, pictures, diagrams."
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:86
 msgid "Plain TeX supplementary packages"
 msgstr "Paquets Plain TeX supplémentaires"
 
 #: tlpkg/translations/shortdesc.pl:87
-msgid "PSTricks packages"
-msgstr "Paquet PSTricks"
+msgid "PSTricks"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:88
-msgid "Support for publishers, theses, standards, conferences, etc."
-msgstr "Support pour des éditeurs, thèses, standards, conférences, etc."
+msgid "Publisher styles, theses, conferences, etc."
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:89
-msgid "Typesetting for natural and computer sciences"
-msgstr "Composition des sciences naturelles et informatiques"
+msgid "Natural and computer sciences"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:90
 msgid "GNU Texinfo"
@@ -1768,12 +1768,30 @@ msgid "TeXworks editor"
 msgstr "L'éditeur TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:92
-msgid "Windows support programs"
-msgstr "Programmes de support spécifique pour Windows"
+msgid "Windows-only support programs"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:93
 msgid "XeTeX packages"
 msgstr "Paquet XeTeX"
+
+#~ msgid "Basic LaTeX packages"
+#~ msgstr "Paquets LaTeX de base"
+
+#~ msgid "Graphics packages and programs"
+#~ msgstr "Programmes et paquets pour les graphismes"
+
+#~ msgid "PSTricks packages"
+#~ msgstr "Paquet PSTricks"
+
+#~ msgid "Support for publishers, theses, standards, conferences, etc."
+#~ msgstr "Support pour des éditeurs, thèses, standards, conférences, etc."
+
+#~ msgid "Typesetting for natural and computer sciences"
+#~ msgstr "Composition des sciences naturelles et informatiques"
+
+#~ msgid "Windows support programs"
+#~ msgstr "Programmes de support spécifique pour Windows"
 
 #~ msgid "Armenian"
 #~ msgstr "Arménien"
