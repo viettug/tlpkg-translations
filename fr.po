@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-10 20:15+0200\n"
+"POT-Creation-Date: 2013-05-11 01:30+0200\n"
 "PO-Revision-Date: 2012-06-09 12:06+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1498,180 +1498,172 @@ msgid "Chinese, Japanese, Korean, Thai"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26
-msgid "Croatian"
-msgstr "Croate"
-
-#: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
 msgstr "Cyrillique"
 
-#: tlpkg/translations/shortdesc.pl:28
+#: tlpkg/translations/shortdesc.pl:27
 msgid "Czech/Slovak"
 msgstr "Tchèque et slovaque"
 
-#: tlpkg/translations/shortdesc.pl:29
-msgid "Danish"
-msgstr "Danois"
-
-#: tlpkg/translations/shortdesc.pl:30
-msgid "Dutch"
-msgstr "Néerlandais"
-
-#: tlpkg/translations/shortdesc.pl:31
+#: tlpkg/translations/shortdesc.pl:28
 msgid "US and UK English"
 msgstr "Anglais britannique et américain"
 
-#: tlpkg/translations/shortdesc.pl:32
-msgid "Finnish"
-msgstr "Finnois"
+#: tlpkg/translations/shortdesc.pl:29
+msgid "European languages"
+msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:33
+#: tlpkg/translations/shortdesc.pl:30
 msgid "French"
 msgstr "Français"
 
-#: tlpkg/translations/shortdesc.pl:34
+#: tlpkg/translations/shortdesc.pl:31
 msgid "German"
 msgstr "Allemand"
 
-#: tlpkg/translations/shortdesc.pl:35
+#: tlpkg/translations/shortdesc.pl:32
 msgid "Greek"
 msgstr "Grec"
 
-#: tlpkg/translations/shortdesc.pl:36
-msgid "Hebrew"
-msgstr "Hébreux"
-
-#: tlpkg/translations/shortdesc.pl:37
-msgid "Hungarian"
-msgstr "Hongrois"
-
-#: tlpkg/translations/shortdesc.pl:38
+#: tlpkg/translations/shortdesc.pl:33
 msgid "Indic scripts"
 msgstr "Écritures indiennes"
 
-#: tlpkg/translations/shortdesc.pl:39
+#: tlpkg/translations/shortdesc.pl:34
 msgid "Italian"
 msgstr "Italien"
 
-#: tlpkg/translations/shortdesc.pl:40
-msgid "Latin"
-msgstr "Latin"
-
-#: tlpkg/translations/shortdesc.pl:41
-msgid "Latvian"
-msgstr "Letton"
-
-#: tlpkg/translations/shortdesc.pl:42
-msgid "Lithuanian"
-msgstr "Lituanien"
-
-#: tlpkg/translations/shortdesc.pl:43
-msgid "Mongolian"
-msgstr "Mongole"
-
-#: tlpkg/translations/shortdesc.pl:44
-msgid "Norwegian"
-msgstr "Norvégien"
-
-#: tlpkg/translations/shortdesc.pl:45
-msgid "Other languages"
+#: tlpkg/translations/shortdesc.pl:35
+msgid "Hebrew, Vietnamese, Mongolian, and other languages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:46
+#: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
 msgstr "Polonais"
 
-#: tlpkg/translations/shortdesc.pl:47
+#: tlpkg/translations/shortdesc.pl:37
 msgid "Portuguese"
 msgstr "Portuguais"
 
-#: tlpkg/translations/shortdesc.pl:48
+#: tlpkg/translations/shortdesc.pl:38
 msgid "Spanish"
 msgstr "Espagnol"
 
-#: tlpkg/translations/shortdesc.pl:49
-msgid "Swedish"
-msgstr "Suédois"
-
-#: tlpkg/translations/shortdesc.pl:50
-msgid "Tibetan"
-msgstr "Tibétain"
-
-#: tlpkg/translations/shortdesc.pl:51
-msgid "Turkish and Turkmen"
-msgstr ""
-
-#: tlpkg/translations/shortdesc.pl:52
-msgid "Vietnamese"
-msgstr "Vietnamien"
-
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX supplementary packages"
 msgstr "Paquets LaTeX supplémentaires"
 
-#: tlpkg/translations/shortdesc.pl:55
+#: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
 msgstr "Paquets LaTeX recommandés"
 
-#: tlpkg/translations/shortdesc.pl:56
+#: tlpkg/translations/shortdesc.pl:42
 msgid "LuaTeX packages"
 msgstr "Paquets LuaTeX"
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:43
 msgid "Advanced math typesetting"
 msgstr "Composition mathématique avancée"
 
-#: tlpkg/translations/shortdesc.pl:58
-msgid "MetaPost (and Metafont) drawing packages"
-msgstr "Paquets de dessin avec MetaPost (et Metafont)"
+#: tlpkg/translations/shortdesc.pl:44
+msgid "MetaPost and Metafont packages"
+msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:59
+#: tlpkg/translations/shortdesc.pl:45
 msgid "Music typesetting"
 msgstr "Composition de la musique"
 
-#: tlpkg/translations/shortdesc.pl:60
+#: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
 msgstr "Paquets pour Omega"
 
-#: tlpkg/translations/shortdesc.pl:61
-msgid "Graphics, pictures, diagrams."
+#: tlpkg/translations/shortdesc.pl:47
+msgid "Graphics, pictures, diagrams"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:62
-msgid "Plain TeX supplementary packages"
-msgstr "Paquets Plain TeX supplémentaires"
+#: tlpkg/translations/shortdesc.pl:48
+msgid "Plain TeX packages"
+msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:63
+#: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:64
-msgid "Publisher styles, theses, conferences, etc."
+#: tlpkg/translations/shortdesc.pl:50
+msgid "Publisher styles, theses, etc."
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:65
+#: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:66
+#: tlpkg/translations/shortdesc.pl:52
 msgid "GNU Texinfo"
 msgstr "GNU TeXinfo"
 
-#: tlpkg/translations/shortdesc.pl:67
+#: tlpkg/translations/shortdesc.pl:53
 msgid "TeXworks editor"
 msgstr "L'éditeur TeXworks"
 
-#: tlpkg/translations/shortdesc.pl:68
+#: tlpkg/translations/shortdesc.pl:54
 msgid "Windows-only support programs"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:69
+#: tlpkg/translations/shortdesc.pl:55
 msgid "XeTeX packages"
 msgstr "Paquet XeTeX"
+
+#~ msgid "Croatian"
+#~ msgstr "Croate"
+
+#~ msgid "Danish"
+#~ msgstr "Danois"
+
+#~ msgid "Dutch"
+#~ msgstr "Néerlandais"
+
+#~ msgid "Finnish"
+#~ msgstr "Finnois"
+
+#~ msgid "Hebrew"
+#~ msgstr "Hébreux"
+
+#~ msgid "Hungarian"
+#~ msgstr "Hongrois"
+
+#~ msgid "Latin"
+#~ msgstr "Latin"
+
+#~ msgid "Latvian"
+#~ msgstr "Letton"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Lituanien"
+
+#~ msgid "Mongolian"
+#~ msgstr "Mongole"
+
+#~ msgid "Norwegian"
+#~ msgstr "Norvégien"
+
+#~ msgid "Swedish"
+#~ msgstr "Suédois"
+
+#~ msgid "Tibetan"
+#~ msgstr "Tibétain"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamien"
+
+#~ msgid "MetaPost (and Metafont) drawing packages"
+#~ msgstr "Paquets de dessin avec MetaPost (et Metafont)"
+
+#~ msgid "Plain TeX supplementary packages"
+#~ msgstr "Paquets Plain TeX supplémentaires"
 
 #~ msgid "Select language-specific documentation"
 #~ msgstr "Choisir les langues des documentations multilingues"
