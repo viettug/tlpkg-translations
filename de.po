@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-12 03:39+0200\n"
-"PO-Revision-Date: 2013-04-09 18:26+0100\n"
+"PO-Revision-Date: 2013-05-12 11:45+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1423,7 +1423,7 @@ msgstr "Grundlegende Programme und Dateien"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
-msgstr ""
+msgstr "BibTeX Zusatzstile"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
@@ -1435,7 +1435,7 @@ msgstr "ConTeXt format"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
-msgstr ""
+msgstr "Zusätzliche Fonts"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
@@ -1447,7 +1447,7 @@ msgstr "Grafik- und Font-Werkzeuge"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
-msgstr ""
+msgstr "Zusätzliche Formate"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
@@ -1455,11 +1455,11 @@ msgstr "Satz von Spielen"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
-msgstr ""
+msgstr "Generische Zusatzpakete"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Generic recommended packages"
-msgstr ""
+msgstr "Generische empfohlene Pakete"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "HTML/SGML/XML support"
@@ -1479,7 +1479,7 @@ msgstr "Arabisch"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean/Thai"
-msgstr ""
+msgstr "Chinesisch/Japanisch/Koreanisch/Thai"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1495,7 +1495,7 @@ msgstr "US und UK Englisch"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr ""
+msgstr "Andere europäische Sprachen"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
@@ -1519,7 +1519,7 @@ msgstr "Italienisch"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr ""
+msgstr "Andere Sprachen"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
@@ -1535,11 +1535,11 @@ msgstr "Spanisch"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
-msgstr ""
+msgstr "LaTeX grundlegende Pakete"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX additional packages"
-msgstr ""
+msgstr "LaTeX zusätzliche Pakete"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
@@ -1551,15 +1551,15 @@ msgstr "LuaTeX Pakete"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Mathematics packages"
-msgstr ""
+msgstr "Mathematikpakete"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "MetaPost and Metafont packages"
-msgstr ""
+msgstr "MetaPost und Metafont Pakete"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Music packages"
-msgstr ""
+msgstr "Musikpakete"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
@@ -1567,23 +1567,23 @@ msgstr "Omega Pakete"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Graphics, pictures, diagrams"
-msgstr ""
+msgstr "Grafik, Bilder, Diagramme"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Plain TeX packages"
-msgstr ""
+msgstr "Plain TeX Pakete"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
-msgstr ""
+msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Publisher styles, theses, etc."
-msgstr ""
+msgstr "Verlagsstile, -arbeiten, etc."
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
-msgstr ""
+msgstr "Natur- und Computerwissenschaften"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "TeXworks editor"
@@ -1591,11 +1591,11 @@ msgstr "TeXworks Editor"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Windows-only support programs"
-msgstr ""
+msgstr "nur-Windows Zusatzprogramme "
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
-msgstr ""
+msgstr "XeTeX und Pakete"
 
 #~ msgid "Language collections"
 #~ msgstr "Paketgruppen der Sprach-Pakete"
