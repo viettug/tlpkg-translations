@@ -3,15 +3,14 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-12 03:39+0200\n"
-"PO-Revision-Date: 2013-04-09 18:07+0100\n"
+"PO-Revision-Date: 2013-05-13 09:39+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
-"Language: \n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Language: Slovenian\n"
 "X-Poedit-Bookmarks: 77,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Generator: Poedit 1.5.5\n"
 
@@ -600,11 +599,11 @@ msgstr "Generiraj vse formate"
 
 #: tlpkg/installer/install-menu-perltk.pl:436
 msgid "Install font/macro doc tree"
-msgstr "Namesti dokumentacijo za pisave in makre"
+msgstr "Namesti dokumentacijo"
 
 #: tlpkg/installer/install-menu-perltk.pl:443
 msgid "Install font/macro source tree"
-msgstr "Namesti izvorno kodo za pisave in makre"
+msgstr "Namesti izvorno kodo"
 
 #: tlpkg/installer/install-menu-perltk.pl:450
 #: tlpkg/installer/install-menu-perltk.pl:882
@@ -729,7 +728,7 @@ msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
 msgstr ""
-"Spremenili ste opcijo za prenosno namestitev;\n"
+"Spremenili ste opcijo za prenosljivo namestitev;\n"
 "Mape za namestitev so se nastavile na privzeto vrednost."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:171
@@ -1485,7 +1484,7 @@ msgstr "Osnovni programi in datoteke"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
-msgstr ""
+msgstr "Dodatni slogi za BibTeX"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
@@ -1493,11 +1492,11 @@ msgstr "Pomožni programi za TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt format"
-msgstr "Format za ConTeXt"
+msgstr "ConTeXt s paketi"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
-msgstr ""
+msgstr "Dodatne pisave"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
@@ -1509,7 +1508,7 @@ msgstr "Orodja za grafiko in pisave"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
-msgstr ""
+msgstr "Dodatni formati"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
@@ -1517,11 +1516,11 @@ msgstr "Stavljenje iger"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
-msgstr ""
+msgstr "Dodatni splošni paketi"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Generic recommended packages"
-msgstr ""
+msgstr "Splošni priporočeni paketi"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "HTML/SGML/XML support"
@@ -1541,7 +1540,7 @@ msgstr "arabski"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean/Thai"
-msgstr ""
+msgstr "kitajski, japonski, korejski in tajski"
 
 #: tlpkg/translations/shortdesc.pl:26
 #, fuzzy
@@ -1558,7 +1557,7 @@ msgstr "angleški"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr ""
+msgstr "ostali evropski jeziki"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
@@ -1582,7 +1581,7 @@ msgstr "italijanski"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr ""
+msgstr "ostali jeziki"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
@@ -1598,11 +1597,11 @@ msgstr "španski"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
-msgstr ""
+msgstr "Osnovni paketi za LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX additional packages"
-msgstr ""
+msgstr "Dodatni paketi za LaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
@@ -1614,15 +1613,15 @@ msgstr "Paketi za LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Mathematics packages"
-msgstr ""
+msgstr "Matematični paketi"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "MetaPost and Metafont packages"
-msgstr ""
+msgstr "Paketi za MetaPost in MetaFont"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Music packages"
-msgstr ""
+msgstr "Paketi za stavljenje glasbe"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
@@ -1630,23 +1629,23 @@ msgstr "Paketi za Omego"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Graphics, pictures, diagrams"
-msgstr ""
+msgstr "Slike in diagrami"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Plain TeX packages"
-msgstr ""
+msgstr "Paketi za plain TeX"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
-msgstr ""
+msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Publisher styles, theses, etc."
-msgstr ""
+msgstr "Slogi za založnike, dizertacije ipd."
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
-msgstr ""
+msgstr "Naravoslovje in računalništvo"
 
 #: tlpkg/translations/shortdesc.pl:52
 #, fuzzy
@@ -1655,11 +1654,11 @@ msgstr "Urejevalnik besedil TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Windows-only support programs"
-msgstr ""
+msgstr "Programi za MS Windows"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
-msgstr ""
+msgstr "XeTeX s paketi"
 
 #~ msgid "Language collections"
 #~ msgstr "Podpora jezikom"
