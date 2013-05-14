@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-12 03:39+0200\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
 "PO-Revision-Date: 2013-05-13 20:05+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
@@ -1429,8 +1429,8 @@ msgid "TeX auxiliary programs"
 msgstr "Вспомогательные программы TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
-msgid "ConTeXt format"
-msgstr "формат ConTeXt"
+msgid "ConTeXt and packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1595,6 +1595,9 @@ msgstr "Вспомогательные программы, только для W
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX и пакеты"
+
+#~ msgid "ConTeXt format"
+#~ msgstr "формат ConTeXt"
 
 #~ msgid "Language collections"
 #~ msgstr "Коллекции поддержки языков"

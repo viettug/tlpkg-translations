@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-12 03:39+0200\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
 "PO-Revision-Date: 2012-02-21 19:04+0900\n"
 "Last-Translator: Koji Yokota <yokota@res.otaru-uc.ac.jp>\n"
 "Language-Team: Japanese <lyx-doc@lyx.org>\n"
@@ -1406,8 +1406,8 @@ msgid "TeX auxiliary programs"
 msgstr "TeX外部プログラム"
 
 #: tlpkg/translations/shortdesc.pl:13
-msgid "ConTeXt format"
-msgstr "ConTeXtフォーマット"
+msgid "ConTeXt and packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1572,6 +1572,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr ""
+
+#~ msgid "ConTeXt format"
+#~ msgstr "ConTeXtフォーマット"
 
 #~ msgid "Language collections"
 #~ msgstr "言語コレクション"

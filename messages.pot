@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-12 03:39+0200\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1361,7 +1361,7 @@ msgid "TeX auxiliary programs"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:13
-msgid "ConTeXt format"
+msgid "ConTeXt and packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:14

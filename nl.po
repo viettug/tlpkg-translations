@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-12 03:39+0200\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
 "PO-Revision-Date: 2012-06-03 16:47+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1417,8 +1417,8 @@ msgid "TeX auxiliary programs"
 msgstr "TeX hulpprogramma's"
 
 #: tlpkg/translations/shortdesc.pl:13
-msgid "ConTeXt format"
-msgstr "ConTeXt format"
+msgid "ConTeXt and packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1583,6 +1583,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr ""
+
+#~ msgid "ConTeXt format"
+#~ msgstr "ConTeXt format"
 
 #~ msgid "Language collections"
 #~ msgstr "Taal-collecties"

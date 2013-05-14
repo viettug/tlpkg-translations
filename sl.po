@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-12 03:39+0200\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
 "PO-Revision-Date: 2013-05-13 09:39+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1491,8 +1491,8 @@ msgid "TeX auxiliary programs"
 msgstr "Pomožni programi za TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
-msgid "ConTeXt format"
-msgstr "ConTeXt s paketi"
+msgid "ConTeXt and packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1659,6 +1659,9 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
+
+#~ msgid "ConTeXt format"
+#~ msgstr "ConTeXt s paketi"
 
 #~ msgid "Language collections"
 #~ msgstr "Podpora jezikom"
