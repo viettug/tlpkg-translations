@@ -1,12 +1,11 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR TeX Live Team
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# TeX Live installer messages.
+# Copyright (C) 2013 TeX Live Team
+# This file is distributed under the same license as the TeX Live installer.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: TeX Live 2010\n"
+"Project-Id-Version: TeX Live\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-16 03:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
