@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-16 03:51+0200\n"
-"PO-Revision-Date: 2012-06-05 20:56+0100\n"
+"POT-Creation-Date: 2013-05-14 03:46+0200\n"
+"PO-Revision-Date: 2013-05-16 18:04+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -236,8 +236,7 @@ msgstr "wymagana przestrzeń na dysku:"
 #: tlpkg/installer/install-menu-wizard.pl:503
 #: tlpkg/installer/install-menu-perltk.pl:999
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
-"(domyślnie niedozwolone lub brak uprawnień do zapisu - proszę zmienić!)"
+msgstr "(domyślnie niedozwolone lub brak uprawnień do zapisu - proszę zmienić!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:513
 msgid "Enter path for"
@@ -281,7 +280,7 @@ msgstr "Podaj ścieżkę dla"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2569
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2654
 msgid "Ok"
-msgstr "Zamknij"
+msgstr "Zatwierdź"
 
 #: tlpkg/installer/install-menu-wizard.pl:564
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -391,14 +390,10 @@ msgstr "Instaluj"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Patrz %s/index.html z odnośnikami do dokumentacji.\n"
-"Na stronie TeX Live (http://tug.org/texlive/) znajdziesz aktualizacje i "
-"poprawki.\n"
+"Na stronie TeX Live (http://tug.org/texlive/) znajdziesz aktualizacje i poprawki.\n"
 "TeX Live jest zbiorowym projektem grup użytkowników TeX-a z całego świata;\n"
 "proszę rozważyć wsparcie poprzez przystąpienie do grupy.\n"
 "Lista grup dostępna jest na stronie http://tug.org/usergroups.html."
@@ -412,6 +407,10 @@ msgid ""
 "Most importantly, add %s/bin/%s\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Dodaj %s/texmf-dist/doc/man do MANPATH.\n"
+"Dodaj %s/texmf-dist/doc/info do INFOPATH.\n"
+"Najważniejsze: dodaj %s/bin/%s\n"
+"do zmiennej PATH dla bieżącej i przyszłych sesji."
 
 #: tlpkg/installer/install-menu-wizard.pl:736
 #: tlpkg/installer/install-menu-perltk.pl:604
@@ -484,8 +483,7 @@ msgstr "Proszę wybrać inną kopię zasobów (mirror)."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
@@ -516,8 +514,8 @@ msgstr "Dalsze ustawienia"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
-msgid "Installation collections"
-msgstr ""
+msgid "Standard collections"
+msgstr "Kolekcje standardowe"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -939,8 +937,7 @@ msgstr "Wyłącz automatyczne instalowanie nowszych pakietów"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:557
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
-"Wyłącz automatyczne usuwanie pakietów, które zostały usunięte z repozytorium"
+msgstr "Wyłącz automatyczne usuwanie pakietów, które zostały usunięte z repozytorium"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:564
 msgid "Update filename database"
@@ -1059,9 +1056,7 @@ msgstr "Kolekcja:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:732
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Uwaga:  nr wersji wg TeX Catalogue może być niezbyt aktualny lub wręcz "
-"błędny."
+msgstr "Uwaga:  nr wersji wg TeX Catalogue może być niezbyt aktualny lub wręcz błędny."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:770
 msgid "Depends:"
@@ -1150,7 +1145,7 @@ msgstr "Docelowy katalog dowiązań do stron man"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1215
 msgid "Create shortcuts on the desktop"
-msgstr ""
+msgstr "Utwórz skróty na pulpicie"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
@@ -1278,17 +1273,14 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
 msgstr ""
 "Dostępna jest aktualizacja programu tlmgr.\n"
-"Instalacje pakietów i aktualizacje nie będą działały bez włączenia trybu "
-"wymuszonego.\n"
-"Proszę  zaznaczyć przycisk \"Aktualizuj wszystkie zainstalowane pakiety\" po "
-"zamknięciu tego komunikatu.\n"
+"Instalacje pakietów i aktualizacje nie będą działały bez włączenia trybu wymuszonego.\n"
+"Proszę  zaznaczyć przycisk \"Aktualizuj wszystkie zainstalowane pakiety\" po zamknięciu tego komunikatu.\n"
 "\n"
 "Po aktualizacji program zakończy działanie.\n"
 "Uruchom ponownie dla dalszych aktualizacji. "
@@ -1299,12 +1291,8 @@ msgid "At least %s further updates are available after tlmgr has been updated."
 msgstr "Po aktualizacji tlmgr dostępnych jest dalszych %s aktualizacji."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2289
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została "
-"dokonana. "
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została dokonana. "
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2363
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2365
@@ -1414,7 +1402,7 @@ msgstr "Podstawowe makra i fonty"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
-msgstr ""
+msgstr "Dodatkowe style BibTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
@@ -1422,11 +1410,11 @@ msgstr "Dodatkowe programy pomocnicze"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr ""
+msgstr "ConTeXt i jego pakiety"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
-msgstr ""
+msgstr "Fonty dodatkowe"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
@@ -1438,7 +1426,7 @@ msgstr "Narzędzia do grafiki i fontów"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
-msgstr ""
+msgstr "Dodatkowe formaty"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
@@ -1446,11 +1434,11 @@ msgstr "Prezentacja zapisu gier"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
-msgstr ""
+msgstr "Dodatkowe pakiety makr ogólnych (działają z różnymi formatami)"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Generic recommended packages"
-msgstr ""
+msgstr "Rekomendowane pakiety makr ogólnych (działają z różnymi formatami)"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "HTML/SGML/XML support"
@@ -1470,7 +1458,7 @@ msgstr "arabski"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean/Thai"
-msgstr ""
+msgstr "chiński, japoński, koreański, tajski"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1486,7 +1474,7 @@ msgstr "angielski brytyjski i amerykański"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr ""
+msgstr "Inne języki europejskie"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
@@ -1510,7 +1498,7 @@ msgstr "włoski"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr ""
+msgstr "Inne języki"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
@@ -1526,11 +1514,11 @@ msgstr "hiszpański"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
-msgstr ""
+msgstr "Podstawowe pakiety LaTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX additional packages"
-msgstr ""
+msgstr "Dodatkowe pakiety LaTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
@@ -1542,15 +1530,15 @@ msgstr "Pakiety LuaTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Mathematics packages"
-msgstr ""
+msgstr "Pakiety do składu matematyki"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "MetaPost and Metafont packages"
-msgstr ""
+msgstr "Pakiety MetaPosta and Metafonta"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Music packages"
-msgstr ""
+msgstr "Pakiety do składania nut"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
@@ -1558,23 +1546,23 @@ msgstr "Pakiety Omega"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Graphics, pictures, diagrams"
-msgstr ""
+msgstr "Pakiety do grafiki, rysunków, diagramów"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Plain TeX packages"
-msgstr ""
+msgstr "Pakiety dla plain TeX-a"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
-msgstr ""
+msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Publisher styles, theses, etc."
-msgstr ""
+msgstr "Style  dla wydawców, publikacji konferencyjnych itp."
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
-msgstr ""
+msgstr "Skład publikacji nauk ścisłych i informatycznych"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "TeXworks editor"
@@ -1582,14 +1570,11 @@ msgstr "Edytor TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Windows-only support programs"
-msgstr ""
+msgstr "Dodatkowe programy tylko dla Windows"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
-msgstr ""
-
-#~ msgid "Standard collections"
-#~ msgstr "Kolekcje standardowe"
+msgstr "XeTeX i pakiety"
 
 #~ msgid "ConTeXt format"
 #~ msgstr "Format ConTeXt"
