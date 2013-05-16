@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-14 03:46+0200\n"
+"POT-Creation-Date: 2013-05-16 03:51+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -495,8 +495,8 @@ msgstr "進一步定制"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
-msgid "Standard collections"
-msgstr "標準安裝"
+msgid "Installation collections"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1565,6 +1565,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr ""
+
+#~ msgid "Standard collections"
+#~ msgstr "標準安裝"
 
 #~ msgid "Language collections"
 #~ msgstr "語言集合"

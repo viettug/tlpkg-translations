@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-14 03:46+0200\n"
+"POT-Creation-Date: 2013-05-16 03:51+0200\n"
 "PO-Revision-Date: 2012-05-17 23:09+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -512,8 +512,8 @@ msgstr "Ďalšie prispôsobenie"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
-msgid "Standard collections"
-msgstr "Štandardné zbierky"
+msgid "Installation collections"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1577,6 +1577,9 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr ""
+
+#~ msgid "Standard collections"
+#~ msgstr "Štandardné zbierky"
 
 #~ msgid "ConTeXt format"
 #~ msgstr "Formát ConTeXtu"

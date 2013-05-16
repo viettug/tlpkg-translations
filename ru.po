@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-14 03:46+0200\n"
+"POT-Creation-Date: 2013-05-16 03:51+0200\n"
 "PO-Revision-Date: 2013-05-13 20:05+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
@@ -526,8 +526,8 @@ msgstr "Дополнительные настройки"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
-msgid "Standard collections"
-msgstr "Стандартные коллекции"
+msgid "Installation collections"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1595,6 +1595,9 @@ msgstr "Вспомогательные программы, только для W
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX и пакеты"
+
+#~ msgid "Standard collections"
+#~ msgstr "Стандартные коллекции"
 
 #~ msgid "ConTeXt format"
 #~ msgstr "формат ConTeXt"
