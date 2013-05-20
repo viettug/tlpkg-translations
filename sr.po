@@ -527,7 +527,7 @@ msgstr "Додатна подешавања"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr "Колекције за инсталацију"
+msgstr "Колекције пакета и програма"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
