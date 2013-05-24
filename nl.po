@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-16 03:51+0200\n"
+"POT-Creation-Date: 2013-05-24 03:45+0200\n"
 "PO-Revision-Date: 2013-05-18 10:13+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -389,7 +389,10 @@ msgstr "Installeren"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Zie %s/index.html voor links naar documentatie.\n"
 "De TeX Live web site (http://tug.org/texlive/) bevat\n"
@@ -483,7 +486,8 @@ msgstr "Kies een andere mirror."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being "
+"accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
@@ -616,7 +620,8 @@ msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
-"Rechts-klik install-tl-advanced en selekteer \"Als administrator uitvoeren\"\n"
+"Rechts-klik install-tl-advanced en selekteer \"Als administrator uitvoeren"
+"\"\n"
 "als u voor alle gebruikers wilt installeren."
 
 #: tlpkg/installer/install-menu-perltk.pl:568
@@ -735,7 +740,8 @@ msgid ""
 msgstr ""
 "U heeft geen permissie om ook maar iets aan de installatie te wijzigen,\n"
 "in het bijzonder, u heeft geen schrijfrechten voor de folder %s.\n"
-"Draai dit programma als Administrator, of neem contact op met uw lokale systeembeheerder.\n"
+"Draai dit programma als Administrator, of neem contact op met uw lokale "
+"systeembeheerder.\n"
 "\n"
 "De meeste knoppen zijn gedeactiveerd."
 
@@ -936,7 +942,9 @@ msgstr "Deaktiveer automatische installatie van nieuwe pakketten"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:557
 msgid "Disable auto-removal of server-deleted packages"
-msgstr "Deaktiveer automatische verwijdering van pakketten die op de server zijn verwijderd"
+msgstr ""
+"Deaktiveer automatische verwijdering van pakketten die op de server zijn "
+"verwijderd"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:564
 msgid "Update filename database"
@@ -1272,7 +1280,8 @@ msgstr ""
 msgid ""
 "Updates for the tlmgr are present.\n"
 "Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this dialogue.\n"
+"Please select \"Update all installed\" button after dismissing this "
+"dialogue.\n"
 "\n"
 "The program will terminate after the update.\n"
 "Then you can restart the program for further updates."
@@ -1287,11 +1296,16 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2287
 #, perl-format
 msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr "Nog minstens %s verdere updates komen beschikbaar na bijwerken van tlmgr"
+msgstr ""
+"Nog minstens %s verdere updates komen beschikbaar na bijwerken van tlmgr"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2289
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan worden voltooid."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Wacht aub. even nadat het programma is geeindigd, zodat het bijwerken kan "
+"worden voltooid."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2363
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2365
@@ -1456,8 +1470,8 @@ msgid "Arabic"
 msgstr "Arabisch"
 
 #: tlpkg/translations/shortdesc.pl:25
-msgid "Chinese/Japanese/Korean/Thai"
-msgstr "Chinees/Japans/Koreaans/Thai"
+msgid "Chinese/Japanese/Korean"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1574,6 +1588,9 @@ msgstr "Ondersteunende programma's specifiek voor Windows"
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX en bijbehorende pakketten"
+
+#~ msgid "Chinese/Japanese/Korean/Thai"
+#~ msgstr "Chinees/Japans/Koreaans/Thai"
 
 #~ msgid "Standard collections"
 #~ msgstr "Standaard-collecties"

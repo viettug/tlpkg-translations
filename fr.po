@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-16 03:51+0200\n"
+"POT-Creation-Date: 2013-05-24 03:45+0200\n"
 "PO-Revision-Date: 2012-06-09 12:06+0200\n"
 "Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1476,7 +1476,7 @@ msgid "Arabic"
 msgstr "Arabe"
 
 #: tlpkg/translations/shortdesc.pl:25
-msgid "Chinese/Japanese/Korean/Thai"
+msgid "Chinese/Japanese/Korean"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26

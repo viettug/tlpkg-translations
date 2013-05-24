@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-17 03:39+0200\n"
+"POT-Creation-Date: 2013-05-24 03:45+0200\n"
 "PO-Revision-Date: 2013-05-16 19:10+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1479,8 +1479,8 @@ msgid "Arabic"
 msgstr "Арапски"
 
 #: tlpkg/translations/shortdesc.pl:25
-msgid "Chinese/Japanese/Korean/Thai"
-msgstr "Кинески, јапански, корејски, тајландски"
+msgid "Chinese/Japanese/Korean"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1597,6 +1597,9 @@ msgstr "Помоћни програми за Windows"
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "Chinese/Japanese/Korean/Thai"
+#~ msgstr "Кинески, јапански, корејски, тајландски"
 
 #~ msgid "Standard collections"
 #~ msgstr "Стандардне колекције"
