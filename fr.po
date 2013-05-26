@@ -1,14 +1,15 @@
 #
 #
-# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012.
 # Bitouzé Denis <dbitouze@wanadoo.fr>, 2013.
+# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012, 2013.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-16 03:51+0200\n"
-"PO-Revision-Date: 2013-05-21 08:49+0200\n"
-"Last-Translator: Bitouzé Denis <dbitouze@wanadoo.fr>\n"
+"PO-Revision-Date: 2013-05-26 11:32+0200\n"
+"Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: UTF-8\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: s\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Gtranslator 2.91.5\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:244
@@ -1403,7 +1404,7 @@ msgstr "Schéma TeX Live du GUST"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr "Schéma moyen (petit avec plus de paquet et langues)"
+msgstr "Schéma moyen (petit avec plus de paquets et langues)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
