@@ -1,20 +1,22 @@
 #
-# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012.
 #
+# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012.
+# Bitouzé Denis <dbitouze@wanadoo.fr>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2013-05-24 03:45+0200\n"
-"PO-Revision-Date: 2012-06-09 12:06+0200\n"
-"Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
+"POT-Creation-Date: 2013-05-16 03:51+0200\n"
+"PO-Revision-Date: 2013-05-21 08:49+0200\n"
+"Last-Translator: Bitouzé Denis <dbitouze@wanadoo.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: UTF-8\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: s\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:150
 #: tlpkg/installer/install-menu-perltk.pl:244
@@ -418,6 +420,10 @@ msgid ""
 "Most importantly, add %s/bin/%s\n"
 "to your PATH for current and future sessions."
 msgstr ""
+"Veuillez ajouter %s/texmf/doc/man à votre MANPATH\n"
+"et %s/texmf/doc/info à votre INFOPATH,\n"
+"mais surtout, ajoutez %s/bin/%s\n"
+"à votre PATH, pour cette session et les prochaines."
 
 #: tlpkg/installer/install-menu-wizard.pl:736
 #: tlpkg/installer/install-menu-perltk.pl:604
@@ -524,7 +530,7 @@ msgstr "Personnalisation avancée"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr ""
+msgstr "Installation des collections"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1155,7 +1161,7 @@ msgstr "Destination des liens pour les pages de man"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1215
 msgid "Create shortcuts on the desktop"
-msgstr ""
+msgstr "Ajouter des raccourcis sur le bureau"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1224
 msgid "Install for all users"
@@ -1421,7 +1427,7 @@ msgstr "Programmes et fichiers essentiels"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
-msgstr ""
+msgstr "Styles BibTeX additionnels"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
@@ -1429,11 +1435,11 @@ msgstr "Programmes auxiliaires pour TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr ""
+msgstr "ConTeXt et paquets associés"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
-msgstr ""
+msgstr "Fontes additionnelles"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
@@ -1445,7 +1451,7 @@ msgstr "Utilitaires pour les graphiques et les fontes"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
-msgstr ""
+msgstr "Formats additionnels"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
@@ -1453,11 +1459,11 @@ msgstr "Composition des jeux"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
-msgstr ""
+msgstr "Paquets génériques additionnels"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Generic recommended packages"
-msgstr ""
+msgstr "Paquets génériques recommandés"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "HTML/SGML/XML support"
@@ -1476,8 +1482,8 @@ msgid "Arabic"
 msgstr "Arabe"
 
 #: tlpkg/translations/shortdesc.pl:25
-msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgid "Chinese/Japanese/Korean/Thai"
+msgstr "Chinois/Japonais/Coréen/Thaï"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1493,7 +1499,7 @@ msgstr "Anglais britannique et américain"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr ""
+msgstr "Autres langues européennes"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
@@ -1517,7 +1523,7 @@ msgstr "Italien"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr ""
+msgstr "Autres langues"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
@@ -1533,11 +1539,11 @@ msgstr "Espagnol"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
-msgstr ""
+msgstr "Paquets LaTeX essentiels"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX additional packages"
-msgstr ""
+msgstr "Paquets LaTeX additionnels"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
@@ -1549,15 +1555,15 @@ msgstr "Paquets LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Mathematics packages"
-msgstr ""
+msgstr "Paquets pour les mathématiques"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "MetaPost and Metafont packages"
-msgstr ""
+msgstr "Paquets pour MetaPost et Metafont"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Music packages"
-msgstr ""
+msgstr "Paquets pour la musique"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
@@ -1565,23 +1571,23 @@ msgstr "Paquets pour Omega"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Graphics, pictures, diagrams"
-msgstr ""
+msgstr "Graphiques, images, diagrammes"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Plain TeX packages"
-msgstr ""
+msgstr "Paquets Plain TeX"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
-msgstr ""
+msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Publisher styles, theses, etc."
-msgstr ""
+msgstr "Styles de maisons d'édition, de thèses, etc."
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
-msgstr ""
+msgstr "Sciences naturelles et informatique"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "TeXworks editor"
@@ -1589,11 +1595,11 @@ msgstr "L'éditeur TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Windows-only support programs"
-msgstr ""
+msgstr "Programmes pour le support de Windows seulement"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
-msgstr ""
+msgstr "XeTeX et paquets associés"
 
 #~ msgid "Standard collections"
 #~ msgstr "Collections standards"
