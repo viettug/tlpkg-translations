@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-24 03:45+0200\n"
-"PO-Revision-Date: 2013-05-17 04:58+0100\n"
+"PO-Revision-Date: 2013-05-26 18:56+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -169,7 +169,7 @@ msgstr "Abbruch"
 #: tlpkg/installer/install-menu-wizard.pl:401
 #: tlpkg/installer/install-menu-perltk.pl:298
 msgid "Could not load remote TeX Live Database:"
-msgstr "Konnte die remote Datenbank von TeX Live nicht laden"
+msgstr "Konnte die Netzwerk-Datenbank von TeX Live nicht laden"
 
 #: tlpkg/installer/install-menu-wizard.pl:402
 #: tlpkg/installer/install-menu-wizard.pl:409
@@ -1479,7 +1479,7 @@ msgstr "Arabisch"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgstr "Chinesisch/Japanisch/Koreanisch"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
