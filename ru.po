@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-24 03:45+0200\n"
-"PO-Revision-Date: 2013-05-13 20:05+0900\n"
+"PO-Revision-Date: 2013-05-26 14:43+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@gmail.com>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
 "Language: ru\n"
@@ -527,7 +527,7 @@ msgstr "Дополнительные настройки"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr ""
+msgstr "Коллекции для установки"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1430,7 +1430,7 @@ msgstr "Вспомогательные программы TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr ""
+msgstr "ConTeXt и пакеты"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1478,7 +1478,7 @@ msgstr "Арабский"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgstr "Китайский/Японский/Корейский"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
