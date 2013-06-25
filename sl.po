@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2013-05-24 03:45+0200\n"
-"PO-Revision-Date: 2013-05-13 09:39+0100\n"
+"PO-Revision-Date: 2013-05-30 10:00+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: sl\n"
@@ -535,7 +535,7 @@ msgstr "Napredne nastavitve"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr ""
+msgstr "Izbrane zbirke paketov"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -1492,7 +1492,7 @@ msgstr "Pomožni programi za TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr ""
+msgstr "ConTeXt s paketi"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1532,68 +1532,67 @@ msgstr "Paketi za družboslovce"
 
 #: tlpkg/translations/shortdesc.pl:23
 msgid "African scripts"
-msgstr "afriški"
+msgstr "Afriške pisave"
 
 #: tlpkg/translations/shortdesc.pl:24
 msgid "Arabic"
-msgstr "arabski"
+msgstr "Arabske pisave"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgstr "Kitajščina, japonščina, korejščina"
 
 #: tlpkg/translations/shortdesc.pl:26
-#, fuzzy
 msgid "Cyrillic"
-msgstr "v cirilici"
+msgstr "Cirilica"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Czech/Slovak"
-msgstr "češki in slovaški"
+msgstr "Češčina in slovaščina"
 
 #: tlpkg/translations/shortdesc.pl:28
 msgid "US and UK English"
-msgstr "angleški"
+msgstr "Angleščina & angl. priročniki"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr "ostali evropski jeziki"
+msgstr "Ostali evropski jeziki"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
-msgstr "francoski"
+msgstr "Francoščina"
 
 #: tlpkg/translations/shortdesc.pl:31
 msgid "German"
-msgstr "nemški"
+msgstr "Nemščina"
 
 #: tlpkg/translations/shortdesc.pl:32
 msgid "Greek"
-msgstr "grški"
+msgstr "Grščina"
 
 #: tlpkg/translations/shortdesc.pl:33
 msgid "Indic scripts"
-msgstr "indijski"
+msgstr "Indijske pisave"
 
 #: tlpkg/translations/shortdesc.pl:34
 msgid "Italian"
-msgstr "italijanski"
+msgstr "Italijanščina"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr "ostali jeziki"
+msgstr "Ostali jeziki"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
-msgstr "poljski"
+msgstr "Poljščina"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Portuguese"
-msgstr "portugalski"
+msgstr "Portugalščina"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Spanish"
-msgstr "španski"
+msgstr "Španščina"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
@@ -1659,207 +1658,3 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
-
-#~ msgid "Chinese/Japanese/Korean/Thai"
-#~ msgstr "kitajski, japonski, korejski in tajski"
-
-#~ msgid "Standard collections"
-#~ msgstr "Standardne zbirke"
-
-#~ msgid "ConTeXt format"
-#~ msgstr "ConTeXt s paketi"
-
-#~ msgid "Language collections"
-#~ msgstr "Podpora jezikom"
-
-#~ msgid "Select language support"
-#~ msgstr "Jezikovni paketi in delilni vzorci"
-
-#~ msgid "(no language collection selected!)"
-#~ msgstr "(Nobena jezikovna zbirka ni izbrana!)"
-
-#~ msgid "Extra BibTeX styles"
-#~ msgstr "Dodatni slogi za BibTeX"
-
-#~ msgid "Extra fonts"
-#~ msgstr "Dodatne pisave"
-
-#~ msgid "Extra formats"
-#~ msgstr "Dodatni formati"
-
-#~ msgid "Extra generic packages"
-#~ msgstr "Dodatni priporočeni paketi"
-
-#, fuzzy
-#~ msgid "Recommended generic packages"
-#~ msgstr "Priporočeni paketi"
-
-#~ msgid "LaTeX supplementary packages"
-#~ msgstr "Dodatni paketi za LaTeX"
-
-#~ msgid "Advanced math typesetting"
-#~ msgstr "Napredno stavljenje matematičnih formul"
-
-#~ msgid "Music typesetting"
-#~ msgstr "Stavljenje glasbe"
-
-#~ msgid "GNU Texinfo"
-#~ msgstr "GNU Texinfo"
-
-#~ msgid "XeTeX packages"
-#~ msgstr "Paketi za XeTeX"
-
-#~ msgid "Croatian"
-#~ msgstr "hrvaški"
-
-#~ msgid "Danish"
-#~ msgstr "danski"
-
-#~ msgid "Dutch"
-#~ msgstr "nizozemski"
-
-#~ msgid "Finnish"
-#~ msgstr "finski"
-
-#~ msgid "Hebrew"
-#~ msgstr "hebrejski"
-
-#~ msgid "Hungarian"
-#~ msgstr "madžarski"
-
-#~ msgid "Latin"
-#~ msgstr "latinski"
-
-#~ msgid "Latvian"
-#~ msgstr "latvijski"
-
-#~ msgid "Lithuanian"
-#~ msgstr "litvanski"
-
-#~ msgid "Mongolian"
-#~ msgstr "mongolski"
-
-#~ msgid "Norwegian"
-#~ msgstr "norveški"
-
-#~ msgid "Swedish"
-#~ msgstr "švedski"
-
-#~ msgid "Tibetan"
-#~ msgstr "tibetanski"
-
-#~ msgid "Vietnamese"
-#~ msgstr "vietnamski"
-
-#~ msgid "MetaPost (and Metafont) drawing packages"
-#~ msgstr "Paketi za risanje v MetaPost-u (in Metafont-u)"
-
-#~ msgid "Plain TeX supplementary packages"
-#~ msgstr "Dodatni paketi za plain TeX"
-
-#~ msgid "Select language-specific documentation"
-#~ msgstr "Prevodi dokumentacije"
-
-#~ msgid "Arabic documentation"
-#~ msgstr "arabski"
-
-#, fuzzy
-#~ msgid "TeX Live documentation"
-#~ msgstr "Angleška dokumentacija za TeX Live"
-
-#~ msgid "Bulgarian documentation"
-#~ msgstr "bolgarski"
-
-#~ msgid "Chinese documentation"
-#~ msgstr "kitajski"
-
-#~ msgid "Czech/Slovak documentation"
-#~ msgstr "češko-slovaški"
-
-#~ msgid "Dutch documentation"
-#~ msgstr "nizozemski"
-
-#~ msgid "English documentation"
-#~ msgstr "angleški"
-
-#~ msgid "Finnish documentation"
-#~ msgstr "finski"
-
-#~ msgid "French documentation"
-#~ msgstr "francoski"
-
-#~ msgid "German documentation"
-#~ msgstr "nemški"
-
-#~ msgid "Italian documentation"
-#~ msgstr "italijanski"
-
-#~ msgid "Japanese documentation"
-#~ msgstr "japonski"
-
-#~ msgid "Korean documentation"
-#~ msgstr "korejski"
-
-#~ msgid "Mongolian documentation"
-#~ msgstr "mongolski"
-
-#~ msgid "Polish documentation"
-#~ msgstr "poljski"
-
-#~ msgid "Portuguese documentation"
-#~ msgstr "portugalski"
-
-#~ msgid "Russian documentation"
-#~ msgstr "ruski"
-
-#~ msgid "Serbian documentation"
-#~ msgstr "srbski"
-
-#~ msgid "Slovenian documentation"
-#~ msgstr "slovenski"
-
-#~ msgid "Spanish documentation"
-#~ msgstr "španski"
-
-#~ msgid "Thai documentation"
-#~ msgstr "tajski"
-
-#~ msgid "Turkish documentation"
-#~ msgstr "turški"
-
-#~ msgid "Ukrainian documentation"
-#~ msgstr "ukrajinski"
-
-#~ msgid "Vietnamese documentation"
-#~ msgstr "vietnamski"
-
-#~ msgid "Chinese, Japanese, Korean"
-#~ msgstr "kitajski, japonski, korejski"
-
-#~ msgid "Other hyphenation patterns"
-#~ msgstr "ostali delilni vzorci"
-
-#~ msgid "Turkmen"
-#~ msgstr "turkmenistanski"
-
-#~ msgid "Basic LaTeX packages"
-#~ msgstr "Osnovni paketi za LaTeX"
-
-#~ msgid "Graphics packages and programs"
-#~ msgstr "Grafični paketi in programi"
-
-#~ msgid "PSTricks packages"
-#~ msgstr "Paketi za PSTricks"
-
-#~ msgid "Support for publishers, theses, standards, conferences, etc."
-#~ msgstr "Paketi za založnike, dizertacije, standarde, konference, itd."
-
-#~ msgid "Typesetting for natural and computer sciences"
-#~ msgstr "Paketi za naravoslovce"
-
-#, fuzzy
-#~ msgid "Windows support programs"
-#~ msgstr "Dodatni programi za Okna"
-
-#~ msgid "Armenian"
-#~ msgstr "armenski"
