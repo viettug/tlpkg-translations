@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-01-15 03:23+0100\n"
+"POT-Creation-Date: 2014-01-24 03:20+0100\n"
 "PO-Revision-Date: 2013-05-30 10:00+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -166,9 +166,9 @@ msgstr "To utegne trajati nekaj časa."
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1766
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1803
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1836
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2478
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2515
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2577
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2485
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2522
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "Cancel"
 msgstr "Prekliči"
 
@@ -222,9 +222,9 @@ msgstr "Ciljni imenik:"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1240
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1586
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2447
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2452
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2449
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2454
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2459
 msgid "Change"
 msgstr "Spremeni"
 
@@ -283,12 +283,11 @@ msgstr "Nastavite pot do"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1948
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1979
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2287
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2341
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2367
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2475
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2513
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2572
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2657
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2348
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2374
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2482
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2683
 msgid "Ok"
 msgstr "V redu"
 
@@ -475,6 +474,7 @@ msgid "letter"
 msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:291
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 msgid "Load"
 msgstr "Naloži"
 
@@ -489,8 +489,8 @@ msgstr "Naloži"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1946
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1977
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2287
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2341
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2657
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2348
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2683
 msgid "Warning"
 msgstr "Opozorilo"
 
@@ -770,7 +770,7 @@ msgid "Load default"
 msgstr "Naloži privzeti repozitorij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:293
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2607
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2633
 msgid "Loaded repository:"
 msgstr "Naložen repozitorij:"
 
@@ -913,7 +913,7 @@ msgid "Actions"
 msgstr "Akcije"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:505
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2682
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2708
 msgid "Help"
 msgstr "Pomoč"
 
@@ -921,7 +921,7 @@ msgstr "Pomoč"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1107
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1274
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1689
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2629
 msgid "multiple repositories"
 msgstr "več repozitorijev"
 
@@ -935,7 +935,7 @@ msgid "Load cmd line repository:"
 msgstr "Naloži privzeti oddaljeni repozitorij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:523
-msgid "Load net repository:"
+msgid "Load standard net repository:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:526
@@ -995,13 +995,13 @@ msgstr "Posodobi mapiranja za pisave"
 
 # Prikliči?
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:599
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2351
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 #, fuzzy
 msgid "Restore packages from backup"
 msgstr "Obnovi pakete iz varnostne kopije"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:605
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2433
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2440
 #, fuzzy
 msgid "Handle symlinks in system dirs"
 msgstr "Namesti simbolne povezave v sistemske mape"
@@ -1045,7 +1045,7 @@ msgid "Details on:"
 msgstr "Podrobnosti:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:670
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2375
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 msgid "Package:"
 msgstr "Paket:"
 
@@ -1189,17 +1189,17 @@ msgid "Auto backup setting"
 msgstr "Število samodejno obdržanih starih verzij paketov"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1192
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2440
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2447
 msgid "Link destination for programs"
 msgstr "Ciljna povezava za programe"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1200
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2445
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2452
 msgid "Link destination for info docs"
 msgstr "Ciljna povezava za dokumentacijo"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1208
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2450
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2457
 #, fuzzy
 msgid "Link destination for man pages"
 msgstr "Ciljna povezava za dokumentacijo (man pages)"
@@ -1257,8 +1257,7 @@ msgid "Changes will take effect after restart"
 msgstr "Spremembe bodo upoštevane po ponovnem zagonu"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1492
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2559
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2511
 msgid "Choose Directory"
 msgstr "Izberi imenik"
 
@@ -1343,25 +1342,23 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2288
 msgid ""
-"Updates for the tlmgr are present.\n"
-"Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"The TeX Live manager (the software you're currently running)\n"
+"needs to be updated before any other updates can be done.\n"
 "\n"
-"The program will terminate after the update.\n"
-"Then you can restart the program for further updates."
+"Please do this by clicking the \"Update all installed\" button,\n"
+"after dismissing this dialogue.\n"
+"\n"
+"After the update, the TeX Live manager will terminate.\n"
+"You can then restart it to proceed with further updates."
 msgstr ""
-"Na voljo so posodobitve za program \"tlmgr\", ki ga trenutnouporabljate.\n"
-"Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
-"preden v zavihku \"Posodobitve\" ne izberete \"Posodobi vse\".\n"
-"Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2290
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2297
 #, perl-format
-msgid "At least %s further updates are available after tlmgr has been updated."
-msgstr "Na voljo je vsaj %s posodobljenih paketov"
+msgid ""
+"(At least %s further updates are available after tlmgr has been updated.)"
+msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2292
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2299
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
@@ -1369,71 +1366,79 @@ msgstr ""
 "Prosimo počakajte še trenutek po zaključku programa, da se posodobitev "
 "zaključi."
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2366
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2368
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2373
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2375
 #, fuzzy
 msgid "Restore completed"
 msgstr "Popolna odstranitev programa končana."
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2373
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2380
 msgid "Select the package to restore, or restore all packages"
 msgstr "Izberi paket za obnovo ali obnovi vse pakete"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2389
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2396
 #, fuzzy
 msgid "Revision:"
 msgstr "Verzija:"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2394
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2401
 #, fuzzy
 msgid "Restore selected package"
 msgstr "Izberi pakete"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2410
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2417
 #, fuzzy
 msgid "Restore all package to latest version"
 msgstr "Ponastavi vse pakete na zadnjo verzijo"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2433
 msgid "Close"
 msgstr "Zapri"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2458
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2465
 msgid "Update symbolic links"
 msgstr "Posodobi simbolne povezave"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2465
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2472
 msgid "Remove symbolic links"
 msgstr "Odstrani simbolne povezave"
 
 # spremeni direktorij
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2498
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2505
 msgid "Edit directory"
 msgstr "Uredi direktorij"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2501
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2508
 msgid "New value for"
 msgstr "Nova vrednost za"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2533
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2541
 #, fuzzy
 msgid "Load package repository"
 msgstr "Spremeni lokacijo repozitorija s paketi"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2536
-#, fuzzy
-msgid "Package repository:"
-msgstr "Nov repozitorij s paketi:"
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2544
+msgid "Load this package repository:"
+msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2566
-msgid "Default net package repository"
-msgstr "Privzeti spletni repozitorij"
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2570
+msgid "Choose local directory"
+msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2651
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2578
+msgid "Use standard net repository"
+msgstr ""
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2594
+msgid ""
+"Loading remote repository - this may take some time, please be patient ..."
+msgstr ""
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2677
 msgid "Completed"
 msgstr "Končano"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2658
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2684
 #, fuzzy, perl-format
 msgid ""
 "Running %s failed.\n"
@@ -1661,6 +1666,31 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
+
+#~ msgid ""
+#~ "Updates for the tlmgr are present.\n"
+#~ "Installation and upgrades won't work without being forced.\n"
+#~ "Please select \"Update all installed\" button after dismissing this "
+#~ "dialogue.\n"
+#~ "\n"
+#~ "The program will terminate after the update.\n"
+#~ "Then you can restart the program for further updates."
+#~ msgstr ""
+#~ "Na voljo so posodobitve za program \"tlmgr\", ki ga trenutnouporabljate.\n"
+#~ "Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
+#~ "preden v zavihku \"Posodobitve\" ne izberete \"Posodobi vse\".\n"
+#~ "Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
+
+#~ msgid ""
+#~ "At least %s further updates are available after tlmgr has been updated."
+#~ msgstr "Na voljo je vsaj %s posodobljenih paketov"
+
+#, fuzzy
+#~ msgid "Package repository:"
+#~ msgstr "Nov repozitorij s paketi:"
+
+#~ msgid "Default net package repository"
+#~ msgstr "Privzeti spletni repozitorij"
 
 #~ msgid ""
 #~ "Loading local TeX Live database;\n"

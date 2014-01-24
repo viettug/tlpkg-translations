@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-01-15 03:23+0100\n"
+"POT-Creation-Date: 2014-01-24 03:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,9 +157,9 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1766
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1803
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1836
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2478
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2515
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2577
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2485
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2522
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "Cancel"
 msgstr ""
 
@@ -208,9 +208,9 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1240
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1586
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2447
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2452
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2449
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2454
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2459
 msgid "Change"
 msgstr ""
 
@@ -265,12 +265,11 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1948
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1979
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2287
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2341
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2367
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2475
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2513
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2572
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2657
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2348
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2374
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2482
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2683
 msgid "Ok"
 msgstr ""
 
@@ -437,6 +436,7 @@ msgid "letter"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:291
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 msgid "Load"
 msgstr ""
 
@@ -451,8 +451,8 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1946
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1977
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2287
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2341
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2657
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2348
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2683
 msgid "Warning"
 msgstr ""
 
@@ -709,7 +709,7 @@ msgid "Load default"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:293
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2607
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2633
 msgid "Loaded repository:"
 msgstr ""
 
@@ -840,7 +840,7 @@ msgid "Actions"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:505
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2682
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2708
 msgid "Help"
 msgstr ""
 
@@ -848,7 +848,7 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1107
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1274
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1689
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2629
 msgid "multiple repositories"
 msgstr ""
 
@@ -861,7 +861,7 @@ msgid "Load cmd line repository:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:523
-msgid "Load net repository:"
+msgid "Load standard net repository:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:526
@@ -914,12 +914,12 @@ msgid "Update font map database"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:599
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2351
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 msgid "Restore packages from backup"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:605
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2433
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2440
 msgid "Handle symlinks in system dirs"
 msgstr ""
 
@@ -958,7 +958,7 @@ msgid "Details on:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:670
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2375
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 msgid "Package:"
 msgstr ""
 
@@ -1089,17 +1089,17 @@ msgid "Auto backup setting"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1192
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2440
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2447
 msgid "Link destination for programs"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1200
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2445
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2452
 msgid "Link destination for info docs"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1208
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2450
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2457
 msgid "Link destination for man pages"
 msgstr ""
 
@@ -1154,8 +1154,7 @@ msgid "Changes will take effect after restart"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1492
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2559
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2511
 msgid "Choose Directory"
 msgstr ""
 
@@ -1233,84 +1232,95 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2288
 msgid ""
-"Updates for the tlmgr are present.\n"
-"Installation and upgrades won't work without being forced.\n"
-"Please select \"Update all installed\" button after dismissing this "
-"dialogue.\n"
+"The TeX Live manager (the software you're currently running)\n"
+"needs to be updated before any other updates can be done.\n"
 "\n"
-"The program will terminate after the update.\n"
-"Then you can restart the program for further updates."
+"Please do this by clicking the \"Update all installed\" button,\n"
+"after dismissing this dialogue.\n"
+"\n"
+"After the update, the TeX Live manager will terminate.\n"
+"You can then restart it to proceed with further updates."
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2290
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2297
 #, perl-format
-msgid "At least %s further updates are available after tlmgr has been updated."
+msgid ""
+"(At least %s further updates are available after tlmgr has been updated.)"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2292
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2299
 msgid ""
 "Please wait a bit after the program has terminated so that the update can be "
 "completed."
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2366
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2368
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2373
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2375
 msgid "Restore completed"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2373
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2380
 msgid "Select the package to restore, or restore all packages"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2389
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2396
 msgid "Revision:"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2394
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2401
 msgid "Restore selected package"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2410
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2417
 msgid "Restore all package to latest version"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2433
 msgid "Close"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2458
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2465
 msgid "Update symbolic links"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2465
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2472
 msgid "Remove symbolic links"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2498
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2505
 msgid "Edit directory"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2501
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2508
 msgid "New value for"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2533
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2541
 msgid "Load package repository"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2536
-msgid "Package repository:"
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2544
+msgid "Load this package repository:"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2566
-msgid "Default net package repository"
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2570
+msgid "Choose local directory"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2651
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2578
+msgid "Use standard net repository"
+msgstr ""
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2594
+msgid ""
+"Loading remote repository - this may take some time, please be patient ..."
+msgstr ""
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2677
 msgid "Completed"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2658
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2684
 #, perl-format
 msgid ""
 "Running %s failed.\n"
