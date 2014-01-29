@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-01-27 03:22+0100\n"
+"POT-Creation-Date: 2014-01-29 03:25+0100\n"
 "PO-Revision-Date: 2013-05-30 10:00+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -71,9 +71,9 @@ msgstr "Izhod"
 #: tlpkg/installer/install-menu-wizard.pl:368
 #: tlpkg/installer/install-menu-wizard.pl:420
 #: tlpkg/installer/install-menu-wizard.pl:427
-#: tlpkg/installer/install-menu-wizard.pl:504
-#: tlpkg/installer/install-menu-wizard.pl:613
-#: tlpkg/installer/install-menu-wizard.pl:658
+#: tlpkg/installer/install-menu-wizard.pl:505
+#: tlpkg/installer/install-menu-wizard.pl:614
+#: tlpkg/installer/install-menu-wizard.pl:659
 msgid "< Back"
 msgstr "< Nazaj"
 
@@ -81,8 +81,8 @@ msgstr "< Nazaj"
 #: tlpkg/installer/install-menu-wizard.pl:229
 #: tlpkg/installer/install-menu-wizard.pl:300
 #: tlpkg/installer/install-menu-wizard.pl:369
-#: tlpkg/installer/install-menu-wizard.pl:505
-#: tlpkg/installer/install-menu-wizard.pl:614
+#: tlpkg/installer/install-menu-wizard.pl:506
+#: tlpkg/installer/install-menu-wizard.pl:615
 msgid "Next >"
 msgstr "Naprej >"
 
@@ -182,8 +182,7 @@ msgid "This will take some time!"
 msgstr "To utegne trajati nekaj časa."
 
 #: tlpkg/installer/install-menu-wizard.pl:414
-#: tlpkg/installer/install-menu-wizard.pl:537
-#: tlpkg/installer/install-menu-wizard.pl:705
+#: tlpkg/installer/install-menu-wizard.pl:538
 #: tlpkg/installer/install-menu-perltk.pl:591
 #: tlpkg/installer/install-menu-perltk.pl:675
 #: tlpkg/installer/install-menu-perltk.pl:707
@@ -234,12 +233,12 @@ msgstr ""
 "nameščena verzija: %s\n"
 "verzija na strežniku: %s"
 
-#: tlpkg/installer/install-menu-wizard.pl:454
-#: tlpkg/installer/install-menu-wizard.pl:639
+#: tlpkg/installer/install-menu-wizard.pl:455
+#: tlpkg/installer/install-menu-wizard.pl:640
 msgid "Destination folder:"
 msgstr "Ciljni imenik:"
 
-#: tlpkg/installer/install-menu-wizard.pl:456
+#: tlpkg/installer/install-menu-wizard.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:332
 #: tlpkg/installer/install-menu-perltk.pl:341
 #: tlpkg/installer/install-menu-perltk.pl:351
@@ -266,7 +265,7 @@ msgstr "Ciljni imenik:"
 msgid "Change"
 msgstr "Spremeni"
 
-#: tlpkg/installer/install-menu-wizard.pl:478
+#: tlpkg/installer/install-menu-wizard.pl:479
 #, fuzzy
 msgid ""
 "The destination folder will contain the installation.\n"
@@ -275,22 +274,22 @@ msgstr ""
 "Namestitev bo opravljena v ciljni imenik.\n"
 "Priporočljivo je uporabiti letnico na koncu imena."
 
-#: tlpkg/installer/install-menu-wizard.pl:500
+#: tlpkg/installer/install-menu-wizard.pl:501
 #: tlpkg/installer/install-menu-perltk.pl:992
 #, fuzzy
 msgid "disk space required:"
 msgstr "prostor na disku:"
 
-#: tlpkg/installer/install-menu-wizard.pl:520
+#: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:999
 msgid "(default not allowed or not writable - please change!)"
 msgstr "(nimate pravice za pisanje v ta direktorij - prosim spremenite ga!)"
 
-#: tlpkg/installer/install-menu-wizard.pl:530
+#: tlpkg/installer/install-menu-wizard.pl:531
 msgid "Enter path for"
 msgstr "Nastavite pot do"
 
-#: tlpkg/installer/install-menu-wizard.pl:534
+#: tlpkg/installer/install-menu-wizard.pl:535
 #: tlpkg/installer/install-menu-perltk.pl:301
 #: tlpkg/installer/install-menu-perltk.pl:309
 #: tlpkg/installer/install-menu-perltk.pl:674
@@ -328,11 +327,11 @@ msgstr "Nastavite pot do"
 msgid "Ok"
 msgstr "V redu"
 
-#: tlpkg/installer/install-menu-wizard.pl:586
+#: tlpkg/installer/install-menu-wizard.pl:587
 msgid "This screen allows you to configure some options"
 msgstr "Ta zaslon omogoča nastavitev nekaterih opcij"
 
-#: tlpkg/installer/install-menu-wizard.pl:631
+#: tlpkg/installer/install-menu-wizard.pl:632
 #, perl-format
 msgid ""
 "We are ready to install TeX Live %s.\n"
@@ -345,7 +344,7 @@ msgstr ""
 "Če bi radi karkoli spremenili, se vrnite nazaj,\n"
 "sicer pritisnite gumb \"Namesti\"."
 
-#: tlpkg/installer/install-menu-wizard.pl:647
+#: tlpkg/installer/install-menu-wizard.pl:648
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -369,7 +368,7 @@ msgstr ""
 msgid "Yes"
 msgstr "Da"
 
-#: tlpkg/installer/install-menu-wizard.pl:647
+#: tlpkg/installer/install-menu-wizard.pl:648
 #: tlpkg/installer/install-menu-perltk.pl:119
 #: tlpkg/installer/install-menu-perltk.pl:121
 #: tlpkg/installer/install-menu-perltk.pl:122
@@ -396,12 +395,12 @@ msgstr "Da"
 msgid "No"
 msgstr "Ne"
 
-#: tlpkg/installer/install-menu-wizard.pl:656
+#: tlpkg/installer/install-menu-wizard.pl:657
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:444
 msgid "Install"
 msgstr "Namesti"
 
-#: tlpkg/installer/install-menu-wizard.pl:711
+#: tlpkg/installer/install-menu-wizard.pl:712
 #: tlpkg/installer/install-menu-perltk.pl:599
 #, perl-format
 msgid ""
@@ -418,7 +417,7 @@ msgstr ""
 "Seznam društev uporabnikov TeX-a je na voljo na http://tug.org/usergroups."
 "html."
 
-#: tlpkg/installer/install-menu-wizard.pl:713
+#: tlpkg/installer/install-menu-wizard.pl:714
 #: tlpkg/installer/install-menu-perltk.pl:601
 #, perl-format
 msgid ""
@@ -431,7 +430,7 @@ msgstr ""
 "Dodajte %s/texmf-dist/doc/info v spremenljivko INFOPATH.\n"
 "Najpomembneje - dodajte %s/bin/%s v spremenljivko PATH."
 
-#: tlpkg/installer/install-menu-wizard.pl:716
+#: tlpkg/installer/install-menu-wizard.pl:717
 #: tlpkg/installer/install-menu-perltk.pl:604
 #, fuzzy
 msgid ""
@@ -441,12 +440,12 @@ msgstr ""
 "Med namestitvijo je prišlo do manjših težav.\n"
 "Tu je seznam opozoril:"
 
-#: tlpkg/installer/install-menu-wizard.pl:720
+#: tlpkg/installer/install-menu-wizard.pl:721
 #: tlpkg/installer/install-menu-perltk.pl:609
 msgid "Welcome to TeX Live!"
 msgstr "Dobrodošli v TeX Live-u!"
 
-#: tlpkg/installer/install-menu-wizard.pl:729
+#: tlpkg/installer/install-menu-wizard.pl:731
 #: tlpkg/installer/install-menu-perltk.pl:619
 msgid "Finish"
 msgstr "Konec"
