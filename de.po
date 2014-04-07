@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-02-02 03:25+0100\n"
-"PO-Revision-Date: 2013-05-26 18:56+0100\n"
+"PO-Revision-Date: 2014-04-07 06:41+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -720,11 +720,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:173
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Lade lokale TeX Live Datenbank"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:175
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Dies kann eine Weile dauern, bitte warten ..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:223
 msgid "Cannot load taxonomy file"
@@ -752,12 +752,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "Repository"
-msgstr ""
+msgstr "Quelle"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "Geladen:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 msgid "none"
@@ -778,7 +778,7 @@ msgstr "Multiple Quellen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:305
 msgid "Default:"
-msgstr ""
+msgstr "Standard:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:311
 msgid "Display configuration"
@@ -909,7 +909,7 @@ msgstr "Hilfe"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:529
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Lade Standard-Quelle (aus der tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:532
 msgid "Load cmd line repository:"
@@ -917,7 +917,7 @@ msgstr "Laden der Kommandozeilen-Installationsquelle:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:535
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Lade standardmäßiges Netz-Verzeichnis"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:538
 msgid "Load other repository ..."
@@ -1106,7 +1106,7 @@ msgstr "Weitere Informationen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:864
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Aktualisiere den TeX Live Manager"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1042
@@ -1305,12 +1305,21 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"Der TeX Live Manager (die Software, die gerade läuft)\n"
+"muss aktualisiert werden, bevor weitere Updates eingespielt werden können.\n"
+"\n"
+"Bitte tun sie dies durch das Klicken des \"Aktualisiere den TeX Live Manager"
+"\" Buttons,\n"
+"nachdem Sie diesen Dialog hier geschlossen haben.\n"
+"\n"
+"Nach dem Update wird der TeX Live Manager beendet.\n"
+"Sie können ihn dann nochmals starten, um weitere Updates einzuspielen."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
 msgid ""
 "(At least %s further updates are available after tlmgr has been updated.)"
-msgstr ""
+msgstr "(Mindestens %s weitere Updates sind nach dem tlmgr Update verfügbar.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1368,20 +1377,20 @@ msgstr "Laden der Installationsquelle"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Lade diese Paket-Quelle:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Wähle das lokale Verzeichnis"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Nutze die Standard-Netz Quelle"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
-msgstr ""
+msgstr "Lade remote Quelle - dies kann eine Weile dauern, bitte warten ..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
