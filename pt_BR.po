@@ -1,18 +1,18 @@
-# Brazilian Portuguese Translation for TeX Live 2012
+# Brazilian Portuguese Translation for TeX Live 2014
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-02-02 03:25+0100\n"
-"PO-Revision-Date: 2013-04-14 13:38-0300\n"
+"PO-Revision-Date: 2014-04-08 13:41-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
+"Language: pt_BR\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -528,7 +528,7 @@ msgstr "Personalização adicional"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr ""
+msgstr "Coleções da instalação"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -719,11 +719,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:173
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Carregando o banco de dados local do TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:175
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Esta operação pode levar algum tempo, por favor, seja paciente..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:223
 msgid "Cannot load taxonomy file"
@@ -751,12 +751,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "Repository"
-msgstr ""
+msgstr "Repositório"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "Carregado:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 msgid "none"
@@ -777,7 +777,7 @@ msgstr "repositórios múltiplos"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:305
 msgid "Default:"
-msgstr ""
+msgstr "Padrão:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:311
 msgid "Display configuration"
@@ -908,7 +908,7 @@ msgstr "Ajuda"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:529
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Carregar o repositório padrão (a partir de tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:532
 msgid "Load cmd line repository:"
@@ -916,7 +916,7 @@ msgstr "Carregar repositório de linha de comando:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:535
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Carregar o repositório de rede padrão:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:538
 msgid "Load other repository ..."
@@ -1107,7 +1107,7 @@ msgstr "Informação adicional"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:864
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Atualizar o gerenciador do TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1042
@@ -1306,12 +1306,23 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"O gerenciador do TeX Live (o software que você está executando no momento)\n"
+"precisa ser atualizado antes que outras atualizações sejam efetuadas.\n"
+"\n"
+"Por favor, atualize o gerenciador através do botão \"Atualizar o gerenciador "
+"do\n"
+"TeX Live\", após o encerramento desta caixa de diálogo.\n"
+"\n"
+"Após a atualização, o gerenciador do TeX Live irá encerrar-se.\n"
+"Você poderá então reiniciá-lo e proceder com atualizações adicionais."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
 msgid ""
 "(At least %s further updates are available after tlmgr has been updated.)"
 msgstr ""
+"(Pelo menos %s atualizações adicionais estão disponíveis após a atualização "
+"do tlmgr.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1368,20 +1379,22 @@ msgstr "Carregar repositório de pacotes"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Carregar este repositório padrão:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Escolher o diretório local"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Usar o repositório de rede padrão"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
+"Carregando o repositório remoto - este procedimento pode levar algum tempo, "
+"por favor, aguarde..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1440,7 +1453,7 @@ msgstr "Programas e arquivos essenciais"
 
 #: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
-msgstr ""
+msgstr "Estilos BibTeX adicionais"
 
 #: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
@@ -1448,11 +1461,11 @@ msgstr "Programas auxiliares TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr ""
+msgstr "ConTeXt e pacotes"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
-msgstr ""
+msgstr "Fontes adicionais"
 
 #: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
@@ -1464,7 +1477,7 @@ msgstr "Utilitários para gráficos e fontes"
 
 #: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
-msgstr ""
+msgstr "Formatos adicionais"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
@@ -1472,11 +1485,11 @@ msgstr "Typesetting de jogos"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
-msgstr ""
+msgstr "Pacotes genéricos adicionais"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Generic recommended packages"
-msgstr ""
+msgstr "Pacotes genéricos recomendados"
 
 #: tlpkg/translations/shortdesc.pl:21
 msgid "HTML/SGML/XML support"
@@ -1496,7 +1509,7 @@ msgstr "Árabe"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgstr "Chinês/Japonês/Coreano"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Cyrillic"
@@ -1512,7 +1525,7 @@ msgstr "Inglês Americano e Britânico"
 
 #: tlpkg/translations/shortdesc.pl:29
 msgid "Other European languages"
-msgstr ""
+msgstr "Outros idiomas europeus"
 
 #: tlpkg/translations/shortdesc.pl:30
 msgid "French"
@@ -1536,7 +1549,7 @@ msgstr "Italiano"
 
 #: tlpkg/translations/shortdesc.pl:35
 msgid "Other languages"
-msgstr ""
+msgstr "Outros idiomas"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Polish"
@@ -1552,11 +1565,11 @@ msgstr "Espanhol"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX fundamental packages"
-msgstr ""
+msgstr "Pacotes LaTeX fundamentais"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LaTeX additional packages"
-msgstr ""
+msgstr "Pacotes LaTeX adicionais"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "LaTeX recommended packages"
@@ -1568,15 +1581,15 @@ msgstr "Pacotes LuaTex"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Mathematics packages"
-msgstr ""
+msgstr "Pacotes matemáticos"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "MetaPost and Metafont packages"
-msgstr ""
+msgstr "Pacotes MetaPost e Metafont"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Music packages"
-msgstr ""
+msgstr "Pacotes musicais"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Omega packages"
@@ -1584,23 +1597,23 @@ msgstr "Pacotes Omega"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Graphics, pictures, diagrams"
-msgstr ""
+msgstr "Gráficos, imagens, diagramas"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Plain TeX packages"
-msgstr ""
+msgstr "Pacotes plain TeX"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "PSTricks"
-msgstr ""
+msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "Publisher styles, theses, etc."
-msgstr ""
+msgstr "Estilos de editoras, teses, etc."
 
 #: tlpkg/translations/shortdesc.pl:51
 msgid "Natural and computer sciences"
-msgstr ""
+msgstr "Ciências naturais e da computação"
 
 #: tlpkg/translations/shortdesc.pl:52
 msgid "TeXworks editor"
@@ -1608,11 +1621,11 @@ msgstr "editor TeXworks"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Windows-only support programs"
-msgstr ""
+msgstr "Programas de suporte exclusivos para Windows"
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "XeTeX and packages"
-msgstr ""
+msgstr "XeTeX e pacotes"
 
 #~ msgid "Loaded repository:"
 #~ msgstr "Repositório carregado:"
