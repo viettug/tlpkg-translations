@@ -1,21 +1,20 @@
 # Serbian/Cyrillic translation of TeX Live.
-# Copyright (C) 2010-2012 TeX Live Team
-# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2012.
+# Copyright (C) 2010-2014 TeX Live Team
+# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-02-02 03:25+0100\n"
-"PO-Revision-Date: 2013-05-29 03:54+0400\n"
+"PO-Revision-Date: 2014-04-27 03:00+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: Serbian Cyrillic\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Serbian\n"
 "X-Poedit-Country: Serbia\n"
 
@@ -398,17 +397,10 @@ msgstr "Инсталирај"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Линкови за документацију налазе се у %s/index.html.\n"
-"На Интернет-страници TeX Live-а (http://tug.org/texlive/) налазе се "
-"расположиве надоградње и исправке. TeX Live је заједнички пројекат група "
-"корисника TeX-а из свих делова света; молимо Вас да размотрите могућност "
-"подршке путем прикључивања групи која Вам највише одговара. Списак група "
-"налази се на Интернет-страници http://tug.org/usergroups.html."
+"На Интернет-страници TeX Live-а (http://tug.org/texlive/) налазе се расположиве надоградње и исправке. TeX Live је заједнички пројекат група корисника TeX-а из свих делова света; молимо Вас да размотрите могућност подршке путем прикључивања групи која Вам највише одговара. Списак група налази се на Интернет-страници http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:714
 #: tlpkg/installer/install-menu-perltk.pl:601
@@ -495,14 +487,12 @@ msgstr "Изаберите друго огледало (mirror)."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму "
-"нису компатибилне:\n"
+"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму нису компатибилне:\n"
 "          локална верзија: %s\n"
 "верзија са репозиторијума: %s\n"
 "Молимо Вас да изаберете друго огледало (mirror)."
@@ -723,11 +713,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:173
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Учитавање локалне TeX Live базе података"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:175
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Ово може да потраје неко време, будите стрпљиви..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:223
 msgid "Cannot load taxonomy file"
@@ -748,19 +738,18 @@ msgid ""
 msgstr ""
 "Немате овлашћења да промените инсталацију на било који начин,\n"
 "прецизније речено, у директоријум %s се не може уписивати.\n"
-"Покрените овај програм као администратор или се обратите надлежном "
-"администратору.\n"
+"Покрените овај програм као администратор или се обратите надлежном администратору.\n"
 "\n"
 "Највећи део дугмића биће неупотребљив."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "Repository"
-msgstr ""
+msgstr "Репозиторијум"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "учитани:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 msgid "none"
@@ -781,7 +770,7 @@ msgstr "група репозиторијума"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:305
 msgid "Default:"
-msgstr ""
+msgstr "подразумевани:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:311
 msgid "Display configuration"
@@ -912,7 +901,7 @@ msgstr "Помоћ"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:529
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Учитати подразумевани репозиторијум (са tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:532
 msgid "Load cmd line repository:"
@@ -920,7 +909,7 @@ msgstr "Учитај репозиторијум задат на командно
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:535
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Учитати стандардни репозиторијум са Интернета"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:538
 msgid "Load other repository ..."
@@ -1077,9 +1066,7 @@ msgstr "Колекција:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:747
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Упозорење: каталошке верзије могу да буду у заостатку или просто да буду "
-"погрешне."
+msgstr "Упозорење: каталошке верзије могу да буду у заостатку или просто да буду погрешне."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:785
 msgid "Depends:"
@@ -1111,7 +1098,7 @@ msgstr "Још података"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:864
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Инсталирати нову верзију TeX Live менаџера"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1042
@@ -1310,19 +1297,25 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"Надоградње је могуће наставити тек пошто се инсталира\n"
+"нова верзија TeX Live менаџера (овог програма).\n"
+"\n"
+"То можете да урадите притиском на дугме „Инсталирати\n"
+"нову верзију TeX Live менаџера“ после затварања овог\n"
+"прозора.\n"
+"\n"
+"Након сопствене надоградње, TeX Live Manager ће се искључити.\n"
+"Поново га покрените како бисте наставили са уобичајеним\n"
+"надоградњама."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
-msgid ""
-"(At least %s further updates are available after tlmgr has been updated.)"
-msgstr ""
+msgid "(At least %s further updates are available after tlmgr has been updated.)"
+msgstr "(Када tlmgr буде освежен, биће доступно најмање %s додатних надоградњи.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Сачекајте мало након што се програм искључи како би се надоградња довршила."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Сачекајте мало након што се програм искључи како би се надоградња довршила."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2384
@@ -1371,20 +1364,19 @@ msgstr "Учитај репозиторијум пакета"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Учитати овај репозиторијум пакета:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Изаберите локални директоријум"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Користити стандардни репозиторијум на Интернету"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
-msgid ""
-"Loading remote repository - this may take some time, please be patient ..."
-msgstr ""
+msgid "Loading remote repository - this may take some time, please be patient ..."
+msgstr "Учитавање удаљеног репозиторијума - ово може да потраје неко време, будите стрпљиви..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
