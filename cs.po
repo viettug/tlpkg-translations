@@ -1,12 +1,12 @@
 #
-# Zdeněk Wagner <zdenek.wagner@gmail.com>, 2013.
+# Zdeněk Wagner <zdenek.wagner@gmail.com>, 2013, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-02-02 03:25+0100\n"
-"PO-Revision-Date: 2013-06-01 18:25+0200\n"
+"PO-Revision-Date: 2014-05-01 18:26+0200\n"
 "Last-Translator: Zdeněk Wagner <zdenek.wagner@gmail.com>\n"
 "Language-Team: Czech <>\n"
 "Language: \n"
@@ -716,11 +716,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:173
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Načítání lokální databáze TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:175
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Může to nějakou dobu trvat, prosíme o trpělivost..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:223
 msgid "Cannot load taxonomy file"
@@ -748,12 +748,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "Repository"
-msgstr ""
+msgstr "Repozitář"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "Načteno:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 msgid "none"
@@ -774,7 +774,7 @@ msgstr "více zdrojů"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:305
 msgid "Default:"
-msgstr ""
+msgstr "Výchozí:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:311
 msgid "Display configuration"
@@ -905,7 +905,7 @@ msgstr "Pomoc"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:529
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Načíst výchozí repozitář (z tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:532
 msgid "Load cmd line repository:"
@@ -913,7 +913,7 @@ msgstr "Nový repozitář pro příkazový řádek:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:535
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Načíst standardní síťový zdroj balíků:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:538
 msgid "Load other repository ..."
@@ -1103,7 +1103,7 @@ msgstr "Podrobné informace"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:864
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Aktualizace správce TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1042
@@ -1271,7 +1271,7 @@ msgstr "zakázat"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1887
 msgid "Loading of remote database failed."
-msgstr "Načtení vzdálené databáze selhalo."
+msgstr "Načítání vzdálené databáze selhalo."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1888
 msgid "Error message:"
@@ -1302,12 +1302,21 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"Správce TeX Live (software, který právě používáte)\n"
+"vyžaduje aktualizaci dříve, než můžete provádět další aktualizace.\n"
+"\n"
+"Prosím, proveďte to stiskem tlačítka \"Aktualizace správce TeX Live\"\n"
+"po zavření tohoto dialogu.\n"
+"\n"
+"Po skončení aktualizace bude správce TeX Live ukončen.\n"
+"Pak jej můžete restartovat a pokračovat v dalších aktualizacích."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
 msgid ""
 "(At least %s further updates are available after tlmgr has been updated.)"
 msgstr ""
+"(Počet dalších dostupných aktualizací po aktualizaci tlmgr je nejméně %s.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1364,20 +1373,22 @@ msgstr "Načíst zdroj balíků"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Načíst tento zdroj balíků:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Vybrat lokální adresář"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Použít standardní síťový zdroj balíků"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
+"Načítání vzdáleného nadresáře – může to nějakou dobu trvat, prosíme o "
+"trpělivost..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
