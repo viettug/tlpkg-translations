@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-02-02 03:25+0100\n"
+"POT-Creation-Date: 2014-05-02 18:07+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1454,122 +1454,134 @@ msgid "Arabic"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:25
-msgid "Chinese/Japanese/Korean"
+msgid "Chinese"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26
-msgid "Cyrillic"
+msgid "Chinese/Japanese/Korean"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:27
-msgid "Czech/Slovak"
+msgid "Cyrillic"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:28
-msgid "US and UK English"
+msgid "Czech/Slovak"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:29
-msgid "Other European languages"
+msgid "US and UK English"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:30
-msgid "French"
+msgid "Other European languages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:31
-msgid "German"
+msgid "French"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:32
-msgid "Greek"
+msgid "German"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:33
-msgid "Indic scripts"
+msgid "Greek"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:34
-msgid "Italian"
+msgid "Indic scripts"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:35
-msgid "Other languages"
+msgid "Italian"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:36
-msgid "Polish"
+msgid "Japanese"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:37
-msgid "Portuguese"
+msgid "Korean"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:38
-msgid "Spanish"
+msgid "Other languages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:39
-msgid "LaTeX fundamental packages"
+msgid "Polish"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:40
-msgid "LaTeX additional packages"
+msgid "Portuguese"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "LaTeX recommended packages"
+msgid "Spanish"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42
-msgid "LuaTeX packages"
+msgid "LaTeX fundamental packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:43
-msgid "Mathematics packages"
+msgid "LaTeX additional packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:44
-msgid "MetaPost and Metafont packages"
+msgid "LaTeX recommended packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:45
-msgid "Music packages"
+msgid "LuaTeX packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:46
-msgid "Omega packages"
+msgid "Mathematics packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:47
-msgid "Graphics, pictures, diagrams"
+msgid "MetaPost and Metafont packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:48
-msgid "Plain TeX packages"
+msgid "Music packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:49
-msgid "PSTricks"
+msgid "Omega packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:50
-msgid "Publisher styles, theses, etc."
+msgid "Graphics, pictures, diagrams"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:51
-msgid "Natural and computer sciences"
+msgid "Plain TeX packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:52
-msgid "TeXworks editor"
+msgid "PSTricks"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:53
-msgid "Windows-only support programs"
+msgid "Publisher styles, theses, etc."
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:54
+msgid "Natural and computer sciences"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:55
+msgid "TeXworks editor"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:56
+msgid "Windows-only support programs"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr ""
 

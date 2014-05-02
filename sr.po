@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-02-02 03:25+0100\n"
+"POT-Creation-Date: 2014-05-02 18:07+0200\n"
 "PO-Revision-Date: 2014-04-27 03:00+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -14,7 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Serbian\n"
 "X-Poedit-Country: Serbia\n"
 
@@ -397,10 +398,17 @@ msgstr "Инсталирај"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Линкови за документацију налазе се у %s/index.html.\n"
-"На Интернет-страници TeX Live-а (http://tug.org/texlive/) налазе се расположиве надоградње и исправке. TeX Live је заједнички пројекат група корисника TeX-а из свих делова света; молимо Вас да размотрите могућност подршке путем прикључивања групи која Вам највише одговара. Списак група налази се на Интернет-страници http://tug.org/usergroups.html."
+"На Интернет-страници TeX Live-а (http://tug.org/texlive/) налазе се "
+"расположиве надоградње и исправке. TeX Live је заједнички пројекат група "
+"корисника TeX-а из свих делова света; молимо Вас да размотрите могућност "
+"подршке путем прикључивања групи која Вам највише одговара. Списак група "
+"налази се на Интернет-страници http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:714
 #: tlpkg/installer/install-menu-perltk.pl:601
@@ -487,12 +495,14 @@ msgstr "Изаберите друго огледало (mirror)."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being "
+"accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
 msgstr ""
-"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму нису компатибилне:\n"
+"Верзија TeX Live-а на Вашем компјутеру и верзија на задатом репозиторијуму "
+"нису компатибилне:\n"
 "          локална верзија: %s\n"
 "верзија са репозиторијума: %s\n"
 "Молимо Вас да изаберете друго огледало (mirror)."
@@ -738,7 +748,8 @@ msgid ""
 msgstr ""
 "Немате овлашћења да промените инсталацију на било који начин,\n"
 "прецизније речено, у директоријум %s се не може уписивати.\n"
-"Покрените овај програм као администратор или се обратите надлежном администратору.\n"
+"Покрените овај програм као администратор или се обратите надлежном "
+"администратору.\n"
 "\n"
 "Највећи део дугмића биће неупотребљив."
 
@@ -1066,7 +1077,9 @@ msgstr "Колекција:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:747
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr "Упозорење: каталошке верзије могу да буду у заостатку или просто да буду погрешне."
+msgstr ""
+"Упозорење: каталошке верзије могу да буду у заостатку или просто да буду "
+"погрешне."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:785
 msgid "Depends:"
@@ -1310,12 +1323,17 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
-msgid "(At least %s further updates are available after tlmgr has been updated.)"
-msgstr "(Када tlmgr буде освежен, биће доступно најмање %s додатних надоградњи.)"
+msgid ""
+"(At least %s further updates are available after tlmgr has been updated.)"
+msgstr ""
+"(Када tlmgr буде освежен, биће доступно најмање %s додатних надоградњи.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
-msgid "Please wait a bit after the program has terminated so that the update can be completed."
-msgstr "Сачекајте мало након што се програм искључи како би се надоградња довршила."
+msgid ""
+"Please wait a bit after the program has terminated so that the update can be "
+"completed."
+msgstr ""
+"Сачекајте мало након што се програм искључи како би се надоградња довршила."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2384
@@ -1375,8 +1393,11 @@ msgid "Use standard net repository"
 msgstr "Користити стандардни репозиторијум на Интернету"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
-msgid "Loading remote repository - this may take some time, please be patient ..."
-msgstr "Учитавање удаљеног репозиторијума - ово може да потраје неко време, будите стрпљиви..."
+msgid ""
+"Loading remote repository - this may take some time, please be patient ..."
+msgstr ""
+"Учитавање удаљеног репозиторијума - ово може да потраје неко време, будите "
+"стрпљиви..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1488,122 +1509,134 @@ msgid "Arabic"
 msgstr "Арапски"
 
 #: tlpkg/translations/shortdesc.pl:25
+msgid "Chinese"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean"
 msgstr "Кинески, јапански, корејски"
 
-#: tlpkg/translations/shortdesc.pl:26
+#: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
 msgstr "Ћирилица"
 
-#: tlpkg/translations/shortdesc.pl:27
+#: tlpkg/translations/shortdesc.pl:28
 msgid "Czech/Slovak"
 msgstr "Чешки и словачки"
 
-#: tlpkg/translations/shortdesc.pl:28
+#: tlpkg/translations/shortdesc.pl:29
 msgid "US and UK English"
 msgstr "Амерички и британски енглески"
 
-#: tlpkg/translations/shortdesc.pl:29
+#: tlpkg/translations/shortdesc.pl:30
 msgid "Other European languages"
 msgstr "Остали европски језици"
 
-#: tlpkg/translations/shortdesc.pl:30
+#: tlpkg/translations/shortdesc.pl:31
 msgid "French"
 msgstr "Француски"
 
-#: tlpkg/translations/shortdesc.pl:31
+#: tlpkg/translations/shortdesc.pl:32
 msgid "German"
 msgstr "Немачки"
 
-#: tlpkg/translations/shortdesc.pl:32
+#: tlpkg/translations/shortdesc.pl:33
 msgid "Greek"
 msgstr "Грчки"
 
-#: tlpkg/translations/shortdesc.pl:33
+#: tlpkg/translations/shortdesc.pl:34
 msgid "Indic scripts"
 msgstr "Индијска писма"
 
-#: tlpkg/translations/shortdesc.pl:34
+#: tlpkg/translations/shortdesc.pl:35
 msgid "Italian"
 msgstr "Италијански"
 
-#: tlpkg/translations/shortdesc.pl:35
+#: tlpkg/translations/shortdesc.pl:36
+msgid "Japanese"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:37
+msgid "Korean"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
 msgstr "Остали језици"
 
-#: tlpkg/translations/shortdesc.pl:36
+#: tlpkg/translations/shortdesc.pl:39
 msgid "Polish"
 msgstr "Пољски"
 
-#: tlpkg/translations/shortdesc.pl:37
+#: tlpkg/translations/shortdesc.pl:40
 msgid "Portuguese"
 msgstr "Португалски"
 
-#: tlpkg/translations/shortdesc.pl:38
+#: tlpkg/translations/shortdesc.pl:41
 msgid "Spanish"
 msgstr "Шпански"
 
-#: tlpkg/translations/shortdesc.pl:39
+#: tlpkg/translations/shortdesc.pl:42
 msgid "LaTeX fundamental packages"
 msgstr "Основни LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:40
+#: tlpkg/translations/shortdesc.pl:43
 msgid "LaTeX additional packages"
 msgstr "Додатни LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:41
+#: tlpkg/translations/shortdesc.pl:44
 msgid "LaTeX recommended packages"
 msgstr "Препоручени LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:42
+#: tlpkg/translations/shortdesc.pl:45
 msgid "LuaTeX packages"
 msgstr "LuaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:43
+#: tlpkg/translations/shortdesc.pl:46
 msgid "Mathematics packages"
 msgstr "Математички пакети"
 
-#: tlpkg/translations/shortdesc.pl:44
+#: tlpkg/translations/shortdesc.pl:47
 msgid "MetaPost and Metafont packages"
 msgstr "Пакети за MetaPost и Metafont"
 
-#: tlpkg/translations/shortdesc.pl:45
+#: tlpkg/translations/shortdesc.pl:48
 msgid "Music packages"
 msgstr "Пакети за рад са музиком"
 
-#: tlpkg/translations/shortdesc.pl:46
+#: tlpkg/translations/shortdesc.pl:49
 msgid "Omega packages"
 msgstr "Omega пакети"
 
-#: tlpkg/translations/shortdesc.pl:47
+#: tlpkg/translations/shortdesc.pl:50
 msgid "Graphics, pictures, diagrams"
 msgstr "Пакети за рад са графиком, сликама и дијаграмима"
 
-#: tlpkg/translations/shortdesc.pl:48
+#: tlpkg/translations/shortdesc.pl:51
 msgid "Plain TeX packages"
 msgstr "Пакети за „чисти“ (plain) TeX"
 
-#: tlpkg/translations/shortdesc.pl:49
+#: tlpkg/translations/shortdesc.pl:52
 msgid "PSTricks"
 msgstr "PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:50
+#: tlpkg/translations/shortdesc.pl:53
 msgid "Publisher styles, theses, etc."
 msgstr "Стилови за издаваштво, дисертације итд."
 
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:54
 msgid "Natural and computer sciences"
 msgstr "Природне и компјутерске науке"
 
-#: tlpkg/translations/shortdesc.pl:52
+#: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor"
 msgstr "Едитор TeXworks"
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
 msgstr "Помоћни програми за Windows"
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
 
