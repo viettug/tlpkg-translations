@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-02 18:07+0200\n"
-"PO-Revision-Date: 2014-05-01 18:26+0200\n"
-"Last-Translator: Zdeněk Wagner <zdenek.wagner@gmail.com>\n"
+"PO-Revision-Date: 2014-05-03 21:07+0100\n"
+"Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team: Czech <>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -396,16 +396,12 @@ msgstr "Nainstaluj"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Viz %s/index.html pro odkazy na dokumentaci. Stránky TeX Live\n"
 "(http://tug.org/texlive/) obsahují aktualizace a opravy.\n"
 "TeX Live je společným projektem uživatelských sdružení TeXu po celém světě;\n"
-"zvažte laskavě jeho podporu přihlášením se do sdružení, které vám nejlépe "
-"vyhovuje.\n"
+"zvažte laskavě jeho podporu přihlášením se do sdružení, které vám nejlépe vyhovuje.\n"
 "Seznam sdružení je dostupný na http://tug.org/usergroups.html."
 
 #: tlpkg/installer/install-menu-wizard.pl:714
@@ -493,8 +489,7 @@ msgstr "Prosím vyberte jiné zrcadlo."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
@@ -741,8 +736,7 @@ msgid ""
 msgstr ""
 "Nemáte práva k tomu, abyste mohli instalaci jakkoliv změnit,\n"
 "zejména nemůžete zapisovat do adresáře %s.\n"
-"Spusťte prosím program jakožto administrátor, nebo lokálního administrátora "
-"kontaktujte.\n"
+"Spusťte prosím program jakožto administrátor, nebo lokálního administrátora kontaktujte.\n"
 "\n"
 "Většina tlačítek bude zakázána."
 
@@ -1069,9 +1063,7 @@ msgstr "Kolekce:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:747
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Varování: verze Katalogu nemusí být zcela aktuální nebo mohou být prostě "
-"špatně."
+msgstr "Varování: verze Katalogu nemusí být zcela aktuální nebo mohou být prostě špatně."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:785
 msgid "Depends:"
@@ -1313,18 +1305,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
-msgid ""
-"(At least %s further updates are available after tlmgr has been updated.)"
-msgstr ""
-"(Počet dalších dostupných aktualizací po aktualizaci tlmgr je nejméně %s.)"
+msgid "(At least %s further updates are available after tlmgr has been updated.)"
+msgstr "(Počet dalších dostupných aktualizací po aktualizaci tlmgr je nejméně %s.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Až program skončí, chvíli prosím počkejte, aby aktualizace mohla být "
-"dokončena."
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Až program skončí, chvíli prosím počkejte, aby aktualizace mohla být dokončena."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2384
@@ -1384,11 +1370,8 @@ msgid "Use standard net repository"
 msgstr "Použít standardní síťový zdroj balíků"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
-msgid ""
-"Loading remote repository - this may take some time, please be patient ..."
-msgstr ""
-"Načítání vzdáleného nadresáře – může to nějakou dobu trvat, prosíme o "
-"trpělivost..."
+msgid "Loading remote repository - this may take some time, please be patient ..."
+msgstr "Načítání vzdáleného nadresáře – může to nějakou dobu trvat, prosíme o trpělivost..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1501,7 +1484,7 @@ msgstr "Arabština"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "Čínština"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean"
@@ -1545,11 +1528,11 @@ msgstr "Italština"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "Japonština"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "Korejština"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
@@ -1633,7 +1616,6 @@ msgstr "XeTeX a balíky"
 
 #~ msgid "Loaded repository:"
 #~ msgstr "Načten instalační zdroj:"
-
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
 #~ "Installation and upgrades won't work without being forced.\n"
@@ -1650,42 +1632,31 @@ msgstr "XeTeX a balíky"
 #~ "\n"
 #~ "Program bude po aktualizaci ukončen.\n"
 #~ "Můžete potom program restartovat, abyste získali další aktualizace."
-
 #~ msgid ""
 #~ "At least %s further updates are available after tlmgr has been updated."
 #~ msgstr "Po aktualizaci tlmgr je dostupných nejméně %s dalších aktualizací."
-
 #~ msgid "Package repository:"
 #~ msgstr "Zdroj balíků:"
-
 #~ msgid "Default net package repository"
 #~ msgstr "Výchozí síťový zdroj balíků"
-
 #~ msgid ""
 #~ "Loading local TeX Live database;\n"
 #~ "this may take some time, please be patient ..."
 #~ msgstr ""
 #~ "Načítání místní databáze TeX Live\n"
 #~ "může to chvíli trvat, prosím o strpení ..."
-
 #~ msgid "Load default net repository:"
 #~ msgstr "Nový výchozí síťový instalační zdroj"
-
 #~ msgid "Standard collections"
 #~ msgstr "Standardní kolekce"
-
 #~ msgid "Language collections"
 #~ msgstr "Jazykové kolekce"
-
 #~ msgid "Select language support"
 #~ msgstr "Vybrat podporu jazyků"
-
 #~ msgid "(no language collection selected!)"
 #~ msgstr "(nebyla vybrána žádná jazyková kolekce!)"
-
 #~ msgid "Select language-specific documentation"
 #~ msgstr "Vybrat dokumentaci k jednotlivým jazykům"
-
 #~ msgid ""
 #~ "Add %s/texmf/doc/man to MANPATH.\n"
 #~ "Add %s/texmf/doc/info to INFOPATH.\n"
@@ -1696,10 +1667,8 @@ msgstr "XeTeX a balíky"
 #~ "Přidejte %s/texmf/doc/info do INFOPATH.\n"
 #~ "A to nejdůležitější: přidejte %s/bin/%s\n"
 #~ "do vaší proměnné PATH pro toto i další sezení."
-
 #~ msgid "Create shortcuts in menu and on desktop"
 #~ msgstr "Vytvoř zkratky v menu a na ploše"
-
 #~ msgid ""
 #~ "Welcome to the installation of TeX Live %s\n"
 #~ "http://tug.org/texlive\n"
@@ -1717,24 +1686,20 @@ msgstr "XeTeX a balíky"
 #~ "Informace o pokročilé,  konfigurovatelné instalaci\n"
 #~ "je k dispozici na webových stránkách nebo\n"
 #~ "v pokynech k instalaci."
-
 #~ msgid "Or use install-tl-advanced.bat"
 #~ msgstr "Nebo použijte install-tl-advance.bat"
 
 #, fuzzy
 #~ msgid "Or use the argument --gui expert to install-tl."
 #~ msgstr "Nebo spusťte install-tl s argumentem --gui perltk."
-
 #~ msgid ""
 #~ "Loading local TeX Live Database\n"
 #~ "This may take some time, please wait!"
 #~ msgstr ""
 #~ "Nahrávání lokální databáze TeX Live\n"
 #~ "Prosím o strpení."
-
 #~ msgid "Complete removal completed"
 #~ msgstr "Instalace kompletně odstraněna"
-
 #~ msgid ""
 #~ "Could not load the TeX Live Database from %s\n"
 #~ "If you want to install or update packages, please try with a different "
@@ -1747,13 +1712,10 @@ msgstr "XeTeX a balíky"
 #~ "zdrojem balíků!\n"
 #~ "\n"
 #~ "Chcete-li konfigurovat nebo mazat, nemusíte dělat nic."
-
 #~ msgid "Change default package repository"
 #~ msgstr "Změnit výchozí zdroj balíků"
-
 #~ msgid "New default package repository"
 #~ msgstr "Nový výchozí zdroj balíků"
-
 #~ msgid ""
 #~ "Loading remote TeX Live Database\n"
 #~ "This may take some time, please wait!"
@@ -1764,7 +1726,6 @@ msgstr "XeTeX a balíky"
 #, fuzzy
 #~ msgid "Restore done"
 #~ msgstr "Instalace kompletně odstraněna"
-
 #~ msgid "Add shortcuts to menu and desktop"
 #~ msgstr "Přidání zástupců do menu a na plochu"
 
@@ -1781,109 +1742,79 @@ msgstr "XeTeX a balíky"
 #~ "Přejděte, prosím, na aktualizační obrazovku a stiskněte tlačítko \"update "
 #~ "all\".\n"
 #~ "Potom bude možno ukončit a znovu spustit program pro další updaty"
-
 #~ msgid "(no description available)"
 #~ msgstr "(není dostupný žádný popis)"
-
 #~ msgid "Use Ctrl or Shift or drag to select more"
 #~ msgstr "Pro vybrání více položek použijte Ctrl nebo Shift nebo tažení myší"
-
 #~ msgid "Select packages"
 #~ msgstr "Vybrat balíky"
-
 #~ msgid "Search"
 #~ msgstr "Hledat"
-
 #~ msgid "Next"
 #~ msgstr "Další"
-
 #~ msgid "Information on the selected item"
 #~ msgstr "Informace o vybrané položce"
-
 #~ msgid "Force"
 #~ msgstr "Vynutit"
-
 #~ msgid ""
 #~ "Force the removal of a package even if it is referenced in a collection."
 #~ msgstr ""
 #~ "Vynutit odstranění balíku i pokud na něj existuje reference v kolekci."
-
 #~ msgid "without depends"
 #~ msgstr "bez závislostí"
-
 #~ msgid ""
 #~ "For collections: install or remove will not install/remove the "
 #~ "dependencies"
 #~ msgstr ""
 #~ "Pro kolekce: instalace/odstranění nedoinstaluje/neodstraní závislosti"
-
 #~ msgid "Architectures"
 #~ msgstr "Architektury"
-
 #~ msgid "Select architectures to support"
 #~ msgstr "Vybrat podporované architektury"
-
 #~ msgid "Reset changes"
 #~ msgstr "Vrátit změny"
-
 #~ msgid "Removals of the main architecture not possible!"
 #~ msgstr "Odstranění hlavní architektury není možné!"
-
 #~ msgid "Configuration"
 #~ msgstr "Konfigurace"
-
 #~ msgid "Default settings"
 #~ msgstr "Výchozí nastavení"
-
 #~ msgid "Paper settings"
 #~ msgstr "Nastavení papíru"
-
 #~ msgid "Re-initialize file database"
 #~ msgstr "Nastavit výchozí databázi souborů"
-
 #~ msgid "Re-create all formats"
 #~ msgstr "Znovu vytvořit všechny formáty"
-
 #~ msgid "Uninstallation"
 #~ msgstr "Odinstalace"
-
 #~ msgid "Please use the \"Add/Remove Programs\" from the Control Panel!"
 #~ msgstr ""
 #~ "Použijte, prosím, \"Add/Remove Programs\" (případně \"Přidej/Odeber "
 #~ "programy\") z kontrolního panelu!"
-
 #~ msgid ""
 #~ "Really remove the complete TeX Live %s installation?\n"
 #~ "Your last chance to change your mind!"
 #~ msgstr ""
 #~ "Opravdu smazat celou instalaci TeX Live %s?\n"
 #~ "Toto je vaše poslední možnost rozmyslet si tuto akci!"
-
 #~ msgid "Current package repository:"
 #~ msgstr "Aktuální zdroj balíků:"
-
 #~ msgid "Press this button to load the database from the package repository."
 #~ msgstr "K nahrání databáze ze zdroje balíků stiskněte toto tlačítko."
-
 #~ msgid ""
 #~ "Change package repository from where packages are fetched at installation "
 #~ "and update time."
 #~ msgstr ""
 #~ "Změnit zdroj balíků (odkud budou balíky staženy při instalaci a "
 #~ "aktualizaci)."
-
 #~ msgid "Debug"
 #~ msgstr "Ladit"
-
 #~ msgid "Turn on debug mode."
 #~ msgstr "Zapnout ladící mód."
-
 #~ msgid "Adding packages"
 #~ msgstr "Přidání balíků"
-
 #~ msgid "Install selected"
 #~ msgstr "Instalovat vybrané"
-
 #~ msgid ""
 #~ "The database of the package repository has not been loaded.\n"
 #~ "\n"
@@ -1892,28 +1823,20 @@ msgstr "XeTeX a balíky"
 #~ "Databáze zdroje balíků nebyla nahrána.\n"
 #~ "Nahrajte prosím tuto databázi stisknutím tlačítka \"Nahrát\" (a případně "
 #~ "\"Změnit\")."
-
 #~ msgid "Updating packages"
 #~ msgstr "Aktualizování balíků"
-
 #~ msgid "Update all"
 #~ msgstr "Aktualizovat vše"
-
 #~ msgid "Update selected"
 #~ msgstr "Aktualizovat vybrané"
-
 #~ msgid "Removing packages"
 #~ msgstr "Odstraňování balíků"
-
 #~ msgid "Remove selected"
 #~ msgstr "Odstranit vybrané"
-
 #~ msgid "Please click on an item on the left for details"
 #~ msgstr "Pro zobrazení detailů klikněte na položku vlevo"
-
 #~ msgid "...please change me..."
 #~ msgstr "... prosím, změňte mě ..."
-
 #~ msgid ""
 #~ "No updates found.\n"
 #~ "\n"
@@ -1936,10 +1859,8 @@ msgstr "XeTeX a balíky"
 #~ "\n"
 #~ "Pokud chcete instalovat z internetu vždy, jděte na záložku \"Konfigurace"
 #~ "\" a změňte výchozí zdroj instalace."
-
 #~ msgid "Everything up-to-date!"
 #~ msgstr "Vše aktuální!"
-
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
 #~ "Installation and upgrades won't work without being forced.\n"
@@ -1952,16 +1873,12 @@ msgstr "XeTeX a balíky"
 #~ "Přejděte, prosím, na aktualizační obrazovku a stiskněte tlačítko \"update "
 #~ "all\".\n"
 #~ "Potom bude možno ukončit a znovu spustit program pro další updaty"
-
 #~ msgid "Change package repository"
 #~ msgstr "Změnit zdroj balíků"
-
 #~ msgid "New package repository:"
 #~ msgstr "Nový zdroj balíků:"
-
 #~ msgid "Warning Window"
 #~ msgstr "Okno s varováním"
-
 #~ msgid "Use letter size instead of A4 by default"
 #~ msgstr "Použít výchozí velikost papíru \"letter\" místo \"A4\""
 
@@ -1976,24 +1893,18 @@ msgstr "XeTeX a balíky"
 #, fuzzy
 #~ msgid "%s collections out of %s (disk space required: %s MB)"
 #~ msgstr "%s kolekce z %s (vyžadované místo na disku: %s MB)"
-
 #~ msgid "(use ~ for %%%)"
 #~ msgstr "(pro %%% použijte ~)"
-
 #~ msgid "Change Location"
 #~ msgstr "Změnit umístění"
-
 #~ msgid "Select architectures to be added (removal not possible)"
 #~ msgstr "Vybrat architekturu k přidání (odstranění není možné)"
-
 #~ msgid "Default installation source"
 #~ msgstr "Výchozí zdroj instalace"
-
 #~ msgid "New default installation source"
 #~ msgstr "Nový výchozí zdroj instalace"
-
 #~ msgid "Default net location"
 #~ msgstr "Výchozí síťové umístění"
-
 #~ msgid "Current installation source:"
 #~ msgstr "Aktuální zdroj instalace:"
+
