@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-02 18:07+0200\n"
-"PO-Revision-Date: 2013-05-18 10:13+0100\n"
+"PO-Revision-Date: 2014-05-05 12:55+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -713,11 +713,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:173
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Bezig de lokale TeX Live database te laden"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:175
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Dit kan even duren; even geduld aub..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:223
 msgid "Cannot load taxonomy file"
@@ -745,12 +745,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "Repository"
-msgstr ""
+msgstr "installatie-bron"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "Geladen:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:289
 msgid "none"
@@ -771,7 +771,7 @@ msgstr "meerdere installatie-bronnen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:305
 msgid "Default:"
-msgstr ""
+msgstr "Standaard:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:311
 msgid "Display configuration"
@@ -902,7 +902,7 @@ msgstr "Help"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:529
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Laad standaard (volgens tlpdb) installatie-bron:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:532
 msgid "Load cmd line repository:"
@@ -910,7 +910,7 @@ msgstr "Laad cmd line installatie-bron."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:535
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Laad standaard online installatie-bron:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:538
 msgid "Load other repository ..."
@@ -1100,7 +1100,7 @@ msgstr "Nadere informatie"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:864
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Werk TeX Live Manager bij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1042
@@ -1299,12 +1299,21 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"TeX Live Manager (de software die u nu draait) moet worden\n"
+"bijgewerkt voordat enige andere updates kunnen worden uitgevoerd.\n"
+"\n"
+"Doe dit aub. door de knop \"Werk TeX Live Manager bij\" aan te klikken.\n"
+"na het sluiten van dit venster.\n"
+"\n"
+"Na de update zal TeX Live Manager sluiten.\n"
+"U kunt daarna herstarten om verdere updates uit te voeren."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
 msgid ""
 "(At least %s further updates are available after tlmgr has been updated.)"
 msgstr ""
+"(Na het bijwerken van tlmgr zijn minstens %s verdere updates beschikbaar.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1361,20 +1370,21 @@ msgstr "Laad installatie-bron"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Laad deze installatie-bron:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Kies een lokale folder"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Gebruik de standaard online installate-bron"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
+"Bezig de online installatie-bron te laden - dit kan even duren, geduld aub..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1487,11 +1497,11 @@ msgstr "Arabisch"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "Chinees"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean"
-msgstr ""
+msgstr "Chinees/Japans/Koreaans"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1531,11 +1541,11 @@ msgstr "Italiaans"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "Japans"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "Koreaans"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
