@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-02 18:07+0200\n"
-"PO-Revision-Date: 2014-04-28 20:00+0100\n"
+"PO-Revision-Date: 2014-05-07 02:05+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -270,8 +270,7 @@ msgstr "wymagana przestrzeń na dysku:"
 #: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:999
 msgid "(default not allowed or not writable - please change!)"
-msgstr ""
-"(domyślnie niedozwolone lub brak uprawnień do zapisu - proszę zmienić!)"
+msgstr "(domyślnie niedozwolone lub brak uprawnień do zapisu - proszę zmienić!)"
 
 #: tlpkg/installer/install-menu-wizard.pl:531
 msgid "Enter path for"
@@ -393,14 +392,10 @@ msgstr "Instaluj"
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at http://tug.org/usergroups.html."
 msgstr ""
 "Patrz %s/index.html z odnośnikami do dokumentacji.\n"
-"Na stronie TeX Live (http://tug.org/texlive/) znajdziesz aktualizacje i "
-"poprawki.\n"
+"Na stronie TeX Live (http://tug.org/texlive/) znajdziesz aktualizacje i poprawki.\n"
 "TeX Live jest zbiorowym projektem grup użytkowników TeX-a z całego świata;\n"
 "proszę rozważyć wsparcie poprzez przystąpienie do grupy.\n"
 "Lista grup dostępna jest na stronie http://tug.org/usergroups.html."
@@ -490,8 +485,7 @@ msgstr "Proszę wybrać inną kopię zasobów (mirror)."
 #: tlpkg/installer/install-menu-perltk.pl:305
 #, perl-format
 msgid ""
-"The TeX Live versions of the local installation and the repository being "
-"accessed are not compatible:\n"
+"The TeX Live versions of the local installation and the repository being accessed are not compatible:\n"
 "  local: %s\n"
 "  repository: %s\n"
 "Please select a different mirror."
@@ -948,8 +942,7 @@ msgstr "Wyłącz automatyczne instalowanie nowszych pakietów"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:572
 msgid "Disable auto-removal of server-deleted packages"
-msgstr ""
-"Wyłącz automatyczne usuwanie pakietów, które zostały usunięte z repozytorium"
+msgstr "Wyłącz automatyczne usuwanie pakietów, które zostały usunięte z repozytorium"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:579
 msgid "Update filename database"
@@ -1068,9 +1061,7 @@ msgstr "Kolekcja:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:747
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"Uwaga:  nr wersji wg TeX Catalogue może być niezbyt aktualny lub wręcz "
-"błędny."
+msgstr "Uwaga:  nr wersji wg TeX Catalogue może być niezbyt aktualny lub wręcz błędny."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:785
 msgid "Depends:"
@@ -1312,17 +1303,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 #, perl-format
-msgid ""
-"(At least %s further updates are available after tlmgr has been updated.)"
+msgid "(At least %s further updates are available after tlmgr has been updated.)"
 msgstr "(po aktualizacji tlmgr dostępnych jest dalszych %s aktualizacji)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
-msgid ""
-"Please wait a bit after the program has terminated so that the update can be "
-"completed."
-msgstr ""
-"Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została "
-"dokonana. "
+msgid "Please wait a bit after the program has terminated so that the update can be completed."
+msgstr "Proszę zaczekać chwilę po zakończeniu programu, aby aktualizacja została dokonana. "
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2382
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2384
@@ -1382,8 +1368,7 @@ msgid "Use standard net repository"
 msgstr "Użyj standardowego repozytorium w sieci"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
-msgid ""
-"Loading remote repository - this may take some time, please be patient ..."
+msgid "Loading remote repository - this may take some time, please be patient ..."
 msgstr "Wczytuję zdalne repozytorium; może to trochę potrwać, cierpliwości..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
@@ -1497,7 +1482,7 @@ msgstr "arabski"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "chiński"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean"
@@ -1541,11 +1526,11 @@ msgstr "włoski"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "japoński"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "koreański"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
