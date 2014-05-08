@@ -811,7 +811,7 @@ msgstr "Kategorie"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:330
 msgid "packages"
-msgstr "Paketen"
+msgstr "Pakete"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:332
 msgid "collections"
@@ -859,7 +859,7 @@ msgstr "Alle abwählen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:392
 msgid "Reset filters"
-msgstr "Filter zurücksetzten"
+msgstr "Filter zurücksetzen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:414
 msgid "Package name"
