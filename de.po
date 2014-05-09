@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-09 03:21+0200\n"
-"PO-Revision-Date: 2014-05-04 07:57+0100\n"
+"PO-Revision-Date: 2014-05-09 18:12+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1317,7 +1317,7 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2307
 msgid "(Further updates will be available after tlmgr has been updated.)"
-msgstr ""
+msgstr "(Weitere Updates sind verfügbar, nachdem tlmgr aktualisiert wurde.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2309
 msgid ""
