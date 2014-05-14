@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-05-09 03:21+0200\n"
+"POT-Creation-Date: 2014-05-14 03:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1436,7 +1436,7 @@ msgid "Chinese"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:26
-msgid "Chinese/Japanese/Korean"
+msgid "Chinese/Japanese/Korean (base)"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:27

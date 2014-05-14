@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-05-09 03:21+0200\n"
+"POT-Creation-Date: 2014-05-14 03:23+0200\n"
 "PO-Revision-Date: 2014-05-05 04:19+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1510,8 +1510,8 @@ msgid "Chinese"
 msgstr "Кинески"
 
 #: tlpkg/translations/shortdesc.pl:26
-msgid "Chinese/Japanese/Korean"
-msgstr "Кинески, јапански, корејски"
+msgid "Chinese/Japanese/Korean (base)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1636,6 +1636,9 @@ msgstr "Помоћни програми за Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "Chinese/Japanese/Korean"
+#~ msgstr "Кинески, јапански, корејски"
 
 #~ msgid ""
 #~ "(At least %s further updates are available after tlmgr has been updated.)"
