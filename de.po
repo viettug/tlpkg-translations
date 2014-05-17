@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-17 03:25+0200\n"
-"PO-Revision-Date: 2014-05-09 18:12+0100\n"
+"PO-Revision-Date: 2014-05-17 06:21+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1505,7 +1505,7 @@ msgstr "Chinesisch"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Chinesisch/Japanisch/Koreanisch (Basis)"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
