@@ -1,6 +1,6 @@
 #
 #
-# Bitouzé Denis <dbitouze@wanadoo.fr>, 2013.
+# Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>, 2013, 2014.
 # Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012, 2013.
 #
 msgid ""
@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-17 03:25+0200\n"
-"PO-Revision-Date: 2013-05-26 11:32+0200\n"
-"Last-Translator: Manuel Pégourié-Gonnard <mpg@elzevir.fr>\n"
+"PO-Revision-Date: 2014-05-19 22:33+0200\n"
+"Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: s\n"
-"X-Generator: Gtranslator 2.91.5\n"
+"X-Generator: Gtranslator 2.91.6\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -211,7 +211,7 @@ msgstr "Annuler"
 #: tlpkg/installer/install-menu-wizard.pl:418
 #: tlpkg/installer/install-menu-perltk.pl:298
 msgid "Could not load remote TeX Live Database:"
-msgstr "Échec du chargement de la base de données TeX Live :"
+msgstr "Échec du chargement de la base de données TeX Live :"
 
 #: tlpkg/installer/install-menu-wizard.pl:419
 #: tlpkg/installer/install-menu-wizard.pl:426
@@ -234,7 +234,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:455
 #: tlpkg/installer/install-menu-wizard.pl:640
 msgid "Destination folder:"
-msgstr "Répertoire de destination :"
+msgstr "Répertoire de destination :"
 
 #: tlpkg/installer/install-menu-wizard.pl:457
 #: tlpkg/installer/install-menu-perltk.pl:332
@@ -337,8 +337,8 @@ msgid ""
 msgstr ""
 "Tout est maintenant prêt pour installer TeX Live %s\n"
 "Les réglages suivants seront utilisés.\n"
-"Si vous souhaitez changer quelque chose, revenez en arrière ;\n"
-"sinon, cliquez sur le bouton « Installer »."
+"Si vous souhaitez changer quelque chose, revenez en arrière ;\n"
+"sinon, cliquez sur le bouton « Installer »."
 
 #: tlpkg/installer/install-menu-wizard.pl:648
 #: tlpkg/installer/install-menu-perltk.pl:119
@@ -409,10 +409,10 @@ msgstr ""
 "Voir %s/index.html pour des liens vers la documentation.\n"
 "Le site web de TeX Live (http://tug.org/texlive/) propose toutes les mises à "
 "jour et les correctifs. TeX Live est un projet commun des groupes "
-"d'utilisateurs de TeX à travers le monde ; pensez à lui apporter votre "
+"d'utilisateurs de TeX à travers le monde ; pensez à lui apporter votre "
 "support en rejoignant le groupe qui vous convient le mieux. La liste des "
 "groupes est disponible sur le web à l'adresse http://tug.org/usergroups."
-"html ; la page du groupe francophone est http://www.gutenberg.eu.org/."
+"html ; la page du groupe francophone est http://www.gutenberg.eu.org/."
 
 #: tlpkg/installer/install-menu-wizard.pl:714
 #: tlpkg/installer/install-menu-perltk.pl:601
@@ -435,7 +435,7 @@ msgid ""
 "Here is the list of warning messages:"
 msgstr ""
 "Des avertissements ont été émis durant l'installation.\n"
-"Voici la liste des messages émis :"
+"Voici la liste des messages émis :"
 
 #: tlpkg/installer/install-menu-wizard.pl:721
 #: tlpkg/installer/install-menu-perltk.pl:609
@@ -630,7 +630,7 @@ msgid ""
 " if you want to install for all users."
 msgstr ""
 "Veuillez faire un clic droit sur install-tl-advanced et sélectionner\n"
-"« Exécuter en tant qu'administrateur » si vous souhaitez\n"
+"« Exécuter en tant qu'administrateur » si vous souhaitez\n"
 "installer pour tous les utilisateurs."
 
 #: tlpkg/installer/install-menu-perltk.pl:568
@@ -692,7 +692,7 @@ msgstr "Choisir la plate-forme"
 #: tlpkg/installer/install-menu-perltk.pl:952
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1066
 msgid "Removals of the main platform not possible!"
-msgstr "Il n'est pas possible de retirer l'architecture principale !"
+msgstr "Il n'est pas possible de retirer l'architecture principale !"
 
 #: tlpkg/installer/install-menu-perltk.pl:984
 #, perl-format
@@ -724,11 +724,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:172
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Chargement de la base TeX Live locale en cours"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:174
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "Ceci peut prendre du temps, veuillez patienter..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:222
 msgid "Cannot load taxonomy file"
@@ -747,7 +747,7 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Vous n'avez pas les permissions nécessaires pour modifier le système ;\n"
+"Vous n'avez pas les permissions nécessaires pour modifier le système ;\n"
 "plus précisément, vous ne pouvez pas écrire dans le répertoire %s\n"
 "Veuillez exécuter ce programme en tant qu'administrateur, ou contacter votre "
 "administrateur local.\n"
@@ -755,12 +755,12 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
-msgstr ""
+msgstr "Dépôt"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Loaded:"
-msgstr ""
+msgstr "Chargé :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "none"
@@ -781,7 +781,7 @@ msgstr "plusieurs dépôts de paquets"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:304
 msgid "Default:"
-msgstr ""
+msgstr "Par défaut :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:310
 msgid "Display configuration"
@@ -912,7 +912,7 @@ msgstr "Aide"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:528
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Charger le dépôt par défaut (depuis le tlpdb) :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:531
 msgid "Load cmd line repository:"
@@ -920,7 +920,7 @@ msgstr "Charger le dépôt indiqué en ligne de commande :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:534
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Charger le dépôt en ligne standard :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:537
 msgid "Load other repository ..."
@@ -1001,8 +1001,8 @@ msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
-"Voulez-vous vraiment supprimer toute l'installation TeX Live %s ?\n"
-"On ne vous le demandera pas deux fois !"
+"Voulez-vous vraiment supprimer toute l'installation TeX Live %s ?\n"
+"On ne vous le demandera pas deux fois !"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:646
 msgid "Manual"
@@ -1011,7 +1011,7 @@ msgstr "Manuel"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:647
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:649
 msgid "About"
-msgstr "À propos"
+msgstr "À propos"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:671
 msgid "Details on:"
@@ -1110,7 +1110,7 @@ msgstr "Informations supplémentaires"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:863
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Mettre à jour le TeX Live Manager"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1036
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1041
@@ -1258,7 +1258,7 @@ msgstr "Ajouter un dépôt de paquets"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1657
 #, perl-format
 msgid "Repository tag name already used: %s"
-msgstr "Ce tag de dépôt de paquets est déjà utilisé : %s"
+msgstr "Ce tag de dépôt de paquets est déjà utilisé : %s"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1715
 msgid "Revert"
@@ -1282,7 +1282,7 @@ msgstr "Échec du chargement de la base de données distante"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1887
 msgid "Error message:"
-msgstr "Message d'erreur :"
+msgstr "Message d'erreur :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1927
 msgid "Installation"
@@ -1309,10 +1309,23 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"Le TeX Live Manager (le logiciel que vous êtes en train d'utiliser)\n"
+"doit être mis à jour avant que d'autres mises à jour puissent être "
+"effectuées.\n"
+"\n"
+"Veuillez le faire en cliquant sur le bouton « Mettre à jour le TeX Live "
+"Manager »,\n"
+"après avoir fermé cette fenêtre.\n"
+"\n"
+"Après la mise à jour, le TeX Live Manager va s'arrêter.\n"
+"Vous pourrez alors le relancer pour procéder aux mises à jour "
+"supplémentaires."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 msgid "(Further updates will be available after tlmgr has been updated.)"
 msgstr ""
+"(Les mises à jour supplémentaires seront disponibles après que le TeX Live "
+"Manager aura lui-même été mis à jour.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1369,20 +1382,22 @@ msgstr "Charger le dépôt de paquets"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Charger ce dépôt de paquets :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
 msgid "Choose local directory"
-msgstr ""
+msgstr "Choisir un répertoire local"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Utiliser le dépôt en ligne standard"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
+"Chargement du dépôt distant - ceci peut prendre du temps, veuillez "
+"patienter..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1495,11 +1510,11 @@ msgstr "Arabe"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "Chinois"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Chinois/Japonais/Coréen (base)"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1539,11 +1554,11 @@ msgstr "Italien"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "Japonais"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "Coréen"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
@@ -1653,7 +1668,7 @@ msgstr "XeTeX et paquets associés"
 #~ "disponibles."
 
 #~ msgid "Package repository:"
-#~ msgstr "Dépôt de paquets :"
+#~ msgstr "Dépôt de paquets :"
 
 #~ msgid "Default net package repository"
 #~ msgstr "Dépôt de paquets en ligne par défaut"
@@ -1662,7 +1677,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Loading local TeX Live database;\n"
 #~ "this may take some time, please be patient ..."
 #~ msgstr ""
-#~ "Chargement de la base TeX Live locale en cours ;\n"
+#~ "Chargement de la base TeX Live locale en cours ;\n"
 #~ "ceci peut prendre du temps, veuillez patienter..."
 
 #~ msgid "Load default net repository:"
@@ -1931,7 +1946,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Ou utiliser install-tl-advanced.bat."
 
 #~ msgid "Or use the argument --gui expert to install-tl."
-#~ msgstr "Ou utiliser l'option « --gui expert » de install-tl."
+#~ msgstr "Ou utiliser l'option « --gui expert » de install-tl."
 
 #~ msgid "After install, use tlnet on CTAN for package updates"
 #~ msgstr ""
@@ -2019,7 +2034,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Une mise à jour de tlmgr est disponible.\n"
 #~ "Les installations et mises à jour d'autres paquets\n"
 #~ "ne seront pas effectuées à moins d'être forcées.\n"
-#~ "Veuillez sélectionner « tout mettre à jour » ci-dessous :\n"
+#~ "Veuillez sélectionner « tout mettre à jour » ci-dessous :\n"
 #~ "le programme s'arrêtera après s'être mis à jour.\n"
 #~ "Vous pourrez alors le relancer et continuer normalement."
 
@@ -2056,7 +2071,7 @@ msgstr "XeTeX et paquets associés"
 #~ "For collections: install or remove will not install/remove the "
 #~ "dependencies"
 #~ msgstr ""
-#~ "Pour les collections : l'installation ou la suppression n'installe ni ne "
+#~ "Pour les collections : l'installation ou la suppression n'installe ni ne "
 #~ "supprime les paquets inclus."
 
 #~ msgid "Architectures"
@@ -2069,7 +2084,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Annuler les changements"
 
 #~ msgid "Removals of the main architecture not possible!"
-#~ msgstr "Il n'est pas possible de retirer l'architecture principale !"
+#~ msgstr "Il n'est pas possible de retirer l'architecture principale !"
 
 #~ msgid "Configuration"
 #~ msgstr "Configuration"
@@ -2098,11 +2113,11 @@ msgstr "XeTeX et paquets associés"
 #~ "Really remove the complete TeX Live %s installation?\n"
 #~ "Your last chance to change your mind!"
 #~ msgstr ""
-#~ "Voulez-vous vraiment supprimer toute l'installation TeX Live %s ?\n"
-#~ "On ne vous le demandera pas deux fois !"
+#~ "Voulez-vous vraiment supprimer toute l'installation TeX Live %s ?\n"
+#~ "On ne vous le demandera pas deux fois !"
 
 #~ msgid "Current package repository:"
-#~ msgstr "Dépôt de paquets actuel :"
+#~ msgstr "Dépôt de paquets actuel :"
 
 #~ msgid "Press this button to load the database from the package repository."
 #~ msgstr ""
@@ -2195,8 +2210,8 @@ msgstr "XeTeX et paquets associés"
 #~ "Une mise à jour de tlmgr est disponible.\n"
 #~ "Les installations et mises à jour d'autres paquets ne seront pas "
 #~ "effectuées à moins d'être forcées.\n"
-#~ "Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
-#~ "jour » :\n"
+#~ "Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
+#~ "jour » :\n"
 #~ "le programme s'arrêtera après s'être mis à jour, et vous pourrez alors le "
 #~ "relancer pour procéder au reste des mises à jour."
 
@@ -2204,7 +2219,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Modifier le dépôt de paquets utilisé"
 
 #~ msgid "New package repository:"
-#~ msgstr "Nouveau dépôt de paquets :"
+#~ msgstr "Nouveau dépôt de paquets :"
 
 #~ msgid "Warning Window"
 #~ msgstr "Fenêtre d'avertissement"
