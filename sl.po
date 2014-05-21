@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-17 03:25+0200\n"
-"PO-Revision-Date: 2013-05-30 10:00+0100\n"
+"PO-Revision-Date: 2014-05-21 08:53+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: sl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Bookmarks: 77,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -731,11 +731,11 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:172
 msgid "Loading local TeX Live database"
-msgstr ""
+msgstr "Nalagam lokalno bazo za TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:174
 msgid "This may take some time, please be patient ..."
-msgstr ""
+msgstr "To utegne trajati nekaj časa. Hvala za potrpežljivost …"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:222
 #, fuzzy
@@ -764,12 +764,13 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
-msgstr ""
+msgstr "Repozitorij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
+#, fuzzy
 msgid "Loaded:"
-msgstr ""
+msgstr "Naloženo:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:288
 msgid "none"
@@ -791,7 +792,7 @@ msgstr "več repozitorijev"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:304
 msgid "Default:"
-msgstr ""
+msgstr "Privzeto:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:310
 #, fuzzy
@@ -933,8 +934,9 @@ msgid "Help"
 msgstr "Pomoč"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:528
+#, fuzzy
 msgid "Load default (from tlpdb) repository:"
-msgstr ""
+msgstr "Naloži privzeti repozitorij (iz tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:531
 #, fuzzy
@@ -942,8 +944,9 @@ msgid "Load cmd line repository:"
 msgstr "Naloži privzeti oddaljeni repozitorij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:534
+#, fuzzy
 msgid "Load standard net repository:"
-msgstr ""
+msgstr "Naloži standardni spletni repozitorij:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:537
 msgid "Load other repository ..."
@@ -1154,7 +1157,7 @@ msgstr "Dodatne informacije"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:863
 msgid "Update the TeX Live Manager"
-msgstr ""
+msgstr "Posodobi 'TeX Live Manager'"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1036
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1041
@@ -1351,6 +1354,7 @@ msgstr ""
 "Po potrebi ga lahko ponovno zaženete."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2296
+#, fuzzy
 msgid ""
 "The TeX Live manager (the software you're currently running)\n"
 "needs to be updated before any other updates can be done.\n"
@@ -1361,10 +1365,17 @@ msgid ""
 "After the update, the TeX Live manager will terminate.\n"
 "You can then restart it to proceed with further updates."
 msgstr ""
+"TeX Live manager (program, ki ga trenutno poganjate)\n"
+"je potrebno nadgraditi pred vsemi ostalimi posodobitvami.\n"
+"\n"
+"Ko zaprete ta dialog, prosimo izberite gumb\n"
+"\"Posodobi 'TeX Live Manager'\" za začetek nadgradnje.\n"
+"TeX Live manager bo zaustavljen.\n"
+"Lahko ga ponovno zaženete, če želite nadgraditi še ostale pakete."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2306
 msgid "(Further updates will be available after tlmgr has been updated.)"
-msgstr ""
+msgstr "(Po nadgradnji 'tlmgr' bodo na na voljo nadaljnje posodobitve.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2308
 msgid ""
@@ -1426,21 +1437,25 @@ msgid "Load package repository"
 msgstr "Spremeni lokacijo repozitorija s paketi"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2553
+#, fuzzy
 msgid "Load this package repository:"
-msgstr ""
+msgstr "Naloži ta repozitorij paketov:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2579
+#, fuzzy
 msgid "Choose local directory"
-msgstr ""
+msgstr "Izberi lokalni imenik"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
 msgid "Use standard net repository"
-msgstr ""
+msgstr "Uporabi standardni spletni repozitorij"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
+"Nalaganje oddaljenega repozitorija – to utegne trajati nekaj časa. Hvala za "
+"potrpežljivost …"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2687
 msgid "Completed"
@@ -1556,11 +1571,12 @@ msgstr "Arabske pisave"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "Kitajščina"
 
 #: tlpkg/translations/shortdesc.pl:26
+#, fuzzy
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Kitajščina, japonščina, korejščina"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1600,11 +1616,11 @@ msgstr "Italijanščina"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "Japonščina"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "Korejščina"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
@@ -1686,44 +1702,3 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
-
-#~ msgid "Chinese/Japanese/Korean"
-#~ msgstr "Kitajščina, japonščina, korejščina"
-
-#~ msgid "Loaded repository:"
-#~ msgstr "Naložen repozitorij:"
-
-#~ msgid ""
-#~ "Updates for the tlmgr are present.\n"
-#~ "Installation and upgrades won't work without being forced.\n"
-#~ "Please select \"Update all installed\" button after dismissing this "
-#~ "dialogue.\n"
-#~ "\n"
-#~ "The program will terminate after the update.\n"
-#~ "Then you can restart the program for further updates."
-#~ msgstr ""
-#~ "Na voljo so posodobitve za program \"tlmgr\", ki ga trenutnouporabljate.\n"
-#~ "Nameščanje in posodabljanje ostalih paketov ne bo delovalo,\n"
-#~ "preden v zavihku \"Posodobitve\" ne izberete \"Posodobi vse\".\n"
-#~ "Ko se proces zaključi, lahko ponovno zaženete tlmgr za nadaljevanje."
-
-#~ msgid ""
-#~ "At least %s further updates are available after tlmgr has been updated."
-#~ msgstr "Na voljo je vsaj %s posodobljenih paketov"
-
-#, fuzzy
-#~ msgid "Package repository:"
-#~ msgstr "Nov repozitorij s paketi:"
-
-#~ msgid "Default net package repository"
-#~ msgstr "Privzeti spletni repozitorij"
-
-#~ msgid ""
-#~ "Loading local TeX Live database;\n"
-#~ "this may take some time, please be patient ..."
-#~ msgstr ""
-#~ "Nalaganje lokalne podatkovne baze za TeX Live\n"
-#~ "Prosim počakajte - to utegne trajati nekaj časa ..."
-
-#~ msgid "Load default net repository:"
-#~ msgstr "Naloži privzeti oddaljeni repozitorij"
