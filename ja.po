@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-14 03:23+0200\n"
-"PO-Revision-Date: 2014-05-24 04:24+0900\n"
+"PO-Revision-Date: 2014-05-25 02:41+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese <tldoc@tug.org>\n"
 "Language: ja\n"
@@ -94,7 +94,7 @@ msgid ""
 "\n"
 "This wizard will guide you through the installation."
 msgstr ""
-"TeX Live %s のインストールへようこそ\n"
+"TeX Live %s 導入プログラムへようこそ\n"
 "http://tug.org/texlive\n"
 "\n"
 "このガイドが、あなたの導入作業のご案内をします。"
@@ -109,8 +109,8 @@ msgid ""
 "For an advanced, customizable installation, please consult\n"
 "the web pages or installation guide."
 msgstr ""
-"調節可能な進んだ導入作業については、\n"
-"ウェブページが導入ガイドをご覧ください。"
+"微調節可能な熟練者向き導入作業については、\n"
+"ウェブページか導入ガイドをご覧ください。"
 
 #: tlpkg/installer/install-menu-wizard.pl:213
 msgid "Or use install-tl-advanced.bat."
@@ -263,13 +263,13 @@ msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
 msgstr ""
-"導入先フォルダには、インストールしたものが入ります。\n"
+"対象フォルダには、導入対象物が入ります。\n"
 "最後尾に年を入れたままにしておくことを強くお勧めします。"
 
 #: tlpkg/installer/install-menu-wizard.pl:501
 #: tlpkg/installer/install-menu-perltk.pl:992
 msgid "disk space required:"
-msgstr "必要ディスク領域:"
+msgstr "@必要ディスク領域:"
 
 #: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:999
@@ -522,12 +522,12 @@ msgstr "選択したスキーム"
 
 #: tlpkg/installer/install-menu-perltk.pl:346
 msgid "Further Customization"
-msgstr "追加設定"
+msgstr "詳細設定"
 
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:797
 msgid "Installation collections"
-msgstr "インストール選集"
+msgstr "導入対象選集"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -648,11 +648,11 @@ msgstr "%s のパスを入力してください（%s を表すには ~ を使用
 
 #: tlpkg/installer/install-menu-perltk.pl:775
 msgid "custom selection of collections"
-msgstr "コレクションの任意選択"
+msgstr "選集の任意選択"
 
 #: tlpkg/installer/install-menu-perltk.pl:806
 msgid "Select the collections to be installed"
-msgstr "導入するコレクションを選択"
+msgstr "導入する選集を選択"
 
 #: tlpkg/installer/install-menu-perltk.pl:822
 msgid "Select All"
@@ -668,15 +668,15 @@ msgstr "symlink を標準ディレクトリに作成する"
 
 #: tlpkg/installer/install-menu-perltk.pl:891
 msgid "binaries to"
-msgstr "バイナリ先:"
+msgstr "バイナリリンク先:"
 
 #: tlpkg/installer/install-menu-perltk.pl:893
 msgid "manpages to"
-msgstr "man ページ先:"
+msgstr "man ページリンク先:"
 
 #: tlpkg/installer/install-menu-perltk.pl:895
 msgid "info to"
-msgstr "info 先:"
+msgstr "info リンク先:"
 
 #: tlpkg/installer/install-menu-perltk.pl:925
 msgid "Select arch-os"
@@ -695,7 +695,7 @@ msgstr "%s（全 %s 中）"
 #: tlpkg/installer/install-menu-perltk.pl:990
 #, perl-format
 msgid "%s collections out of %s"
-msgstr "%s コレクション（全 %s 中）"
+msgstr "%s 選集（全 %s 選集中）"
 
 #: tlpkg/installer/install-menu-perltk.pl:1008
 #: tlpkg/installer/install-menu-perltk.pl:1019
@@ -812,7 +812,7 @@ msgstr "パッケージ"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:332
 msgid "collections"
-msgstr "コレクション"
+msgstr "選集"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:334
 msgid "schemes"
@@ -995,7 +995,7 @@ msgid ""
 "Really remove (uninstall) the COMPLETE TeX Live %s installation?\n"
 "Your last chance to change your mind!"
 msgstr ""
-"導入済の TeX Live %s「全部」を本当に削除（アンインストール）しますか？\n"
+"導入済の TeX Live %s「全部」を本当に削除（導入解除）しますか？\n"
 "取り止める最後のチャンスです！"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:647
@@ -1066,7 +1066,7 @@ msgstr "第2設定:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:743
 msgid "Collection:"
-msgstr "コレクション:"
+msgstr "選集:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:747
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
