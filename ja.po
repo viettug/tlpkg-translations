@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2014-05-14 03:23+0200\n"
-"PO-Revision-Date: 2014-05-25 02:41+0900\n"
+"PO-Revision-Date: 2014-05-25 02:44+0900\n"
 "Last-Translator: \n"
-"Language-Team: Japanese <tldoc@tug.org>\n"
+"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -269,7 +269,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:501
 #: tlpkg/installer/install-menu-perltk.pl:992
 msgid "disk space required:"
-msgstr "@必要ディスク領域:"
+msgstr "必要ディスク領域:"
 
 #: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:999
