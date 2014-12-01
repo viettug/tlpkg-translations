@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -711,7 +711,7 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
@@ -1015,19 +1015,19 @@ msgid "Installed:"
 msgstr "安裝 TeX Live"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
+msgid "Local revision:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
+msgid "Local Catalogue version:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
+msgid "Remote revision:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
+msgid "Remote Catalogue version:"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
@@ -1203,8 +1203,7 @@ msgid "Changes will take effect after restart"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
+msgid "Choose directory"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
@@ -1321,7 +1320,7 @@ msgid "Restore selected package"
 msgstr "選擇安裝方案"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
+msgid "Restore all packages to latest version"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
@@ -1342,6 +1341,10 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
+msgstr ""
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
 msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-21 08:53+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -757,18 +757,12 @@ msgstr "... naloženo"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Nimate pravic za spreminjanje namestitve -\n"
-"direktorij %s je zaklenjen za pisanje.\n"
-"Poženite program kot administrator\n"
-"ali kontaktirajte lokalnega administratorja.\n"
-"\n"
-"(Večina možnosti bo onemogočena.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1079,22 +1073,20 @@ msgid "Installed:"
 msgstr "Nameščen:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-#, fuzzy
-msgid "Local Revision:"
-msgstr "Lokalna verzija:"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Verzija v lokalnem katalogu:"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-#, fuzzy
-msgid "Remote Revision:"
-msgstr "Verzija na strežniku:"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Verzija v katalogu na strežniku:"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1274,9 +1266,8 @@ msgid "Changes will take effect after restart"
 msgstr "Spremembe bodo upoštevane po ponovnem zagonu"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Izberi imenik"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1409,9 +1400,8 @@ msgid "Restore selected package"
 msgstr "Izberi pakete"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-#, fuzzy
-msgid "Restore all package to latest version"
-msgstr "Ponastavi vse pakete na zadnjo verzijo"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1433,6 +1423,10 @@ msgstr "Uredi direktorij"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Nova vrednost za"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Izberi imenik"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 #, fuzzy
@@ -1705,3 +1699,35 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "Nimate pravic za spreminjanje namestitve -\n"
+#~ "direktorij %s je zaklenjen za pisanje.\n"
+#~ "Poženite program kot administrator\n"
+#~ "ali kontaktirajte lokalnega administratorja.\n"
+#~ "\n"
+#~ "(Večina možnosti bo onemogočena.)"
+
+#, fuzzy
+#~ msgid "Local Revision:"
+#~ msgstr "Lokalna verzija:"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Verzija v lokalnem katalogu:"
+
+#, fuzzy
+#~ msgid "Remote Revision:"
+#~ msgstr "Verzija na strežniku:"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Verzija v katalogu na strežniku:"
+
+#, fuzzy
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Ponastavi vse pakete na zadnjo verzijo"

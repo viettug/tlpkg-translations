@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-20 20:37+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
@@ -745,18 +745,12 @@ msgstr "fertig geladen"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Sie haben keine Berechtigung die Installation zu verändern,\n"
-"insbesonders ist der Ordner %s nicht schreibbar.\n"
-"Bitte starten Sie dieses Programm als Administrator, oder kontaktieren Sie "
-"den lokalen Administrator.\n"
-"\n"
-"Die meisten Schaltflächen werden deaktiviert."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1039,20 +1033,20 @@ msgid "Installed:"
 msgstr "Installiert:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
-msgstr "Lokale Revision:"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Lokale Catalogue Version:"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
-msgstr "Serverrevision:"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Version des Server-Katalogs:"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1219,9 +1213,8 @@ msgid "Changes will take effect after restart"
 msgstr "Änderungen werden erst nach einem Neustart wirksam"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Auswahl eines Ordners"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1349,8 +1342,8 @@ msgid "Restore selected package"
 msgstr "Ausgewähltes Paket wiederherstellen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
-msgstr "Alle Pakete auf den letzten gesicherten Stand bringen"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1371,6 +1364,10 @@ msgstr "Bearbeite Pfad"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Neuer Wert für"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Auswahl eines Ordners"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 msgid "Load package repository"
@@ -1633,6 +1630,35 @@ msgstr "nur-Windows Zusatzprogramme "
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX und Pakete"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "Sie haben keine Berechtigung die Installation zu verändern,\n"
+#~ "insbesonders ist der Ordner %s nicht schreibbar.\n"
+#~ "Bitte starten Sie dieses Programm als Administrator, oder kontaktieren "
+#~ "Sie den lokalen Administrator.\n"
+#~ "\n"
+#~ "Die meisten Schaltflächen werden deaktiviert."
+
+#~ msgid "Local Revision:"
+#~ msgstr "Lokale Revision:"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Lokale Catalogue Version:"
+
+#~ msgid "Remote Revision:"
+#~ msgstr "Serverrevision:"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Version des Server-Katalogs:"
+
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Alle Pakete auf den letzten gesicherten Stand bringen"
 
 #~ msgid "Chinese/Japanese/Korean"
 #~ msgstr "Chinesisch/Japanisch/Koreanisch"

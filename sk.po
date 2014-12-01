@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-03 21:03+0100\n"
 "Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
 "Language-Team:  <tex-live@tug.org>\n"
@@ -744,18 +744,12 @@ msgstr "... načítanie ukončené"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Nemáte oprávnenie na žiadnu zmenu inštalácie,\n"
-"konkrétne, adresár %s je chránený proti zápisu.\n"
-"Spusťte, prosím, tento program ako administrátor alebo kontaktujte svojho "
-"miestneho administrátora.\n"
-"\n"
-"Väčšina tlačidiel bude zablokovaná."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1038,20 +1032,20 @@ msgid "Installed:"
 msgstr "Nainštalované"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
-msgstr "Lokálna revízia:"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Verzia lokálneho katalógu:"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
-msgstr "Vzdialená revízia:"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Verzia vzdialeného katalógu:"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1218,9 +1212,8 @@ msgid "Changes will take effect after restart"
 msgstr "Zmeny sa prejavia po reštarte"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Zvoliť adresár"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1347,8 +1340,8 @@ msgid "Restore selected package"
 msgstr "Obnoviť zvolené balíky"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
-msgstr "Obnoviť všetky balíky podľa poslednej verzie"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1369,6 +1362,10 @@ msgstr "Editácia adresára"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Nová hodnota pre"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Zvoliť adresár"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 msgid "Load package repository"
@@ -1633,6 +1630,35 @@ msgstr "Podporné programy len pre Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX a balíky"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "Nemáte oprávnenie na žiadnu zmenu inštalácie,\n"
+#~ "konkrétne, adresár %s je chránený proti zápisu.\n"
+#~ "Spusťte, prosím, tento program ako administrátor alebo kontaktujte svojho "
+#~ "miestneho administrátora.\n"
+#~ "\n"
+#~ "Väčšina tlačidiel bude zablokovaná."
+
+#~ msgid "Local Revision:"
+#~ msgstr "Lokálna revízia:"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Verzia lokálneho katalógu:"
+
+#~ msgid "Remote Revision:"
+#~ msgstr "Vzdialená revízia:"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Verzia vzdialeného katalógu:"
+
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Obnoviť všetky balíky podľa poslednej verzie"
 
 #~ msgid "Chinese/Japanese/Korean"
 #~ msgstr "Čínština/Japončina/Kórejčina"

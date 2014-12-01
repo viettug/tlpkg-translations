@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-19 20:49+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -739,18 +739,12 @@ msgstr "... wczytano"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Nie masz uprawnień, aby zmienić instalację,\n"
-"zablokowany do zapisu jest szczególnie katalog %s\n"
-"Proszę uruchomić ten program w trybie administratora\n"
-"lub skontaktować się z administratorem.\n"
-"\n"
-"Wiekszość przycisków będzie nieaktywna."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1034,20 +1028,20 @@ msgid "Installed:"
 msgstr "Zainstalowane:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
-msgstr "Lokalny nr wydania:"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Lokalna wersja wg TeX Catalogue"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
-msgstr "Dostępny nr wydania:"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Dostępna wersja wg TeX Catalogue:"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1215,9 +1209,8 @@ msgid "Changes will take effect after restart"
 msgstr "Zmiany będą zastosowane po restarcie programu"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Wybierz katalog"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1343,8 +1336,8 @@ msgid "Restore selected package"
 msgstr "Odtwórz zaznaczony pakiet"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
-msgstr "Odtwórz wszyskie pakiety w poprzedniej wersji"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1365,6 +1358,10 @@ msgstr "Wybór katalogu"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Nowa wartość dla"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Wybierz katalog"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 msgid "Load package repository"
@@ -1627,6 +1624,35 @@ msgstr "Dodatkowe programy tylko dla Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX i pakiety"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "Nie masz uprawnień, aby zmienić instalację,\n"
+#~ "zablokowany do zapisu jest szczególnie katalog %s\n"
+#~ "Proszę uruchomić ten program w trybie administratora\n"
+#~ "lub skontaktować się z administratorem.\n"
+#~ "\n"
+#~ "Wiekszość przycisków będzie nieaktywna."
+
+#~ msgid "Local Revision:"
+#~ msgstr "Lokalny nr wydania:"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Lokalna wersja wg TeX Catalogue"
+
+#~ msgid "Remote Revision:"
+#~ msgstr "Dostępny nr wydania:"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Dostępna wersja wg TeX Catalogue:"
+
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Odtwórz wszyskie pakiety w poprzedniej wersji"
 
 #~ msgid "Chinese/Japanese/Korean"
 #~ msgstr "chiński/japoński/koreański"

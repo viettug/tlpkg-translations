@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-19 22:33+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -749,17 +749,12 @@ msgstr "... chargement terminé."
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"Vous n'avez pas les permissions nécessaires pour modifier le système ;\n"
-"plus précisément, vous ne pouvez pas écrire dans le répertoire %s\n"
-"Veuillez exécuter ce programme en tant qu'administrateur, ou contacter votre "
-"administrateur local.\n"
-"La plupart des boutons seront désactivés."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1042,20 +1037,20 @@ msgid "Installed:"
 msgstr "Installé :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
-msgstr "Version locale :"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Version locale d'après le catalogue :"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
-msgstr "Version du dépôts :"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Version du dépôt d'après le catalogue :"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1223,9 +1218,8 @@ msgid "Changes will take effect after restart"
 msgstr "Les modification ne seront actives qu'après redémarrage"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Choisir le répertoire"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1356,8 +1350,8 @@ msgid "Restore selected package"
 msgstr "Restaurer les paquets sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
-msgstr "Restaurer tous les paquets à la version la plus récente"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1378,6 +1372,10 @@ msgstr "Éditer le répertoire"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Nouvelle valeur pour"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Choisir le répertoire"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 msgid "Load package repository"
@@ -1642,6 +1640,34 @@ msgstr "Programmes pour le support de Windows seulement"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX et paquets associés"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "Vous n'avez pas les permissions nécessaires pour modifier le système ;\n"
+#~ "plus précisément, vous ne pouvez pas écrire dans le répertoire %s\n"
+#~ "Veuillez exécuter ce programme en tant qu'administrateur, ou contacter "
+#~ "votre administrateur local.\n"
+#~ "La plupart des boutons seront désactivés."
+
+#~ msgid "Local Revision:"
+#~ msgstr "Version locale :"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Version locale d'après le catalogue :"
+
+#~ msgid "Remote Revision:"
+#~ msgstr "Version du dépôts :"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Version du dépôt d'après le catalogue :"
+
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Restaurer tous les paquets à la version la plus récente"
 
 #~ msgid "Loaded repository:"
 #~ msgstr "Dépôt chargé :"

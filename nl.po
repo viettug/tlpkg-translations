@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-07-08 03:25+0200\n"
+"POT-Creation-Date: 2014-12-01 05:30+0100\n"
 "PO-Revision-Date: 2014-05-05 12:55+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -739,18 +739,12 @@ msgstr "... klaar met laden"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:242
 #, perl-format
 msgid ""
-"You don't have permissions to change the installation in any way,\n"
+"You don't have permissions to change the installation in any way;\n"
 "specifically, the directory %s is not writable.\n"
 "Please run this program as administrator, or contact your local admin.\n"
 "\n"
 "Most buttons will be disabled."
 msgstr ""
-"U heeft geen permissie om ook maar iets aan de installatie te wijzigen,\n"
-"in het bijzonder, u heeft geen schrijfrechten voor de folder %s.\n"
-"Draai dit programma als Administrator, of neem contact op met uw lokale "
-"systeembeheerder.\n"
-"\n"
-"De meeste knoppen zijn gedeactiveerd."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:287
 msgid "Repository"
@@ -1035,20 +1029,20 @@ msgid "Installed:"
 msgstr "Geïnstalleerd:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:699
-msgid "Local Revision:"
-msgstr "Lokale revisie:"
+msgid "Local revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
-msgid "Local Catalogue Version:"
-msgstr "Lokale versie van de Catalogus:"
+msgid "Local Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:707
-msgid "Remote Revision:"
-msgstr "Online revisie:"
+msgid "Remote revision:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:711
-msgid "Remote Catalogue Version:"
-msgstr "Online versie van de Catalogus:"
+msgid "Remote Catalogue version:"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:716
 msgid "Keywords:"
@@ -1214,9 +1208,8 @@ msgid "Changes will take effect after restart"
 msgstr "Wijzigingen treden in werking na herstart"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
-msgid "Choose Directory"
-msgstr "Kies folder"
+msgid "Choose directory"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1570
 msgid "Edit default package repositories"
@@ -1342,8 +1335,8 @@ msgid "Restore selected package"
 msgstr "Herstel gekozen pakket"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2426
-msgid "Restore all package to latest version"
-msgstr "Herstel alle pakketten tot hun nieuwste versie"
+msgid "Restore all packages to latest version"
+msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2442
 msgid "Close"
@@ -1364,6 +1357,10 @@ msgstr "Wijzig folder"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2517
 msgid "New value for"
 msgstr "Nieuwe waarde voor"
+
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2520
+msgid "Choose Directory"
+msgstr "Kies folder"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2550
 msgid "Load package repository"
@@ -1627,6 +1624,35 @@ msgstr "Ondersteunende programma's specifiek voor Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX en bijbehorende pakketten"
+
+#~ msgid ""
+#~ "You don't have permissions to change the installation in any way,\n"
+#~ "specifically, the directory %s is not writable.\n"
+#~ "Please run this program as administrator, or contact your local admin.\n"
+#~ "\n"
+#~ "Most buttons will be disabled."
+#~ msgstr ""
+#~ "U heeft geen permissie om ook maar iets aan de installatie te wijzigen,\n"
+#~ "in het bijzonder, u heeft geen schrijfrechten voor de folder %s.\n"
+#~ "Draai dit programma als Administrator, of neem contact op met uw lokale "
+#~ "systeembeheerder.\n"
+#~ "\n"
+#~ "De meeste knoppen zijn gedeactiveerd."
+
+#~ msgid "Local Revision:"
+#~ msgstr "Lokale revisie:"
+
+#~ msgid "Local Catalogue Version:"
+#~ msgstr "Lokale versie van de Catalogus:"
+
+#~ msgid "Remote Revision:"
+#~ msgstr "Online revisie:"
+
+#~ msgid "Remote Catalogue Version:"
+#~ msgstr "Online versie van de Catalogus:"
+
+#~ msgid "Restore all package to latest version"
+#~ msgstr "Herstel alle pakketten tot hun nieuwste versie"
 
 #~ msgid "Chinese/Japanese/Korean"
 #~ msgstr "Chinees/Japans/Koreaans"
