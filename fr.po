@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-12-17 03:19+0100\n"
+"POT-Creation-Date: 2015-04-15 03:19+0200\n"
 "PO-Revision-Date: 2014-05-19 22:33+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
@@ -1622,8 +1622,8 @@ msgid "Natural and computer sciences"
 msgstr "Sciences naturelles et informatique"
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor"
-msgstr "L'éditeur TeXworks"
+msgid "TeXworks editor (only Win32)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1632,6 +1632,9 @@ msgstr "Programmes pour le support de Windows seulement"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX et paquets associés"
+
+#~ msgid "TeXworks editor"
+#~ msgstr "L'éditeur TeXworks"
 
 #~ msgid "Cannot load taxonomy file"
 #~ msgstr "Échec du chargement du fichier de taxonomie"

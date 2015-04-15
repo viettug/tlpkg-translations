@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-12-17 03:19+0100\n"
+"POT-Creation-Date: 2015-04-15 03:19+0200\n"
 "PO-Revision-Date: 2014-05-17 03:59+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1618,8 +1618,8 @@ msgid "Natural and computer sciences"
 msgstr "Природне и компјутерске науке"
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor"
-msgstr "Едитор TeXworks"
+msgid "TeXworks editor (only Win32)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1628,6 +1628,9 @@ msgstr "Помоћни програми за Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "TeXworks editor"
+#~ msgstr "Едитор TeXworks"
 
 #~ msgid "Cannot load taxonomy file"
 #~ msgstr "Није могуће отворити фајл са обележјима"

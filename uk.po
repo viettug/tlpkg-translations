@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-12-17 03:19+0100\n"
+"POT-Creation-Date: 2015-04-15 03:19+0200\n"
 "PO-Revision-Date: 2013-08-07 08:27+0300\n"
 "Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian <andriykopanytsia@gmail.com>\n"
@@ -1602,8 +1602,8 @@ msgid "Natural and computer sciences"
 msgstr "Природничі та комп'ютерні науки"
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor"
-msgstr "Редактор TeXworks"
+msgid "TeXworks editor (only Win32)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1612,6 +1612,9 @@ msgstr "Додаткові програми лише під Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX та пакунки"
+
+#~ msgid "TeXworks editor"
+#~ msgstr "Редактор TeXworks"
 
 #~ msgid "Cannot load taxonomy file"
 #~ msgstr "Неможливо завантажити файл класифікації"

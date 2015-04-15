@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-12-17 03:19+0100\n"
+"POT-Creation-Date: 2015-04-15 03:19+0200\n"
 "PO-Revision-Date: 2014-05-25 02:44+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
@@ -1607,8 +1607,8 @@ msgid "Natural and computer sciences"
 msgstr "自然科学及び計算機科学"
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor"
-msgstr "TeXworksエディタ"
+msgid "TeXworks editor (only Win32)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1617,6 +1617,9 @@ msgstr "Windows限定サポートプログラム"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeXとパッケージ"
+
+#~ msgid "TeXworks editor"
+#~ msgstr "TeXworksエディタ"
 
 #~ msgid "Cannot load taxonomy file"
 #~ msgstr "分類ファイルを読み込みませんでした"

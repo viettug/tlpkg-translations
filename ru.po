@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2014-12-17 03:19+0100\n"
+"POT-Creation-Date: 2015-04-15 03:19+0200\n"
 "PO-Revision-Date: 2014-05-15 20:02+0900\n"
 "Last-Translator: Vladimir Lomov <irk.translator@yandex.ru>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
@@ -1612,8 +1612,8 @@ msgid "Natural and computer sciences"
 msgstr "Естественные науки и теория вычислительных машин и систем"
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor"
-msgstr "Редактор TeXworks"
+msgid "TeXworks editor (only Win32)"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1622,6 +1622,9 @@ msgstr "Вспомогательные программы, только для W
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX и пакеты"
+
+#~ msgid "TeXworks editor"
+#~ msgstr "Редактор TeXworks"
 
 #~ msgid "Cannot load taxonomy file"
 #~ msgstr "Невозможно загрузить файл классификации"
