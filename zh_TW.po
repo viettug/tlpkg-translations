@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2015-04-15 03:19+0200\n"
+"POT-Creation-Date: 2015-04-20 03:25+0200\n"
 "PO-Revision-Date: 2009-09-03 12:34+0200\n"
 "Last-Translator: Norbert Preining <preining@logic.at>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1588,7 +1588,7 @@ msgid "Natural and computer sciences"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor (only Win32)"
+msgid "TeXworks editor; TL includes only the Windows binary"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56

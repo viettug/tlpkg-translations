@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2015-04-15 03:19+0200\n"
+"POT-Creation-Date: 2015-04-20 03:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1550,7 +1550,7 @@ msgid "Natural and computer sciences"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "TeXworks editor (only Win32)"
+msgid "TeXworks editor; TL includes only the Windows binary"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:56
