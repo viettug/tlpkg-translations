@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Vladimir <lomov.vl@gmail.com>, 2009, 2010, 2011.
 # Vladimir Lomov <irk.translator@gmail.com>, 2011, 2012, 2013, 2014.
-# Vladimir Lomov <irk.translator@yandex.ru>, 2014.
+# Vladimir Lomov <irk.translator@yandex.ru>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-15 20:02+0900\n"
+"PO-Revision-Date: 2015-04-30 21:04+0800\n"
 "Last-Translator: Vladimir Lomov <irk.translator@yandex.ru>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.7.5\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -747,6 +747,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"У вас недостаточно прав на какое-либо изменение этой установки;\n"
+"конкретно, нет прав на запись в каталог %s.\n"
+"Запустите эту программу от имени администратора или обратитесь к\n"
+"вашему местному администратору.\n"
+"\n"
+"Большинство кнопок будет отключено."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1027,19 +1033,19 @@ msgstr "Установлен:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Ревизия по локальному источнику:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Версия по локальному каталогу:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Ревизия по удалённому источнику:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Версия по удалённому каталогу:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1208,7 +1214,7 @@ msgstr "Изменения вступят в силу после перезап�
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Выберите каталог"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1334,7 +1340,7 @@ msgstr "Восстановить выбранные пакеты"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Восстановить все пакеты до последней версии"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1613,7 +1619,7 @@ msgstr "Естественные науки и теория вычислител
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "Редактор TeXworks; TL предоставляет программу только для Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
