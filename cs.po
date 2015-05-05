@@ -6,16 +6,15 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-03 21:07+0100\n"
-"Last-Translator: Ján Buša <jan.busa@tuke.sk>\n"
+"PO-Revision-Date: 2015-05-05 21:05+0100\n"
+"Last-Translator: Petr Sojka <sojka@fi.muni.cz>\n"
 "Language-Team: Czech <>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -743,6 +742,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"Nemáte práva měnit instalaci jakýmkoli způsobem;\n"
+"konkrétněji, adresář %s není zapisovatelný.\n"
+"Prosím spusťte tento program jako administrátor, nebo kontaktujte svého "
+"místního administrátora.\n"
+"\n"
+"Většina tlačítek bude zakázána."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1022,19 +1027,19 @@ msgstr "Nainstalováno:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Lokální revize:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Verze Katalogu na lokálním počítači:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Síťová revize:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Verze Katalogu na síti:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1203,7 +1208,7 @@ msgstr "Změny se projeví po restartování"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Vyberte adresář"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1301,7 +1306,7 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2259
 msgid "(Further updates will be available after tlmgr has been updated.)"
-msgstr ""
+msgstr "(Další aktualizace budou k dispozici po aktualizaci tlmgr.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2261
 msgid ""
@@ -1330,7 +1335,7 @@ msgstr "Obnovit vybrané balíky"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Obnov všechny balíky na nejnovější verzi"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1494,7 +1499,7 @@ msgstr "Čínština"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Čínština/Japonština/Korejština (základ)"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1610,7 +1615,7 @@ msgstr "Přírodní vědy, informatika"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "Editor TeXworks; TL obsahuje pouze binárku pro Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
