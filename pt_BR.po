@@ -5,14 +5,14 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-04-08 13:41-0300\n"
+"PO-Revision-Date: 2015-05-05 08:35-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.7.5\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -746,6 +746,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"Você não tem permissões para alterar a instalação;\n"
+"em particular, o diretório %s não tem permissão de escrita.\n"
+"Por favor, execute este programa como administrador, ou contate o seu "
+"administrador local.\n"
+"\n"
+"A maioria dos botões estará desabilitada."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1026,19 +1032,19 @@ msgstr "Instalado:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Revisão local:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Versão do catálogo local:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Revisão local:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Versão do catálogo remoto:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1207,7 +1213,7 @@ msgstr "As mudanças terão efeito após o reinício"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Escolha o diretório"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1307,6 +1313,7 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2259
 msgid "(Further updates will be available after tlmgr has been updated.)"
 msgstr ""
+"(Atualizações subsequentes estarão disponíveis após a atualização de tlmgr.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2261
 msgid ""
@@ -1335,7 +1342,7 @@ msgstr "Restaurar o pacote selecionado"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Restaurar todos os pacotes para a última versão"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1497,11 +1504,11 @@ msgstr "Árabe"
 
 #: tlpkg/translations/shortdesc.pl:25
 msgid "Chinese"
-msgstr ""
+msgstr "Chinês"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Chinês/Japonês/Coreano (base)"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1541,11 +1548,11 @@ msgstr "Italiano"
 
 #: tlpkg/translations/shortdesc.pl:36
 msgid "Japanese"
-msgstr ""
+msgstr "Japonês"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "Korean"
-msgstr ""
+msgstr "Coreano"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "Other languages"
@@ -1617,7 +1624,7 @@ msgstr "Ciências naturais e da computação"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "editor TeXworks; TL inclui apenas o binário para Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
