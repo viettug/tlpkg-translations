@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-05 12:55+0100\n"
+"PO-Revision-Date: 2015-05-05 18:03+0100\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 1.5.4\n"
+"Language: nl\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -741,6 +741,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"U heeft geen rechten om de installatie op enige manier te wijzigen;\n"
+"in het bijzonder heeft u geen schrijfrechten voor de %s folder.\n"
+"Voer dit programma uit als administrator of neem contact op\n"
+"met systeembeheer.\n"
+"\n"
+"De meeste knoppen zijn gedeactiveerd."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1022,19 +1028,19 @@ msgstr "Geïnstalleerd:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Lokale revisie:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Versie lokale catalogus:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Online revisie:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Versie online catalogus:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1201,7 +1207,7 @@ msgstr "Wijzigingen treden in werking na herstart"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Kies folder:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1299,7 +1305,7 @@ msgstr ""
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2259
 msgid "(Further updates will be available after tlmgr has been updated.)"
-msgstr ""
+msgstr "(Verdere updates komen beschikbaar nadat tlmgr is bijgewerkt.)"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2261
 msgid ""
@@ -1328,7 +1334,7 @@ msgstr "Herstel gekozen pakket"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Herstel alle pakketten naar de laatste versie"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1491,7 +1497,7 @@ msgstr "Chinees"
 
 #: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese/Japanese/Korean (base)"
-msgstr ""
+msgstr "Chiness/Japans/Koreaans (basis)"
 
 #: tlpkg/translations/shortdesc.pl:27
 msgid "Cyrillic"
@@ -1607,7 +1613,7 @@ msgstr "Natuurwetenschappen en informatica"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "TeXworks editor; TL bevat alleen de Windows versie"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
