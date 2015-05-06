@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-21 08:53+0100\n"
+"PO-Revision-Date: 2015-05-06 10:21+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: sl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Bookmarks: 77,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.7.6\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -21,9 +21,8 @@ msgstr "Privzet format papirja"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:462
-#, fuzzy
 msgid "Add menu shortcuts"
-msgstr "Dodajne menijske bližnjice"
+msgstr "Dodaj menijske bližnjice"
 
 #: tlpkg/installer/install-menu-wizard.pl:41
 #: tlpkg/installer/install-menu-perltk.pl:468
@@ -758,6 +757,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"Nimate dovoljena za spreminjanje namestitve;\n"
+"v imenik %s ne morete pisati.\n"
+"Prosimo zaženite ta program kot administrator ali prosite svojega "
+"administratorja za pomoč.\n"
+"\n"
+"Večina gumbov bo onemogočena."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1065,19 +1070,19 @@ msgstr "Nameščen:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Lokalna verzija:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Verzija lokalnega kataloga:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Oddaljena verzija:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Verzija oddaljenega kataloga:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1258,7 +1263,7 @@ msgstr "Spremembe bodo upoštevane po ponovnem zagonu"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Izberi imenik"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1391,8 +1396,9 @@ msgid "Restore selected package"
 msgstr "Izberi pakete"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
+#, fuzzy
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Obnovi vse pakete na najnovejšo različico"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1680,7 +1686,7 @@ msgstr "Naravoslovje in računalništvo"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "Urejevalnik TeXworks; TL vsebuje samo program za Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
