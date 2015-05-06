@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2015-05-05 08:35-0300\n"
+"PO-Revision-Date: 2015-05-06 17:26-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language: pt_BR\n"
@@ -999,7 +999,7 @@ msgid ""
 msgstr ""
 "Você realmente deseja remover (desinstalar) a instalação COMPLETA do TeX "
 "Live %s?\n"
-"É a sua última chance de mudar de idéia!"
+"É a sua última chance de mudar de ideia!"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:633
 msgid "Manual"
@@ -1422,7 +1422,7 @@ msgstr "esquema GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "medium scheme (small + more packages and languages)"
-msgstr "esquema médio (pequeno + mais pacotes e idiomas)"
+msgstr "esquema médio (pequeno + pacotes extras e idiomas)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "minimal scheme (plain only)"
@@ -1476,7 +1476,7 @@ msgstr "Formatos adicionais"
 
 #: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
-msgstr "Typesetting de jogos"
+msgstr "Escrita de jogos"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Generic additional packages"
@@ -1584,7 +1584,7 @@ msgstr "Pacotes LaTeX recomendados"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "LuaTeX packages"
-msgstr "Pacotes LuaTex"
+msgstr "Pacotes LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "Mathematics packages"
