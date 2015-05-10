@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-20 20:37+0100\n"
+"PO-Revision-Date: 2015-05-10 07:25+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -747,6 +747,11 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"Sie haben keinen Berechtigung;\n"
+"in das Verzeichnis %s zu schreiben.\n"
+"Bitte starten Sie dieses Programm als Administrator bzw, kontaktieren Sie "
+"Ihren Administrator,\n"
+"Die meistens Buttons sind ausgegraut."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -1026,19 +1031,19 @@ msgstr "Installiert:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Lokaler Versionsstand:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Version im lokalen Katalog"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Version auf dem Server:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Version im Katalog auf dem Server"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1206,7 +1211,7 @@ msgstr "Änderungen werden erst nach einem Neustart wirksam"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Wählen Sie ein Verzeichnis"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1335,7 +1340,7 @@ msgstr "Ausgewähltes Paket wiederherstellen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Aktualisiere alle Pakete auf die neueste Version"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1613,7 +1618,7 @@ msgstr "Natur- und Computerwissenschaften"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "TeXworks Editor; TL enthält nur Binaries für Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
