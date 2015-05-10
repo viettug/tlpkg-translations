@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2015-05-10 07:25+0100\n"
+"PO-Revision-Date: 2015-05-10 15:27+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1389,7 +1389,7 @@ msgstr "Lade remote Quelle - dies kann eine Weile dauern, bitte warten ..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2640
 msgid "Completed"
-msgstr "Fertig"
+msgstr "Abgeschlossen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2647
 #, perl-format
@@ -1397,7 +1397,7 @@ msgid ""
 "Running %s failed.\n"
 "Please consult the log window for details."
 msgstr ""
-"Ausführen von %s war nicht erfolgreich.\n"
+"Die Ausführung von %s  schlug fehl.\n"
 "Details finden Sie im Log Fenster "
 
 #: tlpkg/translations/shortdesc.pl:1
@@ -1486,7 +1486,7 @@ msgstr "HTML/SGML/XML Unterstützung"
 
 #: tlpkg/translations/shortdesc.pl:22
 msgid "Humanities packages"
-msgstr "Pakete für Geisteswissenschaften"
+msgstr "Pakete für die Geisteswissenschaften"
 
 #: tlpkg/translations/shortdesc.pl:23
 msgid "African scripts"
@@ -1570,11 +1570,11 @@ msgstr "LaTeX grundlegende Pakete"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "LaTeX additional packages"
-msgstr "LaTeX zusätzliche Pakete"
+msgstr "LaTeX: zusätzliche Pakete"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "LaTeX recommended packages"
-msgstr "LaTeX empfohlene Pakete"
+msgstr "LaTeX: empfohlene Pakete"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "LuaTeX packages"
@@ -1610,7 +1610,7 @@ msgstr "PSTricks"
 
 #: tlpkg/translations/shortdesc.pl:53
 msgid "Publisher styles, theses, etc."
-msgstr "Verlagsstile, -arbeiten, etc."
+msgstr "Verlagsstile, Abschlussarbeiten, etc."
 
 #: tlpkg/translations/shortdesc.pl:54
 msgid "Natural and computer sciences"
@@ -1622,7 +1622,7 @@ msgstr "TeXworks Editor; TL enthält nur Binaries für Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
-msgstr "nur-Windows Zusatzprogramme "
+msgstr "Zusatzprogramme (nur-Windows)"
 
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
