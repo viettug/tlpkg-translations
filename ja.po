@@ -1,15 +1,15 @@
 # Copyright (C) 2010, 2011 TeX Live Team
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Koji Yokota <yokota@res.otaru-uc.ac.jp>, 2010, 2011, 2012, 2014.
+# Koji Yokota <yokota33@gmail.com>, 2010, 2011, 2012, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-25 02:44+0900\n"
-"Last-Translator: \n"
-"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2015-05-12 17:27+0900\n"
+"Last-Translator: Koji Yokota <yokota33@gmail.com>\n"
+"Language-Team: Japanese <tldoc@tug.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -278,7 +278,7 @@ msgstr "（既定値が許されないか書き込み不能です―変更して
 
 #: tlpkg/installer/install-menu-wizard.pl:531
 msgid "Enter path for"
-msgstr "右の変数のパスを入力→"
+msgstr "この変数のパスを入力→"
 
 #: tlpkg/installer/install-menu-wizard.pl:535
 #: tlpkg/installer/install-menu-perltk.pl:301
@@ -744,6 +744,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"導入済のものを変更する権限が全くありません。\n"
+"正確には、ディレクトリ %s が書き込み可能になっていません。\n"
+"このプログラムを管理者として実行するか、ローカルの管理者に連絡をとってくだ"
+"さい。\n"
+"\n"
+"ほとんどのボタンは利用不能になります。"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -818,7 +824,7 @@ msgstr "スキーム"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:330
 msgid "Match"
-msgstr "一致"
+msgstr "一致検索"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:335
 msgid "descriptions"
@@ -1023,19 +1029,19 @@ msgstr "導入済:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "ローカル版:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "ローカルカタログのバージョン:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "リモートの改訂版:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "リモートカタログのバージョン:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1059,8 +1065,7 @@ msgstr "選集:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:733
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
-msgstr ""
-"警告： カタログバージョンが追いついていないか、間違っている可能性があります。"
+msgstr "警告： カタログバージョンが追いついていないか、間違っている可能性があります。"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:771
 msgid "Depends:"
@@ -1203,7 +1208,7 @@ msgstr "変更は再起動後有効になります"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "ディレクトリを選択してください"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1328,7 +1333,7 @@ msgstr "選択したパッケージを復元"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "全パッケージを最新版に戻す"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1608,7 +1613,7 @@ msgstr "自然科学及び計算機科学"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "TeXworksエディタ; TLにはWindowsバイナリしか所収していません"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
@@ -1626,20 +1631,6 @@ msgstr "XeTeXとパッケージ"
 
 #~ msgid "taxonomies"
 #~ msgstr "分類"
-
-#~ msgid ""
-#~ "You don't have permissions to change the installation in any way,\n"
-#~ "specifically, the directory %s is not writable.\n"
-#~ "Please run this program as administrator, or contact your local admin.\n"
-#~ "\n"
-#~ "Most buttons will be disabled."
-#~ msgstr ""
-#~ "導入済のものを変更する権限がありません。\n"
-#~ "正確には、ディレクトリ %s が書き込み可能になっていません。\n"
-#~ "このプログラムを管理者として実行するか、ローカルの管理者に連絡をとってくだ"
-#~ "さい。\n"
-#~ "\n"
-#~ "ほとんどのボタンは利用不能になります。"
 
 #~ msgid "Local Revision:"
 #~ msgstr "ローカル Revision:"
