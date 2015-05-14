@@ -528,7 +528,7 @@ msgstr "詳細設定"
 #: tlpkg/installer/install-menu-perltk.pl:350
 #: tlpkg/installer/install-menu-perltk.pl:817
 msgid "Installation collections"
-msgstr "導入対象選集"
+msgstr "導入対象コレクション"
 
 #: tlpkg/installer/install-menu-perltk.pl:360
 msgid "Directory setup"
@@ -656,11 +656,11 @@ msgstr "%s のパスを入力してください（%s を表すには ~ を使用
 
 #: tlpkg/installer/install-menu-perltk.pl:795
 msgid "custom selection of collections"
-msgstr "選集の任意選択"
+msgstr "コレクションの任意選択"
 
 #: tlpkg/installer/install-menu-perltk.pl:827
 msgid "Select the collections to be installed"
-msgstr "導入する選集を選択"
+msgstr "導入するコレクションを選択"
 
 #: tlpkg/installer/install-menu-perltk.pl:847
 msgid "Select All"
@@ -703,7 +703,7 @@ msgstr "%s（全 %s 中）"
 #: tlpkg/installer/install-menu-perltk.pl:1015
 #, perl-format
 msgid "%s collections out of %s"
-msgstr "%s 選集（全 %s 選集中）"
+msgstr "%s コレクション（全 %s コレクション中）"
 
 #: tlpkg/installer/install-menu-perltk.pl:1033
 #: tlpkg/installer/install-menu-perltk.pl:1044
@@ -812,15 +812,15 @@ msgstr "区分"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:323
 msgid "packages"
-msgstr "パッケージ"
+msgstr "個別パッケージ"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:325
 msgid "collections"
-msgstr "選集"
+msgstr "コレクション（小分類パッケージ集）"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:327
 msgid "schemes"
-msgstr "スキーム"
+msgstr "スキーム（大分類パッケージ集）"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:330
 msgid "Match"
@@ -1061,7 +1061,7 @@ msgstr "第2設定:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:729
 msgid "Collection:"
-msgstr "選集:"
+msgstr "コレクション:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:733
 msgid "Warning: Catalogue versions might be lagging behind or be simply wrong."
