@@ -1,14 +1,14 @@
 #
 #
-# Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>, 2013, 2014.
-# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012, 2013.
 #
+# Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>, 2013, 2014, 2015.
+# Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012, 2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2014-05-19 22:33+0200\n"
+"PO-Revision-Date: 2015-05-14 08:37+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: Français <texlive@tug.org>\n"
 "Language: fr\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"Plural-Forms: s\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: s;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -211,7 +211,7 @@ msgstr "Annuler"
 #: tlpkg/installer/install-menu-wizard.pl:418
 #: tlpkg/installer/install-menu-perltk.pl:298
 msgid "Could not load remote TeX Live Database:"
-msgstr "Échec du chargement de la base de données TeX Live :"
+msgstr "Échec du chargement de la base de données TeX Live en ligne :"
 
 #: tlpkg/installer/install-menu-wizard.pl:419
 #: tlpkg/installer/install-menu-wizard.pl:426
@@ -751,6 +751,12 @@ msgid ""
 "\n"
 "Most buttons will be disabled."
 msgstr ""
+"Vous n'avez en aucune façon les droits permettant de modifier "
+"l'installation ;\n"
+"En particulier, le répertoire %s est interdit en écriture.\n"
+"Veuillez lancer ce programme en tant qu'administrateur, ou contactez votre "
+"administrateur local.\n"
+"La plupart des boutons seront désactivés."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:281
 msgid "Repository"
@@ -869,7 +875,7 @@ msgstr "Version locale"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:402
 msgid "Remote rev. (ver.)"
-msgstr "Version du dépôt"
+msgstr "Version en ligne"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:403
 msgid "Short description"
@@ -1030,19 +1036,19 @@ msgstr "Installé :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Local revision:"
-msgstr ""
+msgstr "Version locale :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr ""
+msgstr "Version du catalogue local :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr ""
+msgstr "Version en ligne :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr ""
+msgstr "Version du catalogue en ligne :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1211,7 +1217,7 @@ msgstr "Les modification ne seront actives qu'après redémarrage"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1485
 msgid "Choose directory"
-msgstr ""
+msgstr "Choisissez un répertoire"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1551
 msgid "Edit default package repositories"
@@ -1267,7 +1273,7 @@ msgstr "désactiver"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1867
 msgid "Loading of remote database failed."
-msgstr "Échec du chargement de la base de données distante"
+msgstr "Échec du chargement de la base de données en ligne."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1868
 msgid "Error message:"
@@ -1343,7 +1349,7 @@ msgstr "Restaurer les paquets sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr ""
+msgstr "Restaurer tous les packages à la dernière version"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1389,7 +1395,7 @@ msgstr "Utiliser le dépôt en ligne standard"
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
-"Chargement du dépôt distant - ceci peut prendre du temps, veuillez "
+"Chargement du dépôt en ligne - ceci peut prendre du temps, veuillez "
 "patienter..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2640
@@ -1623,7 +1629,7 @@ msgstr "Sciences naturelles et informatique"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr ""
+msgstr "Éditeur TeXworks ; la TL n'inclut que les binaires pour Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
