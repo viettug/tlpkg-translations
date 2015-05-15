@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2015-05-14 08:37+0200\n"
+"PO-Revision-Date: 2015-05-15 07:22+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
-"Language-Team: Français <texlive@tug.org>\n"
+"Language-Team: French <texlive@tug.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -140,14 +140,14 @@ msgstr "Dépôts de paquets locaux"
 #: tlpkg/installer/install-menu-wizard.pl:270
 #: tlpkg/installer/install-menu-perltk.pl:267
 msgid "NETWORK REPOSITORIES"
-msgstr "Dépôts de paquets en ligne"
+msgstr "Dépôts de paquets du réseau"
 
 #: tlpkg/installer/install-menu-wizard.pl:271
 #: tlpkg/installer/install-menu-perltk.pl:268
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1461
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1493
 msgid "Default remote repository"
-msgstr "Dépôt de paquets en ligne par défaut"
+msgstr "Dépôt de paquets distant par défaut"
 
 #: tlpkg/installer/install-menu-wizard.pl:277
 #: tlpkg/installer/install-menu-perltk.pl:272
@@ -156,7 +156,7 @@ msgstr "Choisir le dépôt de paquets"
 
 #: tlpkg/installer/install-menu-wizard.pl:279
 msgid "Mirror:"
-msgstr "Mirroir :"
+msgstr "Miroir :"
 
 #: tlpkg/installer/install-menu-wizard.pl:331
 msgid "Continent"
@@ -168,12 +168,12 @@ msgstr "Pays"
 
 #: tlpkg/installer/install-menu-wizard.pl:363
 msgid "Mirrors"
-msgstr "Mirroirs"
+msgstr "Miroirs"
 
 #: tlpkg/installer/install-menu-wizard.pl:410
 msgid "Please wait while the repository database is loaded."
 msgstr ""
-"Veuillez patientez pendant le chargement de la base de données des dépôts de "
+"Veuillez patienter pendant le chargement de la base de données des dépôts de "
 "paquets."
 
 #: tlpkg/installer/install-menu-wizard.pl:411
@@ -211,7 +211,7 @@ msgstr "Annuler"
 #: tlpkg/installer/install-menu-wizard.pl:418
 #: tlpkg/installer/install-menu-perltk.pl:298
 msgid "Could not load remote TeX Live Database:"
-msgstr "Échec du chargement de la base de données TeX Live en ligne :"
+msgstr "Échec du chargement de la base de données TeX Live distante :"
 
 #: tlpkg/installer/install-menu-wizard.pl:419
 #: tlpkg/installer/install-menu-wizard.pl:426
@@ -279,7 +279,7 @@ msgstr "espace disque nécessaire :"
 #: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:1024
 msgid "(default not allowed or not writable - please change!)"
-msgstr "(répertoire par défaut interdit en écriture - veuillez le modifier!)"
+msgstr "(répertoire par défaut interdit en écriture - veuillez le modifier !)"
 
 #: tlpkg/installer/install-menu-wizard.pl:531
 msgid "Enter path for"
@@ -411,7 +411,7 @@ msgstr ""
 "Le site web de TeX Live (http://tug.org/texlive/) propose toutes les mises à "
 "jour et les correctifs. TeX Live est un projet commun des groupes "
 "d'utilisateurs de TeX à travers le monde ; pensez à lui apporter votre "
-"support en rejoignant le groupe qui vous convient le mieux. La liste des "
+"soutien en rejoignant le groupe qui vous convient le mieux. La liste des "
 "groupes est disponible sur le web à l'adresse http://tug.org/usergroups."
 "html ; la page du groupe francophone est http://www.gutenberg.eu.org/."
 
@@ -427,7 +427,7 @@ msgstr ""
 "Veuillez ajouter %s/texmf/doc/man à votre MANPATH\n"
 "et %s/texmf/doc/info à votre INFOPATH,\n"
 "mais surtout, ajoutez %s/bin/%s\n"
-"à votre PATH, pour cette session et les prochaines."
+"à votre PATH, pour cette session et les suivantes."
 
 #: tlpkg/installer/install-menu-wizard.pl:717
 #: tlpkg/installer/install-menu-perltk.pl:624
@@ -519,7 +519,7 @@ msgstr "Informations générales"
 #: tlpkg/installer/install-menu-perltk.pl:329
 #: tlpkg/installer/install-menu-perltk.pl:941
 msgid "Binary system(s)"
-msgstr "Plate-forme(s) des binaires"
+msgstr "Plates-forme(s) des binaires"
 
 #: tlpkg/installer/install-menu-perltk.pl:338
 #: tlpkg/installer/install-menu-perltk.pl:773
@@ -607,7 +607,7 @@ msgstr "Installer les sources des macros et polices"
 #: tlpkg/installer/install-menu-perltk.pl:450
 #: tlpkg/installer/install-menu-perltk.pl:907
 msgid "Create symlinks in system directories"
-msgstr "Créer les liens symboliques dans les répertoires systèmes"
+msgstr "Créer les liens symboliques dans les répertoires-système"
 
 #: tlpkg/installer/install-menu-perltk.pl:490
 msgid "After installation, get package updates from CTAN"
@@ -754,7 +754,7 @@ msgstr ""
 "Vous n'avez en aucune façon les droits permettant de modifier "
 "l'installation ;\n"
 "En particulier, le répertoire %s est interdit en écriture.\n"
-"Veuillez lancer ce programme en tant qu'administrateur, ou contactez votre "
+"Veuillez lancer ce programme en tant qu'administrateur ou contacter votre "
 "administrateur local.\n"
 "La plupart des boutons seront désactivés."
 
@@ -875,7 +875,7 @@ msgstr "Version locale"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:402
 msgid "Remote rev. (ver.)"
-msgstr "Version en ligne"
+msgstr "Version distante"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:403
 msgid "Short description"
@@ -921,7 +921,7 @@ msgstr "Charger le dépôt indiqué en ligne de commande :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:521
 msgid "Load standard net repository:"
-msgstr "Charger le dépôt en ligne standard :"
+msgstr "Charger le dépôt distant standard :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:524
 msgid "Load other repository ..."
@@ -958,7 +958,7 @@ msgstr "Désactiver l'installation automatique des nouveaux paquets"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:558
 msgid "Disable auto-removal of server-deleted packages"
-msgstr "Désactiver la suppression automatique des paquets supprimés du dépôt"
+msgstr "Désactiver la suppression automatique des paquets retirés du dépôt"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:565
 msgid "Update filename database"
@@ -994,7 +994,7 @@ msgstr "Désinstaller TeX Live %s"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:619
 msgid "Complete removal finished"
-msgstr "Désinstallation complète terminée."
+msgstr "Suppression complète terminée."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:624
 #, perl-format
@@ -1044,11 +1044,11 @@ msgstr "Version du catalogue local :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
-msgstr "Version en ligne :"
+msgstr "Version distante :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr "Version du catalogue en ligne :"
+msgstr "Version du catalogue distante :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1056,7 +1056,7 @@ msgstr "Mots clefs :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:708
 msgid "Functionality:"
-msgstr "Fonctionalité :"
+msgstr "Fonctionnalité :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:713
 msgid "Primary characterization:"
@@ -1273,7 +1273,7 @@ msgstr "désactiver"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1867
 msgid "Loading of remote database failed."
-msgstr "Échec du chargement de la base de données en ligne."
+msgstr "Échec du chargement de la base de données distante."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1868
 msgid "Error message:"
@@ -1337,7 +1337,7 @@ msgstr "Restauration effectuée."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2342
 msgid "Select the package to restore, or restore all packages"
-msgstr "Sélectionner le paquet à restaurer, ou restaurer tous les paquets"
+msgstr "Sélectionner le paquet à restaurer ou restaurer tous les paquets"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 msgid "Revision:"
@@ -1349,7 +1349,7 @@ msgstr "Restaurer les paquets sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr "Restaurer tous les packages à la dernière version"
+msgstr "Restaurer tous les paquets à leur dernière version"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
@@ -1389,13 +1389,13 @@ msgstr "Choisir un répertoire local"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2540
 msgid "Use standard net repository"
-msgstr "Utiliser le dépôt en ligne standard"
+msgstr "Utiliser le dépôt standard du réseau"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2556
 msgid ""
 "Loading remote repository - this may take some time, please be patient ..."
 msgstr ""
-"Chargement du dépôt en ligne - ceci peut prendre du temps, veuillez "
+"Chargement du dépôt distant - ceci peut prendre du temps, veuillez "
 "patienter..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2640
@@ -1668,7 +1668,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Version locale d'après le catalogue :"
 
 #~ msgid "Remote Revision:"
-#~ msgstr "Version du dépôts :"
+#~ msgstr "Version du dépôt :"
 
 #~ msgid "Remote Catalogue Version:"
 #~ msgstr "Version du dépôt d'après le catalogue :"
@@ -1816,7 +1816,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Paquets Plain TeX supplémentaires"
 
 #~ msgid "Select language-specific documentation"
-#~ msgstr "Choisir les langues des documentations multilingues"
+#~ msgstr "Choisir la documentation propre à une langue"
 
 #~ msgid "Arabic documentation"
 #~ msgstr "Documentation en arabe"
