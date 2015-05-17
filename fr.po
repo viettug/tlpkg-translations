@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2015-05-15 07:22+0200\n"
+"PO-Revision-Date: 2015-05-16 12:00+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: French <texlive@tug.org>\n"
 "Language: fr\n"
@@ -1349,7 +1349,7 @@ msgstr "Restaurer les paquets sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2379
 msgid "Restore all packages to latest version"
-msgstr "Restaurer tous les paquets à leur dernière version"
+msgstr "Restaurer tous les paquets à partir de la dernière sauvegarde"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2395
 msgid "Close"
