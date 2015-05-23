@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2015-04-30 03:19+0200\n"
-"PO-Revision-Date: 2015-05-07 18:04+0100\n"
+"PO-Revision-Date: 2015-05-22 21:08+0800\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: \n"
@@ -1023,7 +1023,7 @@ msgstr "Lokalna wersja:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:690
 msgid "Local Catalogue version:"
-msgstr "Lokalna wersja wg Katalogu:"
+msgstr "Lokalna wersja wg TeX Catalogue:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:694
 msgid "Remote revision:"
@@ -1031,7 +1031,7 @@ msgstr "Wersja w repozytorium:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:698
 msgid "Remote Catalogue version:"
-msgstr "Wersja wg Katalogu w repozytorium:"
+msgstr "Wersja wg TeX Catalogue w repozytorium:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:703
 msgid "Keywords:"
@@ -1242,7 +1242,7 @@ msgstr "Przywróć"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1748
 msgid "Select paper format for"
-msgstr "wybór formatu papieru dla"
+msgstr "Wybierz formatu papieru dla"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1775
 msgid "keep arbitrarily many"
@@ -1566,7 +1566,7 @@ msgstr "Pakiety do składu matematyki"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "MetaPost and Metafont packages"
-msgstr "Pakiety MetaPosta and Metafonta"
+msgstr "Pakiety MetaPosta i Metafonta"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "Music packages"
