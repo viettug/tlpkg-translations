@@ -59,7 +59,7 @@ msgstr "Installer l'éditeur intégré TeXworks"
 #: tlpkg/installer/install-menu-perltk.pl:574
 #, perl-format
 msgid "TeX Live %s Installation"
-msgstr "Installation de TeX Live %s"
+msgstr "Installation de la TeX Live %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 #: tlpkg/installer/install-menu-perltk.pl:527
@@ -274,7 +274,7 @@ msgstr ""
 #: tlpkg/installer/install-menu-wizard.pl:501
 #: tlpkg/installer/install-menu-perltk.pl:1017
 msgid "disk space required:"
-msgstr "espace disque nécessaire :"
+msgstr "Espace disque nécessaire :"
 
 #: tlpkg/installer/install-menu-wizard.pl:521
 #: tlpkg/installer/install-menu-perltk.pl:1024
@@ -519,7 +519,7 @@ msgstr "Informations générales"
 #: tlpkg/installer/install-menu-perltk.pl:329
 #: tlpkg/installer/install-menu-perltk.pl:941
 msgid "Binary system(s)"
-msgstr "Plates-forme(s) des binaires"
+msgstr "Plate(s)-forme(s) des binaires"
 
 #: tlpkg/installer/install-menu-perltk.pl:338
 #: tlpkg/installer/install-menu-perltk.pl:773
@@ -811,7 +811,7 @@ msgstr "Non installés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:318
 msgid "updates"
-msgstr "Mises à jour"
+msgstr "Mis à jour"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:321
 msgid "Category"
@@ -937,11 +937,11 @@ msgstr "Papier..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:539
 msgid "Platforms ..."
-msgstr "Plate-formes..."
+msgstr "Plates-formes..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:543
 msgid "GUI Language ..."
-msgstr "Langue pour l'interface graphique ..."
+msgstr "Langue pour l'interface graphique..."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:547
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1441
@@ -950,7 +950,7 @@ msgstr "Mode expert"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:551
 msgid "Enable debugging output"
-msgstr "Activer les information de déboguage"
+msgstr "Activer les informations de déboguage"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:555
 msgid "Disable auto-install of new packages"
@@ -975,7 +975,7 @@ msgstr "Mettre à jour la base d'associations de fontes"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:597
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2320
 msgid "Restore packages from backup"
-msgstr "Restaure une version sauvegardée des paquets"
+msgstr "Restaurer une version sauvegardée des paquets"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:603
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2402
@@ -2207,7 +2207,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Veuillez cliquer sur un item à gauche pour voir sa description."
 
 #~ msgid "...please change me..."
-#~ msgstr "... veuillez me modifier ..."
+#~ msgstr "... veuillez me modifier..."
 
 #~ msgid ""
 #~ "No updates found.\n"
