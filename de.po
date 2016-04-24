@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2016-04-24 03:15+0200\n"
-"PO-Revision-Date: 2015-05-10 15:27+0100\n"
+"PO-Revision-Date: 2016-04-24 10:33+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1390,12 +1390,12 @@ msgstr "Lade remote Quelle - dies kann eine Weile dauern, bitte warten ..."
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "verified"
-msgstr ""
+msgstr "verifiziert"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "not verified"
-msgstr ""
+msgstr "nicht verifiziert"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
