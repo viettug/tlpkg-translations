@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2016-04-29 03:15+0200\n"
-"PO-Revision-Date: 2016-04-24 10:33+0100\n"
+"PO-Revision-Date: 2016-05-01 09:20+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -1035,7 +1035,7 @@ msgstr "Lokaler Versionsstand:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:691
 msgid "Local Catalogue version:"
-msgstr "Version im lokalen Katalog"
+msgstr "Version im lokalen Katalog:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:695
 msgid "Remote revision:"
