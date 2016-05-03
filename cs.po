@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2016-04-29 03:15+0200\n"
-"PO-Revision-Date: 2015-05-05 21:05+0100\n"
+"PO-Revision-Date: 2016-05-03 17:30+0200\n"
 "Last-Translator: Petr Sojka <sojka@fi.muni.cz>\n"
 "Language-Team: Czech <>\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -40,7 +40,7 @@ msgstr "Změna asociace typů souborů k programům"
 #: tlpkg/installer/install-menu-wizard.pl:42
 #: tlpkg/installer/install-menu-perltk.pl:449
 msgid "Adjust PATH setting in registry"
-msgstr "Upravení settingu PATH v registrech"
+msgstr "Úprava nastavení PATH v registrech"
 
 #: tlpkg/installer/install-menu-wizard.pl:43
 #: tlpkg/installer/install-menu-perltk.pl:475
@@ -118,7 +118,7 @@ msgstr "Nebo použijte install-tl-advanced.bat."
 
 #: tlpkg/installer/install-menu-wizard.pl:214
 msgid "Or specify  --gui expert  to install-tl."
-msgstr "Nebo zadejte  --gui expert  to install-tl."
+msgstr "Nebo zadejte  --gui expert  v příkazu install-tl."
 
 #: tlpkg/installer/install-menu-wizard.pl:223
 msgid "Change default repository"
@@ -1388,12 +1388,12 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2589
 msgid "verified"
-msgstr ""
+msgstr "ověřen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2589
 msgid "not verified"
-msgstr ""
+msgstr "neověřen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Completed"
