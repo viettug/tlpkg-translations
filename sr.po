@@ -1379,12 +1379,12 @@ msgstr "Учитавање удаљеног репозиторијума - ов�
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2589
 msgid "verified"
-msgstr "верификовано"
+msgstr "верификован"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2585
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2589
 msgid "not verified"
-msgstr "није верификовано"
+msgstr "није верификован"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2642
 msgid "Completed"
