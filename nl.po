@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2016-05-10 03:13+0200\n"
-"PO-Revision-Date: 2015-05-05 18:03+0100\n"
+"PO-Revision-Date: 2016-05-12 11:53+0200\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:39
 #: tlpkg/installer/install-menu-perltk.pl:420
@@ -1385,12 +1385,12 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "verified"
-msgstr ""
+msgstr "geverifieerd"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "not verified"
-msgstr ""
+msgstr "niet geverifieerd"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
