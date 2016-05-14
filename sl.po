@@ -1454,12 +1454,12 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "verified"
-msgstr ""
+msgstr "preverjeno"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2584
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2588
 msgid "not verified"
-msgstr ""
+msgstr "nepreverjeno"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2641
 msgid "Completed"
