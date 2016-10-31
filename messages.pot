@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2016-08-09 03:17+0200\n"
+"POT-Creation-Date: 2016-10-31 03:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1528,7 +1528,7 @@ msgid "LuaTeX packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:47
-msgid "Mathematics packages"
+msgid "Mathematics and science packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:48
@@ -1560,17 +1560,13 @@ msgid "Publisher styles, theses, etc."
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:55
-msgid "Natural and computer sciences"
-msgstr ""
-
-#: tlpkg/translations/shortdesc.pl:56
 msgid "TeXworks editor; TL includes only the Windows binary"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:58
+#: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr ""
