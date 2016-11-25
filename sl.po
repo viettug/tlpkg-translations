@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2016-05-19 03:14+0200\n"
+"POT-Creation-Date: 2016-11-25 21:17+0100\n"
 "PO-Revision-Date: 2013-05-30 10:00+0100\n"
 "Last-Translator: Mojca Miklavec <mojca.miklavec.lists@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1492,206 +1492,206 @@ msgid "GUST TeX Live scheme"
 msgstr "poljski GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
+msgid "infrastructure-only scheme (no TeX at all)"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
 msgstr "srednje velika namestitev (majhna nam. z dodatnimi paketi in jeziki)"
 
-#: tlpkg/translations/shortdesc.pl:6
+#: tlpkg/translations/shortdesc.pl:7
 msgid "minimal scheme (plain only)"
 msgstr "najmanjša namestitev (samo plain TeX)"
 
-#: tlpkg/translations/shortdesc.pl:7
+#: tlpkg/translations/shortdesc.pl:8
 msgid "small scheme (basic + xetex, metapost, a few languages)"
 msgstr ""
 "majhna namestitev (osnovna orodja, XeTeX, metapost, podpora za nekaj jezikov)"
 
-#: tlpkg/translations/shortdesc.pl:8
+#: tlpkg/translations/shortdesc.pl:9
 #, fuzzy
 msgid "teTeX scheme (more than medium, but nowhere near full)"
 msgstr "podobna teTeX-u (med srednje veliko in polno)"
 
-#: tlpkg/translations/shortdesc.pl:9
+#: tlpkg/translations/shortdesc.pl:10
 msgid "XML scheme"
 msgstr "namestitev s podporo za XML"
 
-#: tlpkg/translations/shortdesc.pl:10
+#: tlpkg/translations/shortdesc.pl:11
 msgid "Essential programs and files"
 msgstr "Osnovni programi in datoteke"
 
-#: tlpkg/translations/shortdesc.pl:11
+#: tlpkg/translations/shortdesc.pl:12
 msgid "BibTeX additional styles"
 msgstr "Dodatni slogi za BibTeX"
 
-#: tlpkg/translations/shortdesc.pl:12
+#: tlpkg/translations/shortdesc.pl:13
 msgid "TeX auxiliary programs"
 msgstr "Pomožni programi za TeX"
 
-#: tlpkg/translations/shortdesc.pl:13
+#: tlpkg/translations/shortdesc.pl:14
 msgid "ConTeXt and packages"
 msgstr "ConTeXt s paketi"
 
-#: tlpkg/translations/shortdesc.pl:14
+#: tlpkg/translations/shortdesc.pl:15
 msgid "Additional fonts"
 msgstr "Dodatne pisave"
 
-#: tlpkg/translations/shortdesc.pl:15
+#: tlpkg/translations/shortdesc.pl:16
 msgid "Recommended fonts"
 msgstr "Priporočene pisave"
 
-#: tlpkg/translations/shortdesc.pl:16
+#: tlpkg/translations/shortdesc.pl:17
 msgid "Graphics and font utilities"
 msgstr "Orodja za grafiko in pisave"
 
-#: tlpkg/translations/shortdesc.pl:17
+#: tlpkg/translations/shortdesc.pl:18
 msgid "Additional formats"
 msgstr "Dodatni formati"
 
-#: tlpkg/translations/shortdesc.pl:18
+#: tlpkg/translations/shortdesc.pl:19
 msgid "Games typesetting"
 msgstr "Stavljenje iger"
 
-#: tlpkg/translations/shortdesc.pl:19
+#: tlpkg/translations/shortdesc.pl:20
 msgid "Generic additional packages"
 msgstr "Dodatni splošni paketi"
 
-#: tlpkg/translations/shortdesc.pl:20
+#: tlpkg/translations/shortdesc.pl:21
 msgid "Generic recommended packages"
 msgstr "Splošni priporočeni paketi"
 
-#: tlpkg/translations/shortdesc.pl:21
+#: tlpkg/translations/shortdesc.pl:22
 msgid "HTML/SGML/XML support"
 msgstr "Podpora za HTML/SGML/XML"
 
-#: tlpkg/translations/shortdesc.pl:22
+#: tlpkg/translations/shortdesc.pl:23
 msgid "Humanities packages"
 msgstr "Paketi za družboslovce"
 
-#: tlpkg/translations/shortdesc.pl:23
+#: tlpkg/translations/shortdesc.pl:24
 msgid "African scripts"
 msgstr "Afriške pisave"
 
-#: tlpkg/translations/shortdesc.pl:24
+#: tlpkg/translations/shortdesc.pl:25
 msgid "Arabic"
 msgstr "Arabske pisave"
 
-#: tlpkg/translations/shortdesc.pl:25
+#: tlpkg/translations/shortdesc.pl:26
 msgid "Chinese"
 msgstr "Kitajščina"
 
-#: tlpkg/translations/shortdesc.pl:26
+#: tlpkg/translations/shortdesc.pl:27
 msgid "Chinese/Japanese/Korean (base)"
 msgstr "Kitajščina, japonščina, korejščina"
 
-#: tlpkg/translations/shortdesc.pl:27
+#: tlpkg/translations/shortdesc.pl:28
 msgid "Cyrillic"
 msgstr "Cirilica"
 
-#: tlpkg/translations/shortdesc.pl:28
+#: tlpkg/translations/shortdesc.pl:29
 msgid "Czech/Slovak"
 msgstr "Češčina in slovaščina"
 
-#: tlpkg/translations/shortdesc.pl:29
+#: tlpkg/translations/shortdesc.pl:30
 msgid "US and UK English"
 msgstr "Angleščina & angl. priročniki"
 
-#: tlpkg/translations/shortdesc.pl:30
+#: tlpkg/translations/shortdesc.pl:31
 msgid "Other European languages"
 msgstr "Ostali evropski jeziki"
 
-#: tlpkg/translations/shortdesc.pl:31
+#: tlpkg/translations/shortdesc.pl:32
 msgid "French"
 msgstr "Francoščina"
 
-#: tlpkg/translations/shortdesc.pl:32
+#: tlpkg/translations/shortdesc.pl:33
 msgid "German"
 msgstr "Nemščina"
 
-#: tlpkg/translations/shortdesc.pl:33
+#: tlpkg/translations/shortdesc.pl:34
 msgid "Greek"
 msgstr "Grščina"
 
-#: tlpkg/translations/shortdesc.pl:34
+#: tlpkg/translations/shortdesc.pl:35
 msgid "Indic scripts"
 msgstr "Indijske pisave"
 
-#: tlpkg/translations/shortdesc.pl:35
+#: tlpkg/translations/shortdesc.pl:36
 msgid "Italian"
 msgstr "Italijanščina"
 
-#: tlpkg/translations/shortdesc.pl:36
+#: tlpkg/translations/shortdesc.pl:37
 msgid "Japanese"
 msgstr "Japonščina"
 
-#: tlpkg/translations/shortdesc.pl:37
+#: tlpkg/translations/shortdesc.pl:38
 msgid "Korean"
 msgstr "Korejščina"
 
-#: tlpkg/translations/shortdesc.pl:38
+#: tlpkg/translations/shortdesc.pl:39
 msgid "Other languages"
 msgstr "Ostali jeziki"
 
-#: tlpkg/translations/shortdesc.pl:39
+#: tlpkg/translations/shortdesc.pl:40
 msgid "Polish"
 msgstr "Poljščina"
 
-#: tlpkg/translations/shortdesc.pl:40
+#: tlpkg/translations/shortdesc.pl:41
 msgid "Portuguese"
 msgstr "Portugalščina"
 
-#: tlpkg/translations/shortdesc.pl:41
+#: tlpkg/translations/shortdesc.pl:42
 msgid "Spanish"
 msgstr "Španščina"
 
-#: tlpkg/translations/shortdesc.pl:42
+#: tlpkg/translations/shortdesc.pl:43
 msgid "LaTeX fundamental packages"
 msgstr "Osnovni paketi za LaTeX"
 
-#: tlpkg/translations/shortdesc.pl:43
+#: tlpkg/translations/shortdesc.pl:44
 msgid "LaTeX additional packages"
 msgstr "Dodatni paketi za LaTeX"
 
-#: tlpkg/translations/shortdesc.pl:44
+#: tlpkg/translations/shortdesc.pl:45
 msgid "LaTeX recommended packages"
 msgstr "Priporočljivi paketi za LaTeX"
 
-#: tlpkg/translations/shortdesc.pl:45
+#: tlpkg/translations/shortdesc.pl:46
 msgid "LuaTeX packages"
 msgstr "Paketi za LuaTeX"
 
-#: tlpkg/translations/shortdesc.pl:46
-msgid "Mathematics packages"
-msgstr "Matematični paketi"
-
 #: tlpkg/translations/shortdesc.pl:47
+msgid "Mathematics and science packages"
+msgstr ""
+
+#: tlpkg/translations/shortdesc.pl:48
 msgid "MetaPost and Metafont packages"
 msgstr "Paketi za MetaPost in MetaFont"
 
-#: tlpkg/translations/shortdesc.pl:48
+#: tlpkg/translations/shortdesc.pl:49
 msgid "Music packages"
 msgstr "Paketi za stavljenje glasbe"
 
-#: tlpkg/translations/shortdesc.pl:49
+#: tlpkg/translations/shortdesc.pl:50
 msgid "Omega packages"
 msgstr "Paketi za Omego"
 
-#: tlpkg/translations/shortdesc.pl:50
+#: tlpkg/translations/shortdesc.pl:51
 msgid "Graphics, pictures, diagrams"
 msgstr "Slike in diagrami"
 
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:52
 msgid "Plain TeX packages"
 msgstr "Paketi za plain TeX"
 
-#: tlpkg/translations/shortdesc.pl:52
+#: tlpkg/translations/shortdesc.pl:53
 msgid "PSTricks"
 msgstr "PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:54
 msgid "Publisher styles, theses, etc."
 msgstr "Slogi za založnike, dizertacije ipd."
-
-#: tlpkg/translations/shortdesc.pl:54
-msgid "Natural and computer sciences"
-msgstr "Naravoslovje in računalništvo"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
@@ -1704,3 +1704,9 @@ msgstr "Programi za MS Windows"
 #: tlpkg/translations/shortdesc.pl:57
 msgid "XeTeX and packages"
 msgstr "XeTeX s paketi"
+
+#~ msgid "Mathematics packages"
+#~ msgstr "Matematični paketi"
+
+#~ msgid "Natural and computer sciences"
+#~ msgstr "Naravoslovje in računalništvo"
