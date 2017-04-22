@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-04-17 01:28+0200\n"
-"PO-Revision-Date: 2016-05-12 11:53+0200\n"
+"PO-Revision-Date: 2017-04-22 20:51+0200\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.9\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -97,6 +97,8 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"Probeer in geval van problemen uw antivirus te deaktiveren tijdens de "
+"installatie."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -391,15 +393,15 @@ msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Geen TeX Live menu"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "TeX Live menu"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Launcher item"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -559,6 +561,8 @@ msgstr "Doorgaan"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"Probeer in geval van problemen uw antivirus te deaktiveren tijdens de "
+"installatie."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
@@ -1360,7 +1364,7 @@ msgstr "GUST TeX Live schema"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "Alleen infrastruktuur (helemaal geen TeX)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1528,7 +1532,7 @@ msgstr "LuaTeX pakketten"
 
 #: tlpkg/translations/shortdesc.pl:47
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Wiskundige en wetenschappelijke pakketten"
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "MetaPost and Metafont packages"
