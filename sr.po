@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-04-17 01:28+0200\n"
+"POT-Creation-Date: 2017-05-04 02:06+0200\n"
 "PO-Revision-Date: 2016-04-30 18:49+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1391,196 +1391,192 @@ msgid "teTeX scheme (more than medium, but nowhere near full)"
 msgstr "teTeX шема (више од средње шеме, али доста мање од целине)"
 
 #: tlpkg/translations/shortdesc.pl:10
-msgid "XML scheme"
-msgstr "XML шема"
-
-#: tlpkg/translations/shortdesc.pl:11
 msgid "Essential programs and files"
 msgstr "Најважнији програми и фајлови"
 
-#: tlpkg/translations/shortdesc.pl:12
+#: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
 msgstr "Додатни стилови за BibTeX"
 
-#: tlpkg/translations/shortdesc.pl:13
+#: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
 msgstr "Помоћни TeX програми"
 
-#: tlpkg/translations/shortdesc.pl:14
+#: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
 msgstr "ConTeXt и повезани пакети"
 
-#: tlpkg/translations/shortdesc.pl:15
+#: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
 msgstr "Додатни фонтови"
 
-#: tlpkg/translations/shortdesc.pl:16
+#: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
 msgstr "Препоручени фонтови"
 
-#: tlpkg/translations/shortdesc.pl:17
+#: tlpkg/translations/shortdesc.pl:16
 msgid "Graphics and font utilities"
 msgstr "Програми за рад са графиком и фонтовима"
 
-#: tlpkg/translations/shortdesc.pl:18
+#: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
 msgstr "Додатни формати"
 
-#: tlpkg/translations/shortdesc.pl:19
+#: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
 msgstr "Припрема докумената везаних за игре"
 
-#: tlpkg/translations/shortdesc.pl:20
-msgid "Generic additional packages"
-msgstr "Додатни општи пакети"
-
-#: tlpkg/translations/shortdesc.pl:21
-msgid "Generic recommended packages"
-msgstr "Препоручени општи пакети"
-
-#: tlpkg/translations/shortdesc.pl:22
-msgid "HTML/SGML/XML support"
-msgstr "Подршка за HTML, SGML и XML"
-
-#: tlpkg/translations/shortdesc.pl:23
+#: tlpkg/translations/shortdesc.pl:19
 msgid "Humanities packages"
 msgstr "Пакети за рад у друштвеним наукама"
 
-#: tlpkg/translations/shortdesc.pl:24
-msgid "African scripts"
-msgstr "Афричка писма"
-
-#: tlpkg/translations/shortdesc.pl:25
+#: tlpkg/translations/shortdesc.pl:20
 msgid "Arabic"
 msgstr "Арапски"
 
-#: tlpkg/translations/shortdesc.pl:26
+#: tlpkg/translations/shortdesc.pl:21
 msgid "Chinese"
 msgstr "Кинески"
 
-#: tlpkg/translations/shortdesc.pl:27
+#: tlpkg/translations/shortdesc.pl:22
 msgid "Chinese/Japanese/Korean (base)"
 msgstr "Кинески, јапански, корејски (основно)"
 
-#: tlpkg/translations/shortdesc.pl:28
+#: tlpkg/translations/shortdesc.pl:23
 msgid "Cyrillic"
 msgstr "Ћирилица"
 
-#: tlpkg/translations/shortdesc.pl:29
+#: tlpkg/translations/shortdesc.pl:24
 msgid "Czech/Slovak"
 msgstr "Чешки и словачки"
 
-#: tlpkg/translations/shortdesc.pl:30
+#: tlpkg/translations/shortdesc.pl:25
 msgid "US and UK English"
 msgstr "Амерички и британски енглески"
 
-#: tlpkg/translations/shortdesc.pl:31
+#: tlpkg/translations/shortdesc.pl:26
 msgid "Other European languages"
 msgstr "Остали европски језици"
 
-#: tlpkg/translations/shortdesc.pl:32
+#: tlpkg/translations/shortdesc.pl:27
 msgid "French"
 msgstr "Француски"
 
-#: tlpkg/translations/shortdesc.pl:33
+#: tlpkg/translations/shortdesc.pl:28
 msgid "German"
 msgstr "Немачки"
 
-#: tlpkg/translations/shortdesc.pl:34
+#: tlpkg/translations/shortdesc.pl:29
 msgid "Greek"
 msgstr "Грчки"
 
-#: tlpkg/translations/shortdesc.pl:35
-msgid "Indic scripts"
-msgstr "Индијска писма"
-
-#: tlpkg/translations/shortdesc.pl:36
+#: tlpkg/translations/shortdesc.pl:30
 msgid "Italian"
 msgstr "Италијански"
 
-#: tlpkg/translations/shortdesc.pl:37
+#: tlpkg/translations/shortdesc.pl:31
 msgid "Japanese"
 msgstr "Јапански"
 
-#: tlpkg/translations/shortdesc.pl:38
+#: tlpkg/translations/shortdesc.pl:32
 msgid "Korean"
 msgstr "Корејски"
 
-#: tlpkg/translations/shortdesc.pl:39
+#: tlpkg/translations/shortdesc.pl:33
 msgid "Other languages"
 msgstr "Остали језици"
 
-#: tlpkg/translations/shortdesc.pl:40
+#: tlpkg/translations/shortdesc.pl:34
 msgid "Polish"
 msgstr "Пољски"
 
-#: tlpkg/translations/shortdesc.pl:41
+#: tlpkg/translations/shortdesc.pl:35
 msgid "Portuguese"
 msgstr "Португалски"
 
-#: tlpkg/translations/shortdesc.pl:42
+#: tlpkg/translations/shortdesc.pl:36
 msgid "Spanish"
 msgstr "Шпански"
 
-#: tlpkg/translations/shortdesc.pl:43
+#: tlpkg/translations/shortdesc.pl:37
 msgid "LaTeX fundamental packages"
 msgstr "Основни LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:44
+#: tlpkg/translations/shortdesc.pl:38
 msgid "LaTeX additional packages"
 msgstr "Додатни LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:45
+#: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX recommended packages"
 msgstr "Препоручени LaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:46
+#: tlpkg/translations/shortdesc.pl:40
 msgid "LuaTeX packages"
 msgstr "LuaTeX пакети"
 
-#: tlpkg/translations/shortdesc.pl:47
+#: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:48
+#: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
 msgstr "Пакети за MetaPost и Metafont"
 
-#: tlpkg/translations/shortdesc.pl:49
+#: tlpkg/translations/shortdesc.pl:43
 msgid "Music packages"
 msgstr "Пакети за рад са музиком"
 
-#: tlpkg/translations/shortdesc.pl:50
-msgid "Omega packages"
-msgstr "Omega пакети"
-
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:44
 msgid "Graphics, pictures, diagrams"
 msgstr "Пакети за рад са графиком, сликама и дијаграмима"
 
-#: tlpkg/translations/shortdesc.pl:52
-msgid "Plain TeX packages"
-msgstr "Пакети за „чисти“ (plain) TeX"
+#: tlpkg/translations/shortdesc.pl:45
+msgid "Plain (La)TeX packages"
+msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
 msgstr "PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:47
 msgid "Publisher styles, theses, etc."
 msgstr "Стилови за издаваштво, дисертације итд."
 
-#: tlpkg/translations/shortdesc.pl:55
+#: tlpkg/translations/shortdesc.pl:48
 msgid "TeXworks editor; TL includes only the Windows binary"
 msgstr "Едитор TeXworks; у TL је доступна само верзија за Windows"
 
-#: tlpkg/translations/shortdesc.pl:56
+#: tlpkg/translations/shortdesc.pl:49
 msgid "Windows-only support programs"
 msgstr "Помоћни програми за Windows"
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "XML scheme"
+#~ msgstr "XML шема"
+
+#~ msgid "Generic additional packages"
+#~ msgstr "Додатни општи пакети"
+
+#~ msgid "Generic recommended packages"
+#~ msgstr "Препоручени општи пакети"
+
+#~ msgid "HTML/SGML/XML support"
+#~ msgstr "Подршка за HTML, SGML и XML"
+
+#~ msgid "African scripts"
+#~ msgstr "Афричка писма"
+
+#~ msgid "Indic scripts"
+#~ msgstr "Индијска писма"
+
+#~ msgid "Omega packages"
+#~ msgstr "Omega пакети"
+
+#~ msgid "Plain TeX packages"
+#~ msgstr "Пакети за „чисти“ (plain) TeX"
 
 #~ msgid "Best to disable your virus scanner during installation."
 #~ msgstr "Препоручује се искључивање антивирусних програма током инсталације."

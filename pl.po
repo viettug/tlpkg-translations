@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-04-17 01:28+0200\n"
+"POT-Creation-Date: 2017-05-04 02:06+0200\n"
 "PO-Revision-Date: 2016-05-13 01:48+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1379,196 +1379,192 @@ msgid "teTeX scheme (more than medium, but nowhere near full)"
 msgstr "schemat teTeX (obszerniejszy od medium, ale mniejszy od kompletnego)"
 
 #: tlpkg/translations/shortdesc.pl:10
-msgid "XML scheme"
-msgstr "schemat XML"
-
-#: tlpkg/translations/shortdesc.pl:11
 msgid "Essential programs and files"
 msgstr "Podstawowe makra i fonty"
 
-#: tlpkg/translations/shortdesc.pl:12
+#: tlpkg/translations/shortdesc.pl:11
 msgid "BibTeX additional styles"
 msgstr "Dodatkowe style BibTeX-a"
 
-#: tlpkg/translations/shortdesc.pl:13
+#: tlpkg/translations/shortdesc.pl:12
 msgid "TeX auxiliary programs"
 msgstr "Dodatkowe programy pomocnicze"
 
-#: tlpkg/translations/shortdesc.pl:14
+#: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
 msgstr "ConTeXt i jego pakiety"
 
-#: tlpkg/translations/shortdesc.pl:15
+#: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
 msgstr "Fonty dodatkowe"
 
-#: tlpkg/translations/shortdesc.pl:16
+#: tlpkg/translations/shortdesc.pl:15
 msgid "Recommended fonts"
 msgstr "Fonty rekomendowane"
 
-#: tlpkg/translations/shortdesc.pl:17
+#: tlpkg/translations/shortdesc.pl:16
 msgid "Graphics and font utilities"
 msgstr "Narzędzia do grafiki i fontów"
 
-#: tlpkg/translations/shortdesc.pl:18
+#: tlpkg/translations/shortdesc.pl:17
 msgid "Additional formats"
 msgstr "Dodatkowe formaty"
 
-#: tlpkg/translations/shortdesc.pl:19
+#: tlpkg/translations/shortdesc.pl:18
 msgid "Games typesetting"
 msgstr "Prezentacja zapisu gier"
 
-#: tlpkg/translations/shortdesc.pl:20
-msgid "Generic additional packages"
-msgstr "Dodatkowe pakiety makr ogólnych (działają z różnymi formatami)"
-
-#: tlpkg/translations/shortdesc.pl:21
-msgid "Generic recommended packages"
-msgstr "Rekomendowane pakiety makr ogólnych (działają z różnymi formatami)"
-
-#: tlpkg/translations/shortdesc.pl:22
-msgid "HTML/SGML/XML support"
-msgstr "Wsparcie dla HTML/SGML/XML"
-
-#: tlpkg/translations/shortdesc.pl:23
+#: tlpkg/translations/shortdesc.pl:19
 msgid "Humanities packages"
 msgstr "Pakiety dla humanistów"
 
-#: tlpkg/translations/shortdesc.pl:24
-msgid "African scripts"
-msgstr "skrypty afrykańskie"
-
-#: tlpkg/translations/shortdesc.pl:25
+#: tlpkg/translations/shortdesc.pl:20
 msgid "Arabic"
 msgstr "arabski"
 
-#: tlpkg/translations/shortdesc.pl:26
+#: tlpkg/translations/shortdesc.pl:21
 msgid "Chinese"
 msgstr "chiński"
 
-#: tlpkg/translations/shortdesc.pl:27
+#: tlpkg/translations/shortdesc.pl:22
 msgid "Chinese/Japanese/Korean (base)"
 msgstr "chiński/japoński/koreański (kolekcja podstawowa)"
 
-#: tlpkg/translations/shortdesc.pl:28
+#: tlpkg/translations/shortdesc.pl:23
 msgid "Cyrillic"
 msgstr "cyryliczny"
 
-#: tlpkg/translations/shortdesc.pl:29
+#: tlpkg/translations/shortdesc.pl:24
 msgid "Czech/Slovak"
 msgstr "czeski/słowacki"
 
-#: tlpkg/translations/shortdesc.pl:30
+#: tlpkg/translations/shortdesc.pl:25
 msgid "US and UK English"
 msgstr "angielski brytyjski i amerykański"
 
-#: tlpkg/translations/shortdesc.pl:31
+#: tlpkg/translations/shortdesc.pl:26
 msgid "Other European languages"
 msgstr "Inne języki europejskie"
 
-#: tlpkg/translations/shortdesc.pl:32
+#: tlpkg/translations/shortdesc.pl:27
 msgid "French"
 msgstr "francuski"
 
-#: tlpkg/translations/shortdesc.pl:33
+#: tlpkg/translations/shortdesc.pl:28
 msgid "German"
 msgstr "niemiecki"
 
-#: tlpkg/translations/shortdesc.pl:34
+#: tlpkg/translations/shortdesc.pl:29
 msgid "Greek"
 msgstr "grecki"
 
-#: tlpkg/translations/shortdesc.pl:35
-msgid "Indic scripts"
-msgstr "skrypty indyjskie"
-
-#: tlpkg/translations/shortdesc.pl:36
+#: tlpkg/translations/shortdesc.pl:30
 msgid "Italian"
 msgstr "włoski"
 
-#: tlpkg/translations/shortdesc.pl:37
+#: tlpkg/translations/shortdesc.pl:31
 msgid "Japanese"
 msgstr "japoński"
 
-#: tlpkg/translations/shortdesc.pl:38
+#: tlpkg/translations/shortdesc.pl:32
 msgid "Korean"
 msgstr "koreański"
 
-#: tlpkg/translations/shortdesc.pl:39
+#: tlpkg/translations/shortdesc.pl:33
 msgid "Other languages"
 msgstr "Inne języki"
 
-#: tlpkg/translations/shortdesc.pl:40
+#: tlpkg/translations/shortdesc.pl:34
 msgid "Polish"
 msgstr "polski"
 
-#: tlpkg/translations/shortdesc.pl:41
+#: tlpkg/translations/shortdesc.pl:35
 msgid "Portuguese"
 msgstr "portugalski"
 
-#: tlpkg/translations/shortdesc.pl:42
+#: tlpkg/translations/shortdesc.pl:36
 msgid "Spanish"
 msgstr "hiszpański"
 
-#: tlpkg/translations/shortdesc.pl:43
+#: tlpkg/translations/shortdesc.pl:37
 msgid "LaTeX fundamental packages"
 msgstr "Podstawowe pakiety LaTeX-a"
 
-#: tlpkg/translations/shortdesc.pl:44
+#: tlpkg/translations/shortdesc.pl:38
 msgid "LaTeX additional packages"
 msgstr "Dodatkowe pakiety LaTeX-a"
 
-#: tlpkg/translations/shortdesc.pl:45
+#: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX recommended packages"
 msgstr "Rekomendowane pakiety LaTeX-a"
 
-#: tlpkg/translations/shortdesc.pl:46
+#: tlpkg/translations/shortdesc.pl:40
 msgid "LuaTeX packages"
 msgstr "Pakiety LuaTeX-a"
 
-#: tlpkg/translations/shortdesc.pl:47
+#: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
 msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:48
+#: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
 msgstr "Pakiety MetaPosta i Metafonta"
 
-#: tlpkg/translations/shortdesc.pl:49
+#: tlpkg/translations/shortdesc.pl:43
 msgid "Music packages"
 msgstr "Pakiety do składania nut"
 
-#: tlpkg/translations/shortdesc.pl:50
-msgid "Omega packages"
-msgstr "Pakiety Omega"
-
-#: tlpkg/translations/shortdesc.pl:51
+#: tlpkg/translations/shortdesc.pl:44
 msgid "Graphics, pictures, diagrams"
 msgstr "Pakiety do grafiki, rysunków, diagramów"
 
-#: tlpkg/translations/shortdesc.pl:52
-msgid "Plain TeX packages"
-msgstr "Pakiety dla plain TeX-a"
+#: tlpkg/translations/shortdesc.pl:45
+msgid "Plain (La)TeX packages"
+msgstr ""
 
-#: tlpkg/translations/shortdesc.pl:53
+#: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
 msgstr "PSTricks"
 
-#: tlpkg/translations/shortdesc.pl:54
+#: tlpkg/translations/shortdesc.pl:47
 msgid "Publisher styles, theses, etc."
 msgstr "Style  dla wydawców, publikacji konferencyjnych itp."
 
-#: tlpkg/translations/shortdesc.pl:55
+#: tlpkg/translations/shortdesc.pl:48
 msgid "TeXworks editor; TL includes only the Windows binary"
 msgstr "Edytor TeXworks; TL zawiera tylko program dla Windows"
 
-#: tlpkg/translations/shortdesc.pl:56
+#: tlpkg/translations/shortdesc.pl:49
 msgid "Windows-only support programs"
 msgstr "Dodatkowe programy tylko dla Windows"
 
-#: tlpkg/translations/shortdesc.pl:57
+#: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX i pakiety"
+
+#~ msgid "XML scheme"
+#~ msgstr "schemat XML"
+
+#~ msgid "Generic additional packages"
+#~ msgstr "Dodatkowe pakiety makr ogólnych (działają z różnymi formatami)"
+
+#~ msgid "Generic recommended packages"
+#~ msgstr "Rekomendowane pakiety makr ogólnych (działają z różnymi formatami)"
+
+#~ msgid "HTML/SGML/XML support"
+#~ msgstr "Wsparcie dla HTML/SGML/XML"
+
+#~ msgid "African scripts"
+#~ msgstr "skrypty afrykańskie"
+
+#~ msgid "Indic scripts"
+#~ msgstr "skrypty indyjskie"
+
+#~ msgid "Omega packages"
+#~ msgstr "Pakiety Omega"
+
+#~ msgid "Plain TeX packages"
+#~ msgstr "Pakiety dla plain TeX-a"
 
 #~ msgid "Best to disable your virus scanner during installation."
 #~ msgstr "Podczas instalacji zalecamy wyłączyć skaner antywirusowy. "
