@@ -1,14 +1,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Vladimir <lomov.vl@gmail.com>, 2009, 2010, 2011.
-# Vladimir Lomov <irk.translator@gmail.com>, 2011, 2012, 2013, 2014.
-# Vladimir Lomov <irk.translator@yandex.ru>, 2014, 2015.
+# Vladimir Lomov <irk.translator@yandex.ru>, 2011, 2012, 2013, 2014, 2015, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2015-04-30 21:04+0800\n"
+"PO-Revision-Date: 2017-05-05 07:57+0800\n"
 "Last-Translator: Vladimir Lomov <irk.translator@yandex.ru>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
 "Language: ru\n"
@@ -17,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -103,6 +102,7 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"Если возникнут проблемы при установке попробуйте отключить ваш антивирус."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -399,15 +399,15 @@ msgstr "Letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Не создавать ярлыки"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "Меню TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Только ярлыки"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -567,13 +567,14 @@ msgstr "Продолжить"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"Если возникнут проблемы при установке попробуйте отключить ваш антивирус."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
 msgstr ""
-"Программа установки не была запущена с правами администратора,\n"
+"Программа установки запущена без прав администратора,\n"
 "установка будет выполнена только для текущего пользователя."
 
 #: tlpkg/installer/install-menu-perltk.pl:698
@@ -581,7 +582,7 @@ msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
 msgstr ""
-"Если вы хотите установить для всех пользователей, нажмите правой кнопкой\n"
+"Чтобы установить для всех пользователей, нажмите правой кнопкой\n"
 "мыши на install-tl-advanced и выберите «Запуск от имени администратора»."
 
 #: tlpkg/installer/install-menu-perltk.pl:746
@@ -1329,12 +1330,12 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2599
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "verified"
-msgstr ""
+msgstr "подпись проверена"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2599
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "not verified"
-msgstr ""
+msgstr "подпись не проверена"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2656
 msgid "Completed"
@@ -1367,7 +1368,7 @@ msgstr "схема GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "схема только с инфраструктурой (совсем без TeX)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1511,7 +1512,7 @@ msgstr "Пакеты LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Математические и научные пакеты"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1527,7 +1528,7 @@ msgstr "Графики, рисунки, диаграммы"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Простые (La)TeX пакеты"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
