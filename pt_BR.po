@@ -1,18 +1,18 @@
-# Brazilian Portuguese Translation for TeX Live 2014
+# Brazilian Portuguese Translation for TeX Live 2017
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2015-05-06 17:26-0300\n"
+"PO-Revision-Date: 2017-05-06 07:35-0300\n"
 "Last-Translator: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language-Team: Paulo Roberto Massa Cereda <cereda@users.sf.net>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -98,6 +98,8 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"Em caso de problema, tente desabilitar seu programa antivírus durante a "
+"instalação."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -395,15 +397,15 @@ msgstr "carta"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Sem atalhos"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "Menu TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Entrada do lançador"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -563,6 +565,8 @@ msgstr "Continuar"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"Em caso de problema, tente desabilitar seu programa antivírus durante a "
+"instalação."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
@@ -1330,12 +1334,12 @@ msgstr ""
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2599
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "verified"
-msgstr ""
+msgstr "verificado"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2599
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2603
 msgid "not verified"
-msgstr ""
+msgstr "não verificado"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2656
 msgid "Completed"
@@ -1368,7 +1372,7 @@ msgstr "esquema GUST TeX Live"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "esquema com apenas infraestrutura (sem TeX)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1514,7 +1518,7 @@ msgstr "Pacotes LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Pacotes para matemática e ciência"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1530,7 +1534,7 @@ msgstr "Gráficos, imagens, diagramas"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Pacotes plain (La)TeX"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
