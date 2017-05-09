@@ -1,15 +1,15 @@
 #
 #
 #
-# Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>, 2013, 2014, 2015, 2016.
+# Denis Bitouzé <denis.bitouze@univ-littoral.fr>, 2013, 2014, 2015, 2016, 2017.
 # Manuel Pégourié-Gonnard <mpg@elzevir.fr>, 2010, 2011, 2012, 2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2016-05-08 16:32+0200\n"
-"Last-Translator: Denis Bitouzé <dbitouze@wanadoo.fr>\n"
+"PO-Revision-Date: 2017-05-08 19:56+0200\n"
+"Last-Translator: Denis Bitouzé <denis.bitouze@univ-littoral.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -103,6 +103,8 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"En cas de problème, essayez de désactiver votre anti-virus durant "
+"l'installation."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -399,15 +401,15 @@ msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Pas de raccourcis"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "Menu TeX Live"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Entrée de lanceur"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -567,6 +569,8 @@ msgstr "Continuer"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"En cas de problème, essayez de désactiver votre anti-virus durant "
+"l'installation."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
@@ -1373,7 +1377,7 @@ msgstr "Schéma TeX Live du GUST"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "Schéma d'infrastructure (aucun TeX là-dedans)."
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1517,7 +1521,7 @@ msgstr "Paquets LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Packages mathématiques et scientifiques"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1533,7 +1537,7 @@ msgstr "Graphiques, images, diagrammes"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Packages plain (La)TeX"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
