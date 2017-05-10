@@ -1,13 +1,13 @@
 # Serbian/Cyrillic translation of TeX Live.
-# Copyright (C) 2010-2015 TeX Live Team
-# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2015.
+# Copyright (C) 2010-2017 TeX Live Team
+# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2016-04-30 18:49+0300\n"
+"PO-Revision-Date: 2017-05-10 22:41+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: Serbian Cyrillic\n"
@@ -16,8 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Poedit-Language: Serbian\n"
-"X-Poedit-Country: Serbia\n"
+"X-Generator: Poedit 1.8.4\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -103,6 +102,8 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"Ако се појаве проблеми, покушајте да искључите антивирусни програм током "
+"инсталације."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -397,15 +398,15 @@ msgstr "letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Без пречица"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "TeX Live у Start менију"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Покретач (launcher)"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -565,6 +566,8 @@ msgstr "Продужити"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"Ако се појаве проблеми, покушајте да искључите антивирусни програм током "
+"инсталације."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
@@ -849,7 +852,7 @@ msgstr "Помоћ"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:531
 msgid "Load default (from tlpdb) repository:"
-msgstr "Учитати подразумевани репозиторијум (са tlpdb):"
+msgstr "Учитати подразумевани репозиторијум (из tlpdb):"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:534
 msgid "Load cmd line repository:"
@@ -1372,7 +1375,7 @@ msgstr "GUST TeX Live шема"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "инфраструктурна шема (без TeX-а)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1516,7 +1519,7 @@ msgstr "LuaTeX пакети"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Математички и научни пакети"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1532,7 +1535,7 @@ msgstr "Пакети за рад са графиком, сликама и диј
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Plain (чисти) (La)TeX пакети"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
@@ -1544,7 +1547,7 @@ msgstr "Стилови за издаваштво, дисертације итд.
 
 #: tlpkg/translations/shortdesc.pl:48
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr "Едитор TeXworks; у TL је доступна само верзија за Windows"
+msgstr "Едитор TeXworks (само за Windows)"
 
 #: tlpkg/translations/shortdesc.pl:49
 msgid "Windows-only support programs"
