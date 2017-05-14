@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2016-05-01 09:20+0100\n"
+"PO-Revision-Date: 2017-05-14 07:57+0200\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -97,6 +97,8 @@ msgstr ""
 msgid ""
 "In case of trouble, try to disable your virus scanner during installation."
 msgstr ""
+"Im Fall von auftretenden Problemen versuchen Sie es einmal mit deaktiviertem "
+"Virenscanner."
 
 #: tlpkg/installer/install-menu-wizard.pl:179
 msgid ""
@@ -393,15 +395,15 @@ msgstr "Letter"
 
 #: tlpkg/installer/install-menu-perltk.pl:64
 msgid "No shortcuts"
-msgstr ""
+msgstr "Keine Menülinks"
 
 #: tlpkg/installer/install-menu-perltk.pl:65
 msgid "TeX Live menu"
-msgstr ""
+msgstr "TeX Live Menü"
 
 #: tlpkg/installer/install-menu-perltk.pl:66
 msgid "Launcher entry"
-msgstr ""
+msgstr "Eintrag im Startmenü"
 
 #: tlpkg/installer/install-menu-perltk.pl:277
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2564
@@ -561,6 +563,8 @@ msgstr "Weiter"
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
+"Im Fall von auftretenden Problemen versuchen Sie es einmal mit deaktiviertem "
+"Virenscanner."
 
 #: tlpkg/installer/install-menu-perltk.pl:695
 msgid ""
@@ -1361,7 +1365,7 @@ msgstr "GUST TeX Live scheme"
 
 #: tlpkg/translations/shortdesc.pl:5
 msgid "infrastructure-only scheme (no TeX at all)"
-msgstr ""
+msgstr "nur die Infrastruktur (kein TeX etc.)"
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
@@ -1505,7 +1509,7 @@ msgstr "LuaTeX Pakete"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics and science packages"
-msgstr ""
+msgstr "Mathematik- und Wissenschaftspakete"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1521,7 +1525,7 @@ msgstr "Grafik, Bilder, Diagramme"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Plain (La)TeX Pakete"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
