@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-04 02:06+0200\n"
-"PO-Revision-Date: 2017-05-09 13:20+0100\n"
+"PO-Revision-Date: 2017-05-15 15:32+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: pl\n"
@@ -103,8 +103,8 @@ msgid ""
 "the web pages or installation guide."
 msgstr ""
 "Aby dokonać zaawansowanej instalacji (z wyborem\n"
-"schematów, kolekcji itp.) opuść program i uruchom go\n"
-"z linii poleceń."
+"schematów, kolekcji itp.) opuść program i zapoznaj się\n"
+"z ,,Przewodnikiem TeX  Live\"."
 
 #: tlpkg/installer/install-menu-wizard.pl:182
 msgid "Or use install-tl-advanced.bat."
@@ -326,7 +326,7 @@ msgstr ""
 "Gotowi do zainstalowania TeX Live %s.\n"
 "Użyte zostaną następujące ustawienia\n"
 "(jeśli chcesz je zmienić, to cofnij się,\n"
-"w przeciwnym razie naciśnij przycisk \"Instaluj\"):"
+"w przeciwnym razie naciśnij przycisk \"Zainstaluj\"):"
 
 #: tlpkg/installer/install-menu-wizard.pl:617
 #: tlpkg/installer/install-menu-perltk.pl:70
