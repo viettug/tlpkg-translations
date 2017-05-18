@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2017-05-18 20:49+0200\n"
-"PO-Revision-Date: 2017-04-22 20:51+0200\n"
+"PO-Revision-Date: 2017-05-18 20:58+0200\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
 "Language: nl\n"
@@ -18,6 +18,8 @@ msgid ""
 "\n"
 "Welcome to TeX Live!\n"
 msgstr ""
+"\n"
+"Welkom bij TeX Live!\n"
 
 #: install-tl:2371
 #, perl-format
@@ -32,6 +34,9 @@ msgid ""
 "\n"
 "The list of groups is on the web at https://tug.org/usergroups.html."
 msgstr ""
+"Links voor dokumentatie: %s/index.html\n"
+"De TeX Live website (https://tug.org/texlive/)\n"
+"bevat updates en correkties"
 
 #: install-tl:2377
 #, perl-format
@@ -79,7 +84,7 @@ msgstr "Afbreken"
 
 #: tlpkg/installer/tracked-install.pl:83
 msgid "Scroll back to inspect warnings"
-msgstr ""
+msgstr "Schuif terug om waarschuwingen te inspekteren"
 
 #: tlpkg/installer/tracked-install.pl:91
 msgid "Finish"
@@ -1570,7 +1575,7 @@ msgstr "Grafieken, figuren, diagrammen"
 
 #: tlpkg/translations/shortdesc.pl:45
 msgid "Plain (La)TeX packages"
-msgstr ""
+msgstr "Plain (La)TeX pakketten"
 
 #: tlpkg/translations/shortdesc.pl:46
 msgid "PSTricks"
