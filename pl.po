@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-05-18 02:21+0200\n"
+"POT-Creation-Date: 2017-05-18 20:49+0200\n"
 "PO-Revision-Date: 2017-05-15 15:32+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -12,6 +12,78 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Poedit 1.8.7.1\n"
+
+#: install-tl:2369
+msgid ""
+"\n"
+"Welcome to TeX Live!\n"
+msgstr ""
+
+#: install-tl:2371
+#, perl-format
+msgid ""
+"Documentation links: %s/index.html\n"
+"The TeX Live web site (https://tug.org/texlive/)\n"
+"contains updates and corrections.\n"
+"\n"
+"TeX Live is a joint project of the TeX user groups around the world;\n"
+"\n"
+"please consider supporting it by joining the group best for you.\n"
+"\n"
+"The list of groups is on the web at https://tug.org/usergroups.html."
+msgstr ""
+
+#: install-tl:2377
+#, perl-format
+msgid ""
+"Add %s/texmf-dist/doc/man to MANPATH.\n"
+"Add %s/texmf-dist/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
+"Dodaj %s/texmf-dist/doc/man do MANPATH.\n"
+"Dodaj %s/texmf-dist/doc/info do INFOPATH.\n"
+"Najważniejsze: dodaj %s/bin/%s\n"
+"do zmiennej PATH dla bieżącej i przyszłych sesji."
+
+#: tlpkg/installer/tracked-install.pl:32
+msgid "Installation process"
+msgstr "Instalacja w toku"
+
+#: tlpkg/installer/tracked-install.pl:45
+#: tlpkg/installer/install-menu-wizard.pl:383
+#: tlpkg/installer/install-menu-wizard.pl:507
+#: tlpkg/installer/install-menu-perltk.pl:772
+#: tlpkg/installer/install-menu-perltk.pl:812
+#: tlpkg/installer/install-menu-perltk.pl:865
+#: tlpkg/installer/install-menu-perltk.pl:936
+#: tlpkg/installer/install-menu-perltk.pl:1001
+#: tlpkg/installer/install-menu-perltk.pl:1035
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:629
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:630
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1052
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1264
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1386
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1456
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1466
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1529
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1717
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1782
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1819
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1852
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2469
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2506
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tlpkg/installer/tracked-install.pl:83
+msgid "Scroll back to inspect warnings"
+msgstr ""
+
+#: tlpkg/installer/tracked-install.pl:91
+msgid "Finish"
+msgstr "Zakończ"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -169,32 +241,6 @@ msgstr "Proszę zaczekać na wczytanie bazy danych repozytorium."
 #: tlpkg/installer/install-menu-wizard.pl:380
 msgid "This will take some time!"
 msgstr "Trochę to potrwa..."
-
-#: tlpkg/installer/install-menu-wizard.pl:383
-#: tlpkg/installer/install-menu-wizard.pl:507
-#: tlpkg/installer/install-menu-perltk.pl:772
-#: tlpkg/installer/install-menu-perltk.pl:812
-#: tlpkg/installer/install-menu-perltk.pl:865
-#: tlpkg/installer/install-menu-perltk.pl:936
-#: tlpkg/installer/install-menu-perltk.pl:1001
-#: tlpkg/installer/install-menu-perltk.pl:1035
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:629
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:630
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1052
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1264
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1386
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1456
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1466
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1529
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1717
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1782
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1819
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1852
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2469
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2506
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2587
-msgid "Cancel"
-msgstr "Anuluj"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
 #: tlpkg/installer/install-menu-perltk.pl:284
@@ -1587,17 +1633,6 @@ msgstr "XeTeX i pakiety"
 #~ "Lista grup dostępna jest na stronie http://tug.org/usergroups.html."
 
 #~ msgid ""
-#~ "Add %s/texmf-dist/doc/man to MANPATH.\n"
-#~ "Add %s/texmf-dist/doc/info to INFOPATH.\n"
-#~ "Most importantly, add %s/bin/%s\n"
-#~ "to your PATH for current and future sessions."
-#~ msgstr ""
-#~ "Dodaj %s/texmf-dist/doc/man do MANPATH.\n"
-#~ "Dodaj %s/texmf-dist/doc/info do INFOPATH.\n"
-#~ "Najważniejsze: dodaj %s/bin/%s\n"
-#~ "do zmiennej PATH dla bieżącej i przyszłych sesji."
-
-#~ msgid ""
 #~ "There were some warnings during the installation process.\n"
 #~ "Here is the list of warning messages:"
 #~ msgstr ""
@@ -1606,12 +1641,6 @@ msgstr "XeTeX i pakiety"
 
 #~ msgid "Welcome to TeX Live!"
 #~ msgstr "TeX Live wita!"
-
-#~ msgid "Finish"
-#~ msgstr "Zakończ"
-
-#~ msgid "Installation process"
-#~ msgstr "Instalacja w toku"
 
 #~ msgid "Mathematics packages"
 #~ msgstr "Pakiety do składu matematyki"
