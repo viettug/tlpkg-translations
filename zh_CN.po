@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-05-18 21:23+0200\n"
+"POT-Creation-Date: 2017-05-19 02:21+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -11,34 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-
-#: install-tl:2370
-msgid "Welcome to TeX Live!"
-msgstr "欢迎进入 TeX Live 的世界！"
-
-#: install-tl:2373
-#, perl-format
-msgid ""
-"See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
-msgstr ""
-"请参考 %s/index.html 来获得文档链接。TeX Live 官方网站\n"
-"(http://tug.org/texlive/) 包含所有相关的更新和修正。\n"
-"TeX Live 是全世界 TeX 用户组的一个合作项目；\n"
-"请考虑加入合适的 TeX 用户组来支持该项目。从\n"
-"http://tug.org/usergroups.html 可以获得 TeX 用户组的列表。"
-
-#: install-tl:2377
-#, perl-format
-msgid ""
-"Add %s/texmf-dist/doc/man to MANPATH.\n"
-"Add %s/texmf-dist/doc/info to INFOPATH.\n"
-"Most importantly, add %s/bin/%s\n"
-"to your PATH for current and future sessions."
-msgstr ""
 
 #: tlpkg/installer/tracked-install.pl:32
 msgid "Installation process"
@@ -1542,6 +1514,23 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr ""
+
+#~ msgid "Welcome to TeX Live!"
+#~ msgstr "欢迎进入 TeX Live 的世界！"
+
+#~ msgid ""
+#~ "See %s/index.html for links to documentation.\n"
+#~ "The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+#~ "corrections. TeX Live is a joint project of the TeX user groups around "
+#~ "the world; please consider supporting it by joining the group best for "
+#~ "you. The list of groups is available on the web at http://tug.org/"
+#~ "usergroups.html."
+#~ msgstr ""
+#~ "请参考 %s/index.html 来获得文档链接。TeX Live 官方网站\n"
+#~ "(http://tug.org/texlive/) 包含所有相关的更新和修正。\n"
+#~ "TeX Live 是全世界 TeX 用户组的一个合作项目；\n"
+#~ "请考虑加入合适的 TeX 用户组来支持该项目。从\n"
+#~ "http://tug.org/usergroups.html 可以获得 TeX 用户组的列表。"
 
 #~ msgid ""
 #~ "You don't have permissions to change the installation in any way,\n"

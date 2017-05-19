@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR TeX Live Team
-# This file is distributed under the same license as the TeX Live package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-05-18 21:23+0200\n"
+"POT-Creation-Date: 2017-05-19 02:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,29 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: install-tl:2370
-msgid "Welcome to TeX Live!"
-msgstr ""
-
-#: install-tl:2373
-#, perl-format
-msgid ""
-"See %s/index.html for links to documentation.\n"
-"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-"corrections. TeX Live is a joint project of the TeX user groups around the "
-"world; please consider supporting it by joining the group best for you. The "
-"list of groups is available on the web at http://tug.org/usergroups.html."
-msgstr ""
-
-#: install-tl:2377
-#, perl-format
-msgid ""
-"Add %s/texmf-dist/doc/man to MANPATH.\n"
-"Add %s/texmf-dist/doc/info to INFOPATH.\n"
-"Most importantly, add %s/bin/%s\n"
-"to your PATH for current and future sessions."
-msgstr ""
 
 #: tlpkg/installer/tracked-install.pl:32
 msgid "Installation process"
