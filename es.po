@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-05-19 02:21+0200\n"
+"POT-Creation-Date: 2017-06-13 02:21+0200\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -13,6 +13,35 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: install-tl:2367
+msgid "Welcome to TeX Live!"
+msgstr "¡Bienvenido a Tex Live!"
+
+#: install-tl:2370
+#, perl-format
+msgid ""
+"See %s/index.html for links to documentation.\n"
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
+msgstr ""
+"Ver %s/index.html para enlaces a la documentación.\n"
+"La página web de  TeX Live (http://tug.org/texlive/) contiene las "
+"actualizaciones y correctiones. TeX Live es un  proyecto conjunto de los "
+"usuarios de TeX a lo largo y ancho del mundo; por favor, considera dar su "
+"apoyo uniéndose al grupo que más le convenga. La lista de grupos está "
+"disponible en la página web http://tug.org/usergroups.html."
+
+#: install-tl:2374
+#, perl-format
+msgid ""
+"Add %s/texmf-dist/doc/man to MANPATH.\n"
+"Add %s/texmf-dist/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
 
 #: tlpkg/installer/tracked-install.pl:32
 msgid "Installation process"
@@ -1516,24 +1545,6 @@ msgstr ""
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr ""
-
-#~ msgid "Welcome to TeX Live!"
-#~ msgstr "¡Bienvenido a Tex Live!"
-
-#~ msgid ""
-#~ "See %s/index.html for links to documentation.\n"
-#~ "The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-#~ "corrections. TeX Live is a joint project of the TeX user groups around "
-#~ "the world; please consider supporting it by joining the group best for "
-#~ "you. The list of groups is available on the web at http://tug.org/"
-#~ "usergroups.html."
-#~ msgstr ""
-#~ "Ver %s/index.html para enlaces a la documentación.\n"
-#~ "La página web de  TeX Live (http://tug.org/texlive/) contiene las "
-#~ "actualizaciones y correctiones. TeX Live es un  proyecto conjunto de los "
-#~ "usuarios de TeX a lo largo y ancho del mundo; por favor, considera dar su "
-#~ "apoyo uniéndose al grupo que más le convenga. La lista de grupos está "
-#~ "disponible en la página web http://tug.org/usergroups.html."
 
 #~ msgid ""
 #~ "You don't have permissions to change the installation in any way,\n"

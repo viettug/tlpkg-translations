@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-05-19 02:21+0200\n"
+"POT-Creation-Date: 2017-06-13 02:21+0200\n"
 "PO-Revision-Date: 2017-05-05 07:57+0800\n"
 "Last-Translator: Vladimir Lomov <irk.translator@yandex.ru>\n"
 "Language-Team: Russian <tldoc@tug.org>\n"
@@ -17,6 +17,38 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Gtranslator 2.91.7\n"
+
+#: install-tl:2367
+msgid "Welcome to TeX Live!"
+msgstr "Вас приветствует TeX Live!"
+
+#: install-tl:2370
+#, perl-format
+msgid ""
+"See %s/index.html for links to documentation.\n"
+"The TeX Live web site (http://tug.org/texlive/) contains any updates and "
+"corrections. TeX Live is a joint project of the TeX user groups around the "
+"world; please consider supporting it by joining the group best for you. The "
+"list of groups is available on the web at http://tug.org/usergroups.html."
+msgstr ""
+"Ссылки на документацию можно найти в %s/index.html\n"
+"На сайте TeX Live (http://tug.org/texlive/) публикуются последние обновления "
+"и исправления. TeX Live — это совместный проект групп пользователей TeX'а со "
+"всей планеты; поддержите проект, присоединившись к подходящей вам группе. "
+"Список групп доступен на странице http://tug.org/usergroups.html."
+
+#: install-tl:2374
+#, perl-format
+msgid ""
+"Add %s/texmf-dist/doc/man to MANPATH.\n"
+"Add %s/texmf-dist/doc/info to INFOPATH.\n"
+"Most importantly, add %s/bin/%s\n"
+"to your PATH for current and future sessions."
+msgstr ""
+"Добавьте %s/texmf-dist/doc/man в MANPATH.\n"
+"Добавьте %s/texmf-dist/doc/info в INFOPATH.\n"
+"И самое главное, добавьте %s/bin/%s\n"
+"в ваш PATH для текущей и будущих сессий."
 
 #: tlpkg/installer/tracked-install.pl:32
 msgid "Installation process"
@@ -1562,35 +1594,6 @@ msgstr "Вспомогательные программы, только для W
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX и пакеты"
-
-#~ msgid "Welcome to TeX Live!"
-#~ msgstr "Вас приветствует TeX Live!"
-
-#~ msgid ""
-#~ "See %s/index.html for links to documentation.\n"
-#~ "The TeX Live web site (http://tug.org/texlive/) contains any updates and "
-#~ "corrections. TeX Live is a joint project of the TeX user groups around "
-#~ "the world; please consider supporting it by joining the group best for "
-#~ "you. The list of groups is available on the web at http://tug.org/"
-#~ "usergroups.html."
-#~ msgstr ""
-#~ "Ссылки на документацию можно найти в %s/index.html\n"
-#~ "На сайте TeX Live (http://tug.org/texlive/) публикуются последние "
-#~ "обновления и исправления. TeX Live — это совместный проект групп "
-#~ "пользователей TeX'а со всей планеты; поддержите проект, присоединившись к "
-#~ "подходящей вам группе. Список групп доступен на странице http://tug.org/"
-#~ "usergroups.html."
-
-#~ msgid ""
-#~ "Add %s/texmf-dist/doc/man to MANPATH.\n"
-#~ "Add %s/texmf-dist/doc/info to INFOPATH.\n"
-#~ "Most importantly, add %s/bin/%s\n"
-#~ "to your PATH for current and future sessions."
-#~ msgstr ""
-#~ "Добавьте %s/texmf-dist/doc/man в MANPATH.\n"
-#~ "Добавьте %s/texmf-dist/doc/info в INFOPATH.\n"
-#~ "И самое главное, добавьте %s/bin/%s\n"
-#~ "в ваш PATH для текущей и будущих сессий."
 
 #~ msgid "XML scheme"
 #~ msgstr "схема XML"
