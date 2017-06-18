@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-06-17 02:21+0200\n"
+"POT-Creation-Date: 2017-06-18 02:21+0200\n"
 "PO-Revision-Date: 2017-05-18 20:58+0200\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 "overweeg ondersteuning door lid te worden van zo'n groep.\n"
 "De lijst van gebruikersgroepen staat op http://tug.org/usergroups.html."
 
-#: install-tl:2389
+#: install-tl:2390
 #, perl-format
 msgid ""
 "Add %s/texmf-dist/doc/man to MANPATH.\n"

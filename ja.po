@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-06-17 02:21+0200\n"
+"POT-Creation-Date: 2017-06-18 02:21+0200\n"
 "PO-Revision-Date: 2015-05-12 17:27+0900\n"
 "Last-Translator: Koji Yokota <yokota33@gmail.com>\n"
 "Language-Team: Japanese <tldoc@tug.org>\n"
@@ -37,7 +37,7 @@ msgstr ""
 "ただけると助かります。 グループの一覧は、ウェブ上の http://tug.org/"
 "usergroups.html にあります"
 
-#: install-tl:2389
+#: install-tl:2390
 #, perl-format
 msgid ""
 "Add %s/texmf-dist/doc/man to MANPATH.\n"
