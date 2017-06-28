@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-06-18 02:21+0200\n"
+"POT-Creation-Date: 2017-06-28 02:21+0200\n"
 "PO-Revision-Date: 2010-08-23 12:05+0200\n"
 "Last-Translator: motitos <cullero@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -341,7 +341,7 @@ msgstr "Introduzca la ruta para"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2466
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Ok"
 msgstr "Aceptar"
 
@@ -451,7 +451,7 @@ msgstr "Cargar"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Warning"
 msgstr "Advertencia"
 
@@ -850,7 +850,7 @@ msgid "Actions"
 msgstr "Acciones"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:519
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2692
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2694
 msgid "Help"
 msgstr "Ayuda"
 
@@ -1333,11 +1333,11 @@ msgstr ""
 msgid "not verified"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2661
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2663
 msgid "Completed"
 msgstr "Completado"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2668
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2670
 #, perl-format
 msgid ""
 "Running %s failed.\n"

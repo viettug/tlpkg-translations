@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-06-18 02:21+0200\n"
+"POT-Creation-Date: 2017-06-28 02:21+0200\n"
 "PO-Revision-Date: 2012-05-14 07:07+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -346,7 +346,7 @@ msgstr "Nhập đường dẫn cho"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2466
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Ok"
 msgstr "Đồng ý"
 
@@ -456,7 +456,7 @@ msgstr "Nạp"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Warning"
 msgstr "Cảnh báo"
 
@@ -865,7 +865,7 @@ msgid "Actions"
 msgstr "Hành động"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:519
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2692
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2694
 msgid "Help"
 msgstr "Giúp đỡ"
 
@@ -1349,11 +1349,11 @@ msgstr ""
 msgid "not verified"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2661
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2663
 msgid "Completed"
 msgstr "Đã hoàn tất"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2668
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2670
 #, perl-format
 msgid ""
 "Running %s failed.\n"

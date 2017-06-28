@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-06-18 02:21+0200\n"
+"POT-Creation-Date: 2017-06-28 02:21+0200\n"
 "PO-Revision-Date: 2009-09-22 12:54+0800\n"
 "Last-Translator: Jiang Jiang <gzjjgod@gmail.com>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -339,7 +339,7 @@ msgstr "输入路径变量"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2358
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2466
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2504
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Ok"
 msgstr "确定"
 
@@ -448,7 +448,7 @@ msgstr "载入"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2667
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
 msgid "Warning"
 msgstr "警告"
 
@@ -849,7 +849,7 @@ msgid "Actions"
 msgstr "操作"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:519
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2692
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2694
 msgid "Help"
 msgstr "帮助"
 
@@ -1330,11 +1330,11 @@ msgstr ""
 msgid "not verified"
 msgstr ""
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2661
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2663
 msgid "Completed"
 msgstr "完成"
 
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2668
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2670
 #, perl-format
 msgid ""
 "Running %s failed.\n"
