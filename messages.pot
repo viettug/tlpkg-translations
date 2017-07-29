@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1489,7 +1489,7 @@ msgid "LuaTeX packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
+msgid "Mathematics, natural sciences, computer science packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42

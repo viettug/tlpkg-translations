@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: 2017-05-18 22:49+0100\n"
 "Last-Translator: Staszek Wawrykiewicz <staw@gust.org.pl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1550,8 +1550,8 @@ msgid "LuaTeX packages"
 msgstr "Pakiety LuaTeX-a"
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
-msgstr "Matematyka i pakiety naukowe"
+msgid "Mathematics, natural sciences, computer science packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1588,6 +1588,9 @@ msgstr "Dodatkowe programy tylko dla Windows"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX i pakiety"
+
+#~ msgid "Mathematics and science packages"
+#~ msgstr "Matematyka i pakiety naukowe"
 
 #~ msgid "XML scheme"
 #~ msgstr "schemat XML"

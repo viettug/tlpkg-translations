@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: 2017-05-10 22:41+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -1564,8 +1564,8 @@ msgid "LuaTeX packages"
 msgstr "LuaTeX пакети"
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
-msgstr "Математички и научни пакети"
+msgid "Mathematics, natural sciences, computer science packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1602,6 +1602,9 @@ msgstr "Помоћни програми за Windows"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "Mathematics and science packages"
+#~ msgstr "Математички и научни пакети"
 
 #~ msgid "XML scheme"
 #~ msgstr "XML шема"

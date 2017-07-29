@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: 2013-05-27 10:24+0100\n"
 "Last-Translator: Marco Pallane <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -1535,7 +1535,7 @@ msgid "LuaTeX packages"
 msgstr "Pacchetti LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
+msgid "Mathematics, natural sciences, computer science packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42

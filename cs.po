@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: 2016-05-03 17:30+0200\n"
 "Last-Translator: Petr Sojka <sojka@fi.muni.cz>\n"
 "Language-Team: Czech <>\n"
@@ -1552,7 +1552,7 @@ msgid "LuaTeX packages"
 msgstr "Balíky pro LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
+msgid "Mathematics, natural sciences, computer science packages"
 msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42

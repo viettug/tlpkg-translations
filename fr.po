@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-24 02:21+0200\n"
+"POT-Creation-Date: 2017-07-29 02:21+0200\n"
 "PO-Revision-Date: 2017-05-08 19:56+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@univ-littoral.fr>\n"
 "Language-Team: French <>\n"
@@ -1567,8 +1567,8 @@ msgid "LuaTeX packages"
 msgstr "Paquets LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
-msgid "Mathematics and science packages"
-msgstr "Packages mathématiques et scientifiques"
+msgid "Mathematics, natural sciences, computer science packages"
+msgstr ""
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
@@ -1605,6 +1605,9 @@ msgstr "Programmes pour le support de Windows seulement"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX et paquets associés"
+
+#~ msgid "Mathematics and science packages"
+#~ msgstr "Packages mathématiques et scientifiques"
 
 #~ msgid "XML scheme"
 #~ msgstr "Schéma pour XML"
