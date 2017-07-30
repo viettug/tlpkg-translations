@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-29 02:21+0200\n"
+"POT-Creation-Date: 2017-07-30 02:21+0200\n"
 "PO-Revision-Date: 2013-05-27 10:24+0100\n"
 "Last-Translator: Marco Pallane <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-#: install-tl:2386
+#: install-tl:2387
 msgid "Welcome to TeX Live!"
 msgstr "Benvenuti a TeX Live!"
 
-#: install-tl:2389
+#: install-tl:2390
 #, perl-format
 msgid ""
 "See %s/index.html for links to documentation.\n"
@@ -33,7 +33,7 @@ msgstr ""
 "La lista dei gruppi è disponibile sul web alla pagina http://tug.org/"
 "usergroups.html."
 
-#: install-tl:2394
+#: install-tl:2395
 #, perl-format
 msgid ""
 "Add %s/texmf-dist/doc/man to MANPATH.\n"
