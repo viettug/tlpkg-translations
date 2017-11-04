@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-30 02:21+0200\n"
+"POT-Creation-Date: 2017-11-04 02:22+0100\n"
 "PO-Revision-Date: 2013-08-07 08:27+0300\n"
 "Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian <andriykopanytsia@gmail.com>\n"
@@ -50,11 +50,11 @@ msgstr ""
 "І, найголовніше, додайте %s/bin/%s\n"
 "до вашого PATH для поточної та майбутній сесій."
 
-#: tlpkg/installer/tracked-install.pl:32
+#: tlpkg/installer/tracked-install.pl:27
 msgid "Installation process"
 msgstr "Процес установки"
 
-#: tlpkg/installer/tracked-install.pl:45
+#: tlpkg/installer/tracked-install.pl:40
 #: tlpkg/installer/install-menu-wizard.pl:383
 #: tlpkg/installer/install-menu-wizard.pl:507
 #: tlpkg/installer/install-menu-perltk.pl:772
@@ -81,11 +81,11 @@ msgstr "Процес установки"
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: tlpkg/installer/tracked-install.pl:83
+#: tlpkg/installer/tracked-install.pl:78
 msgid "Scroll back to inspect warnings"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:91
+#: tlpkg/installer/tracked-install.pl:86
 msgid "Finish"
 msgstr "Завершити"
 

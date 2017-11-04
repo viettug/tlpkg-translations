@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tex Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2017-07-30 02:21+0200\n"
+"POT-Creation-Date: 2017-11-04 02:22+0100\n"
 "PO-Revision-Date: 2013-05-27 10:24+0100\n"
 "Last-Translator: Marco Pallane <marco.pallante@gmail.com>\n"
 "Language-Team: <>\n"
@@ -46,11 +46,11 @@ msgstr ""
 "Più importante di tutti, aggiungi %s/bin/%s\n"
 " alla tua variabilePATH per la sessione attuale e quelle future."
 
-#: tlpkg/installer/tracked-install.pl:32
+#: tlpkg/installer/tracked-install.pl:27
 msgid "Installation process"
 msgstr "Installazione"
 
-#: tlpkg/installer/tracked-install.pl:45
+#: tlpkg/installer/tracked-install.pl:40
 #: tlpkg/installer/install-menu-wizard.pl:383
 #: tlpkg/installer/install-menu-wizard.pl:507
 #: tlpkg/installer/install-menu-perltk.pl:772
@@ -77,11 +77,11 @@ msgstr "Installazione"
 msgid "Cancel"
 msgstr "Annulla"
 
-#: tlpkg/installer/tracked-install.pl:83
+#: tlpkg/installer/tracked-install.pl:78
 msgid "Scroll back to inspect warnings"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:91
+#: tlpkg/installer/tracked-install.pl:86
 msgid "Finish"
 msgstr "Fine"
 
