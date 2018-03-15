@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-03-10 02:25+0100\n"
+"POT-Creation-Date: 2018-03-15 02:23+0100\n"
 "PO-Revision-Date: 2017-05-08 19:56+0200\n"
 "Last-Translator: Denis Bitouzé <denis.bitouze@univ-littoral.fr>\n"
 "Language-Team: French <>\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid "Installation process"
 msgstr "Processus d'installation"
 
-#: tlpkg/installer/tracked-install.pl:40
+#: tlpkg/installer/tracked-install.pl:41
 #: tlpkg/installer/install-menu-wizard.pl:383
 #: tlpkg/installer/install-menu-wizard.pl:507
 #: tlpkg/installer/install-menu-perltk.pl:772
@@ -84,11 +84,11 @@ msgstr "Processus d'installation"
 msgid "Cancel"
 msgstr "Annuler"
 
-#: tlpkg/installer/tracked-install.pl:78
+#: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:86
+#: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
 msgstr "Terminer"
 

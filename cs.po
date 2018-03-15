@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-03-10 02:25+0100\n"
+"POT-Creation-Date: 2018-03-15 02:23+0100\n"
 "PO-Revision-Date: 2016-05-03 17:30+0200\n"
 "Last-Translator: Petr Sojka <sojka@fi.muni.cz>\n"
 "Language-Team: Czech <>\n"
@@ -54,7 +54,7 @@ msgstr ""
 msgid "Installation process"
 msgstr "Instalace"
 
-#: tlpkg/installer/tracked-install.pl:40
+#: tlpkg/installer/tracked-install.pl:41
 #: tlpkg/installer/install-menu-wizard.pl:383
 #: tlpkg/installer/install-menu-wizard.pl:507
 #: tlpkg/installer/install-menu-perltk.pl:772
@@ -81,11 +81,11 @@ msgstr "Instalace"
 msgid "Cancel"
 msgstr "Zrušit"
 
-#: tlpkg/installer/tracked-install.pl:78
+#: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:86
+#: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
 msgstr "Dokončit"
 

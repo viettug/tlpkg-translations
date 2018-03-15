@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live 2010\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-03-10 02:25+0100\n"
+"POT-Creation-Date: 2018-03-15 02:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,7 +44,7 @@ msgstr ""
 msgid "Installation process"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:40
+#: tlpkg/installer/tracked-install.pl:41
 #: tlpkg/installer/install-menu-wizard.pl:383
 #: tlpkg/installer/install-menu-wizard.pl:507
 #: tlpkg/installer/install-menu-perltk.pl:772
@@ -71,11 +71,11 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:78
+#: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
 msgstr ""
 
-#: tlpkg/installer/tracked-install.pl:86
+#: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
 msgstr ""
 
