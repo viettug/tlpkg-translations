@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2018-03-15 02:23+0100\n"
-"PO-Revision-Date: 2017-05-08 19:56+0200\n"
-"Last-Translator: Denis Bitouzé <denis.bitouze@univ-littoral.fr>\n"
+"PO-Revision-Date: 2018-03-18 19:09+0100\n"
+"Last-Translator: Denis Bitouzé <dbitouze@wanadoo.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: s;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #: install-tl:2389
 msgid "Welcome to TeX Live!"
@@ -86,7 +86,7 @@ msgstr "Annuler"
 
 #: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
-msgstr ""
+msgstr "Revenir en arrière pour inspecter les avertissements"
 
 #: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
@@ -207,24 +207,24 @@ msgstr "Dépôt indiqué sur la ligne de commande"
 #: tlpkg/installer/install-menu-wizard.pl:235
 #: tlpkg/installer/install-menu-perltk.pl:242
 msgid "LOCAL REPOSITORIES"
-msgstr "Dépôts de paquets locaux"
+msgstr "Dépôts de packages locaux"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:246
 msgid "NETWORK REPOSITORIES"
-msgstr "Dépôts de paquets du réseau"
+msgstr "Dépôts de packages du réseau"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
 #: tlpkg/installer/install-menu-perltk.pl:248
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1484
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1516
 msgid "Default remote repository"
-msgstr "Dépôt de paquets distant par défaut"
+msgstr "Dépôt de packages distant par défaut"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-perltk.pl:253
 msgid "Select repository"
-msgstr "Choisir le dépôt de paquets"
+msgstr "Choisir le dépôt de packages"
 
 #: tlpkg/installer/install-menu-wizard.pl:248
 msgid "Mirror:"
@@ -246,7 +246,7 @@ msgstr "Miroirs"
 msgid "Please wait while the repository database is loaded."
 msgstr ""
 "Veuillez patienter pendant le chargement de la base de données des dépôts de "
-"paquets."
+"packages."
 
 #: tlpkg/installer/install-menu-wizard.pl:380
 msgid "This will take some time!"
@@ -271,7 +271,7 @@ msgid ""
 "repository: %s"
 msgstr ""
 "Les versions de TeX Live de l'installation locale\n"
-"et du dépôt de paquets ne sont pas compatibles :\n"
+"et du dépôt de packages ne sont pas compatibles :\n"
 "installée : %s\n"
 "    dépôt : %s"
 
@@ -492,7 +492,7 @@ msgid ""
 "Please select a different mirror."
 msgstr ""
 "Les versions de TeX Live de l'installation locale\n"
-"et du dépôt de paquets ne sont pas compatibles :\n"
+"et du dépôt de packages ne sont pas compatibles :\n"
 "installée : %s\n"
 "    dépôt : %s\n"
 "Veuillez choisir un autre miroir."
@@ -767,7 +767,7 @@ msgstr "Charger le dépôt par défaut :"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1705
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2612
 msgid "multiple repositories"
-msgstr "plusieurs dépôts de paquets"
+msgstr "plusieurs dépôts de packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:310
 msgid "Default:"
@@ -804,7 +804,7 @@ msgstr "Catégorie"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:335
 msgid "packages"
-msgstr "Paquets"
+msgstr "Packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:337
 msgid "collections"
@@ -832,11 +832,11 @@ msgstr "Sélection"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:378
 msgid "selected"
-msgstr "Paquets sélectionnés"
+msgstr "Packages sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:381
 msgid "not selected"
-msgstr "Paquets non sélectionnés"
+msgstr "Packages non sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:389
 msgid "Select all"
@@ -852,7 +852,7 @@ msgstr "Annuler les filtres"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:416
 msgid "Package name"
-msgstr "Nom du paquet"
+msgstr "Nom du package"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:417
 msgid "Local rev. (ver.)"
@@ -868,11 +868,11 @@ msgstr "Description courte"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:434
 msgid "Update all installed"
-msgstr "Mettre à jour tous les paquets installés"
+msgstr "Mettre à jour tous les packages installés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:438
 msgid "Reinstall previously removed packages"
-msgstr "Réinstaller les paquets précédemment supprimés"
+msgstr "Réinstaller les packages précédemment supprimés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:451
 msgid "Update"
@@ -939,11 +939,11 @@ msgstr "Activer les informations de déboguage"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:571
 msgid "Disable auto-install of new packages"
-msgstr "Désactiver l'installation automatique des nouveaux paquets"
+msgstr "Désactiver l'installation automatique des nouveaux packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:574
 msgid "Disable auto-removal of server-deleted packages"
-msgstr "Désactiver la suppression automatique des paquets retirés du dépôt"
+msgstr "Désactiver la suppression automatique des packages retirés du dépôt"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:581
 msgid "Update filename database"
@@ -960,7 +960,7 @@ msgstr "Mettre à jour la base d'associations de fontes"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:613
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2342
 msgid "Restore packages from backup"
-msgstr "Restaurer une version sauvegardée des paquets"
+msgstr "Restaurer une version sauvegardée des packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:619
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2424
@@ -1001,7 +1001,7 @@ msgstr "Détails sur :"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:684
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2366
 msgid "Package:"
-msgstr "Paquet : "
+msgstr "Package : "
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:686
 msgid "Category:"
@@ -1067,7 +1067,7 @@ msgstr "Dépend de :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:791
 msgid "Binaries' dependencies:"
-msgstr "Dépend des paquets binaires :"
+msgstr "Dépend des packages binaires :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:793
 msgid "Runfiles:"
@@ -1111,7 +1111,7 @@ msgstr "Options générales"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1142
 msgid "Default package repository"
-msgstr "Dépôt de paquets par défaut"
+msgstr "Dépôt de packages par défaut"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1163
 msgid "Create formats on installation"
@@ -1206,7 +1206,7 @@ msgstr "Choisissez un répertoire"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1574
 msgid "Edit default package repositories"
-msgstr "Éditer les dépôts de paquets par défaut"
+msgstr "Éditer les dépôts de packages par défaut"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1577
 msgid "Specify set of repositories to be used"
@@ -1219,12 +1219,12 @@ msgstr "Supprimer"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1607
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1610
 msgid "Change main package repository"
-msgstr "Changer de dépôt de paquets principal"
+msgstr "Changer de dépôt de packages principal"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1608
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1611
 msgid "Change subsidiary package repository"
-msgstr "Changer de dépôt de paquets secondaire"
+msgstr "Changer de dépôt de packages secondaire"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1632
 msgid "Add repository"
@@ -1233,12 +1233,12 @@ msgstr "Ajouter un dépôt"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1634
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1635
 msgid "Add package repository"
-msgstr "Ajouter un dépôt de paquets"
+msgstr "Ajouter un dépôt de packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1661
 #, perl-format
 msgid "Repository tag name already used: %s"
-msgstr "Ce tag de dépôt de paquets est déjà utilisé : %s"
+msgstr "Ce tag de dépôt de packages est déjà utilisé : %s"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1719
 msgid "Revert"
@@ -1322,7 +1322,7 @@ msgstr "Restauration effectuée."
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2364
 msgid "Select the package to restore, or restore all packages"
-msgstr "Sélectionner le paquet à restaurer ou restaurer tous les paquets"
+msgstr "Sélectionner le package à restaurer ou restaurer tous les packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2380
 msgid "Revision:"
@@ -1330,11 +1330,11 @@ msgstr "Version :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2385
 msgid "Restore selected package"
-msgstr "Restaurer les paquets sélectionnés"
+msgstr "Restaurer les packages sélectionnés"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2401
 msgid "Restore all packages to latest version"
-msgstr "Restaurer tous les paquets à partir de la dernière sauvegarde"
+msgstr "Restaurer tous les packages à partir de la dernière sauvegarde"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2417
 msgid "Close"
@@ -1362,11 +1362,11 @@ msgstr "Choisir le répertoire"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2525
 msgid "Load package repository"
-msgstr "Charger le dépôt de paquets"
+msgstr "Charger le dépôt de packages"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2528
 msgid "Load this package repository:"
-msgstr "Charger ce dépôt de paquets :"
+msgstr "Charger ce dépôt de packages :"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:2554
 msgid "Choose local directory"
@@ -1428,7 +1428,7 @@ msgstr "Schéma d'infrastructure (aucun TeX là-dedans)."
 
 #: tlpkg/translations/shortdesc.pl:6
 msgid "medium scheme (small + more packages and languages)"
-msgstr "Schéma moyen (petit avec plus de paquets et langues)"
+msgstr "Schéma moyen (petit avec plus de packages et langues)"
 
 #: tlpkg/translations/shortdesc.pl:7
 msgid "minimal scheme (plain only)"
@@ -1456,7 +1456,7 @@ msgstr "Programmes auxiliaires pour TeX"
 
 #: tlpkg/translations/shortdesc.pl:13
 msgid "ConTeXt and packages"
-msgstr "ConTeXt et paquets associés"
+msgstr "ConTeXt et packages associés"
 
 #: tlpkg/translations/shortdesc.pl:14
 msgid "Additional fonts"
@@ -1480,7 +1480,7 @@ msgstr "Composition des jeux"
 
 #: tlpkg/translations/shortdesc.pl:19
 msgid "Humanities packages"
-msgstr "Paquets pour les sciences humaines"
+msgstr "Packages pour les sciences humaines"
 
 #: tlpkg/translations/shortdesc.pl:20
 msgid "Arabic"
@@ -1552,31 +1552,32 @@ msgstr "Espagnol"
 
 #: tlpkg/translations/shortdesc.pl:37
 msgid "LaTeX fundamental packages"
-msgstr "Paquets LaTeX essentiels"
+msgstr "Packages LaTeX essentiels"
 
 #: tlpkg/translations/shortdesc.pl:38
 msgid "LaTeX additional packages"
-msgstr "Paquets LaTeX additionnels"
+msgstr "Packages LaTeX additionnels"
 
 #: tlpkg/translations/shortdesc.pl:39
 msgid "LaTeX recommended packages"
-msgstr "Paquets LaTeX recommandés"
+msgstr "Packages LaTeX recommandés"
 
 #: tlpkg/translations/shortdesc.pl:40
 msgid "LuaTeX packages"
-msgstr "Paquets LuaTeX"
+msgstr "Packages LuaTeX"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics, natural sciences, computer science packages"
 msgstr ""
+"Packages pour les mathématiques, les sciences naturelles et l'informatique"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
-msgstr "Paquets pour MetaPost et Metafont"
+msgstr "Packages pour MetaPost et Metafont"
 
 #: tlpkg/translations/shortdesc.pl:43
 msgid "Music packages"
-msgstr "Paquets pour la musique"
+msgstr "Packages pour la musique"
 
 #: tlpkg/translations/shortdesc.pl:44
 msgid "Graphics, pictures, diagrams"
@@ -1604,7 +1605,7 @@ msgstr "Programmes pour le support de Windows seulement"
 
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
-msgstr "XeTeX et paquets associés"
+msgstr "XeTeX et packages associés"
 
 #~ msgid "Mathematics and science packages"
 #~ msgstr "Packages mathématiques et scientifiques"
@@ -1613,10 +1614,10 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Schéma pour XML"
 
 #~ msgid "Generic additional packages"
-#~ msgstr "Paquets génériques additionnels"
+#~ msgstr "Packages génériques additionnels"
 
 #~ msgid "Generic recommended packages"
-#~ msgstr "Paquets génériques recommandés"
+#~ msgstr "Packages génériques recommandés"
 
 #~ msgid "HTML/SGML/XML support"
 #~ msgstr "Support pour HTML, SGML et XML"
@@ -1628,10 +1629,10 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Écritures indiennes"
 
 #~ msgid "Omega packages"
-#~ msgstr "Paquets pour Omega"
+#~ msgstr "Packages pour Omega"
 
 #~ msgid "Plain TeX packages"
-#~ msgstr "Paquets Plain TeX"
+#~ msgstr "Packages Plain TeX"
 
 #~ msgid "Best to disable your virus scanner during installation."
 #~ msgstr ""
@@ -1645,7 +1646,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Voici la liste des messages émis :"
 
 #~ msgid "Mathematics packages"
-#~ msgstr "Paquets pour les mathématiques"
+#~ msgstr "Packages pour les mathématiques"
 
 #~ msgid "Natural and computer sciences"
 #~ msgstr "Sciences naturelles et informatique"
@@ -1685,7 +1686,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Version du dépôt d'après le catalogue :"
 
 #~ msgid "Restore all package to latest version"
-#~ msgstr "Restaurer tous les paquets à la version la plus récente"
+#~ msgstr "Restaurer tous les packages à la version la plus récente"
 
 #~ msgid "Loaded repository:"
 #~ msgstr "Dépôt chargé :"
@@ -1702,7 +1703,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Des mises à jour de tlmgr sont disponibles.\n"
 #~ "Les installations et mises à jour ne seront pas effectuées à moins d'être "
 #~ "forcées.\n"
-#~ "Veuillez sélectionner \"Mettre à jour tous les paquets installés\" après "
+#~ "Veuillez sélectionner \"Mettre à jour tous les packages installés\" après "
 #~ "avoir fermé cette fenêtre.\n"
 #~ "\n"
 #~ "Le programme s'arrêtera après cette mise à jour.\n"
@@ -1715,10 +1716,10 @@ msgstr "XeTeX et paquets associés"
 #~ "disponibles."
 
 #~ msgid "Package repository:"
-#~ msgstr "Dépôt de paquets :"
+#~ msgstr "Dépôt de packages :"
 
 #~ msgid "Default net package repository"
-#~ msgstr "Dépôt de paquets en ligne par défaut"
+#~ msgstr "Dépôt de packages en ligne par défaut"
 
 #~ msgid ""
 #~ "Loading local TeX Live database;\n"
@@ -1758,13 +1759,13 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Formats additionnels"
 
 #~ msgid "Extra generic packages"
-#~ msgstr "Paquets génériques additionnels"
+#~ msgstr "Packages génériques additionnels"
 
 #~ msgid "Recommended generic packages"
-#~ msgstr "Paquets génériques recommandés"
+#~ msgstr "Packages génériques recommandés"
 
 #~ msgid "LaTeX supplementary packages"
-#~ msgstr "Paquets LaTeX supplémentaires"
+#~ msgstr "Packages LaTeX supplémentaires"
 
 #~ msgid "Advanced math typesetting"
 #~ msgstr "Composition mathématique avancée"
@@ -1776,7 +1777,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "GNU TeXinfo"
 
 #~ msgid "XeTeX packages"
-#~ msgstr "Paquet XeTeX"
+#~ msgstr "Package XeTeX"
 
 #~ msgid "Croatian"
 #~ msgstr "Croate"
@@ -1821,10 +1822,10 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Vietnamien"
 
 #~ msgid "MetaPost (and Metafont) drawing packages"
-#~ msgstr "Paquets de dessin avec MetaPost (et Metafont)"
+#~ msgstr "Packages de dessin avec MetaPost (et Metafont)"
 
 #~ msgid "Plain TeX supplementary packages"
-#~ msgstr "Paquets Plain TeX supplémentaires"
+#~ msgstr "Packages Plain TeX supplémentaires"
 
 #~ msgid "Select language-specific documentation"
 #~ msgstr "Choisir la documentation propre à une langue"
@@ -1911,13 +1912,13 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Turkmène"
 
 #~ msgid "Basic LaTeX packages"
-#~ msgstr "Paquets LaTeX de base"
+#~ msgstr "Packages LaTeX de base"
 
 #~ msgid "Graphics packages and programs"
-#~ msgstr "Programmes et paquets pour les graphismes"
+#~ msgstr "Programmes et packages pour les graphismes"
 
 #~ msgid "PSTricks packages"
-#~ msgstr "Paquet PSTricks"
+#~ msgstr "Package PSTricks"
 
 #~ msgid "Support for publishers, theses, standards, conferences, etc."
 #~ msgstr "Support pour des éditeurs, thèses, standards, conférences, etc."
@@ -2024,18 +2025,18 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr ""
 #~ "Impossible de charger la base de données TeX Live depuis %s.\n"
 #~ " Veuillez sélectionner un autre emplacement si vous voulez ajouter ou "
-#~ "mettre à jour des paquets.\n"
-#~ "Si vous voulez juste changer la configuration ou retirer des paquets, "
+#~ "mettre à jour des packages.\n"
+#~ "Si vous voulez juste changer la configuration ou retirer des packages, "
 #~ "inutile de changer quoi que ce soit."
 
 #~ msgid "medium scheme (plain, latex, recommended packages, some languages)"
-#~ msgstr "Schéma moyen (Plain, LaTeX, paquet recommandés, quelques langues)"
+#~ msgstr "Schéma moyen (Plain, LaTeX, package recommandés, quelques langues)"
 
 #~ msgid "Change default package repository"
-#~ msgstr "Modifier le dépôt de paquets utilisé par défaut"
+#~ msgstr "Modifier le dépôt de packages utilisé par défaut"
 
 #~ msgid "New default package repository"
-#~ msgstr "Nouveau dépôt de paquets à utiliser par défaut"
+#~ msgstr "Nouveau dépôt de packages à utiliser par défaut"
 
 #~ msgid ""
 #~ "Loading remote TeX Live Database\n"
@@ -2069,7 +2070,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Ajouter des raccourcis dans le menu et sur le bureau"
 
 #~ msgid "LaTeX3 packages"
-#~ msgstr "Paquets LaTeX3"
+#~ msgstr "Packages LaTeX3"
 
 #~ msgid ""
 #~ "Updates for the tlmgr are present.\n"
@@ -2079,7 +2080,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Then you can restart the program for further updates."
 #~ msgstr ""
 #~ "Une mise à jour de tlmgr est disponible.\n"
-#~ "Les installations et mises à jour d'autres paquets\n"
+#~ "Les installations et mises à jour d'autres packages\n"
 #~ "ne seront pas effectuées à moins d'être forcées.\n"
 #~ "Veuillez sélectionner « tout mettre à jour » ci-dessous :\n"
 #~ "le programme s'arrêtera après s'être mis à jour.\n"
@@ -2092,7 +2093,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Utiliser Ctrl ou Shift ou glisser pour en sélectionner davantage."
 
 #~ msgid "Select packages"
-#~ msgstr "Sélectionner les paquets"
+#~ msgstr "Sélectionner les packages"
 
 #~ msgid "Search"
 #~ msgstr "Rechercher"
@@ -2109,7 +2110,7 @@ msgstr "XeTeX et paquets associés"
 #~ msgid ""
 #~ "Force the removal of a package even if it is referenced in a collection."
 #~ msgstr ""
-#~ "Forcer la suppression d'un paquet même s'il est listé dans une collection."
+#~ "Forcer la suppression d'un package même s'il est listé dans une collection."
 
 #~ msgid "without depends"
 #~ msgstr "sans les dépendances"
@@ -2119,7 +2120,7 @@ msgstr "XeTeX et paquets associés"
 #~ "dependencies"
 #~ msgstr ""
 #~ "Pour les collections : l'installation ou la suppression n'installe ni ne "
-#~ "supprime les paquets inclus."
+#~ "supprime les packages inclus."
 
 #~ msgid "Architectures"
 #~ msgstr "Architectures"
@@ -2164,7 +2165,7 @@ msgstr "XeTeX et paquets associés"
 #~ "On ne vous le demandera pas deux fois !"
 
 #~ msgid "Current package repository:"
-#~ msgstr "Dépôt de paquets actuel :"
+#~ msgstr "Dépôt de packages actuel :"
 
 #~ msgid "Press this button to load the database from the package repository."
 #~ msgstr ""
@@ -2175,7 +2176,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Change package repository from where packages are fetched at installation "
 #~ "and update time."
 #~ msgstr ""
-#~ "Choisir le dépôt depuis lequel les paquets seront récupérés pour "
+#~ "Choisir le dépôt depuis lequel les packages seront récupérés pour "
 #~ "installation et mise à jour."
 
 #~ msgid "Debug"
@@ -2185,10 +2186,10 @@ msgstr "XeTeX et paquets associés"
 #~ msgstr "Activer le mode de déboguage."
 
 #~ msgid "Adding packages"
-#~ msgstr "Ajouter des paquets"
+#~ msgstr "Ajouter des packages"
 
 #~ msgid "Install selected"
-#~ msgstr "Installer les paquets sélectionnés"
+#~ msgstr "Installer les packages sélectionnés"
 
 #~ msgid ""
 #~ "The database of the package repository has not been loaded.\n"
@@ -2200,19 +2201,19 @@ msgstr "XeTeX et paquets associés"
 #~ "Veuillez utiliser le bouton \"Charger\" pour le faire."
 
 #~ msgid "Updating packages"
-#~ msgstr "Mise à jour de paquets"
+#~ msgstr "Mise à jour de packages"
 
 #~ msgid "Update all"
 #~ msgstr "Tout mettre à jour"
 
 #~ msgid "Update selected"
-#~ msgstr "Mettre à jour les paquets sélectionnés"
+#~ msgstr "Mettre à jour les packages sélectionnés"
 
 #~ msgid "Removing packages"
-#~ msgstr "Suppression de paquets"
+#~ msgstr "Suppression de packages"
 
 #~ msgid "Remove selected"
-#~ msgstr "Supprimer les paquets sélectionnés"
+#~ msgstr "Supprimer les packages sélectionnés"
 
 #~ msgid "Please click on an item on the left for details"
 #~ msgstr "Veuillez cliquer sur un item à gauche pour voir sa description."
@@ -2238,11 +2239,11 @@ msgstr "XeTeX et paquets associés"
 #~ "disque.\n"
 #~ "\n"
 #~ " Si vous voulez mettre à jour depuis internet pour cette fois, cliquez "
-#~ "sur le bouton \"Modifier\" ci-dessus et sélectionnez \"Dépôt de paquets "
+#~ "sur le bouton \"Modifier\" ci-dessus et sélectionnez \"Dépôt de packages "
 #~ "par défaut\" (ou tout autre emplacement réseau que vous savez correct).\n"
 #~ "\n"
 #~ "Si vous voulez faire ceci de façon permanente, allez à l'onglet "
-#~ "\"Configuration\" et modifiez le dépôt de paquets à utiliser par défaut."
+#~ "\"Configuration\" et modifiez le dépôt de packages à utiliser par défaut."
 
 #~ msgid "Everything up-to-date!"
 #~ msgstr "Tout est à jour!"
@@ -2255,7 +2256,7 @@ msgstr "XeTeX et paquets associés"
 #~ "Then you can restart the program for further updates."
 #~ msgstr ""
 #~ "Une mise à jour de tlmgr est disponible.\n"
-#~ "Les installations et mises à jour d'autres paquets ne seront pas "
+#~ "Les installations et mises à jour d'autres packages ne seront pas "
 #~ "effectuées à moins d'être forcées.\n"
 #~ "Veuillez sélectionner « tout mettre à jour » dans l'onglet « mettre à "
 #~ "jour » :\n"
@@ -2263,10 +2264,10 @@ msgstr "XeTeX et paquets associés"
 #~ "relancer pour procéder au reste des mises à jour."
 
 #~ msgid "Change package repository"
-#~ msgstr "Modifier le dépôt de paquets utilisé"
+#~ msgstr "Modifier le dépôt de packages utilisé"
 
 #~ msgid "New package repository:"
-#~ msgstr "Nouveau dépôt de paquets :"
+#~ msgstr "Nouveau dépôt de packages :"
 
 #~ msgid "Warning Window"
 #~ msgstr "Fenêtre d'avertissement"
