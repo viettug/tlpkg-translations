@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2018-03-15 02:23+0100\n"
-"PO-Revision-Date: 2017-05-14 07:57+0200\n"
+"PO-Revision-Date: 2018-03-18 15:32+0100\n"
 "Last-Translator: Uwe Ziegenhagen <ziegenhagen@gmail.com>\n"
 "Language-Team: TL German Translation Team <tex-live@tug.org>\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: install-tl:2389
 msgid "Welcome to TeX Live!"
@@ -83,11 +83,11 @@ msgstr "Abbruch"
 
 #: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
-msgstr ""
+msgstr "Scrollen Sie zurück, um die Warnungen zu prüfen"
 
 #: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
-msgstr "Ende"
+msgstr "Beenden"
 
 #: tlpkg/installer/install-menu-wizard.pl:40
 #: tlpkg/installer/install-menu-perltk.pl:459
@@ -205,19 +205,19 @@ msgstr "Kommandozeilen-Repository"
 #: tlpkg/installer/install-menu-wizard.pl:235
 #: tlpkg/installer/install-menu-perltk.pl:242
 msgid "LOCAL REPOSITORIES"
-msgstr "Lokale Quellen"
+msgstr "Lokale Repositories"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
 #: tlpkg/installer/install-menu-perltk.pl:246
 msgid "NETWORK REPOSITORIES"
-msgstr "Netzwerkquellen"
+msgstr "Netzwerk-Repositories"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
 #: tlpkg/installer/install-menu-perltk.pl:248
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1484
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1516
 msgid "Default remote repository"
-msgstr "Voreingestellte Netzwerkinstallationsquelle"
+msgstr "Voreingestelltes Netzwerk-Repository"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
 #: tlpkg/installer/install-menu-perltk.pl:253
@@ -242,16 +242,16 @@ msgstr "Spiegelserver"
 
 #: tlpkg/installer/install-menu-wizard.pl:379
 msgid "Please wait while the repository database is loaded."
-msgstr "Bitte warten bis die Installationsdatenbank geladen ist."
+msgstr "Bitte warten Sie, bis die Installationsdatenbank geladen ist."
 
 #: tlpkg/installer/install-menu-wizard.pl:380
 msgid "This will take some time!"
-msgstr "Dies kann etwas Zeit beanspruchen!"
+msgstr "Dies kann jetzt ein wenig dauern..."
 
 #: tlpkg/installer/install-menu-wizard.pl:387
 #: tlpkg/installer/install-menu-perltk.pl:284
 msgid "Could not load remote TeX Live Database:"
-msgstr "Konnte die Netzwerk-Datenbank von TeX Live nicht laden"
+msgstr "Konnte die Netzwerk-Datenbank von TeX Live nicht laden:"
 
 #: tlpkg/installer/install-menu-wizard.pl:388
 #: tlpkg/installer/install-menu-wizard.pl:395
@@ -422,7 +422,7 @@ msgstr "Installation"
 #: tlpkg/installer/install-menu-perltk.pl:1260
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:143
 msgid "None"
-msgstr "Gar nicht"
+msgstr "Keine(n)"
 
 #: tlpkg/installer/install-menu-perltk.pl:58
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:144
@@ -477,7 +477,7 @@ msgstr "Warnung"
 
 #: tlpkg/installer/install-menu-perltk.pl:286
 msgid "Please select a different mirror."
-msgstr "Bitte einen anderen Spiegelserver wählen!"
+msgstr "Bitte einen anderen Spiegelserver wählen."
 
 #: tlpkg/installer/install-menu-perltk.pl:293
 #, perl-format
@@ -903,7 +903,7 @@ msgstr "Laden der Kommandozeilen-Installationsquelle:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:537
 msgid "Load standard net repository:"
-msgstr "Lade standardmäßiges Netz-Verzeichnis"
+msgstr "Lade standardmäßiges Netz-Verzeichnis:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:540
 msgid "Load other repository ..."
@@ -976,7 +976,7 @@ msgstr "TeX Live %s entfernen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:635
 msgid "Complete removal finished"
-msgstr "Komplette Deinstallation fertig!"
+msgstr "Deinstallation abgeschlossen"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:640
 #, perl-format
@@ -1030,7 +1030,7 @@ msgstr "Version auf dem Server:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:714
 msgid "Remote Catalogue version:"
-msgstr "Version im Katalog auf dem Server"
+msgstr "Version im Server-Katalog:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:719
 msgid "Keywords:"
@@ -1157,7 +1157,7 @@ msgstr "Install for all users"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1283
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1285
 msgid "Load default repository:"
-msgstr "Laden der voreingestellten Installationsquelle"
+msgstr "Laden der voreingestellten Installationsquelle:"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1342
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1351
@@ -1185,7 +1185,7 @@ msgstr "GUI Sprache"
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1420
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1438
 msgid "System default"
-msgstr "systemweiter Standard"
+msgstr "Systemweiter Standard"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1419
 msgid "Default language for GUI:"
