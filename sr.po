@@ -1,16 +1,16 @@
 # Serbian/Cyrillic translation of TeX Live.
-# Copyright (C) 2010-2017 TeX Live Team
-# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2017.
+# Copyright (C) 2010-2018 TeX Live Team
+# Nikola Lečić <nikola.lecic@anthesphoria.net>, 2010-2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
 "POT-Creation-Date: 2018-03-15 02:23+0100\n"
-"PO-Revision-Date: 2017-05-10 22:41+0300\n"
+"PO-Revision-Date: 2018-04-04 23:06+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
-"Language: Serbian Cyrillic\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -84,7 +84,7 @@ msgstr "Прекини"
 
 #: tlpkg/installer/tracked-install.pl:79
 msgid "Scroll back to inspect warnings"
-msgstr ""
+msgstr "Скролујте навише да бисте прегледали упозорења"
 
 #: tlpkg/installer/tracked-install.pl:87
 msgid "Finish"
@@ -1565,7 +1565,7 @@ msgstr "LuaTeX пакети"
 
 #: tlpkg/translations/shortdesc.pl:41
 msgid "Mathematics, natural sciences, computer science packages"
-msgstr ""
+msgstr "Математички, природнонаучни и компјутерски пакети"
 
 #: tlpkg/translations/shortdesc.pl:42
 msgid "MetaPost and Metafont packages"
