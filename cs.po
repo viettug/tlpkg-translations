@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-03-15 02:23+0100\n"
+"POT-Creation-Date: 2018-04-30 02:24+0200\n"
 "PO-Revision-Date: 2016-05-03 17:30+0200\n"
 "Last-Translator: Petr Sojka <sojka@fi.muni.cz>\n"
 "Language-Team: Czech <>\n"
@@ -56,13 +56,12 @@ msgstr "Instalace"
 
 #: tlpkg/installer/tracked-install.pl:41
 #: tlpkg/installer/install-menu-wizard.pl:383
-#: tlpkg/installer/install-menu-wizard.pl:507
-#: tlpkg/installer/install-menu-perltk.pl:772
-#: tlpkg/installer/install-menu-perltk.pl:812
-#: tlpkg/installer/install-menu-perltk.pl:865
-#: tlpkg/installer/install-menu-perltk.pl:936
-#: tlpkg/installer/install-menu-perltk.pl:1001
-#: tlpkg/installer/install-menu-perltk.pl:1035
+#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-perltk.pl:798
+#: tlpkg/installer/install-menu-perltk.pl:851
+#: tlpkg/installer/install-menu-perltk.pl:922
+#: tlpkg/installer/install-menu-perltk.pl:987
+#: tlpkg/installer/install-menu-perltk.pl:1021
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:629
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:630
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1052
@@ -89,49 +88,49 @@ msgstr ""
 msgid "Finish"
 msgstr "Dokončit"
 
-#: tlpkg/installer/install-menu-wizard.pl:40
-#: tlpkg/installer/install-menu-perltk.pl:459
+#: tlpkg/installer/install-menu-wizard.pl:41
+#: tlpkg/installer/install-menu-perltk.pl:445
 msgid "Default paper size"
 msgstr "Výchozí formát papíru"
 
-#: tlpkg/installer/install-menu-wizard.pl:41
-#: tlpkg/installer/install-menu-perltk.pl:544
+#: tlpkg/installer/install-menu-wizard.pl:42
+#: tlpkg/installer/install-menu-perltk.pl:530
 msgid "Add menu shortcuts"
 msgstr "Přidat menu zkratek"
 
-#: tlpkg/installer/install-menu-wizard.pl:42
-#: tlpkg/installer/install-menu-perltk.pl:557
+#: tlpkg/installer/install-menu-wizard.pl:43
+#: tlpkg/installer/install-menu-perltk.pl:543
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1245
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1828
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1832
 msgid "Change file associations"
 msgstr "Změna asociace typů souborů k programům"
 
-#: tlpkg/installer/install-menu-wizard.pl:43
-#: tlpkg/installer/install-menu-perltk.pl:525
+#: tlpkg/installer/install-menu-wizard.pl:44
+#: tlpkg/installer/install-menu-perltk.pl:511
 msgid "Adjust PATH setting in registry"
 msgstr "Úprava nastavení PATH v registrech"
 
-#: tlpkg/installer/install-menu-wizard.pl:44
-#: tlpkg/installer/install-menu-perltk.pl:570
+#: tlpkg/installer/install-menu-wizard.pl:45
+#: tlpkg/installer/install-menu-perltk.pl:556
 msgid "Installation for all users"
 msgstr "Instalace pro všechny uživatele"
 
-#: tlpkg/installer/install-menu-wizard.pl:45
-#: tlpkg/installer/install-menu-perltk.pl:583
+#: tlpkg/installer/install-menu-wizard.pl:46
+#: tlpkg/installer/install-menu-perltk.pl:569
 msgid "Install TeXworks front end"
 msgstr "Nainstaluj pomocníka TeXworks"
 
 #: tlpkg/installer/install-menu-wizard.pl:136
-#: tlpkg/installer/install-menu-perltk.pl:222
-#: tlpkg/installer/install-menu-perltk.pl:702
+#: tlpkg/installer/install-menu-perltk.pl:215
+#: tlpkg/installer/install-menu-perltk.pl:688
 #, perl-format
 msgid "TeX Live %s Installation"
 msgstr "Instalace TeX Live %s"
 
 #: tlpkg/installer/install-menu-wizard.pl:151
-#: tlpkg/installer/install-menu-perltk.pl:644
-#: tlpkg/installer/install-menu-perltk.pl:690
+#: tlpkg/installer/install-menu-perltk.pl:630
+#: tlpkg/installer/install-menu-perltk.pl:676
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:544
 msgid "Quit"
 msgstr "Ukončit"
@@ -141,9 +140,9 @@ msgstr "Ukončit"
 #: tlpkg/installer/install-menu-wizard.pl:337
 #: tlpkg/installer/install-menu-wizard.pl:389
 #: tlpkg/installer/install-menu-wizard.pl:396
-#: tlpkg/installer/install-menu-wizard.pl:474
-#: tlpkg/installer/install-menu-wizard.pl:583
-#: tlpkg/installer/install-menu-wizard.pl:629
+#: tlpkg/installer/install-menu-wizard.pl:473
+#: tlpkg/installer/install-menu-wizard.pl:561
+#: tlpkg/installer/install-menu-wizard.pl:607
 msgid "< Back"
 msgstr "< Předcházející"
 
@@ -151,8 +150,8 @@ msgstr "< Předcházející"
 #: tlpkg/installer/install-menu-wizard.pl:198
 #: tlpkg/installer/install-menu-wizard.pl:269
 #: tlpkg/installer/install-menu-wizard.pl:338
-#: tlpkg/installer/install-menu-wizard.pl:475
-#: tlpkg/installer/install-menu-wizard.pl:584
+#: tlpkg/installer/install-menu-wizard.pl:474
+#: tlpkg/installer/install-menu-wizard.pl:562
 msgid "Next >"
 msgstr "Další >"
 
@@ -195,29 +194,29 @@ msgid "Change default repository"
 msgstr "Změnit výchozí zdroj"
 
 #: tlpkg/installer/install-menu-wizard.pl:229
-#: tlpkg/installer/install-menu-perltk.pl:236
+#: tlpkg/installer/install-menu-perltk.pl:229
 msgid "Command line repository"
 msgstr "Zdroj pro příkazový řádek"
 
 #: tlpkg/installer/install-menu-wizard.pl:235
-#: tlpkg/installer/install-menu-perltk.pl:242
+#: tlpkg/installer/install-menu-perltk.pl:235
 msgid "LOCAL REPOSITORIES"
 msgstr "MÍSTNÍ ZDROJE"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
-#: tlpkg/installer/install-menu-perltk.pl:246
+#: tlpkg/installer/install-menu-perltk.pl:239
 msgid "NETWORK REPOSITORIES"
 msgstr "SÍŤOVÉ ZDROJE"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:248
+#: tlpkg/installer/install-menu-perltk.pl:241
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1484
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1516
 msgid "Default remote repository"
 msgstr "Výchozí síťový zdroj balíků"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
-#: tlpkg/installer/install-menu-perltk.pl:253
+#: tlpkg/installer/install-menu-perltk.pl:246
 msgid "Select repository"
 msgstr "Vybrat zdroj"
 
@@ -246,7 +245,7 @@ msgid "This will take some time!"
 msgstr "Bude to nějakou dobu trvat!"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
-#: tlpkg/installer/install-menu-perltk.pl:284
+#: tlpkg/installer/install-menu-perltk.pl:277
 msgid "Could not load remote TeX Live Database:"
 msgstr "Nelze načíst vzdálenou databázi TeX Live:"
 
@@ -268,24 +267,23 @@ msgstr ""
 "     místní: %s\n"
 "      zdroj: %s"
 
-#: tlpkg/installer/install-menu-wizard.pl:424
-#: tlpkg/installer/install-menu-wizard.pl:609
+#: tlpkg/installer/install-menu-wizard.pl:423
+#: tlpkg/installer/install-menu-wizard.pl:587
 msgid "Destination folder:"
 msgstr "Cílová složka:"
 
-#: tlpkg/installer/install-menu-wizard.pl:426
-#: tlpkg/installer/install-menu-perltk.pl:324
-#: tlpkg/installer/install-menu-perltk.pl:336
-#: tlpkg/installer/install-menu-perltk.pl:350
-#: tlpkg/installer/install-menu-perltk.pl:383
-#: tlpkg/installer/install-menu-perltk.pl:387
-#: tlpkg/installer/install-menu-perltk.pl:403
-#: tlpkg/installer/install-menu-perltk.pl:416
-#: tlpkg/installer/install-menu-perltk.pl:428
-#: tlpkg/installer/install-menu-perltk.pl:441
-#: tlpkg/installer/install-menu-perltk.pl:533
-#: tlpkg/installer/install-menu-perltk.pl:549
-#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-wizard.pl:425
+#: tlpkg/installer/install-menu-perltk.pl:317
+#: tlpkg/installer/install-menu-perltk.pl:329
+#: tlpkg/installer/install-menu-perltk.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:375
+#: tlpkg/installer/install-menu-perltk.pl:389
+#: tlpkg/installer/install-menu-perltk.pl:402
+#: tlpkg/installer/install-menu-perltk.pl:414
+#: tlpkg/installer/install-menu-perltk.pl:427
+#: tlpkg/installer/install-menu-perltk.pl:519
+#: tlpkg/installer/install-menu-perltk.pl:535
+#: tlpkg/installer/install-menu-perltk.pl:548
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1150
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1188
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1196
@@ -301,7 +299,7 @@ msgstr "Cílová složka:"
 msgid "Change"
 msgstr "Změnit"
 
-#: tlpkg/installer/install-menu-wizard.pl:448
+#: tlpkg/installer/install-menu-wizard.pl:447
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
@@ -309,31 +307,140 @@ msgstr ""
 "Cílová složka bude obsahovat vlastní instalaci.\n"
 "Je důrazně doporučeno, aby jméno poslední složky označovalo rok."
 
-#: tlpkg/installer/install-menu-wizard.pl:470
-#: tlpkg/installer/install-menu-perltk.pl:1094
+#: tlpkg/installer/install-menu-wizard.pl:469
+#: tlpkg/installer/install-menu-perltk.pl:1080
 msgid "disk space required:"
 msgstr "vyžadované místo na disku"
 
-#: tlpkg/installer/install-menu-wizard.pl:490
-#: tlpkg/installer/install-menu-perltk.pl:1105
+#: tlpkg/installer/install-menu-wizard.pl:489
+#: tlpkg/installer/install-menu-perltk.pl:1091
 msgid "(default not allowed or not writable - please change!)"
 msgstr "(výchozí složka nepovolena, nebo nemá povolen zápis - prosím, změňte!)"
 
-#: tlpkg/installer/install-menu-wizard.pl:500
-msgid "Enter path for"
-msgstr "Zadat cestu pro"
+#: tlpkg/installer/install-menu-wizard.pl:534
+msgid "This screen allows you to configure some options"
+msgstr "Tato obrazovka umožňuje změnit některá nastavení"
 
-#: tlpkg/installer/install-menu-wizard.pl:504
-#: tlpkg/installer/install-menu-perltk.pl:287
-#: tlpkg/installer/install-menu-perltk.pl:298
-#: tlpkg/installer/install-menu-perltk.pl:624
-#: tlpkg/installer/install-menu-perltk.pl:766
-#: tlpkg/installer/install-menu-perltk.pl:805
-#: tlpkg/installer/install-menu-perltk.pl:861
-#: tlpkg/installer/install-menu-perltk.pl:919
-#: tlpkg/installer/install-menu-perltk.pl:999
-#: tlpkg/installer/install-menu-perltk.pl:1031
-#: tlpkg/installer/install-menu-perltk.pl:1052
+#: tlpkg/installer/install-menu-wizard.pl:579
+#, perl-format
+msgid ""
+"We are ready to install TeX Live %s.\n"
+"The following settings will be used.\n"
+"If you want to change something please go back,\n"
+"otherwise press the \"Install\" button."
+msgstr ""
+"Jsme nyní připraveni nainstalovat TeX Live %s.\n"
+"Použijí se následující nastavení.\n"
+"Chcete-li cokoliv změnit, vraťte se,\n"
+"v opačném případě stiskněte tlačítko \"Nainstaluj\"."
+
+#: tlpkg/installer/install-menu-wizard.pl:595
+#: tlpkg/installer/install-menu-perltk.pl:61
+#: tlpkg/installer/install-menu-perltk.pl:1141
+#: tlpkg/installer/install-menu-perltk.pl:1142
+#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1149
+#: tlpkg/installer/install-menu-perltk.pl:1155
+#: tlpkg/installer/install-menu-perltk.pl:1239
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
+msgid "Yes"
+msgstr "Ano"
+
+#: tlpkg/installer/install-menu-wizard.pl:595
+#: tlpkg/installer/install-menu-perltk.pl:60
+#: tlpkg/installer/install-menu-perltk.pl:1141
+#: tlpkg/installer/install-menu-perltk.pl:1142
+#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1149
+#: tlpkg/installer/install-menu-perltk.pl:1155
+#: tlpkg/installer/install-menu-perltk.pl:1228
+#: tlpkg/installer/install-menu-perltk.pl:1249
+#: tlpkg/installer/install-menu-perltk.pl:1250
+#: tlpkg/installer/install-menu-perltk.pl:1252
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
+msgid "No"
+msgstr "Ne"
+
+#: tlpkg/installer/install-menu-wizard.pl:604
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:456
+msgid "Install"
+msgstr "Nainstaluj"
+
+#: tlpkg/installer/install-menu-perltk.pl:48
+#: tlpkg/installer/install-menu-perltk.pl:1251
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:143
+msgid "None"
+msgstr "Žádné"
+
+#: tlpkg/installer/install-menu-perltk.pl:49
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:144
+msgid "Only new"
+msgstr "Jen nové"
+
+#: tlpkg/installer/install-menu-perltk.pl:50
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:145
+msgid "All"
+msgstr "Všechny"
+
+#: tlpkg/installer/install-menu-perltk.pl:52
+msgid "A4"
+msgstr "A4"
+
+#: tlpkg/installer/install-menu-perltk.pl:53
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
+msgid "letter"
+msgstr "letter"
+
+#: tlpkg/installer/install-menu-perltk.pl:55
+msgid "No shortcuts"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:56
+msgid "TeX Live menu"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:57
+msgid "Launcher entry"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:270
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2569
+msgid "Load"
+msgstr "Nahrát"
+
+#: tlpkg/installer/install-menu-perltk.pl:276
+#: tlpkg/installer/install-menu-perltk.pl:284
+#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1259
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:233
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1062
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1660
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1889
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
+msgid "Warning"
+msgstr "Varování"
+
+#: tlpkg/installer/install-menu-perltk.pl:279
+msgid "Please select a different mirror."
+msgstr "Prosím vyberte jiné zrcadlo."
+
+#: tlpkg/installer/install-menu-perltk.pl:280
+#: tlpkg/installer/install-menu-perltk.pl:291
+#: tlpkg/installer/install-menu-perltk.pl:610
+#: tlpkg/installer/install-menu-perltk.pl:752
+#: tlpkg/installer/install-menu-perltk.pl:791
+#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:905
+#: tlpkg/installer/install-menu-perltk.pl:985
+#: tlpkg/installer/install-menu-perltk.pl:1017
+#: tlpkg/installer/install-menu-perltk.pl:1038
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:235
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:629
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:633
@@ -361,121 +468,7 @@ msgstr "Zadat cestu pro"
 msgid "Ok"
 msgstr "OK"
 
-#: tlpkg/installer/install-menu-wizard.pl:556
-msgid "This screen allows you to configure some options"
-msgstr "Tato obrazovka umožňuje změnit některá nastavení"
-
-#: tlpkg/installer/install-menu-wizard.pl:601
-#, perl-format
-msgid ""
-"We are ready to install TeX Live %s.\n"
-"The following settings will be used.\n"
-"If you want to change something please go back,\n"
-"otherwise press the \"Install\" button."
-msgstr ""
-"Jsme nyní připraveni nainstalovat TeX Live %s.\n"
-"Použijí se následující nastavení.\n"
-"Chcete-li cokoliv změnit, vraťte se,\n"
-"v opačném případě stiskněte tlačítko \"Nainstaluj\"."
-
-#: tlpkg/installer/install-menu-wizard.pl:617
-#: tlpkg/installer/install-menu-perltk.pl:70
-#: tlpkg/installer/install-menu-perltk.pl:1155
-#: tlpkg/installer/install-menu-perltk.pl:1156
-#: tlpkg/installer/install-menu-perltk.pl:1157
-#: tlpkg/installer/install-menu-perltk.pl:1163
-#: tlpkg/installer/install-menu-perltk.pl:1169
-#: tlpkg/installer/install-menu-perltk.pl:1248
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
-msgid "Yes"
-msgstr "Ano"
-
-#: tlpkg/installer/install-menu-wizard.pl:617
-#: tlpkg/installer/install-menu-perltk.pl:69
-#: tlpkg/installer/install-menu-perltk.pl:1155
-#: tlpkg/installer/install-menu-perltk.pl:1156
-#: tlpkg/installer/install-menu-perltk.pl:1157
-#: tlpkg/installer/install-menu-perltk.pl:1163
-#: tlpkg/installer/install-menu-perltk.pl:1169
-#: tlpkg/installer/install-menu-perltk.pl:1237
-#: tlpkg/installer/install-menu-perltk.pl:1258
-#: tlpkg/installer/install-menu-perltk.pl:1259
-#: tlpkg/installer/install-menu-perltk.pl:1261
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
-msgid "No"
-msgstr "Ne"
-
-#: tlpkg/installer/install-menu-wizard.pl:626
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:456
-msgid "Install"
-msgstr "Nainstaluj"
-
-#: tlpkg/installer/install-menu-perltk.pl:57
-#: tlpkg/installer/install-menu-perltk.pl:1260
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:143
-msgid "None"
-msgstr "Žádné"
-
-#: tlpkg/installer/install-menu-perltk.pl:58
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:144
-msgid "Only new"
-msgstr "Jen nové"
-
-#: tlpkg/installer/install-menu-perltk.pl:59
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:145
-msgid "All"
-msgstr "Všechny"
-
-#: tlpkg/installer/install-menu-perltk.pl:61
-msgid "A4"
-msgstr "A4"
-
-#: tlpkg/installer/install-menu-perltk.pl:62
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
-msgid "letter"
-msgstr "letter"
-
-#: tlpkg/installer/install-menu-perltk.pl:64
-msgid "No shortcuts"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:65
-msgid "TeX Live menu"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:66
-msgid "Launcher entry"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:277
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2569
-msgid "Load"
-msgstr "Nahrát"
-
-#: tlpkg/installer/install-menu-perltk.pl:283
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:1050
-#: tlpkg/installer/install-menu-perltk.pl:1268
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:233
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1062
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1660
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1889
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
-msgid "Warning"
-msgstr "Varování"
-
 #: tlpkg/installer/install-menu-perltk.pl:286
-msgid "Please select a different mirror."
-msgstr "Prosím vyberte jiné zrcadlo."
-
-#: tlpkg/installer/install-menu-perltk.pl:293
 #, perl-format
 msgid ""
 "The TeX Live versions of the local installation and the repository being "
@@ -489,48 +482,48 @@ msgstr ""
 "  zdroj: %s\n"
 "Prosím, zvolte jiné zrcadlo."
 
-#: tlpkg/installer/install-menu-perltk.pl:313
+#: tlpkg/installer/install-menu-perltk.pl:306
 msgid "Basic Information"
 msgstr "Základní informace"
 
-#: tlpkg/installer/install-menu-perltk.pl:319
-#: tlpkg/installer/install-menu-perltk.pl:1010
+#: tlpkg/installer/install-menu-perltk.pl:312
+#: tlpkg/installer/install-menu-perltk.pl:996
 msgid "Binary system(s)"
 msgstr "Binární systém(y)"
 
-#: tlpkg/installer/install-menu-perltk.pl:331
+#: tlpkg/installer/install-menu-perltk.pl:324
+#: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:823
-#: tlpkg/installer/install-menu-perltk.pl:837
 msgid "Selected scheme"
 msgstr "Vybrané schéma"
 
-#: tlpkg/installer/install-menu-perltk.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:335
 msgid "Further Customization"
 msgstr "Další přizpůsobení"
 
-#: tlpkg/installer/install-menu-perltk.pl:347
-#: tlpkg/installer/install-menu-perltk.pl:873
+#: tlpkg/installer/install-menu-perltk.pl:340
+#: tlpkg/installer/install-menu-perltk.pl:859
 msgid "Installation collections"
 msgstr "Kolekce k instalaci"
 
-#: tlpkg/installer/install-menu-perltk.pl:361
+#: tlpkg/installer/install-menu-perltk.pl:354
 msgid "Directory setup"
 msgstr "Nastavení adresářové struktury"
 
-#: tlpkg/installer/install-menu-perltk.pl:365
+#: tlpkg/installer/install-menu-perltk.pl:358
 msgid "Portable setup"
 msgstr "Portabilní nastavení"
 
-#: tlpkg/installer/install-menu-perltk.pl:370
+#: tlpkg/installer/install-menu-perltk.pl:363
+#: tlpkg/installer/install-menu-perltk.pl:450
 #: tlpkg/installer/install-menu-perltk.pl:464
 #: tlpkg/installer/install-menu-perltk.pl:478
-#: tlpkg/installer/install-menu-perltk.pl:492
-#: tlpkg/installer/install-menu-perltk.pl:504
-#: tlpkg/installer/install-menu-perltk.pl:517
-#: tlpkg/installer/install-menu-perltk.pl:536
+#: tlpkg/installer/install-menu-perltk.pl:490
+#: tlpkg/installer/install-menu-perltk.pl:503
+#: tlpkg/installer/install-menu-perltk.pl:522
+#: tlpkg/installer/install-menu-perltk.pl:561
 #: tlpkg/installer/install-menu-perltk.pl:575
-#: tlpkg/installer/install-menu-perltk.pl:589
-#: tlpkg/installer/install-menu-perltk.pl:605
+#: tlpkg/installer/install-menu-perltk.pl:591
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1167
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1174
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1181
@@ -539,77 +532,77 @@ msgstr "Portabilní nastavení"
 msgid "Toggle"
 msgstr "Přepnout"
 
-#: tlpkg/installer/install-menu-perltk.pl:376
+#: tlpkg/installer/install-menu-perltk.pl:369
 msgid "TEXDIR (the main TeX directory)"
 msgstr "TEXDIR (hlavní adresář TeXu)"
 
-#: tlpkg/installer/install-menu-perltk.pl:397
+#: tlpkg/installer/install-menu-perltk.pl:383
 msgid "TEXMFLOCAL (directory for site-wide local files)"
 msgstr "TEXMFLOCAL (adresář pro umístění lokálních souborů)"
 
-#: tlpkg/installer/install-menu-perltk.pl:410
+#: tlpkg/installer/install-menu-perltk.pl:396
 msgid "TEXMFSYSVAR (directory for autogenerated data)"
 msgstr "TEXMFSYSVAR (adresář pro generované soubory)"
 
-#: tlpkg/installer/install-menu-perltk.pl:423
+#: tlpkg/installer/install-menu-perltk.pl:409
 msgid "TEXMFSYSCONFIG (directory for local config)"
 msgstr "TEXMFSYSCONFIG (adresář pro lokální konfiguraci)"
 
-#: tlpkg/installer/install-menu-perltk.pl:435
+#: tlpkg/installer/install-menu-perltk.pl:421
 msgid "TEXMFHOME (directory for user-specific files)"
 msgstr "TEXMFHOME (adresář pro uživatelské soubory)"
 
-#: tlpkg/installer/install-menu-perltk.pl:454
+#: tlpkg/installer/install-menu-perltk.pl:440
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:513
 msgid "Options"
 msgstr "Volby"
 
-#: tlpkg/installer/install-menu-perltk.pl:472
+#: tlpkg/installer/install-menu-perltk.pl:458
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "Povolení spouštění omezeného seznamu programů pomocí \\write18"
 
-#: tlpkg/installer/install-menu-perltk.pl:487
+#: tlpkg/installer/install-menu-perltk.pl:473
 msgid "Create all format files"
 msgstr "Vytvořit všechny formáty"
 
-#: tlpkg/installer/install-menu-perltk.pl:499
+#: tlpkg/installer/install-menu-perltk.pl:485
 msgid "Install font/macro doc tree"
 msgstr "Instalovat dokumentaci fontů/maker"
 
-#: tlpkg/installer/install-menu-perltk.pl:512
+#: tlpkg/installer/install-menu-perltk.pl:498
 msgid "Install font/macro source tree"
 msgstr "Instalovat zdrojové soubory fontů/maker"
 
-#: tlpkg/installer/install-menu-perltk.pl:526
-#: tlpkg/installer/install-menu-perltk.pl:976
+#: tlpkg/installer/install-menu-perltk.pl:512
+#: tlpkg/installer/install-menu-perltk.pl:962
 msgid "Create symlinks in system directories"
 msgstr "Vytvořit symbolické linky v systémových adresářích"
 
-#: tlpkg/installer/install-menu-perltk.pl:599
+#: tlpkg/installer/install-menu-perltk.pl:585
 msgid "After installation, get package updates from CTAN"
 msgstr "Po instalaci stáhněte aktualizace balíků z CTAN"
 
-#: tlpkg/installer/install-menu-perltk.pl:621
-#: tlpkg/installer/install-menu-perltk.pl:623
+#: tlpkg/installer/install-menu-perltk.pl:607
+#: tlpkg/installer/install-menu-perltk.pl:609
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:650
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:652
 msgid "About"
 msgstr "O programu"
 
-#: tlpkg/installer/install-menu-perltk.pl:640
+#: tlpkg/installer/install-menu-perltk.pl:626
 msgid "Install TeX Live"
 msgstr "Nainstaluj TeX Live"
 
-#: tlpkg/installer/install-menu-perltk.pl:690
+#: tlpkg/installer/install-menu-perltk.pl:676
 msgid "Continue"
 msgstr "Pokračuj"
 
-#: tlpkg/installer/install-menu-perltk.pl:692
+#: tlpkg/installer/install-menu-perltk.pl:678
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:695
+#: tlpkg/installer/install-menu-perltk.pl:681
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
@@ -617,7 +610,7 @@ msgstr ""
 "Instalační program nemá administrátorská práva;\n"
 "lze instalovat pouze pro současného uživatele."
 
-#: tlpkg/installer/install-menu-perltk.pl:698
+#: tlpkg/installer/install-menu-perltk.pl:684
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
@@ -625,79 +618,79 @@ msgstr ""
 "Chcete-li instalovat pro všechny uživatele, klikněte pravým tlačítkem\n"
 "install-tl-advanced a zvolte \"run as administrator\""
 
-#: tlpkg/installer/install-menu-perltk.pl:746
-#: tlpkg/installer/install-menu-perltk.pl:789
+#: tlpkg/installer/install-menu-perltk.pl:732
+#: tlpkg/installer/install-menu-perltk.pl:775
 msgid "Change variable value"
 msgstr "Změnit hodnotu proměnné"
 
-#: tlpkg/installer/install-menu-perltk.pl:749
-#: tlpkg/installer/install-menu-perltk.pl:799
+#: tlpkg/installer/install-menu-perltk.pl:735
+#: tlpkg/installer/install-menu-perltk.pl:785
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "Zadat cestu pro %s (pro %s použijte ~)"
 
-#: tlpkg/installer/install-menu-perltk.pl:846
+#: tlpkg/installer/install-menu-perltk.pl:832
 msgid "custom selection of collections"
 msgstr "vlastní výběr kolekcí"
 
-#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:869
 msgid "Select the collections to be installed"
 msgstr "Vybrat kolekce k nainstalování"
 
-#: tlpkg/installer/install-menu-perltk.pl:911
+#: tlpkg/installer/install-menu-perltk.pl:897
 msgid "Select All"
 msgstr "Vybrat vše"
 
-#: tlpkg/installer/install-menu-perltk.pl:915
+#: tlpkg/installer/install-menu-perltk.pl:901
 msgid "Deselect All"
 msgstr "Zrušit výběr všech položek"
 
-#: tlpkg/installer/install-menu-perltk.pl:981
+#: tlpkg/installer/install-menu-perltk.pl:967
 msgid "create symlinks in standard directories"
 msgstr "vytvořit symbolické linky ve standardních adresářích"
 
-#: tlpkg/installer/install-menu-perltk.pl:984
+#: tlpkg/installer/install-menu-perltk.pl:970
 msgid "binaries to"
 msgstr "binární soubory do"
 
-#: tlpkg/installer/install-menu-perltk.pl:986
+#: tlpkg/installer/install-menu-perltk.pl:972
 msgid "manpages to"
 msgstr "manuálové stránky do"
 
-#: tlpkg/installer/install-menu-perltk.pl:988
+#: tlpkg/installer/install-menu-perltk.pl:974
 msgid "info to"
 msgstr "info soubory do"
 
-#: tlpkg/installer/install-menu-perltk.pl:1019
+#: tlpkg/installer/install-menu-perltk.pl:1005
 msgid "Select arch-os"
 msgstr "Vybrat architekturu a OS"
 
-#: tlpkg/installer/install-menu-perltk.pl:1051
+#: tlpkg/installer/install-menu-perltk.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1063
 msgid "Removals of the main platform not possible!"
 msgstr "Odstranění hlavní architektury není možné!"
 
-#: tlpkg/installer/install-menu-perltk.pl:1085
+#: tlpkg/installer/install-menu-perltk.pl:1071
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s z %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:1092
+#: tlpkg/installer/install-menu-perltk.pl:1078
 #, perl-format
 msgid "%s collections out of %s"
 msgstr "%s kolekcí z %s"
 
-#: tlpkg/installer/install-menu-perltk.pl:1120
-#: tlpkg/installer/install-menu-perltk.pl:1138
+#: tlpkg/installer/install-menu-perltk.pl:1106
+#: tlpkg/installer/install-menu-perltk.pl:1124
 msgid "(please change TEXDIR first!)"
 msgstr "(prosím, změňte nejdříve TEXDIR!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:1125
-#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1111
+#: tlpkg/installer/install-menu-perltk.pl:1129
 msgid "(default not writable - please change!)"
 msgstr "(na výchozí umístění nelze zapisovat - prosím změňte!)"
 
-#: tlpkg/installer/install-menu-perltk.pl:1270
+#: tlpkg/installer/install-menu-perltk.pl:1261
 msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
@@ -1590,6 +1583,9 @@ msgstr "Podpůrné programy výhradně pro Windows"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX a balíky"
+
+#~ msgid "Enter path for"
+#~ msgstr "Zadat cestu pro"
 
 #~ msgid "XML scheme"
 #~ msgstr "schéma XML"

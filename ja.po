@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-03-15 02:23+0100\n"
+"POT-Creation-Date: 2018-04-30 02:24+0200\n"
 "PO-Revision-Date: 2015-05-12 17:27+0900\n"
 "Last-Translator: Koji Yokota <yokota33@gmail.com>\n"
 "Language-Team: Japanese <tldoc@tug.org>\n"
@@ -56,13 +56,12 @@ msgstr "導入プロセス"
 
 #: tlpkg/installer/tracked-install.pl:41
 #: tlpkg/installer/install-menu-wizard.pl:383
-#: tlpkg/installer/install-menu-wizard.pl:507
-#: tlpkg/installer/install-menu-perltk.pl:772
-#: tlpkg/installer/install-menu-perltk.pl:812
-#: tlpkg/installer/install-menu-perltk.pl:865
-#: tlpkg/installer/install-menu-perltk.pl:936
-#: tlpkg/installer/install-menu-perltk.pl:1001
-#: tlpkg/installer/install-menu-perltk.pl:1035
+#: tlpkg/installer/install-menu-perltk.pl:758
+#: tlpkg/installer/install-menu-perltk.pl:798
+#: tlpkg/installer/install-menu-perltk.pl:851
+#: tlpkg/installer/install-menu-perltk.pl:922
+#: tlpkg/installer/install-menu-perltk.pl:987
+#: tlpkg/installer/install-menu-perltk.pl:1021
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:629
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:630
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1052
@@ -89,49 +88,49 @@ msgstr ""
 msgid "Finish"
 msgstr "終了"
 
-#: tlpkg/installer/install-menu-wizard.pl:40
-#: tlpkg/installer/install-menu-perltk.pl:459
+#: tlpkg/installer/install-menu-wizard.pl:41
+#: tlpkg/installer/install-menu-perltk.pl:445
 msgid "Default paper size"
 msgstr "既定用紙寸法"
 
-#: tlpkg/installer/install-menu-wizard.pl:41
-#: tlpkg/installer/install-menu-perltk.pl:544
+#: tlpkg/installer/install-menu-wizard.pl:42
+#: tlpkg/installer/install-menu-perltk.pl:530
 msgid "Add menu shortcuts"
 msgstr "メニューショートカットを追加"
 
-#: tlpkg/installer/install-menu-wizard.pl:42
-#: tlpkg/installer/install-menu-perltk.pl:557
+#: tlpkg/installer/install-menu-wizard.pl:43
+#: tlpkg/installer/install-menu-perltk.pl:543
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1245
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1828
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1832
 msgid "Change file associations"
 msgstr "ファイル関連付けを変更する"
 
-#: tlpkg/installer/install-menu-wizard.pl:43
-#: tlpkg/installer/install-menu-perltk.pl:525
+#: tlpkg/installer/install-menu-wizard.pl:44
+#: tlpkg/installer/install-menu-perltk.pl:511
 msgid "Adjust PATH setting in registry"
 msgstr "レジストリの PATH 設定を調整する"
 
-#: tlpkg/installer/install-menu-wizard.pl:44
-#: tlpkg/installer/install-menu-perltk.pl:570
+#: tlpkg/installer/install-menu-wizard.pl:45
+#: tlpkg/installer/install-menu-perltk.pl:556
 msgid "Installation for all users"
 msgstr "全ユーザ用に導入"
 
-#: tlpkg/installer/install-menu-wizard.pl:45
-#: tlpkg/installer/install-menu-perltk.pl:583
+#: tlpkg/installer/install-menu-wizard.pl:46
+#: tlpkg/installer/install-menu-perltk.pl:569
 msgid "Install TeXworks front end"
 msgstr "TeXworks フロントエンドを導入"
 
 #: tlpkg/installer/install-menu-wizard.pl:136
-#: tlpkg/installer/install-menu-perltk.pl:222
-#: tlpkg/installer/install-menu-perltk.pl:702
+#: tlpkg/installer/install-menu-perltk.pl:215
+#: tlpkg/installer/install-menu-perltk.pl:688
 #, perl-format
 msgid "TeX Live %s Installation"
 msgstr "TeX Live %s の導入"
 
 #: tlpkg/installer/install-menu-wizard.pl:151
-#: tlpkg/installer/install-menu-perltk.pl:644
-#: tlpkg/installer/install-menu-perltk.pl:690
+#: tlpkg/installer/install-menu-perltk.pl:630
+#: tlpkg/installer/install-menu-perltk.pl:676
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:544
 msgid "Quit"
 msgstr "終了"
@@ -141,9 +140,9 @@ msgstr "終了"
 #: tlpkg/installer/install-menu-wizard.pl:337
 #: tlpkg/installer/install-menu-wizard.pl:389
 #: tlpkg/installer/install-menu-wizard.pl:396
-#: tlpkg/installer/install-menu-wizard.pl:474
-#: tlpkg/installer/install-menu-wizard.pl:583
-#: tlpkg/installer/install-menu-wizard.pl:629
+#: tlpkg/installer/install-menu-wizard.pl:473
+#: tlpkg/installer/install-menu-wizard.pl:561
+#: tlpkg/installer/install-menu-wizard.pl:607
 msgid "< Back"
 msgstr "←戻る"
 
@@ -151,8 +150,8 @@ msgstr "←戻る"
 #: tlpkg/installer/install-menu-wizard.pl:198
 #: tlpkg/installer/install-menu-wizard.pl:269
 #: tlpkg/installer/install-menu-wizard.pl:338
-#: tlpkg/installer/install-menu-wizard.pl:475
-#: tlpkg/installer/install-menu-wizard.pl:584
+#: tlpkg/installer/install-menu-wizard.pl:474
+#: tlpkg/installer/install-menu-wizard.pl:562
 msgid "Next >"
 msgstr "次へ→"
 
@@ -195,29 +194,29 @@ msgid "Change default repository"
 msgstr "既定リポジトリを変更"
 
 #: tlpkg/installer/install-menu-wizard.pl:229
-#: tlpkg/installer/install-menu-perltk.pl:236
+#: tlpkg/installer/install-menu-perltk.pl:229
 msgid "Command line repository"
 msgstr "コマンドラインリポジトリ "
 
 #: tlpkg/installer/install-menu-wizard.pl:235
-#: tlpkg/installer/install-menu-perltk.pl:242
+#: tlpkg/installer/install-menu-perltk.pl:235
 msgid "LOCAL REPOSITORIES"
 msgstr "ローカルリポジトリ"
 
 #: tlpkg/installer/install-menu-wizard.pl:239
-#: tlpkg/installer/install-menu-perltk.pl:246
+#: tlpkg/installer/install-menu-perltk.pl:239
 msgid "NETWORK REPOSITORIES"
 msgstr "ネットワークリポジトリ"
 
 #: tlpkg/installer/install-menu-wizard.pl:240
-#: tlpkg/installer/install-menu-perltk.pl:248
+#: tlpkg/installer/install-menu-perltk.pl:241
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1484
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1516
 msgid "Default remote repository"
 msgstr "既定リモートレポジトリ"
 
 #: tlpkg/installer/install-menu-wizard.pl:246
-#: tlpkg/installer/install-menu-perltk.pl:253
+#: tlpkg/installer/install-menu-perltk.pl:246
 msgid "Select repository"
 msgstr "リポジトリを選択"
 
@@ -246,7 +245,7 @@ msgid "This will take some time!"
 msgstr "これには少し時間がかかります！"
 
 #: tlpkg/installer/install-menu-wizard.pl:387
-#: tlpkg/installer/install-menu-perltk.pl:284
+#: tlpkg/installer/install-menu-perltk.pl:277
 msgid "Could not load remote TeX Live Database:"
 msgstr "リモートTeX Liveデータベースを読み込めませんでした:"
 
@@ -268,24 +267,23 @@ msgstr ""
 "ローカル　: %s\n"
 "リポジトリ: %s"
 
-#: tlpkg/installer/install-menu-wizard.pl:424
-#: tlpkg/installer/install-menu-wizard.pl:609
+#: tlpkg/installer/install-menu-wizard.pl:423
+#: tlpkg/installer/install-menu-wizard.pl:587
 msgid "Destination folder:"
 msgstr "導入先フォルダ:"
 
-#: tlpkg/installer/install-menu-wizard.pl:426
-#: tlpkg/installer/install-menu-perltk.pl:324
-#: tlpkg/installer/install-menu-perltk.pl:336
-#: tlpkg/installer/install-menu-perltk.pl:350
-#: tlpkg/installer/install-menu-perltk.pl:383
-#: tlpkg/installer/install-menu-perltk.pl:387
-#: tlpkg/installer/install-menu-perltk.pl:403
-#: tlpkg/installer/install-menu-perltk.pl:416
-#: tlpkg/installer/install-menu-perltk.pl:428
-#: tlpkg/installer/install-menu-perltk.pl:441
-#: tlpkg/installer/install-menu-perltk.pl:533
-#: tlpkg/installer/install-menu-perltk.pl:549
-#: tlpkg/installer/install-menu-perltk.pl:562
+#: tlpkg/installer/install-menu-wizard.pl:425
+#: tlpkg/installer/install-menu-perltk.pl:317
+#: tlpkg/installer/install-menu-perltk.pl:329
+#: tlpkg/installer/install-menu-perltk.pl:343
+#: tlpkg/installer/install-menu-perltk.pl:375
+#: tlpkg/installer/install-menu-perltk.pl:389
+#: tlpkg/installer/install-menu-perltk.pl:402
+#: tlpkg/installer/install-menu-perltk.pl:414
+#: tlpkg/installer/install-menu-perltk.pl:427
+#: tlpkg/installer/install-menu-perltk.pl:519
+#: tlpkg/installer/install-menu-perltk.pl:535
+#: tlpkg/installer/install-menu-perltk.pl:548
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1150
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1188
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1196
@@ -301,7 +299,7 @@ msgstr "導入先フォルダ:"
 msgid "Change"
 msgstr "変更"
 
-#: tlpkg/installer/install-menu-wizard.pl:448
+#: tlpkg/installer/install-menu-wizard.pl:447
 msgid ""
 "The destination folder will contain the installation.\n"
 "It is strongly recommended to keep the year as the last component."
@@ -309,31 +307,140 @@ msgstr ""
 "対象フォルダには、導入対象物が入ります。\n"
 "最後尾に年を入れたままにしておくことを強くお勧めします。"
 
-#: tlpkg/installer/install-menu-wizard.pl:470
-#: tlpkg/installer/install-menu-perltk.pl:1094
+#: tlpkg/installer/install-menu-wizard.pl:469
+#: tlpkg/installer/install-menu-perltk.pl:1080
 msgid "disk space required:"
 msgstr "必要ディスク領域:"
 
-#: tlpkg/installer/install-menu-wizard.pl:490
-#: tlpkg/installer/install-menu-perltk.pl:1105
+#: tlpkg/installer/install-menu-wizard.pl:489
+#: tlpkg/installer/install-menu-perltk.pl:1091
 msgid "(default not allowed or not writable - please change!)"
 msgstr "（既定値が許されないか書き込み不能です―変更してください！）"
 
-#: tlpkg/installer/install-menu-wizard.pl:500
-msgid "Enter path for"
-msgstr "この変数のパスを入力→"
+#: tlpkg/installer/install-menu-wizard.pl:534
+msgid "This screen allows you to configure some options"
+msgstr "この画面では、いくつかのオプションを設定することができます。"
 
-#: tlpkg/installer/install-menu-wizard.pl:504
-#: tlpkg/installer/install-menu-perltk.pl:287
-#: tlpkg/installer/install-menu-perltk.pl:298
-#: tlpkg/installer/install-menu-perltk.pl:624
-#: tlpkg/installer/install-menu-perltk.pl:766
-#: tlpkg/installer/install-menu-perltk.pl:805
-#: tlpkg/installer/install-menu-perltk.pl:861
-#: tlpkg/installer/install-menu-perltk.pl:919
-#: tlpkg/installer/install-menu-perltk.pl:999
-#: tlpkg/installer/install-menu-perltk.pl:1031
-#: tlpkg/installer/install-menu-perltk.pl:1052
+#: tlpkg/installer/install-menu-wizard.pl:579
+#, perl-format
+msgid ""
+"We are ready to install TeX Live %s.\n"
+"The following settings will be used.\n"
+"If you want to change something please go back,\n"
+"otherwise press the \"Install\" button."
+msgstr ""
+"TeX Live %s を導入する準備が整いました。\n"
+"以下の設定が使用されます。\n"
+"変更したいものがある場合には、前に戻ってください。\n"
+"そうでなければ、「導入」ボタンを押してください。"
+
+#: tlpkg/installer/install-menu-wizard.pl:595
+#: tlpkg/installer/install-menu-perltk.pl:61
+#: tlpkg/installer/install-menu-perltk.pl:1141
+#: tlpkg/installer/install-menu-perltk.pl:1142
+#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1149
+#: tlpkg/installer/install-menu-perltk.pl:1155
+#: tlpkg/installer/install-menu-perltk.pl:1239
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
+msgid "Yes"
+msgstr "はい"
+
+#: tlpkg/installer/install-menu-wizard.pl:595
+#: tlpkg/installer/install-menu-perltk.pl:60
+#: tlpkg/installer/install-menu-perltk.pl:1141
+#: tlpkg/installer/install-menu-perltk.pl:1142
+#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1149
+#: tlpkg/installer/install-menu-perltk.pl:1155
+#: tlpkg/installer/install-menu-perltk.pl:1228
+#: tlpkg/installer/install-menu-perltk.pl:1249
+#: tlpkg/installer/install-menu-perltk.pl:1250
+#: tlpkg/installer/install-menu-perltk.pl:1252
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
+msgid "No"
+msgstr "いいえ"
+
+#: tlpkg/installer/install-menu-wizard.pl:604
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:456
+msgid "Install"
+msgstr "導入"
+
+#: tlpkg/installer/install-menu-perltk.pl:48
+#: tlpkg/installer/install-menu-perltk.pl:1251
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:143
+msgid "None"
+msgstr "なし"
+
+#: tlpkg/installer/install-menu-perltk.pl:49
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:144
+msgid "Only new"
+msgstr "新規のみ"
+
+#: tlpkg/installer/install-menu-perltk.pl:50
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:145
+msgid "All"
+msgstr "全部"
+
+#: tlpkg/installer/install-menu-perltk.pl:52
+msgid "A4"
+msgstr "A4"
+
+#: tlpkg/installer/install-menu-perltk.pl:53
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
+msgid "letter"
+msgstr "レター"
+
+#: tlpkg/installer/install-menu-perltk.pl:55
+msgid "No shortcuts"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:56
+msgid "TeX Live menu"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:57
+msgid "Launcher entry"
+msgstr ""
+
+#: tlpkg/installer/install-menu-perltk.pl:270
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2569
+msgid "Load"
+msgstr "読み込み"
+
+#: tlpkg/installer/install-menu-perltk.pl:276
+#: tlpkg/installer/install-menu-perltk.pl:284
+#: tlpkg/installer/install-menu-perltk.pl:1036
+#: tlpkg/installer/install-menu-perltk.pl:1259
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:233
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1062
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1660
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1889
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
+#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
+msgid "Warning"
+msgstr "警告"
+
+#: tlpkg/installer/install-menu-perltk.pl:279
+msgid "Please select a different mirror."
+msgstr "別のミラーを選択してください。"
+
+#: tlpkg/installer/install-menu-perltk.pl:280
+#: tlpkg/installer/install-menu-perltk.pl:291
+#: tlpkg/installer/install-menu-perltk.pl:610
+#: tlpkg/installer/install-menu-perltk.pl:752
+#: tlpkg/installer/install-menu-perltk.pl:791
+#: tlpkg/installer/install-menu-perltk.pl:847
+#: tlpkg/installer/install-menu-perltk.pl:905
+#: tlpkg/installer/install-menu-perltk.pl:985
+#: tlpkg/installer/install-menu-perltk.pl:1017
+#: tlpkg/installer/install-menu-perltk.pl:1038
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:235
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:629
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:633
@@ -361,121 +468,7 @@ msgstr "この変数のパスを入力→"
 msgid "Ok"
 msgstr "OK"
 
-#: tlpkg/installer/install-menu-wizard.pl:556
-msgid "This screen allows you to configure some options"
-msgstr "この画面では、いくつかのオプションを設定することができます。"
-
-#: tlpkg/installer/install-menu-wizard.pl:601
-#, perl-format
-msgid ""
-"We are ready to install TeX Live %s.\n"
-"The following settings will be used.\n"
-"If you want to change something please go back,\n"
-"otherwise press the \"Install\" button."
-msgstr ""
-"TeX Live %s を導入する準備が整いました。\n"
-"以下の設定が使用されます。\n"
-"変更したいものがある場合には、前に戻ってください。\n"
-"そうでなければ、「導入」ボタンを押してください。"
-
-#: tlpkg/installer/install-menu-wizard.pl:617
-#: tlpkg/installer/install-menu-perltk.pl:70
-#: tlpkg/installer/install-menu-perltk.pl:1155
-#: tlpkg/installer/install-menu-perltk.pl:1156
-#: tlpkg/installer/install-menu-perltk.pl:1157
-#: tlpkg/installer/install-menu-perltk.pl:1163
-#: tlpkg/installer/install-menu-perltk.pl:1169
-#: tlpkg/installer/install-menu-perltk.pl:1248
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
-msgid "Yes"
-msgstr "はい"
-
-#: tlpkg/installer/install-menu-wizard.pl:617
-#: tlpkg/installer/install-menu-perltk.pl:69
-#: tlpkg/installer/install-menu-perltk.pl:1155
-#: tlpkg/installer/install-menu-perltk.pl:1156
-#: tlpkg/installer/install-menu-perltk.pl:1157
-#: tlpkg/installer/install-menu-perltk.pl:1163
-#: tlpkg/installer/install-menu-perltk.pl:1169
-#: tlpkg/installer/install-menu-perltk.pl:1237
-#: tlpkg/installer/install-menu-perltk.pl:1258
-#: tlpkg/installer/install-menu-perltk.pl:1259
-#: tlpkg/installer/install-menu-perltk.pl:1261
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:700
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1109
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1730
-msgid "No"
-msgstr "いいえ"
-
-#: tlpkg/installer/install-menu-wizard.pl:626
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:456
-msgid "Install"
-msgstr "導入"
-
-#: tlpkg/installer/install-menu-perltk.pl:57
-#: tlpkg/installer/install-menu-perltk.pl:1260
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:143
-msgid "None"
-msgstr "なし"
-
-#: tlpkg/installer/install-menu-perltk.pl:58
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:144
-msgid "Only new"
-msgstr "新規のみ"
-
-#: tlpkg/installer/install-menu-perltk.pl:59
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:145
-msgid "All"
-msgstr "全部"
-
-#: tlpkg/installer/install-menu-perltk.pl:61
-msgid "A4"
-msgstr "A4"
-
-#: tlpkg/installer/install-menu-perltk.pl:62
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1358
-msgid "letter"
-msgstr "レター"
-
-#: tlpkg/installer/install-menu-perltk.pl:64
-msgid "No shortcuts"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:65
-msgid "TeX Live menu"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:66
-msgid "Launcher entry"
-msgstr ""
-
-#: tlpkg/installer/install-menu-perltk.pl:277
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2569
-msgid "Load"
-msgstr "読み込み"
-
-#: tlpkg/installer/install-menu-perltk.pl:283
-#: tlpkg/installer/install-menu-perltk.pl:291
-#: tlpkg/installer/install-menu-perltk.pl:1050
-#: tlpkg/installer/install-menu-perltk.pl:1268
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:233
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1062
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1660
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1889
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:1951
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2270
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2332
-#: texmf-dist/scripts/texlive/tlmgrgui.pl:2669
-msgid "Warning"
-msgstr "警告"
-
 #: tlpkg/installer/install-menu-perltk.pl:286
-msgid "Please select a different mirror."
-msgstr "別のミラーを選択してください。"
-
-#: tlpkg/installer/install-menu-perltk.pl:293
 #, perl-format
 msgid ""
 "The TeX Live versions of the local installation and the repository being "
@@ -490,48 +483,48 @@ msgstr ""
 "　リポジトリ: %s\n"
 "別のミラーを選択してください。"
 
-#: tlpkg/installer/install-menu-perltk.pl:313
+#: tlpkg/installer/install-menu-perltk.pl:306
 msgid "Basic Information"
 msgstr "基本情報"
 
-#: tlpkg/installer/install-menu-perltk.pl:319
-#: tlpkg/installer/install-menu-perltk.pl:1010
+#: tlpkg/installer/install-menu-perltk.pl:312
+#: tlpkg/installer/install-menu-perltk.pl:996
 msgid "Binary system(s)"
 msgstr "バイナリシステム"
 
-#: tlpkg/installer/install-menu-perltk.pl:331
+#: tlpkg/installer/install-menu-perltk.pl:324
+#: tlpkg/installer/install-menu-perltk.pl:809
 #: tlpkg/installer/install-menu-perltk.pl:823
-#: tlpkg/installer/install-menu-perltk.pl:837
 msgid "Selected scheme"
 msgstr "選択したスキーム"
 
-#: tlpkg/installer/install-menu-perltk.pl:342
+#: tlpkg/installer/install-menu-perltk.pl:335
 msgid "Further Customization"
 msgstr "詳細設定"
 
-#: tlpkg/installer/install-menu-perltk.pl:347
-#: tlpkg/installer/install-menu-perltk.pl:873
+#: tlpkg/installer/install-menu-perltk.pl:340
+#: tlpkg/installer/install-menu-perltk.pl:859
 msgid "Installation collections"
 msgstr "導入対象コレクション"
 
-#: tlpkg/installer/install-menu-perltk.pl:361
+#: tlpkg/installer/install-menu-perltk.pl:354
 msgid "Directory setup"
 msgstr "ディレクトリ設定"
 
-#: tlpkg/installer/install-menu-perltk.pl:365
+#: tlpkg/installer/install-menu-perltk.pl:358
 msgid "Portable setup"
 msgstr "可搬設定"
 
-#: tlpkg/installer/install-menu-perltk.pl:370
+#: tlpkg/installer/install-menu-perltk.pl:363
+#: tlpkg/installer/install-menu-perltk.pl:450
 #: tlpkg/installer/install-menu-perltk.pl:464
 #: tlpkg/installer/install-menu-perltk.pl:478
-#: tlpkg/installer/install-menu-perltk.pl:492
-#: tlpkg/installer/install-menu-perltk.pl:504
-#: tlpkg/installer/install-menu-perltk.pl:517
-#: tlpkg/installer/install-menu-perltk.pl:536
+#: tlpkg/installer/install-menu-perltk.pl:490
+#: tlpkg/installer/install-menu-perltk.pl:503
+#: tlpkg/installer/install-menu-perltk.pl:522
+#: tlpkg/installer/install-menu-perltk.pl:561
 #: tlpkg/installer/install-menu-perltk.pl:575
-#: tlpkg/installer/install-menu-perltk.pl:589
-#: tlpkg/installer/install-menu-perltk.pl:605
+#: tlpkg/installer/install-menu-perltk.pl:591
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1167
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1174
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1181
@@ -540,77 +533,77 @@ msgstr "可搬設定"
 msgid "Toggle"
 msgstr "入切"
 
-#: tlpkg/installer/install-menu-perltk.pl:376
+#: tlpkg/installer/install-menu-perltk.pl:369
 msgid "TEXDIR (the main TeX directory)"
 msgstr "TEXDIR（TeX主幹ディレクトリ）"
 
-#: tlpkg/installer/install-menu-perltk.pl:397
+#: tlpkg/installer/install-menu-perltk.pl:383
 msgid "TEXMFLOCAL (directory for site-wide local files)"
 msgstr "TEXMFLOCAL（サイト固有ファイル用ディレクトリ）"
 
-#: tlpkg/installer/install-menu-perltk.pl:410
+#: tlpkg/installer/install-menu-perltk.pl:396
 msgid "TEXMFSYSVAR (directory for autogenerated data)"
 msgstr "TEXMFSYSVAR（自動生成データ用ディレクトリ）"
 
-#: tlpkg/installer/install-menu-perltk.pl:423
+#: tlpkg/installer/install-menu-perltk.pl:409
 msgid "TEXMFSYSCONFIG (directory for local config)"
 msgstr "TEXMFSYSCONFIG（ローカル設定用ディレクトリ）"
 
-#: tlpkg/installer/install-menu-perltk.pl:435
+#: tlpkg/installer/install-menu-perltk.pl:421
 msgid "TEXMFHOME (directory for user-specific files)"
 msgstr "TEXMFHOME（ユーザ固有ファイル用ディレクトリ）"
 
-#: tlpkg/installer/install-menu-perltk.pl:454
+#: tlpkg/installer/install-menu-perltk.pl:440
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:513
 msgid "Options"
 msgstr "オプション"
 
-#: tlpkg/installer/install-menu-perltk.pl:472
+#: tlpkg/installer/install-menu-perltk.pl:458
 msgid "Allow execution of restricted list of programs via \\write18"
 msgstr "\\write18 を用いて制限リスト中のプログラムを実行することを許可"
 
-#: tlpkg/installer/install-menu-perltk.pl:487
+#: tlpkg/installer/install-menu-perltk.pl:473
 msgid "Create all format files"
 msgstr "フォーマットファイルをすべて生成"
 
-#: tlpkg/installer/install-menu-perltk.pl:499
+#: tlpkg/installer/install-menu-perltk.pl:485
 msgid "Install font/macro doc tree"
 msgstr "font と macro の doc ツリーを導入"
 
-#: tlpkg/installer/install-menu-perltk.pl:512
+#: tlpkg/installer/install-menu-perltk.pl:498
 msgid "Install font/macro source tree"
 msgstr "font と macro のソースツリーを導入"
 
-#: tlpkg/installer/install-menu-perltk.pl:526
-#: tlpkg/installer/install-menu-perltk.pl:976
+#: tlpkg/installer/install-menu-perltk.pl:512
+#: tlpkg/installer/install-menu-perltk.pl:962
 msgid "Create symlinks in system directories"
 msgstr "システムディレクトリに symlink を作成する"
 
-#: tlpkg/installer/install-menu-perltk.pl:599
+#: tlpkg/installer/install-menu-perltk.pl:585
 msgid "After installation, get package updates from CTAN"
 msgstr "導入後，CTANからパッケージの更新を受け取る"
 
-#: tlpkg/installer/install-menu-perltk.pl:621
-#: tlpkg/installer/install-menu-perltk.pl:623
+#: tlpkg/installer/install-menu-perltk.pl:607
+#: tlpkg/installer/install-menu-perltk.pl:609
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:650
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:652
 msgid "About"
 msgstr "このプログラムについて"
 
-#: tlpkg/installer/install-menu-perltk.pl:640
+#: tlpkg/installer/install-menu-perltk.pl:626
 msgid "Install TeX Live"
 msgstr "TeX Live の導入"
 
-#: tlpkg/installer/install-menu-perltk.pl:690
+#: tlpkg/installer/install-menu-perltk.pl:676
 msgid "Continue"
 msgstr "続行"
 
-#: tlpkg/installer/install-menu-perltk.pl:692
+#: tlpkg/installer/install-menu-perltk.pl:678
 msgid ""
 "In case of trouble, try disabling your virus scanner during installation."
 msgstr ""
 
-#: tlpkg/installer/install-menu-perltk.pl:695
+#: tlpkg/installer/install-menu-perltk.pl:681
 msgid ""
 "The installer does not have adminstrative permissions;\n"
 "so can only install for current user."
@@ -618,7 +611,7 @@ msgstr ""
 "本導入プログラムは管理者権限を与えられていません．\n"
 "よって，現ユーザー用にしか導入することができません．"
 
-#: tlpkg/installer/install-menu-perltk.pl:698
+#: tlpkg/installer/install-menu-perltk.pl:684
 msgid ""
 "Right-click install-tl-advanced and select \"run as administrator\"\n"
 " if you want to install for all users."
@@ -626,79 +619,79 @@ msgstr ""
 "全ユーザー用に導入したい場合には，install-tl-advancedを右クリックして，\n"
 "\"runを管理者として選択してください．"
 
-#: tlpkg/installer/install-menu-perltk.pl:746
-#: tlpkg/installer/install-menu-perltk.pl:789
+#: tlpkg/installer/install-menu-perltk.pl:732
+#: tlpkg/installer/install-menu-perltk.pl:775
 msgid "Change variable value"
 msgstr "変数の値を変更"
 
-#: tlpkg/installer/install-menu-perltk.pl:749
-#: tlpkg/installer/install-menu-perltk.pl:799
+#: tlpkg/installer/install-menu-perltk.pl:735
+#: tlpkg/installer/install-menu-perltk.pl:785
 #, perl-format
 msgid "Enter path for %s (use ~ for %s)"
 msgstr "%s のパスを入力してください（%s を表すには ~ を使用してください）"
 
-#: tlpkg/installer/install-menu-perltk.pl:846
+#: tlpkg/installer/install-menu-perltk.pl:832
 msgid "custom selection of collections"
 msgstr "コレクションの任意選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:883
+#: tlpkg/installer/install-menu-perltk.pl:869
 msgid "Select the collections to be installed"
 msgstr "導入するコレクションを選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:911
+#: tlpkg/installer/install-menu-perltk.pl:897
 msgid "Select All"
 msgstr "すべてを選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:915
+#: tlpkg/installer/install-menu-perltk.pl:901
 msgid "Deselect All"
 msgstr "すべてを非選択"
 
-#: tlpkg/installer/install-menu-perltk.pl:981
+#: tlpkg/installer/install-menu-perltk.pl:967
 msgid "create symlinks in standard directories"
 msgstr "symlink を標準ディレクトリに作成する"
 
-#: tlpkg/installer/install-menu-perltk.pl:984
+#: tlpkg/installer/install-menu-perltk.pl:970
 msgid "binaries to"
 msgstr "バイナリリンク先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:986
+#: tlpkg/installer/install-menu-perltk.pl:972
 msgid "manpages to"
 msgstr "man ページリンク先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:988
+#: tlpkg/installer/install-menu-perltk.pl:974
 msgid "info to"
 msgstr "info リンク先:"
 
-#: tlpkg/installer/install-menu-perltk.pl:1019
+#: tlpkg/installer/install-menu-perltk.pl:1005
 msgid "Select arch-os"
 msgstr "arch-os を選択してください"
 
-#: tlpkg/installer/install-menu-perltk.pl:1051
+#: tlpkg/installer/install-menu-perltk.pl:1037
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1063
 msgid "Removals of the main platform not possible!"
 msgstr "主幹プラットフォームを取り除くことはできません！"
 
-#: tlpkg/installer/install-menu-perltk.pl:1085
+#: tlpkg/installer/install-menu-perltk.pl:1071
 #, perl-format
 msgid "%s out of %s"
 msgstr "%s（全 %s 中）"
 
-#: tlpkg/installer/install-menu-perltk.pl:1092
+#: tlpkg/installer/install-menu-perltk.pl:1078
 #, perl-format
 msgid "%s collections out of %s"
 msgstr "%s コレクション（全 %s コレクション中）"
 
-#: tlpkg/installer/install-menu-perltk.pl:1120
-#: tlpkg/installer/install-menu-perltk.pl:1138
+#: tlpkg/installer/install-menu-perltk.pl:1106
+#: tlpkg/installer/install-menu-perltk.pl:1124
 msgid "(please change TEXDIR first!)"
 msgstr "（先に TEXDIR を変更してください！）"
 
-#: tlpkg/installer/install-menu-perltk.pl:1125
-#: tlpkg/installer/install-menu-perltk.pl:1143
+#: tlpkg/installer/install-menu-perltk.pl:1111
+#: tlpkg/installer/install-menu-perltk.pl:1129
 msgid "(default not writable - please change!)"
 msgstr "（既定値では書き込みできません。変更してください！）"
 
-#: tlpkg/installer/install-menu-perltk.pl:1270
+#: tlpkg/installer/install-menu-perltk.pl:1261
 msgid ""
 "Portable option changed;\n"
 "Directories have been reinitialized"
@@ -1588,6 +1581,9 @@ msgstr "Windows限定サポートプログラム"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeXとパッケージ"
+
+#~ msgid "Enter path for"
+#~ msgstr "この変数のパスを入力→"
 
 #~ msgid "XML scheme"
 #~ msgstr "XMLスキーム"
