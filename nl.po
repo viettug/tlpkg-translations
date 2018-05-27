@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-04-30 02:24+0200\n"
+"POT-Creation-Date: 2018-05-27 02:23+0200\n"
 "PO-Revision-Date: 2018-03-31 14:09+0200\n"
 "Last-Translator: Siep Kroonenberg <siepo@cybercomm.nl>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -578,8 +578,8 @@ msgid "Create symlinks in system directories"
 msgstr "Maak symlinks naar standaard-folders"
 
 #: tlpkg/installer/install-menu-perltk.pl:585
-msgid "After installation, get package updates from CTAN"
-msgstr "Aktualiseer pakketten vanuit CTAN na installatie"
+msgid "After install, set CTAN as source for package updates"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:607
 #: tlpkg/installer/install-menu-perltk.pl:609
@@ -1584,6 +1584,9 @@ msgstr "Ondersteunende programma's specifiek voor Windows"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX en bijbehorende pakketten"
+
+#~ msgid "After installation, get package updates from CTAN"
+#~ msgstr "Aktualiseer pakketten vanuit CTAN na installatie"
 
 #~ msgid "Enter path for"
 #~ msgstr "Pad voor"

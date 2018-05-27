@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-04-30 02:24+0200\n"
+"POT-Creation-Date: 2018-05-27 02:23+0200\n"
 "PO-Revision-Date: 2015-05-12 17:27+0900\n"
 "Last-Translator: Koji Yokota <yokota33@gmail.com>\n"
 "Language-Team: Japanese <tldoc@tug.org>\n"
@@ -580,8 +580,8 @@ msgid "Create symlinks in system directories"
 msgstr "システムディレクトリに symlink を作成する"
 
 #: tlpkg/installer/install-menu-perltk.pl:585
-msgid "After installation, get package updates from CTAN"
-msgstr "導入後，CTANからパッケージの更新を受け取る"
+msgid "After install, set CTAN as source for package updates"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:607
 #: tlpkg/installer/install-menu-perltk.pl:609
@@ -1581,6 +1581,9 @@ msgstr "Windows限定サポートプログラム"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeXとパッケージ"
+
+#~ msgid "After installation, get package updates from CTAN"
+#~ msgstr "導入後，CTANからパッケージの更新を受け取る"
 
 #~ msgid "Enter path for"
 #~ msgstr "この変数のパスを入力→"

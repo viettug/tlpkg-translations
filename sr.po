@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-04-30 02:24+0200\n"
+"POT-Creation-Date: 2018-05-27 02:23+0200\n"
 "PO-Revision-Date: 2018-04-04 23:06+0300\n"
 "Last-Translator: Nikola Lečić <nikola.lecic@anthesphoria.net>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -583,8 +583,8 @@ msgid "Create symlinks in system directories"
 msgstr "Направи симболичке линкове у системским директоријумима"
 
 #: tlpkg/installer/install-menu-perltk.pl:585
-msgid "After installation, get package updates from CTAN"
-msgstr "После инсталације обнављати пакете преко CTAN-а"
+msgid "After install, set CTAN as source for package updates"
+msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:607
 #: tlpkg/installer/install-menu-perltk.pl:609
@@ -1595,6 +1595,9 @@ msgstr "Помоћни програми за Windows"
 #: tlpkg/translations/shortdesc.pl:50
 msgid "XeTeX and packages"
 msgstr "XeTeX и повезани пакети"
+
+#~ msgid "After installation, get package updates from CTAN"
+#~ msgstr "После инсталације обнављати пакете преко CTAN-а"
 
 #~ msgid "Enter path for"
 #~ msgstr "Унесите путању за"

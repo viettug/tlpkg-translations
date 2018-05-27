@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TeX Live translation\n"
 "Report-Msgid-Bugs-To: tex-live@tug.org\n"
-"POT-Creation-Date: 2018-04-30 02:24+0200\n"
+"POT-Creation-Date: 2018-05-27 02:23+0200\n"
 "PO-Revision-Date: 2012-05-14 07:07+0700\n"
 "Last-Translator: Anh K. Huỳnh <kyanh@viettug.org>\n"
 "Language-Team: TL Translation Team <tex-live@tug.org>\n"
@@ -572,7 +572,7 @@ msgid "Create symlinks in system directories"
 msgstr "Tạo liên kết vào các thư mục hệ thống"
 
 #: tlpkg/installer/install-menu-perltk.pl:585
-msgid "After installation, get package updates from CTAN"
+msgid "After install, set CTAN as source for package updates"
 msgstr ""
 
 #: tlpkg/installer/install-menu-perltk.pl:607
