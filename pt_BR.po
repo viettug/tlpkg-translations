@@ -666,11 +666,11 @@ msgid "Default paper for all"
 msgstr "Papel padrão para todos"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1350
-msgid "a4"
-msgstr "a4"
+msgid "A4"
+msgstr "A4"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1352
-msgid "letter"
+msgid "Letter"
 msgstr "carta"
 
 #: texmf-dist/scripts/texlive/tlmgrgui.pl:1364
