@@ -1397,7 +1397,7 @@ msgid "Error"
 msgstr "Ошибка"
 
 #: texmf-dist/scripts/tlshell/tlshell.tcl:1611
-msgid "No papersizes available"
+msgid "No paper sizes available"
 msgstr "Нет доступных размеров страниц"
 
 #: texmf-dist/scripts/tlshell/tlshell.tcl:1625
